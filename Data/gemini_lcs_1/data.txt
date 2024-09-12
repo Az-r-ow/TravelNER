@@ -1,0 +1,54 @@
+Je souhaite me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+Quel est le trajet le plus rapide pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Un itinéraire de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> me serait utile.
+Comment puis-je me rendre de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr> ?
+Je recherche un itinéraire pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+Y a-t-il un moyen de se rendre de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> ?
+Je pars de <Dep>{depart}<Dep> et je souhaite arriver à <Arr>{arrivee}<Arr>.
+Pouvez-vous me fournir un itinéraire de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je voudrais me déplacer de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Donnez-moi un itinéraire pour aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+J'ai besoin d'un itinéraire pour aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Comment puis-je aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Je souhaiterais me rendre à <Arr>{arrivee}<Arr>, partant de <Dep>{depart}<Dep>.
+J'ai besoin d'un itinéraire qui me permette d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche un moyen de me déplacer de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Un itinéraire allant de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> me serait très utile.
+Je dois aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+Je me rends à <Arr>{arrivee}<Arr> et je pars de <Dep>{depart}<Dep>.
+Comment puis-je aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> en transports en commun ?
+J'ai besoin de directions pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quel est le trajet le plus court pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je souhaite aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Veuillez me donner un itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche le meilleur itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Comment me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports publics ?
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Veuillez me donner un itinéraire pour me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+J'ai besoin de directions pour me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+J'aimerais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Je recherche un itinéraire pour me rendre de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je souhaiterais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche un itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.
+Quel est l'itinéraire le plus court pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+J'ai besoin de directions pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+Je voudrais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports publics.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Quel est l'itinéraire le plus direct pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun ?
+Je cherche un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Veuillez me donner un itinéraire pour me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> en voiture.
+J'ai besoin de directions pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en utilisant les transports en commun.
+Je voudrais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.
+Quel est l'itinéraire le plus direct pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Je cherche un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.

@@ -1,0 +1,373 @@
+Je voudrais voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quel est le trajet le plus rapide depuis <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr> ?
+Je cherche un billet d'avion pour aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Pouvez-vous me donner des informations sur un vol de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je veux aller de <Arr>{arrivee}<Arr> à <Dep>{depart}<Dep>.
+Y a-t-il un train direct de <Arr>{arrivee}<Arr> vers <Dep>{depart}<Dep> ?
+Je voudrais réserver un hôtel à <Arr>{arrivee}<Arr> après avoir visité <Dep>{depart}<Dep>.
+Je souhaite faire un road trip de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Est-il possible de prendre un bus de <Dep>{depart}<Dep> pour <Arr>{arrivee}<Arr> ?
+Je dois me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+Je veux partir de <Dep>{depart}<Dep> et arriver à <Arr>{arrivee}<Arr>.
+Quelle est la distance entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr> ?
+Je cherche un vol direct de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Combien de temps dure le trajet en train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je dois me déplacer de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr> pour un rendez-vous.
+Je souhaite prendre un taxi de <Dep>{depart}<Dep> pour aller à <Arr>{arrivee}<Arr>.
+Je cherche un itinéraire pour aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Pouvez-vous me trouver un itinéraire pour un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+J'aimerais visiter <Arr>{arrivee}<Arr> après avoir passé quelques jours à <Dep>{depart}<Dep>.
+Je voudrais organiser un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je dois prendre un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> le mois prochain.
+Je cherche des options de transport pour aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Je souhaite faire un voyage en train de <Arr>{arrivee}<Arr> à <Dep>{depart}<Dep>.
+Y a-t-il des vols directs de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je voudrais prendre un bateau de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je veux voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en passant par <Arr>{arrivee}<Arr>.
+Je voudrais aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> pour les vacances.
+Je cherche un moyen de transport pour aller de <Arr>{arrivee}<Arr> à <Dep>{depart}<Dep> le plus rapidement possible.
+J'aimerais visiter <Dep>{depart}<Dep> et ensuite me rendre à <Arr>{arrivee}<Arr>.
+Je souhaite faire un voyage en train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> le week-end prochain.
+J'aimerais aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> pour une conférence.
+Je voudrais trouver un vol de <Arr>{arrivee}<Arr> à <Dep>{depart}<Dep> au meilleur prix.
+Je dois voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> pour un travail.
+Je souhaite faire un voyage en train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> avec un arrêt à <Dep>{depart}<Dep>.
+J'aimerais trouver un billet de train pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je voudrais prendre un vol direct de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> sans escale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Je voudrais trouver un hôtel près de la gare de <Arr>{arrivee}<Arr> après avoir voyagé depuis <Dep>{depart}<Dep>.
+Je souhaite faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> pour un mariage.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne spécifique.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de covoiturage.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en prenant le métro.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> au meilleur prix possible.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de location de voitures.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une escale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport privé.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de taxi.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne à bas prix.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport public.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne haut de gamme.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne régionale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne internationale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne charter.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne low-cost.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne virtuelle.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne privée.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne gouvernementale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne militaire.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne cargo.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de tourisme.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne d'affaires.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de fret.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne d'hélicoptères.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de drones.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de dirigeables.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de fusées.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de bateaux.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de sous-marins.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de dirigeables.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à lévitation magnétique.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de téléportation.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de voitures volantes.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> avec une compagnie aérienne de trains à vapeur.
+Je souhaite me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+Quel est le trajet le plus rapide pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Un itinéraire de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> me serait utile.
+Comment puis-je me rendre de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr> ?
+Je recherche un itinéraire pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+Y a-t-il un moyen de se rendre de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> ?
+Je pars de <Dep>{depart}<Dep> et je souhaite arriver à <Arr>{arrivee}<Arr>.
+Pouvez-vous me fournir un itinéraire de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je voudrais me déplacer de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Donnez-moi un itinéraire pour aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+J'ai besoin d'un itinéraire pour aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Comment puis-je aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Je souhaiterais me rendre à <Arr>{arrivee}<Arr>, partant de <Dep>{depart}<Dep>.
+J'ai besoin d'un itinéraire qui me permette d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche un moyen de me déplacer de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Un itinéraire allant de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> me serait très utile.
+Je dois aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+Je me rends à <Arr>{arrivee}<Arr> et je pars de <Dep>{depart}<Dep>.
+Comment puis-je aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> en transports en commun ?
+J'ai besoin de directions pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quel est le trajet le plus court pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je souhaite aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Veuillez me donner un itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche le meilleur itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Comment me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports publics ?
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Veuillez me donner un itinéraire pour me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+J'ai besoin de directions pour me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+J'aimerais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Je recherche un itinéraire pour me rendre de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je souhaiterais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche un itinéraire pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.
+Quel est l'itinéraire le plus court pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep>.
+J'ai besoin de directions pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>.
+Je voudrais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports publics.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Quel est l'itinéraire le plus direct pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun ?
+Je cherche un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Veuillez me donner un itinéraire pour me rendre à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> en voiture.
+J'ai besoin de directions pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en utilisant les transports en commun.
+Je voudrais savoir comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.
+Quel est l'itinéraire le plus direct pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Je cherche un itinéraire pour me rendre de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je veux voyager de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je veux voyager de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Je pars de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Comment rejoindre <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en train ?
+Comment rejoindre <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en train ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Quelle est la meilleure route pour aller à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Quel est le trajet le plus rapide entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr> ?
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Quelle est la meilleure route pour aller à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Quel est le trajet le plus rapide entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+J'aimerais aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je dois me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> rapidement.
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Comment rejoindre <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en train ?
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Je cherche le chemin de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Je dois me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> rapidement.
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Quelle est la meilleure route pour aller à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Montre-moi la route pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Comment rejoindre <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en train ?
+Montre-moi la route pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je cherche le chemin de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Comment rejoindre <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> en train ?
+Je dois me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> rapidement.
+Je cherche le chemin de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Quelle est la meilleure route pour aller à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Quelle est la meilleure route pour aller à <Arr>{arrivee}<Arr> en partant de <Dep>{depart}<Dep> ?
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Montre-moi la route pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+J'aimerais aller de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Je veux voyager de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Quel est le trajet le plus rapide entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr> ?
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je dois me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> rapidement.
+Je dois me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> rapidement.
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Quel est le trajet le plus rapide entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr> ?
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je cherche le chemin de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Montre-moi la route pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Est-il possible de voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en voiture ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Je pars de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je pars de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Je cherche le chemin de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je pars de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Montre-moi la route pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Est-ce loin d'aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Montre-moi la route pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Je veux voyager de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Comment puis-je me rendre à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
+Donne-moi un itinéraire de <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Je veux voyager de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Je cherche le chemin de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?
