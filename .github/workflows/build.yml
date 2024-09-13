@@ -44,4 +44,4 @@ jobs:
     
     - name: Test libs
       run: |
-        cd ./App && python -m unittest travel_resolver.tests.sample_test
+        cd ./app && python -m unittest travel_resolver.tests.sample_test
