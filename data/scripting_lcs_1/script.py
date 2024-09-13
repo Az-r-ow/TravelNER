@@ -58,7 +58,7 @@ def get_cities() -> List:
     with open("../sncf_stations_database.csv", 'r') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         for row in reader:
-            villes.append(row['LIBELLE'])
+            villes.append(row['COMMUNE'])
     return villes
 
 
