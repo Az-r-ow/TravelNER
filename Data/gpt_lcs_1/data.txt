@@ -1,0 +1,100 @@
+Comment puis-je me rendre à <Arr>Grenoble<Arr> depuis <Dep>Rennes<Dep> ?
+Je veux voyager de <Dep>Saint-Denis<Dep> vers <Arr>Besançon<Arr>.
+Est-ce loin d'aller de <Dep>Saint-Denis<Dep> à <Arr>Toulon<Arr> ?
+Je veux voyager de <Dep>Angers<Dep> vers <Arr>Toulouse<Arr>.
+Comment aller de <Dep>Dijon<Dep> à <Arr>La Rochelle<Arr> ?
+Est-il possible de voyager de <Dep>Amiens<Dep> à <Arr>Limoges<Arr> en voiture ?
+Je pars de <Dep>Nice<Dep> vers <Arr>Montpellier<Arr>.
+Comment rejoindre <Arr>Orléans<Arr> depuis <Dep>Bayonne<Dep> en train ?
+Comment rejoindre <Arr>Lyon<Arr> depuis <Dep>Toulon<Dep> en train ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>Nantes<Arr> depuis <Dep>Valence<Dep> ?
+Quelle est la meilleure route pour aller à <Arr>Perpignan<Arr> en partant de <Dep>Limoges<Dep> ?
+Comment aller de <Dep>Mulhouse<Dep> à <Arr>Paris<Arr> ?
+Est-il possible de voyager de <Dep>Lille<Dep> à <Arr>Poitiers<Arr> en voiture ?
+Quel est le trajet le plus rapide entre <Dep>Villeurbanne<Dep> et <Arr>Orléans<Arr> ?
+Donne-moi un itinéraire de <Dep>Nîmes<Dep> jusqu'à <Arr>La Rochelle<Arr>.
+Quelle est la meilleure route pour aller à <Arr>Saint-Étienne<Arr> en partant de <Dep>Strasbourg<Dep> ?
+Comment aller de <Dep>Brest<Dep> à <Arr>Reims<Arr> ?
+Est-il possible de voyager de <Dep>La Rochelle<Dep> à <Arr>Aix-en-Provence<Arr> en voiture ?
+Quel est le trajet le plus rapide entre <Dep>Nîmes<Dep> et <Arr>Antibes<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>Montluçon<Arr> depuis <Dep>Metz<Dep> ?
+J'aimerais aller de <Dep>Valence<Dep> jusqu'à <Arr>Rouen<Arr>.
+Comment aller de <Dep>Montreuil<Dep> à <Arr>Nantes<Arr> ?
+Donne-moi un itinéraire de <Dep>Clermont-Ferrand<Dep> jusqu'à <Arr>Reims<Arr>.
+Est-ce loin d'aller de <Dep>Le Havre<Dep> à <Arr>Valence<Arr> ?
+Je dois me rendre à <Arr>Clermont-Ferrand<Arr> depuis <Dep>Toulouse<Dep> rapidement.
+Est-il possible de voyager de <Dep>Saint-Étienne<Dep> à <Arr>Lille<Arr> en voiture ?
+Comment rejoindre <Arr>Valence<Arr> depuis <Dep>Metz<Dep> en train ?
+Est-ce loin d'aller de <Dep>Metz<Dep> à <Arr>Montluçon<Arr> ?
+Est-il possible de voyager de <Dep>Saint-Denis<Dep> à <Arr>Montluçon<Arr> en voiture ?
+Je cherche le chemin de <Dep>Paris<Dep> à <Arr>Aix-en-Provence<Arr>.
+Comment puis-je me rendre à <Arr>Bayonne<Arr> depuis <Dep>Reims<Dep> ?
+Comment aller de <Dep>Caen<Dep> à <Arr>Grenoble<Arr> ?
+Je veux aller à <Arr>Rennes<Arr> depuis <Dep>Montluçon<Dep>
+Je veux aller à <Arr>Toulouse<Arr> depuis <Dep>Tours<Dep>
+Comment aller de <Dep>Rouen<Dep> à <Arr>Aix-en-Provence<Arr> ?
+Donne-moi un itinéraire de <Dep>Saint-Étienne<Dep> jusqu'à <Arr>Antibes<Arr>.
+Je dois me rendre à <Arr>Perpignan<Arr> depuis <Dep>Marseille<Dep> rapidement.
+Comment puis-je me rendre à <Arr>Colmar<Arr> depuis <Dep>Tours<Dep> ?
+Je veux aller à <Arr>Avignon<Arr> depuis <Dep>Poitiers<Dep>
+Comment puis-je me rendre à <Arr>Lille<Arr> depuis <Dep>Strasbourg<Dep> ?
+Quelle est la meilleure route pour aller à <Arr>La Rochelle<Arr> en partant de <Dep>Nice<Dep> ?
+Montre-moi la route pour aller de <Dep>Paris<Dep> à <Arr>Caen<Arr>.
+Est-ce loin d'aller de <Dep>Nancy<Dep> à <Arr>Tours<Arr> ?
+Comment rejoindre <Arr>Grenoble<Arr> depuis <Dep>Valence<Dep> en train ?
+Montre-moi la route pour aller de <Dep>Antibes<Dep> à <Arr>Amiens<Arr>.
+Je cherche le chemin de <Dep>Strasbourg<Dep> à <Arr>Dijon<Arr>.
+Comment aller de <Dep>Montreuil<Dep> à <Arr>La Roche-sur-Yon<Arr> ?
+Est-il possible de voyager de <Dep>Versailles<Dep> à <Arr>Le Mans<Arr> en voiture ?
+Comment aller de <Dep>Lyon<Dep> à <Arr>Rouen<Arr> ?
+Comment rejoindre <Arr>Brest<Arr> depuis <Dep>Dijon<Dep> en train ?
+Je dois me rendre à <Arr>Nancy<Arr> depuis <Dep>Aix-en-Provence<Dep> rapidement.
+Je cherche le chemin de <Dep>Brest<Dep> à <Arr>Toulon<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>Toulon<Arr> depuis <Dep>Toulouse<Dep> ?
+Est-il possible de voyager de <Dep>Toulon<Dep> à <Arr>Limoges<Arr> en voiture ?
+Quelle est la meilleure route pour aller à <Arr>Cannes<Arr> en partant de <Dep>Montluçon<Dep> ?
+Quelle est la meilleure route pour aller à <Arr>Rouen<Arr> en partant de <Dep>Dijon<Dep> ?
+Est-ce loin d'aller de <Dep>Cannes<Dep> à <Arr>Brest<Arr> ?
+Je veux aller à <Arr>Metz<Arr> depuis <Dep>Avignon<Dep>
+Montre-moi la route pour aller de <Dep>Vannes<Dep> à <Arr>Lyon<Arr>.
+J'aimerais aller de <Dep>Le Havre<Dep> jusqu'à <Arr>Tours<Arr>.
+Je veux voyager de <Dep>Lyon<Dep> vers <Arr>Strasbourg<Arr>.
+Quel est le trajet le plus rapide entre <Dep>Mulhouse<Dep> et <Arr>Cannes<Arr> ?
+Comment aller de <Dep>Poitiers<Dep> à <Arr>Limoges<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>Villeurbanne<Arr> depuis <Dep>Rennes<Dep> ?
+Je dois me rendre à <Arr>Argenteuil<Arr> depuis <Dep>Metz<Dep> rapidement.
+Je dois me rendre à <Arr>Toulouse<Arr> depuis <Dep>Avignon<Dep> rapidement.
+Est-ce loin d'aller de <Dep>Perpignan<Dep> à <Arr>Colmar<Arr> ?
+Je veux aller à <Arr>Besançon<Arr> depuis <Dep>Le Havre<Dep>
+Quel est le trajet le plus rapide entre <Dep>Limoges<Dep> et <Arr>Lyon<Arr> ?
+Comment puis-je me rendre à <Arr>Limoges<Arr> depuis <Dep>Valence<Dep> ?
+Je cherche le chemin de <Dep>Nantes<Dep> à <Arr>Lille<Arr>.
+Donne-moi un itinéraire de <Dep>Perpignan<Dep> jusqu'à <Arr>Limoges<Arr>.
+Comment puis-je me rendre à <Arr>Clermont-Ferrand<Arr> depuis <Dep>Rouen<Dep> ?
+Montre-moi la route pour aller de <Dep>Mulhouse<Dep> à <Arr>Nancy<Arr>.
+Je veux aller à <Arr>Lille<Arr> depuis <Dep>Pau<Dep>
+Est-il possible de voyager de <Dep>Amiens<Dep> à <Arr>Rennes<Arr> en voiture ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>Metz<Arr> depuis <Dep>Nice<Dep> ?
+Je pars de <Dep>Nancy<Dep> vers <Arr>Nantes<Arr>.
+Comment puis-je me rendre à <Arr>Grasse<Arr> depuis <Dep>Vannes<Dep> ?
+Est-ce loin d'aller de <Dep>Toulouse<Dep> à <Arr>Saint-Denis<Arr> ?
+Je pars de <Dep>Brest<Dep> vers <Arr>Perpignan<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>Rennes<Arr> depuis <Dep>Pau<Dep> ?
+Donne-moi un itinéraire de <Dep>Colmar<Dep> jusqu'à <Arr>Paris<Arr>.
+Je cherche le chemin de <Dep>Lille<Dep> à <Arr>Nice<Arr>.
+Je pars de <Dep>Caen<Dep> vers <Arr>Montpellier<Arr>.
+Je veux aller à <Arr>Bordeaux<Arr> depuis <Dep>La Roche-sur-Yon<Dep>
+Est-ce loin d'aller de <Dep>Vannes<Dep> à <Arr>Toulouse<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>Avignon<Arr> depuis <Dep>Antibes<Dep> ?
+Montre-moi la route pour aller de <Dep>Saint-Étienne<Dep> à <Arr>Le Havre<Arr>.
+Donne-moi un itinéraire de <Dep>Reims<Dep> jusqu'à <Arr>Strasbourg<Arr>.
+Comment aller de <Dep>Le Havre<Dep> à <Arr>Poitiers<Arr> ?
+Est-ce loin d'aller de <Dep>Avignon<Dep> à <Arr>Poitiers<Arr> ?
+Est-ce loin d'aller de <Dep>Colmar<Dep> à <Arr>Villeurbanne<Arr> ?
+Montre-moi la route pour aller de <Dep>Bayonne<Dep> à <Arr>Grenoble<Arr>.
+Je veux voyager de <Dep>Montpellier<Dep> vers <Arr>Paris<Arr>.
+Comment puis-je me rendre à <Arr>Valence<Arr> depuis <Dep>La Rochelle<Dep> ?
+Donne-moi un itinéraire de <Dep>Le Mans<Dep> jusqu'à <Arr>Saint-Étienne<Arr>.
+Je veux voyager de <Dep>Le Mans<Dep> vers <Arr>Marseille<Arr>.
+Je cherche le chemin de <Dep>Montreuil<Dep> à <Arr>Reims<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>Marseille<Arr> depuis <Dep>Besançon<Dep> ?

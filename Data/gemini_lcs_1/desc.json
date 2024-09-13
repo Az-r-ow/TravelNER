@@ -1,0 +1,5 @@
+{
+    "Author" : "Chapuis Lucas",
+    "Tool" : "Gemini-1.5-flash",
+    "Prompt" : "Je travaille actuellement sur un projet NLP. Je dois générer des phrases d'entrainement pour mon modèle. Ce texte doit être taggé afin d'entraîner un modèle NER. Le contexte de chaque phrase reste le même : Une demande d'itinéraire entre deux points.\nTon rôle est de générer des tournures de phrases aussi différentes que possible en suivant les instructions suivantes :\nChaque phrase doit contenir un tag <Arr>{arrivee}<Arr>\nChaque phrase doit contenir un tag <Dep>{depart}<Dep>\nVarier la longueur des phrase\nVarier l'ordre des mots\nContenir au minimum 1000 phrases\nVoici quelques autres exemples dont tu peux t'inspirer :\n\"Je veux aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep>\"\n\"Quels sont les meilleurs itnéraire pour aller à <Arr>{arrivee}<Arr> depuis <Dep>{depart}<Dep> ?\"\n\"Comment aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?\"\n\"Je pars de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.\"\nTa réponse ne devra contenir que ces phrases sans aucune autre précision"
+}

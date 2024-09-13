@@ -1,0 +1,5 @@
+{
+  "Author": "Antoine Azar",
+  "Tool": "Gemini-1.5-flash",
+  "Prompt": "I'm working on a Named Entity Recognition project in which I have to train a model to recognize the departure and arrival location from a sentence. For example in the phrase :\nJe veux aller de Paris à Montpellier\n\nThe model must be able to recognize the departure which is 'Paris' and the arrival 'Montpellier'. For that you're going to generate a tagged dataset in French while following the given requirements : \n- You must wrap the departure and arrival with tags like the following example : \nJe veux aller depuis <Dep>Paris<Dep> vers <Arr>strasbourg<Arr>\n- You must use a placeholder instead of actual city names\n- You must change the sentence structures for each data point\n- Each sentence will represent a data point\n- Each sentence should be a new line\n- You must generate an output in txt format\n- You must generate 10 000 datapoints as you can\n- You must vary the complexity of the sentences\n- You must vary the order of the occurence of the arrival and departure location\n- You must not repeat the sentences (get creative !)"
+}

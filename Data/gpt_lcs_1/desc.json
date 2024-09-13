@@ -1,0 +1,6 @@
+{
+    "Author" : "Chapuis Lucas",
+    "Tool" : "Chat-GPT",
+    "Prompt" : "Je travaille actuellement sur un projet NLP. Je dois générer des phrases d'entrainement pour mon modèle. Ce texte doit être taggé afin d'entraîner un modèle NER. Le contexte de chaque phrase reste le même : Une demande d'itinéraire entre deux points. \n                Par exemple : \"Je veux aller à Paris depuis Marseille\".\n                Ton rôle est de générer autant de phrases que possible en suivant les instructions suivantes : \n- Chaque phrase doit contenir un tag <Arr><Arr> correspondant au lieu d'arrivée\n- Chaque phrase doit contenir un tag <Dep><Dep> correspondant au lieu de départ\n- Varier la longueur des phrase\n- Varier l'ordre des mots\n- Utiliser des noms de villes différents\n- Toutes les villes proposées doivent être françaises\n- Le résultat doit être un fichier texte contenant toutes les phrases à la suite séparées par un retour à la ligne\n\nL'exemple précédent donnerait : \n\"Je veux aller à <Arr>Paris<Arr> depuis <Dep>Marseille<Dep>\"\nVoici quelques autres exemples dont tu peux t'inspirer :\n- \"Quels sont les meilleurs itnéraire pour aller à <Arr>Montluçon<Arr> depuis <Dep>Nice<Dep> ?\"\n- \"Comment aller de <Dep>Bordeaux<Dep> à <Arr>Lille<Arr> ?\"\n- \"Je pars de <Dep>Grasse<Dep> vers <Arr>Pau<Arr>.\""
+}
+
