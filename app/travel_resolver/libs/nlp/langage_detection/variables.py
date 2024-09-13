@@ -12,19 +12,6 @@ ES = "ES"
 PT = "PT-PT"
 DE = "DE"
 
-TRAD_TARGETS = [
-    EN,
-    IT,
-    ES,
-    PT,
-    DE
-]
+TRAD_TARGETS = [EN, IT, ES, PT, DE]
 
-CORRESP_LANG = [
-    "FR",
-    "EN-GB",
-    "IT",
-    "ES",
-    "PT-PT",
-    "DE"
-]
+CORRESP_LANG = ["FR", "EN-GB", "IT", "ES", "PT-PT", "DE"]

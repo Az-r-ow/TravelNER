@@ -7,20 +7,20 @@ from typing import List
 
 def make_unique_lignes(f_in: str, f_out: str) -> int:
     """
-        Delete all duplicate lignes of a file.
+    Delete all duplicate lignes of a file.
 
-        Args:
-            f_in (str): File path to analyse, must contain extension.
-            f_out (str): File path containing result, must contain extension.
+    Args:
+        f_in (str): File path to analyse, must contain extension.
+        f_out (str): File path containing result, must contain extension.
 
-        Returns:
-            (int): The number of duplicate lignes found.
+    Returns:
+        (int): The number of duplicate lignes found.
     """
 
     seen_lignes: set = set()
     duplicates: int = 0
 
-    with open(f_in, 'r') as in_f, open(f_out, 'w') as out_f:
+    with open(f_in, "r") as in_f, open(f_out, "w") as out_f:
         for ligne in in_f:
             if ligne not in seen_lignes:
                 out_f.write(ligne)
@@ -33,51 +33,51 @@ def make_unique_lignes(f_in: str, f_out: str) -> int:
 
 def count_file_lignes(f_path: str) -> int:
     """
-        Count the number of lines in a file.
+    Count the number of lines in a file.
 
-        Args:
-            f_path (str): File path to analyse, must contain extension.
+    Args:
+        f_path (str): File path to analyse, must contain extension.
 
-        Returns:
-            (int): The number of lignes found.
+    Returns:
+        (int): The number of lignes found.
     """
 
-    with open(f_path, 'r') as f:
+    with open(f_path, "r") as f:
         lignes = f.readlines()
         return len(lignes)
 
 
 def get_cities() -> List:
     """
-        Returns all cities from sncf db_file.
+    Returns all cities from sncf db_file.
 
-        Returns:
-            (List): All cities present in file.
+    Returns:
+        (List): All cities present in file.
     """
     villes = []
-    with open("../sncf_stations_database.csv", 'r') as csvfile:
+    with open("../sncf_stations_database.csv", "r") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         for row in reader:
-            villes.append(row['COMMUNE'])
+            villes.append(row["COMMUNE"])
     return villes
 
 
 def generate_data(cities: List, file_out: str):
     """
-        Generate dataset from template file.
+    Generate dataset from template file.
 
-        Args:
-            cities (List): Cities from wich combinaison will generate.
-            file_out (str): Output file, must contain extension.
+    Args:
+        cities (List): Cities from wich combinaison will generate.
+        file_out (str): Output file, must contain extension.
     """
 
     used_comp = set()
     cities = get_cities()
 
-    with open("data_unique_tmp.txt", 'r') as f_template:
+    with open("data_unique_tmp.txt", "r") as f_template:
         template_ligne = f_template.readlines()
 
-    with open(file_out, 'w') as f_sortie:
+    with open(file_out, "w") as f_sortie:
         while len(used_comp) < 75000:
 
             arrival_city = random.choice(cities)

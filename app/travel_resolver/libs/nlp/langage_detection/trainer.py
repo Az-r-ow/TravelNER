@@ -9,15 +9,15 @@ import travel_resolver.libs.nlp.langage_detection.variables as var
 
 def read_data():
     """
-        Retreive and format data from csv input files
+    Retreive and format data from csv input files
     """
     x, y = [], []
     i = 1
     for lang in var.CORRESP_LANG:
         first = True
         current_file = "../../../../data/langage_detection/trainset/"
-        current_file += lang+"_trainset.csv"
-        with open(current_file, 'r') as csv_file:
+        current_file += lang + "_trainset.csv"
+        with open(current_file, "r") as csv_file:
             csv_reader = csv.reader(csv_file)
             for row in csv_reader:
                 if not first:
@@ -31,7 +31,7 @@ def read_data():
 
 def train():
     """
-        Train the model and generate a backup.
+    Train the model and generate a backup.
     """
     x_train, x_test, y_train, y_test = read_data()
 
