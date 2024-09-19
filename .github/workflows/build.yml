@@ -44,4 +44,6 @@ jobs:
     
     - name: Test libs
       run: |
-        cd ./app && python -m unittest travel_resolver.tests.sample_test
+        cd ./app && \
+        python -m unittest travel_resolver.tests.sample_test && \
+        python -m unittest travel_resolver.tests.langage_detection_test

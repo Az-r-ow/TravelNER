@@ -15,7 +15,7 @@ def read_data():
     i = 1
     for lang in var.CORRESP_LANG:
         first = True
-        current_file = "../../../../data/langage_detection/trainset/"
+        current_file = "../data/langage_detection/trainset/"
         current_file += lang + "_trainset.csv"
         with open(current_file, "r") as csv_file:
             csv_reader = csv.reader(csv_file)
@@ -37,8 +37,21 @@ def train():
 
     model = SGDClassifier()
     model.fit(x_train, y_train)
-    joblib.dump(model, "model.sav")
-
     y_pred = model.predict(x_test)
     accuracy = accuracy_score(y_true=y_test, y_pred=y_pred)
     print("Accuracy: {:.2f}%".format(accuracy * 100))
+
+    joblib.dump(
+        model,
+        "../models/langage_detection/model_"
+        + str(round(accuracy, 3)).replace(".", "_")
+        + ".sav",
+    )
+
+
+def main():
+    train()
+
+
+if __name__ == "__main__":
+    main()
