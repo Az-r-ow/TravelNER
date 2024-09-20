@@ -1,4 +1,5 @@
 import nltk, re
+import tensorflow as tf
 from tqdm import tqdm
 
 
@@ -147,15 +148,15 @@ def from_tagged_file_to_bio_file(
             file.write(bio_format + "\n")
 
 
-def from_bio_file_to_example(file_path: str) -> tuple:
+def from_bio_file_to_examples(file_path: str) -> tuple:
     """
-    Given a file path, read the file and convert the content to a tuple of logits and labels.
+    Given a file path, read the file and convert the content to a tuple of inputs and labels.
 
     Args:
       file_path (str): The path to the file to read.
 
     Returns:
-      tuple: A tuple containing the logits and labels (logits, labels).
+      tuple: A tuple containing the inputs and labels (inputs, labels).
     """
     stop_sentences = [".", "?", "!"]
 
@@ -163,7 +164,7 @@ def from_bio_file_to_example(file_path: str) -> tuple:
         content = file.read()
     lines = content.split("\n")
 
-    logits = []
+    inputs = []
     labels = []
 
     unique_labels = set()
@@ -194,9 +195,37 @@ def from_bio_file_to_example(file_path: str) -> tuple:
         sentence_logits.extend(ascii_code_chars)
         sentence_labels.extend(chars_labels)
         if word in stop_sentences:
-            logits.append(sentence_logits)
+            inputs.append(sentence_logits)
             labels.append(sentence_labels)
             sentence_logits = []
             sentence_labels = []
 
-    return [logits, labels]
+    return (inputs, labels)
+
+
+def from_examples_to_tf_dataset(
+    inputs: tuple[list[list[int]], list[list[int]]]
+) -> tf.data.Dataset:
+    """
+    Given a tuple of inputs and labels, convert the tuple to a TensorFlow dataset.
+
+    Args:
+      inputs (tuple[list[list[int]], list[list[int]]): A tuple containing the inputs and labels (inputs, labels).
+
+    Returns:
+      tf.data.Dataset: The TensorFlow dataset.
+    """
+
+    def gen():
+        for input, label in zip(inputs[0], inputs[1]):
+            yield input, label
+
+    dataset = tf.data.Dataset.from_generator(
+        gen,
+        output_signature=(
+            tf.TensorSpec(shape=(None), dtype=tf.int32),
+            tf.TensorSpec(shape=(None), dtype=tf.int32),
+        ),
+    )
+
+    return dataset
