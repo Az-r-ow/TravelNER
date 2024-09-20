@@ -5,33 +5,33 @@ import random
 from typing import List
 
 
-def make_unique_lignes(f_in: str, f_out: str) -> int:
+def make_unique_lines(f_in: str, f_out: str) -> int:
     """
-    Delete all duplicate lignes of a file.
+    Delete all duplicate lines of a file.
 
     Args:
         f_in (str): File path to analyse, must contain extension.
         f_out (str): File path containing result, must contain extension.
 
     Returns:
-        (int): The number of duplicate lignes found.
+        (int): The number of duplicate lines found.
     """
 
-    seen_lignes: set = set()
+    seen_lines: set = set()
     duplicates: int = 0
 
     with open(f_in, "r") as in_f, open(f_out, "w") as out_f:
-        for ligne in in_f:
-            if ligne not in seen_lignes:
-                out_f.write(ligne)
-                seen_lignes.add(ligne)
+        for line in in_f:
+            if line not in seen_lines:
+                out_f.write(line)
+                seen_lines.add(line)
             else:
                 duplicates += 1
 
     return duplicates
 
 
-def count_file_lignes(f_path: str) -> int:
+def count_file_lines(f_path: str) -> int:
     """
     Count the number of lines in a file.
 
@@ -39,12 +39,12 @@ def count_file_lignes(f_path: str) -> int:
         f_path (str): File path to analyse, must contain extension.
 
     Returns:
-        (int): The number of lignes found.
+        (int): The number of lines found.
     """
 
     with open(f_path, "r") as f:
-        lignes = f.readlines()
-        return len(lignes)
+        lines = f.readlines()
+        return len(lines)
 
 
 def get_cities() -> List:
@@ -54,15 +54,16 @@ def get_cities() -> List:
     Returns:
         (List): All cities present in file.
     """
-    villes = []
+
+    cities = []
     with open("../sncf_stations_database.csv", "r") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         for row in reader:
-            villes.append(row["COMMUNE"])
-    return villes
+            cities.append(row["COMMUNE"])
+    return cities
 
 
-def generate_data(cities: List, file_out: str):
+def generate_data(cities: List, file_out: str, nb_samples: int):
     """
     Generate dataset from template file.
 
@@ -71,53 +72,63 @@ def generate_data(cities: List, file_out: str):
         file_out (str): Output file, must contain extension.
     """
 
-    used_comp = set()
+    user_comb = set()
     cities = get_cities()
+    print(len(cities))
+    line_count = 0
 
     with open("data_unique_tmp.txt", "r") as f_template:
-        template_ligne = f_template.readlines()
+        template_line = f_template.readlines()
 
     with open(file_out, "w") as f_sortie:
-        while len(used_comp) < 75000:
-
+        while line_count <= nb_samples:
             arrival_city = random.choice(cities)
             departure_city = random.choice(cities)
 
             while arrival_city == departure_city:
                 arrival_city = random.choice(cities)
 
-            combinaison = (arrival_city, departure_city)
+            combination = (arrival_city, departure_city)
 
-            if combinaison not in used_comp:
-                used_comp.add(combinaison)
-                for ligne in template_ligne:
-                    new_ligne = ligne.replace("{depart}", departure_city)
-                    new_ligne = new_ligne.replace("{arrivee}", arrival_city)
-                    f_sortie.write(new_ligne)
+            if combination not in user_comb:
+                user_comb.add(combination)
+                line = random.choice(template_line)
+                new_line = line.replace("{depart}", departure_city)
+                new_line = new_line.replace("{arrivee}", arrival_city)
+                try:
+                    n_chars_written = f_sortie.write(new_line)
+                    if n_chars_written != len(new_line):
+                        raise Exception("Error while writing line")
+                    line_count += 1
+                except Exception as e:
+                    print(e)
+                    print(new_line)
 
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python script.py <file_in> <file_out>")
+    if len(sys.argv) != 4:
+        print("Usage: python script.py <file_in> <file_out> <nb_sample>")
         sys.exit(1)
     else:
         file_in = sys.argv[1]
         file_out = sys.argv[2]
+        nb_samples = int(sys.argv[3])
 
-        duplicates: int = make_unique_lignes(file_in, "data_unique_tmp.txt")
+        duplicates: int = make_unique_lines(file_in, "data_unique_tmp.txt")
 
         cities: List = get_cities()
-        generate_data(cities, file_out)
 
-        initial_ligne_number: int = count_file_lignes(file_in)
-        unique_sentences_number: int = count_file_lignes("data_unique_tmp.txt")
-        final_data_number: int = count_file_lignes(file_out)
+        generate_data(cities, file_out, nb_samples)
+
+        initial_line_number: int = count_file_lines(file_in)
+        unique_sentences_number: int = count_file_lines("data_unique_tmp.txt")
+        final_data_number: int = count_file_lines(file_out)
 
         os.remove("data_unique_tmp.txt")
 
         print("Treatment is finished : ")
         print("     - Input file : " + file_in)
-        print("     - Unitial number of lignes : " + str(initial_ligne_number))
+        print("     - Unitial number of lines : " + str(initial_line_number))
         print("     - Number of duplicates found : " + str(duplicates))
         print("     - Unique sentence forms : " + str(unique_sentences_number))
         print("     - Output file : " + file_out)
