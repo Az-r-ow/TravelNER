@@ -171,6 +171,11 @@ def from_bio_file_to_example(file_path: str) -> tuple:
         word, label = entity.split(" ")
         unique_labels.add(label)
 
+    unique_labels = list(unique_labels)
+
+    # "O" has to be the first label
+    unique_labels = sorted(unique_labels, key=lambda x: (x != "O", x))
+
     # mapping labels to ids
     unique_labels = {label: i + 1 for i, label in enumerate(unique_labels)}
 
