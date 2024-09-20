@@ -54,6 +54,7 @@ def get_cities() -> List:
     Returns:
         (List): All cities present in file.
     """
+
     cities = []
     with open("../sncf_stations_database.csv", "r") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
