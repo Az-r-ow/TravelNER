@@ -87,6 +87,11 @@ def convert_tagged_sentence_to_bio(
     """
     bare_sentence = sentence
 
+    # extended entities
+    ext_entities = []
+    for entity in entities:
+        ext_entities.extend(["B-" + entity, "I-" + entity])
+
     for tag in tags:
         bare_sentence = bare_sentence.replace(tag, "")
 
@@ -94,6 +99,9 @@ def convert_tagged_sentence_to_bio(
         while re.search(f"{tag}(.*?){tag}", sentence):
             match = re.search(f"{tag}(.*?){tag}", sentence)
             temp_entities = [entity] * len(nltk.word_tokenize(match.group(1)))
+            temp_entities[0] = "B-" + entity
+            for i in range(1, len(temp_entities)):
+                temp_entities[i] = "I-" + entity
             sentence = (
                 sentence[: match.start()]
                 + " ".join(temp_entities)
@@ -103,7 +111,9 @@ def convert_tagged_sentence_to_bio(
     tokens = nltk.word_tokenize(sentence)
     bare_sentence_tokens = nltk.word_tokenize(bare_sentence)
 
-    tokenized_entities = ["O" if not token in entities else token for token in tokens]
+    tokenized_entities = [
+        "O" if not token in ext_entities else token for token in tokens
+    ]
     bio_format = [
         " ".join([token, entity])
         for token, entity in zip(bare_sentence_tokens, tokenized_entities)
