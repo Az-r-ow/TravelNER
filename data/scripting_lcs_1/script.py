@@ -95,7 +95,9 @@ def generate_data(cities: List, file_out: str, nb_samples: int):
                 new_line = line.replace("{depart}", departure_city)
                 new_line = new_line.replace("{arrivee}", arrival_city)
                 try:
-                    f_sortie.write(new_line)
+                    n_chars_written = f_sortie.write(new_line)
+                    if n_chars_written != len(new_line):
+                        raise Exception("Error while writing line")
                     line_count += 1
                 except Exception as e:
                     print(e)
