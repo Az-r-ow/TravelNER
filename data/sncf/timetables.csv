@@ -6,7 +6,7 @@ OCESN003300F030037323	Gare de Cherbourg - Gare de Paris-St-Lazare	194
 OCESN003313F380387526	Gare de Caen - Gare de Paris-St-Lazare	149
 OCESN003371F080087908	Gare de Paris-St-Lazare - Gare de Trouville-Deauville	147
 OCESN003410F120128075	Gare de Granville - Gare de Paris-Montp.3-Vaug.	201
-OCESN003460F010018083	Gare de Granville - Gare de Paris-Montparnasse 1-2	195
+OCESN003460F010018083	Gare de Granville - Gare de Paris-Montparnasse	195
 OCESN003463F030038093	Gare de Dreux - Gare de Granville	142
 OCESN003903F030038704	Gare de Bourges - Gare de Paris-Austerlitz	122
 OCESN003903F040048703	Gare de Paris-Austerlitz - Gare de Vierzon	101
@@ -36,9 +36,9 @@ OCESN016468F0200216048	Gare de Compiègne - Gare de Maubeuge	80
 OCESN016514F0900916097	Gare de Argentan - Gare de Dreux	69
 OCESN016550F0200216123	Gare de Caen - Gare de Le Mans	111
 OCESN016550F0400416121	Gare de Caen - Gare de Tours	182
-OCESN016750F0900916155	Gare de Le Mans - Gare de Paris-Montparnasse 1-2	135
-OCESN016765F1401416187	Gare de Nogent-le-Rotrou - Gare de Paris-Montparnasse 1-2	102
-OCESN016766F1801816197	Gare de Chartres - Gare de Paris-Montparnasse 1-2	70
+OCESN016750F0900916155	Gare de Le Mans - Gare de Paris-Montparnasse	135
+OCESN016765F1401416187	Gare de Nogent-le-Rotrou - Gare de Paris-Montparnasse	102
+OCESN016766F1801816197	Gare de Chartres - Gare de Paris-Montparnasse	70
 OCESN016782F1501516255	Gare de Chartres - Gare de Le Mans	70
 OCESN016812F1601616283	Gare de Blois-Chambord - Gare de Tours	38
 OCESN016840F1201216363	Gare de Lyon-Perrache - Gare de Tours	366
@@ -332,12 +332,12 @@ OCESN034001R0200219062	Gare de Alès - Gare de Nîmes	50
 OCESN034063R0200219066	Gare de La Bastide-St-Laurent - Gare de Langogne	25
 OCESN034065R0200219069	Gare de Langogne - Gare de Mende	90
 OCESN034071R0200219075	Gare de La Bastide-St-Laurent - Gare de Mende	68
-OCESN034213R0300319079	Gare de Millau - Marvejols Place Chayla	75
+OCESN034213R0300319079	Gare de Millau - Gare de Marvejols	75
 OCESN034220R0300319080	Gare de Clermont-Ferrand - Gare de Mende	180
 OCESN034240R0300319090	Gare de Le Puy-en-Velay - Gare de Marvejols	135
 OCESN034251R0200219093	Gare de Mende - Gare de St-Chély-d'Apcher	84
 OCESN034253R0300319095	Gare de La Bastide-St-Laurent - Gare de Marvejols	133
-OCESN034256R0200219097	Gare de Mende - Marvejols Place Chayla	50
+OCESN034256R0200219097	Gare de Mende - Gare de Marvejols	50
 OCESN034350R0200219101	Gare de Carcassonne - Quillan	90
 OCESN034352R0200219103	Gare de Carcassonne - Gare de Limoux	55
 OCESN034354R0200219106	Gare de Limoux - Quillan	45
@@ -455,7 +455,7 @@ OCESN036730R0200219775	Gare de Dreux - Gare de L'Aigle	79
 OCESN036801R0100119776	Gare de Lisieux - Gare de Trouville-Deauville	50
 OCESN036810R0400419778	Gare de Dives-Cabourg - Gare de Trouville-Deauville	35
 OCESN036850R0200219797	Gare de Caen - Gare de Rouen-Rive-Droite	100
-OCESN036860R0100119801	Gare de Evreux - Normandie - Gare de Serquigny	50
+OCESN036860R0100119801	Gare de Evreux - Gare de Serquigny	50
 OCESN036871R0100119802	Gare de Villedieu (Gare) - Le Mont St Michel	45
 OCESN036882R0300319811	Gare de Granville - Gare de Rennes	110
 OCESN036890R0200219821	Gare de Caen - Gare de Rennes	170
@@ -732,7 +732,7 @@ OCESN086966F0100123305	Gare de Avignon-Centre - Gare de Port-Bou	259
 OCESN086967F0100123308	Gare de Narbonne - Gare de Port-Bou	102
 OCESN086969F0400423310	Gare de Nîmes - Gare de Port-Bou	209
 OCESN086970F0200223317	Gare de Port-Bou - Gare de Toulouse-Matabiau	220
-OCESN086983F1301323339	Gare de Montpellier-Saint-Roch - Gare de Port-Bou	171
+OCESN086983F1301323339	Gare de Montpellier-St-Roch - Gare de Port-Bou	171
 OCESN087154F0200223368	Gare de Saarbrücken /Sarrebruck - Gare de Sarreguemines	29
 OCESN087403F0200223441	Gare de Offenburg - Gare de Strasbourg	32
 OCESN087459F0400423488	Gare de Kehl - Gare de Offenburg	22
@@ -1005,7 +1005,7 @@ OCESN435194R0100134618	Gare de Amiens - Gare de Douai	164
 OCESN435214R0400434638	Gare de Albert - Gare de Arras	62
 OCESN437027R0100134687	Gare de Dunkerque - Gare de Lille Flandres	150
 OCESN438001R0300334690	Gare de Caen - Gare de Cherbourg	174
-OCESN438003R0200234693	Gare de Evreux - Normandie - Gare de Mantes-la-Jolie	84
+OCESN438003R0200234693	Gare de Evreux - Gare de Mantes-la-Jolie	84
 OCESN439451R0200234695	Gare de Le Mans - Gare de Tours	133
 OCESN441002R0300334697	Gare de Amiens - Gare de Rouen-Rive-Droite	186
 OCESN444500R0100134700	Gare de La Roche-sur-Yon - Gare de La Rochelle-Ville	120
@@ -1198,11 +1198,11 @@ OCESN850302F0100142015	Gare de Fécamp - Gare de Le Havre	46
 OCESN850400F0100142047	Gare de Le Havre - Gare de Rouen-Rive-Droite	61
 OCESN850600F0100142071	Gare de Elbeuf-St-Aubin - Gare de Yvetot	63
 OCESN850670F0200242112	Gare de Rouen-Rive-Droite - Gare de Yvetot	34
-OCESN851001F0100142116	Gare de Evreux - Normandie - Gare de Paris-St-Lazare	69
+OCESN851001F0100142116	Gare de Evreux - Gare de Paris-St-Lazare	69
 OCESN851020F0100142181	Gare de Paris-St-Lazare - Gare de Serquigny	105
 OCESN851072F0100142240	Gare de Bueil - Gare de Mantes-la-Jolie	15
 OCESN851700F0100142346	Gare de Dieppe - Gare de Rouen-Rive-Droite	63
-OCESN852313F0100142557	Gare de Evreux - Normandie - Gare de Lisieux	52
+OCESN852313F0100142557	Gare de Evreux - Gare de Lisieux	52
 OCESN852331F0400442564	Gare de Caen - Gare de Lisieux	33
 OCESN852610F0100142760	Gare de Caen - Gare de Coutances	75
 OCESN852712F0300342815	Gare de Caen - Gare de St-Lô	51
@@ -1407,24 +1407,24 @@ OCESN875500F1801848422	Gare de Dijon-Ville - Gare de Moulins-sur-Allier	178
 OCESN875700F0900948434	Gare de Clermont-Ferrand - Gare de Lyon-Perrache	171
 OCESN876100F0200248467	Gare de Narbonne - Gare de Perpignan	46
 OCESN876102F0300348469	Gare de Lunel - Gare de Narbonne	100
-OCESN876108F0200248476	Gare de Montpellier-Saint-Roch - Gare de Narbonne	71
+OCESN876108F0200248476	Gare de Montpellier-St-Roch - Gare de Narbonne	71
 OCESN876119F0200248477	Gare de Cerbère - Gare de Narbonne	87
-OCESN876121F0200248480	Gare de Montpellier-Saint-Roch - Gare de Perpignan	130
+OCESN876121F0200248480	Gare de Montpellier-St-Roch - Gare de Perpignan	130
 OCESN876204F0500548493	Gare de Nîmes - Gare de Toulouse-Matabiau	210
-OCESN876204F0800848490	Gare de Montpellier-Saint-Roch - Gare de Toulouse-Matabiau	176
+OCESN876204F0800848490	Gare de Montpellier-St-Roch - Gare de Toulouse-Matabiau	176
 OCESN876216F0200248506	Gare de Carcassonne - Gare de Narbonne	36
 OCESN876224F0100148510	Gare de Carcassonne - Gare de Nîmes	140
 OCESN876250F0700748513	Gare de Perpignan - Gare de Toulouse-Matabiau	154
 OCESN876252F0300348519	Gare de Cerbère - Gare de Toulouse-Matabiau	199
 OCESN876254F0100148527	Gare de Carcassonne - Gare de Perpignan	91
 OCESN876301F1301348553	Gare de Avignon-Centre - Gare de Sète	109
-OCESN876301F1401448555	Gare de Montpellier-Saint-Roch - Gare de Nîmes	43
-OCESN876302F0600648557	Gare de Avignon-Centre - Gare de Montpellier-Saint-Roch	76
+OCESN876301F1401448555	Gare de Montpellier-St-Roch - Gare de Nîmes	43
+OCESN876302F0600648557	Gare de Avignon-Centre - Gare de Montpellier-St-Roch	76
 OCESN876304F1501548566	Gare de Avignon-Centre - Gare de Narbonne	144
 OCESN876309F0400448572	Gare de Nîmes - Gare de Sète	66
 OCESN876330F0400448600	Gare de Lunel - Gare de Sète	54
-OCESN876334F0100148601	Gare de Montpellier-Saint-Roch - Gare de Sète	23
-OCESN876335F0200248602	Gare de Lunel - Gare de Montpellier-Saint-Roch	20
+OCESN876334F0100148601	Gare de Montpellier-St-Roch - Gare de Sète	23
+OCESN876335F0200248602	Gare de Lunel - Gare de Montpellier-St-Roch	20
 OCESN876400F0300348616	Gare de Avignon-Centre - Gare de Nîmes	37
 OCESN876401F0900948621	Gare de Nîmes - Gare de Perpignan	160
 OCESN876405F2202248643	Gare de Narbonne - Gare de Nîmes	98
@@ -1433,15 +1433,15 @@ OCESN876407F0400448657	Gare de Avignon-Centre - Gare de Perpignan	196
 OCESN876408F2502548664	Gare de Avignon-Centre - Gare de Cerbère	238
 OCESN876530F0900948772	Gare de Béziers - Gare de Marseille-St-Charles	171
 OCESN876532F2102148779	Gare de Marseille-St-Charles - Gare de Narbonne	188
-OCESN876542F3003048800	Gare de Marseille-St-Charles - Gare de Montpellier-Saint-Roch	119
-OCESN876604F0700748840	Gare de Cerbère - Gare de Montpellier-Saint-Roch	154
+OCESN876542F3003048800	Gare de Marseille-St-Charles - Gare de Montpellier-St-Roch	119
+OCESN876604F0700748840	Gare de Cerbère - Gare de Montpellier-St-Roch	154
 OCESN877500F0400448869	Gare de Génolhac - Gare de Nîmes	77
 OCESN877527F0600648902	Gare de La Bastide-St-Laurent - Gare de Nîmes	114
 OCESN877550F0600648916	Gare de Nîmes - Gare de Vauvert	24
 OCESN878950F0500548989	Gare de Béziers - Gare de St-Chély-d'Apcher	244
 OCESN878950F0700748990	Gare de Béziers - Gare de Millau	117
 OCESN878956F0200248993	Gare de Millau - Gare de St-Chély-d'Apcher	111
-OCESN878969F0400449003	Gare de Montpellier-Saint-Roch - Gare de St-Chély-d'Apcher	297
+OCESN878969F0400449003	Gare de Montpellier-St-Roch - Gare de St-Chély-d'Apcher	297
 OCESN879102F0300349012	Gare de Marseille-St-Charles - Gare de Miramas	33
 OCESN879218F0200249021	Gare de Avignon-Centre - Gare de Orange	26
 OCESN879301F0200249023	Gare de Avignon-Centre - Gare de Avignon-TGV	5
