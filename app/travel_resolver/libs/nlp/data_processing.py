@@ -2,6 +2,10 @@ import nltk, re
 import tensorflow as tf
 from tqdm import tqdm
 
+# Will download the necessary resources for nltk
+# Should skip if resources found
+nltk.download("punkt")
+
 
 def get_tagged_content(sentence: str, tag: str) -> str | None:
     """
