@@ -4,7 +4,7 @@ from tqdm import tqdm
 
 # Will download the necessary resources for nltk
 # Should skip if resources found
-nltk.download("punkt")
+nltk.download("punkt_tab")
 
 
 def get_tagged_content(sentence: str, tag: str) -> str | None:
