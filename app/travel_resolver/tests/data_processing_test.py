@@ -2,7 +2,6 @@ import unittest
 from pathlib import Path
 from travel_resolver.libs.nlp.data_processing import (
     get_tagged_content,
-    process_sentence,
     convert_tagged_sentence_to_bio,
     from_tagged_file_to_bio_file,
     from_bio_file_to_examples,
