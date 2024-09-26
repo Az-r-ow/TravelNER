@@ -1,0 +1,20 @@
+Pouvez-vous me donner des informations sur un vol de <Dep>MAILLY-LE-CAMP<Dep> à <Arr>TURCKHEIM<Arr> ?
+J'aimerais aller de <Dep>MAULE<Dep> jusqu'à <Arr>VINAY<Arr>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>MIGNALOUX-BEAUVOIR<Dep> à <Arr>BAZOCHES-ET-SAINT-THIBAUT<Arr>.
+Donne-moi un itinéraire de <Dep>PONTRIEUX<Dep> jusqu'à <Arr>LACQ<Arr>.
+J'aimerais faire un voyage de <Dep>MOULINS-SUR-YEVRE<Dep> à <Arr>TARASCON-SUR-ARIEGE<Arr> en utilisant un service de transport en commun.
+J'ai besoin de directions pour aller à <Arr>CASTRES<Arr> depuis <Dep>ARNAGE<Dep> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>ROINVILLE<Dep> vers <Arr>SESSENHEIM<Arr> avec une compagnie aérienne de ballons à air chaud.
+Comment aller de <Dep>CASTELNAU-D'ESTRETEFONDS<Dep> à <Arr>CIRY-SALSOGNE<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>ESCLANEDES<Arr> depuis <Dep>EOLE-EN-BEAUCE<Dep> ?Veuillez me fournir un itinéraire pour me rendre de <Dep>CINTEGABELLE<Dep> à <Arr>BEAUTOT<Arr> en utilisant les transports en commun.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>SAINT-BRIEUC<Dep> vers <Arr>COLLONGES<Arr>.
+Comment puis-je aller de <Dep>RAMBOUILLET<Dep> vers <Arr>MAZEYRAT-D'ALLIER<Arr> en transports en commun ?
+Je souhaiterais me rendre à <Arr>MONT LOZERE ET GOULET<Arr>, partant de <Dep>JUZIERS<Dep>.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>AZAY-LE-RIDEAU<Dep> vers <Arr>SALON-DE-PROVENCE<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>BUCHERES<Arr> depuis <Dep>SAINT-PIERRE-D'AURILLAC<Dep> ?
+J'aimerais faire un voyage de <Dep>SAVERDUN<Dep> à <Arr>VINDRAC-ALAYRAC<Arr> en prenant le métro.
+Quelle est la meilleure route pour aller à <Arr>GAZERAN<Arr> en partant de <Dep>L'ETANG-LA-VILLE<Dep> ?
+J'aimerais aller de <Dep>ALENCON<Dep> jusqu'à <Arr>FRANXAULT<Arr>.
+Je voudrais trouver un vol de <Dep>LIART<Dep> vers <Arr>CHANTILLY<Arr> au meilleur prix possible.
+Quel est le trajet le plus rapide pour aller de <Dep>SAINT-LO<Dep> à <Arr>PARIS<Arr> ?
+Je souhaite prendre un taxi de <Dep>LUNEL-VIEL<Dep> pour aller à <Arr>MESSEIN<Arr>.

@@ -2,8 +2,12 @@ import nltk, re
 import tensorflow as tf
 from tqdm import tqdm
 
+# Will download the necessary resources for nltk
+# Should skip if resources found
+nltk.download("punkt_tab")
 
-def get_tagged_content(sentence: str, tag: str) -> str:
+
+def get_tagged_content(sentence: str, tag: str) -> str | None:
     """
     Extract the content between two tags in a sentence given the tag.
 
@@ -12,12 +16,18 @@ def get_tagged_content(sentence: str, tag: str) -> str:
       tag (str): The tag to extract the content between.
 
     Returns:
-      str: The content between the tags.
+      str | None: The content between the tags. None if not found
+
+    Raises:
+      ValueError: If tag is not provided or tag not str.
 
     Example:
       >>> get_tagged_content("Je voudrais voyager de <Dep>Nice<Dep> à <Arr>Clermont Ferrand<Arr>.", "<Dep>")
       "Nice"
     """
+    if not tag or not isinstance(tag, str):
+        raise ValueError("tag must be a non-empty string")
+
     tag_match = re.search(rf"{tag}(.*?){tag}", sentence)
     if tag_match:
         return tag_match.group(1)
@@ -144,6 +154,9 @@ def from_tagged_file_to_bio_file(
     with open(output_file, "w") as file:
         sentences = content.split("\n")
         for sentence in tqdm(sentences):
+            # skip empty lines
+            if not sentence:
+                continue
             bio_format = convert_tagged_sentence_to_bio(sentence, tag_entities_pairs)
             file.write(bio_format + "\n")
 
