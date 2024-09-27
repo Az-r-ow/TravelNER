@@ -1,6 +1,7 @@
 import gradio as gr
 from transformers import pipeline
 import numpy as np
+import pandas as pd
 
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
@@ -60,55 +61,102 @@ def getAStarResult(depart, destination):
     if(destination in cost): return [path, str(cost[destination]) + " minutes"]
     return [[],"Temps non trouvé"]
 
-def submit(audio, departV, destinationV):
-    promptValue = transcribe(audio)
-    dijkstraResult = getDijkstraResult(departV, destinationV)
-    AStarPath, AStarCost = getAStarResult(departV, destinationV)
-    print(AStarPath)
-    AStarPathFormatted = "\n".join([f"{i+1}. {elem}" for i, elem in enumerate(AStarPath)])
-    print(AStarPathFormatted)
-    return { 
-        prompt: gr.TextArea(label="Prompt", value=promptValue, visible=True),
-        depart: gr.Textbox(label="Départ", visible=True),
-        destination: gr.Textbox(label="Destination", visible=True),
-        timeDijkstra: gr.Textbox(label="Temps trouvé", value=dijkstraResult),
-        timeAStar: gr.Textbox(label="Temps trouvé", value=AStarCost),
-        path: gr.Textbox(label="Chemin emprunté", value=AStarPathFormatted, visible=True, lines=len(AStarPath))
-    }
+def getStationsByCityName(city: str):
+    data = pd.read_csv("../data/sncf/gares_info.csv", sep=",")
+    stations = tuple(data[data['Commune'] == city]["Nom de la gare"])
+    return stations
+
+def handle_audio(audio):
+    promptAudio = transcribe(audio)
+    return gr.update(visible=True), gr.update(visible=False), gr.update(value=promptAudio), gr.update(value="PARIS"), gr.update(value="MONTPELLIER")
+ 
+def handle_file(file):
+    if file is not None:
+        with open(file.name, 'r') as f:
+            file_content = f.read()
+    else:
+        file_content = "Aucun fichier uploadé."
+    return gr.update(visible=True), gr.update(visible=False), gr.update(value=file_content), gr.update(value="PARIS"), gr.update(value="MONTPELLIER")
     
-def clear(): 
-    return {
-        timeDijkstra:gr.HTML("<p>Aucun prompt renseigné</p>"),
-        timeAStar:gr.HTML("<p>Aucun prompt renseigné</p>"),
-        prompt: gr.TextArea(label="Prompt", visible=False),
-        depart:gr.Textbox(label="Départ", visible=False, value="Gare de Amiens"),
-        destination: gr.Textbox(label="Destination", visible=False, value="Gare de Jeumont"),
-        path:  gr.Textbox(label="Chemin emprunté", value="", visible=False)
-    }
+def handle_back(): 
+    return gr.update(visible=False), gr.update(visible=True)
+
+def handleCityChange(city):
+    stations = getStationsByCityName(city)
+    return gr.update(choices=stations, value=stations[0], interactive=True)
+        
+def handleStationChange(departureStation, destinationStation):
+    if(departureStation and destinationStation):
+        timeDijkstra = getDijkstraResult(departureStation, destinationStation)
+        AStarPath, AStarCost = getAStarResult(departureStation, destinationStation)
+        AStarPathFormatted = "\n".join([f"{i + 1}. {elem}" for i, elem in enumerate(AStarPath)])
                 
-with gr.Blocks() as interface:
-    with gr.Row():
-        with gr.Column(scale=1, min_width=300):
-            audio=gr.Audio(sources="microphone")
-            prompt= gr.TextArea(label="Prompt", visible=False)
-            depart= gr.Textbox(label="Départ", visible=False, value="Gare de Amiens")
-            destination= gr.Textbox(label="Destination", visible=False, value="Gare de Jeumont")
-            submitButton = gr.Button("Rechercher")
-        with gr.Column(scale=2, min_width=300):
-            with gr.Tab("Dijkstra"):
-                timeDijkstra=gr.HTML("<p>Aucun prompt renseigné</p>")
-            with gr.Tab("AStar"):
-                timeAStar=gr.HTML("<p>Aucun prompt renseigné</p>")
-                path=gr.Textbox(label="Chemin emprunté", visible=False)
-    submitButton.click(
-        submit,
-        [audio, depart, destination],
-        [prompt, depart, destination, timeDijkstra, timeAStar, path],
+        return (
+            gr.update(value=timeDijkstra),
+            gr.update(value=AStarCost),
+            gr.update(value=AStarPathFormatted, lines=len(AStarPath))
+        )
+    return (
+        gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.update(value="")
     )
-    audio.clear(
-        clear,
-        [],
-        [timeDijkstra, timeAStar, prompt, depart, destination, path]
+    
+with gr.Blocks(css="#back-button {width: fit-content}") as interface:
+    with gr.Column() as promptChooser:
+        with gr.Row():
+            audio= gr.Audio(label="Fichier audio")
+            file= gr.File(label="Fichier texte", file_types=["text"], file_count="single")
+    with gr.Column(visible=False) as content:
+        backButton = gr.Button("← Back", elem_id="back-button")
+        with gr.Row():
+            with gr.Column(scale=1, min_width=300) as parameters:
+                prompt=gr.Textbox(label="Prompt")
+                departureCity=gr.Textbox(label="Ville de départ")
+                destinationCity=gr.Textbox(label="Ville de de destination")
+            with gr.Column(scale=2, min_width=300) as result:
+                with gr.Row():
+                    departureStation= gr.Dropdown(label="Gare de départ")
+                    destinationStation= gr.Dropdown(label="Gare d'arrivée")
+                with gr.Tab("Dijkstra"):
+                    timeDijkstra=gr.HTML("<p>Aucun prompt renseigné</p>")
+                with gr.Tab("AStar"):
+                    timeAStar=gr.HTML("<p>Aucun prompt renseigné</p>")
+                    path=gr.Textbox(label="Chemin emprunté")
+    audio.change(
+        handle_audio, 
+        inputs=[audio],
+        outputs=[content, promptChooser, prompt, departureCity, destinationCity]  # On rend la section "content" visible
+    )
+    file.upload(
+        handle_file, 
+        inputs=[file],
+        outputs=[content, promptChooser, prompt, departureCity, destinationCity]  # On rend la section "content" visible
+    )
+    backButton.click(
+        handle_back,
+        inputs=[],
+        outputs=[content, promptChooser]
+    )
+    departureCity.change(
+        handleCityChange,
+        inputs=[departureCity],
+        outputs=[departureStation]
+    )
+    destinationCity.change(
+        handleCityChange,
+        inputs=[destinationCity],
+        outputs=[destinationStation]
+    )
+    departureStation.change(
+        handleStationChange,
+        inputs=[departureStation, destinationStation],
+        outputs=[timeDijkstra, timeAStar, path]
+    )
+    destinationStation.change(
+        handleStationChange,
+        inputs=[departureStation, destinationStation],
+        outputs=[timeDijkstra, timeAStar, path]
     )
 interface.launch()
 
