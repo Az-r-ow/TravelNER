@@ -22,6 +22,15 @@ def transcribe(audio):
 
     return transcriber({"sampling_rate": sr, "raw": y})["text"]  
     
+def getCSVTravelGraph(): 
+    """
+    Generate Graph with the csv dataset
+    Returns:
+        (Graph): Graph
+    """
+    graphData = CSVTravelGraph("../data/sncf/timetables.csv")
+    return Graph(graphData.data)
+
 def getDijkstraResult(depart, destination):
     """
     Args: 
@@ -31,27 +40,50 @@ def getDijkstraResult(depart, destination):
     Returns:
         (str): Time of the shortest travel found
     """
-    dijkstraGraphData = CSVTravelGraph("../data/sncf/timetables.csv", "Dijkstra")
-    graph = Graph(dijkstraGraphData.data)
+    graph = getCSVTravelGraph()
     distances = graph.RunDijkstra(depart)
     if(destination in distances): return str(distances[destination]) + " minutes"
     return "Temps non trouvé"
 
+def getAStarResult(depart, destination):
+    """
+    Args: 
+        depart (str): station name
+        destination (str): station name
+    Generate AStarGraph and find the shortest way for the destination
+    Returns:
+        (str): Time of the shortest travel found
+    """
+    graph = getCSVTravelGraph()
+    heuristic = graph.RunDijkstra(destination)
+    path, cost = graph.RunAStar(depart,destination, heuristic)
+    if(destination in cost): return [path, str(cost[destination]) + " minutes"]
+    return [[],"Temps non trouvé"]
+
 def submit(audio, departV, destinationV):
     promptValue = transcribe(audio)
+    dijkstraResult = getDijkstraResult(departV, destinationV)
+    AStarPath, AStarCost = getAStarResult(departV, destinationV)
+    print(AStarPath)
+    AStarPathFormatted = "\n".join([f"{i+1}. {elem}" for i, elem in enumerate(AStarPath)])
+    print(AStarPathFormatted)
     return { 
         prompt: gr.TextArea(label="Prompt", value=promptValue, visible=True),
         depart: gr.Textbox(label="Départ", visible=True),
         destination: gr.Textbox(label="Destination", visible=True),
-        timeDijkstra: gr.Textbox(label="Temps trouvé", value=getDijkstraResult(departV, destinationV))
+        timeDijkstra: gr.Textbox(label="Temps trouvé", value=dijkstraResult),
+        timeAStar: gr.Textbox(label="Temps trouvé", value=AStarCost),
+        path: gr.Textbox(label="Chemin emprunté", value=AStarPathFormatted, visible=True, lines=len(AStarPath))
     }
+    
 def clear(): 
     return {
         timeDijkstra:gr.HTML("<p>Aucun prompt renseigné</p>"),
         timeAStar:gr.HTML("<p>Aucun prompt renseigné</p>"),
         prompt: gr.TextArea(label="Prompt", visible=False),
         depart:gr.Textbox(label="Départ", visible=False, value="Gare de Amiens"),
-        destination: gr.Textbox(label="Destination", visible=False, value="Gare de Jeumont")
+        destination: gr.Textbox(label="Destination", visible=False, value="Gare de Jeumont"),
+        path:  gr.Textbox(label="Chemin emprunté", value="", visible=False)
     }
                 
 with gr.Blocks() as interface:
@@ -67,15 +99,16 @@ with gr.Blocks() as interface:
                 timeDijkstra=gr.HTML("<p>Aucun prompt renseigné</p>")
             with gr.Tab("AStar"):
                 timeAStar=gr.HTML("<p>Aucun prompt renseigné</p>")
+                path=gr.Textbox(label="Chemin emprunté", visible=False)
     submitButton.click(
         submit,
         [audio, depart, destination],
-        [prompt, depart, destination, timeDijkstra],
+        [prompt, depart, destination, timeDijkstra, timeAStar, path],
     )
     audio.clear(
         clear,
         [],
-        [timeDijkstra, timeAStar, prompt, depart, destination]
+        [timeDijkstra, timeAStar, prompt, depart, destination, path]
     )
 interface.launch()
 
