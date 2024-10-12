@@ -171,4 +171,5 @@ output.*
 .vscode
 
 # Remove macos ds store
+# Macos generated files 
 .DS_Store
