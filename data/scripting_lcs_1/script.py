@@ -56,7 +56,7 @@ def get_cities() -> List:
     """
 
     cities = []
-    with open("../sncf_stations_database.csv", "r") as csvfile:
+    with open("../sncf/sncf_stations_database.csv", "r") as csvfile:
         reader = csv.DictReader(csvfile, delimiter=";")
         for row in reader:
             cities.append(row["COMMUNE"])

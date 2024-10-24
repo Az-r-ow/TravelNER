@@ -34,40 +34,35 @@ def get_tagged_content(sentence: str, tag: str) -> str | None:
     return None
 
 
-def process_sentence(sentence: str, dep_token="<Dep>", arr_token="<Arr>") -> tuple:
+def process_sentence(
+    sentence: str,
+    stemming: bool = False,
+) -> str:
     """
-    Given a sentence, extract the departure and arrival locations and tokenize the sentence.
-    Then assign labels to the tokens based on whether they are part of the departure or arrival locations.
-    Finally, return the inputs and labels will be returned.
+    Given a sentence, apply some processing techniques to the sentence and return the processed sentence
 
-    Args:
-      sentence (str): The sentence to process.
-      dep_token (str): The token to mark the departure location.
-      arr_token (str): The token to mark the arrival location.
+     **Note**: We are stemming the tokens instead of lemmatizing them because stemming is faster and in our case
+     we are interested in getting a response the fastest way possible.
 
-    Returns:
-      tuple: A tuple containing the inputs and labels (inputs, labels).
+     Args:
+       sentence (str): The sentence to process.
+       stemming (bool): Whether to stem the tokens.
+
+     Returns:
+       str: The processed sentence
     """
-    bare_sentence = sentence.replace(dep_token, "").replace(arr_token, "")
-    departure = get_tagged_content(sentence, dep_token)
-    arrival = get_tagged_content(sentence, arr_token)
-    tokenized_sentence = nltk.word_tokenize(bare_sentence)
-    labels = []
-    inputs = []
+    tokenized_sentence = nltk.word_tokenize(sentence)
+    stemmer = nltk.stem.snowball.FrenchStemmer()
+
+    processed_sentence = ""
+
     for token in tokenized_sentence:
-        if token in departure:
-            departure_labels = [2] * len(token)
-            labels.extend(departure_labels)
-        elif token in arrival:
-            arrival_labels = [3] * len(token)
-            labels.extend(arrival_labels)
-        else:
-            default_labels = [1] * len(token)
-            labels.extend(default_labels)
-        int_chars = [ord(char) for char in token]
-        inputs.extend(int_chars)
+        token = token if not stemming else stemmer.stem(token)
+        processed_sentence += token + " "
 
-    return (inputs, labels)
+    processed_sentence = processed_sentence.strip()
+
+    return processed_sentence
 
 
 def convert_tagged_sentence_to_bio(
@@ -161,9 +156,12 @@ def from_tagged_file_to_bio_file(
             file.write(bio_format + "\n")
 
 
-def from_bio_file_to_examples(file_path: str) -> tuple:
+def from_bio_file_to_examples(file_path: str, process_sentence: bool = False) -> tuple:
     """
-    Given a file path, read the file and convert the content to a tuple of inputs and labels.
+    Given a file path, read the file and convert the content to a tuple of sentences and their respective labels vectors.
+
+    **Note**: We are stemming the tokens instead of lemmatizing them because stemming is faster and in our case
+    we are interested in getting a response the fastest way possible.
 
     Args:
       file_path (str): The path to the file to read.
@@ -172,12 +170,13 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
       tuple: A tuple containing the inputs and labels (inputs, labels).
     """
     stop_sentences = [".", "?", "!"]
+    stemmer = nltk.stem.snowball.FrenchStemmer()
 
     with open(file_path, "r") as file:
         content = file.read()
     lines = content.split("\n")
 
-    inputs = []
+    sentences = []
     labels = []
 
     unique_labels = set()
@@ -187,6 +186,11 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
         if (len(line.split(" "))) < 2:
             continue
         word, label = line.split(" ")
+        label = (
+            "-".join(label.split("-")[-2:])
+            if label.startswith("B") or label.startswith("I")
+            else label
+        )
         unique_labels.add(label)
 
     unique_labels = list(unique_labels)
@@ -195,25 +199,34 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
     unique_labels = sorted(unique_labels, key=lambda x: (x != "O", x))
 
     # mapping labels to ids
-    unique_labels = {label: i + 1 for i, label in enumerate(unique_labels)}
+    unique_labels = {label: i for i, label in enumerate(unique_labels)}
 
-    sentence_logits = []
+    # tracking the vocabulary
+    vocab = set()
+
+    sentence_words = []
     sentence_labels = []
     for line in lines:
         if (len(line.split(" "))) < 2:
             continue
         word, label = line.split(" ")
-        ascii_code_chars = [ord(char) for char in word]
-        chars_labels = [unique_labels[label]] * len(ascii_code_chars)
-        sentence_logits.extend(ascii_code_chars)
-        sentence_labels.extend(chars_labels)
+        label = (
+            "-".join(label.split("-")[-2:])
+            if label.startswith("B") or label.startswith("I")
+            else label
+        )
+        word = word if not process_sentence else stemmer.stem(word)
+        label = unique_labels[label]
+        sentence_words.append(word)
+        sentence_labels.append(label)
+        vocab.add(word)
         if word in stop_sentences:
-            inputs.append(sentence_logits)
+            sentences.append(" ".join(sentence_words))
             labels.append(sentence_labels)
-            sentence_logits = []
+            sentence_words = []
             sentence_labels = []
 
-    return (inputs, labels)
+    return (sentences, labels, vocab, unique_labels)
 
 
 def from_examples_to_tf_dataset(
