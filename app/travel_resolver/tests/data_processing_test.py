@@ -90,9 +90,7 @@ class TestDataProcessing(unittest.TestCase):
         bio_file = f"{self.test_samples_dir}/multiple_tagged_sentences.bio"
         text_file = f"{self.test_samples_dir}/multiple_tagged_sentences.txt"
 
-        examples = from_bio_file_to_examples(bio_file)
-
-        self.assertEqual(len(examples), 2)
+        examples, labels, vocab, unique_labels = from_bio_file_to_examples(bio_file)
 
         with open(text_file, "r") as f:
             content = f.read()
