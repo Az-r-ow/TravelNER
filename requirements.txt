@@ -5,3 +5,5 @@ tqdm==4.66.5
 seaborn
 pillow
 matplotlib
+scikit-learn
+hmmlearn # for hidden markov models

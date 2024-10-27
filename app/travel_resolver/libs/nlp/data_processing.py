@@ -37,6 +37,7 @@ def get_tagged_content(sentence: str, tag: str) -> str | None:
 def process_sentence(
     sentence: str,
     stemming: bool = False,
+    return_tokens: bool = False,
 ) -> str:
     """
     Given a sentence, apply some processing techniques to the sentence and return the processed sentence
@@ -62,7 +63,7 @@ def process_sentence(
 
     processed_sentence = processed_sentence.strip()
 
-    return processed_sentence
+    return processed_sentence if not return_tokens else process_sentence.split("")
 
 
 def convert_tagged_sentence_to_bio(
