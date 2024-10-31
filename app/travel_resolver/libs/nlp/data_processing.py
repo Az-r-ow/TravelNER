@@ -6,6 +6,8 @@ from tqdm import tqdm
 # Should skip if resources found
 nltk.download("punkt_tab")
 
+stopwords = nltk.corpus.stopwords.words("french")
+
 
 def get_tagged_content(sentence: str, tag: str) -> str | None:
     """
@@ -38,6 +40,7 @@ def process_sentence(
     sentence: str,
     stemming: bool = False,
     return_tokens: bool = False,
+    labels_to_adapt: list[int | str] | None = None,
 ) -> str:
     """
     Given a sentence, apply some processing techniques to the sentence and return the processed sentence
@@ -48,22 +51,36 @@ def process_sentence(
      Args:
        sentence (str): The sentence to process.
        stemming (bool): Whether to stem the tokens.
+       return_tokens (bool): Whether to return the tokens instead of the sentence.
+       labels_to_adapt (list[int | str] | None): The labels to adapt.
 
      Returns:
-       str: The processed sentence
+       str | list | (list | str, list): The processed sentence or the processed sentence and the adapted labels based on what's left in the sentence.
     """
     tokenized_sentence = nltk.word_tokenize(sentence)
     stemmer = nltk.stem.snowball.FrenchStemmer()
-
+    return_labels = bool(labels_to_adapt)
+    labels_to_adapt = (
+        [0] * len(tokenized_sentence) if not labels_to_adapt else labels_to_adapt
+    )  # default labels
+    labels = []
     processed_sentence = ""
 
-    for token in tokenized_sentence:
+    for token, label in zip(tokenized_sentence, labels_to_adapt):
+        # Skipping stopwords
+        if token in stopwords:
+            continue
         token = token if not stemming else stemmer.stem(token)
         processed_sentence += token + " "
+        labels.append(label)
 
     processed_sentence = processed_sentence.strip()
 
-    return processed_sentence if not return_tokens else process_sentence.split("")
+    processed_sentence = (
+        processed_sentence if not return_tokens else processed_sentence.split(" ")
+    )
+
+    return processed_sentence if not return_labels else (processed_sentence, labels)
 
 
 def convert_tagged_sentence_to_bio(
@@ -157,7 +174,7 @@ def from_tagged_file_to_bio_file(
             file.write(bio_format + "\n")
 
 
-def from_bio_file_to_examples(file_path: str, process_sentence: bool = False) -> tuple:
+def from_bio_file_to_examples(file_path: str) -> tuple:
     """
     Given a file path, read the file and convert the content to a tuple of sentences and their respective labels vectors.
 
@@ -216,7 +233,6 @@ def from_bio_file_to_examples(file_path: str, process_sentence: bool = False) ->
             if label.startswith("B") or label.startswith("I")
             else label
         )
-        word = word if not process_sentence else stemmer.stem(word)
         label = unique_labels[label]
         sentence_words.append(word)
         sentence_labels.append(label)
