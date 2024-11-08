@@ -188,7 +188,6 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
       tuple: A tuple containing the inputs and labels (inputs, labels).
     """
     stop_sentences = [".", "?", "!"]
-    stemmer = nltk.stem.snowball.FrenchStemmer()
 
     with open(file_path, "r") as file:
         content = file.read()
