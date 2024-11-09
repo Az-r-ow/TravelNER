@@ -169,3 +169,6 @@ output.*
 
 # Remove vscode settings
 .vscode
+
+# Remove macos ds store
+.DS_Store
