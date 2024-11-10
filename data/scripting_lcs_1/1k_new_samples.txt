@@ -1,957 +1,944 @@
-Le bus quitte <Dep>SAINT-MELOIR-DES-ONDES<Dep> et se dirige vers <Arr>GARNAY<Arr>.
-J'ai besoin d'un vol qui part de <Dep>HAM-EN-ARTOIS<Dep> et arrive à <Arr>USTARITZ<Arr>.
-Prévoyez mon départ depuis <Dep>BLOIS<Dep> jusqu'à <Arr>OSTRICOURT<Arr>.
-Mon vol part de <Dep>ORGON<Dep> et arrivera à <Arr>MEZERIAT<Arr>.
-Trouve un billet de train qui part de <Dep>VILLARD-BONNOT<Dep> à destination de <Arr>LA VERRIERE<Arr>.
-Mon vol part de <Dep>MARGIVAL<Dep> et arrivera à <Arr>SAINT-GEOURS-DE-MAREMNE<Arr>.
-Un vol qui part de <Dep>LOOS<Dep> et arrive à <Arr>COMMENTRY<Arr> serait parfait.
-Le bus quitte <Dep>VERGIGNY<Dep> et se dirige vers <Arr>SAINT-ETIENNE<Arr>.
-Mon vol part de <Dep>METZERAL<Dep> et arrivera à <Arr>MOOSCH<Arr>.
-Un vol qui part de <Dep>HAGETMAU<Dep> et arrive à <Arr>NEGRONDES<Arr> serait parfait.
-Réservez un train de <Dep>ENGENVILLE<Dep> vers <Arr>SAINT-JUST-EN-CHAUSSEE<Arr>.Quel est le prochain train de <Dep>LE BREUIL-SUR-COUZE<Dep> à <Arr>Genève</Arr> ?
-Je voudrais réserver un vol de <Dep>CORBEIL-ESSONNES<Dep> pour <Arr>CANNES<Arr>.
-Prévoyez mon départ depuis <Dep>LES CLAYES-SOUS-BOIS<Dep> jusqu'à <Arr>MIRAMAS<Arr>.
-Je recherche un train de <Dep>LUXE<Dep> à <Arr>PARIS<Arr>.
-Réservez un train de <Dep>AIX-EN-PROVENCE<Dep> vers <Arr>SEVRAN<Arr>.Mon trajet commence à <Dep>LIMOGES<Dep> et se termine à <Arr>TULLINS<Arr>.
-Mon itinéraire comprend un départ de <Dep>CUERS<Dep> pour <Arr>PINEUILH<Arr>.
-Je recherche un train de <Dep>RUFFEY-LES-ECHIREY<Dep> à <Arr>PARIS<Arr>.
-Prévoyez mon départ depuis <Dep>AVRANCHES<Dep> jusqu'à <Arr>COLROY-LA-ROCHE<Arr>.
-Le prochain bus va de <Dep>GRIESBACH-AU-VAL<Dep> à <Arr>BLAISY-BAS<Arr>.
-Prévoyez mon départ depuis <Dep>BANNALEC<Dep> jusqu'à <Arr>AVOUDREY<Arr>.
-Je voudrais réserver un vol de <Dep>BOVES<Dep> pour <Arr>VERVINS<Arr>.
-Quel est le prochain train de <Dep>BIFFONTAINE<Dep> à <Arr>Genève</Arr> ?
-Prévoyez mon départ depuis <Dep>SALLAUMINES<Dep> jusqu'à <Arr>SAINT-LO<Arr>.
-Je pars de <Dep>LA MEILLERAIE-TILLAY<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Trouve un billet de train qui part de <Dep>LIVRY-SUR-SEINE<Dep> à destination de <Arr>CASTRES<Arr>.
-Prévoyez mon départ depuis <Dep>MULHOUSE<Dep> jusqu'à <Arr>VERGIGNY<Arr>.
-Je dois aller de <Dep>SALAISE-SUR-SANNE<Dep> vers <Arr>ZOUFFTGEN<Arr> la semaine prochaine.
-Mon trajet commence à <Dep>EBBLINGHEM<Dep> et se termine à <Arr>FLEURANCE<Arr>.
-Trouve un billet de train qui part de <Dep>FELLERING<Dep> à destination de <Arr>SAINT-AIGULIN<Arr>.
-Je recherche un train de <Dep>BESSE-SUR-BRAYE<Dep> à <Arr>TONNEINS<Arr>.
-Mon itinéraire comprend un départ de <Dep>DUAULT<Dep> pour <Arr>KALHAUSEN<Arr>.
-Un vol qui part de <Dep>SAINT-GENOUPH<Dep> et arrive à <Arr>VARILHES<Arr> serait parfait.
-Mon itinéraire comprend un départ de <Dep>PLUNERET<Dep> pour <Arr>SAINT-RAMBERT-D'ALBON<Arr>.
-Il me faudrait un billet de <Dep>MARSAC-SUR-L'ISLE<Dep> vers <Arr>FOUG<Arr>.
-Un vol qui part de <Dep>BLAISY-BAS<Dep> et arrive à <Arr>EPFIG<Arr> serait parfait.
-Réservez un train de <Dep>REIGNAC-SUR-INDRE<Dep> vers <Arr>LEPANGES-SUR-VOLOGNE<Arr>.Réservez un train de <Dep>PAU<Dep> vers <Arr>CIRY-LE-NOBLE<Arr>.Le bus quitte <Dep>SENS<Dep> et se dirige vers <Arr>BRIOLLAY<Arr>.
-Réservez un train de <Dep>LE VERNET<Dep> vers <Arr>SAINT-JACQUES-DE-LA-LANDE<Arr>.Un vol qui part de <Dep>PARIS<Dep> et arrive à <Arr>PINON<Arr> serait parfait.
-Quel est le prochain train de <Dep>LAPEYROUSE<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>MARSEILLE<Dep> et arrivera à <Arr>DOMMARY-BARONCOURT<Arr>.
-Mon itinéraire comprend un départ de <Dep>CROIX<Dep> pour <Arr>L'HOSPITALET-PRES-L'ANDORRE<Arr>.
-Trouve un billet de train qui part de <Dep>SAULIEU<Dep> à destination de <Arr>NAINTRE<Arr>.
-Je cherche un vol entre <Dep>PAMIERS<Dep> et <Arr>SAINT-PAUL-DE-FENOUILLET<Arr>.
-Un vol qui part de <Dep>VIERZON<Dep> et arrive à <Arr>ESPIRA-DE-L'AGLY<Arr> serait parfait.
-Prévoyez mon départ depuis <Dep>COURTHEZON<Dep> jusqu'à <Arr>FRASNE<Arr>.
-Il me faudrait un billet de <Dep>DERCY<Dep> vers <Arr>NOMAIN<Arr>.
-Je pars de <Dep>LE POUZIN<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Quel est le prochain train de <Dep>VEUXHAULLES-SUR-AUBE<Dep> à <Arr>Genève</Arr> ?
-Un vol qui part de <Dep>MATZENHEIM<Dep> et arrive à <Arr>LE PEAGE-DE-ROUSSILLON<Arr> serait parfait.
-Je cherche un vol entre <Dep>SAULON-LA-CHAPELLE<Dep> et <Arr>COURTENAY<Arr>.
-Un vol qui part de <Dep>LA GRAND-COMBE<Dep> et arrive à <Arr>BOURGS SUR COLAGNE<Arr> serait parfait.
-Je veux partir de <Dep>MAZEYRAT-D'ALLIER<Dep> pour arriver à <Arr>PLANES<Arr> demain.
-Trouve-moi un billet pour un départ depuis <Dep>PONTGIBAUD<Dep> jusqu’à <Arr>MONTAUBAN-DE-BRETAGNE<Arr>.
-Je cherche un vol entre <Dep>FORMERIE<Dep> et <Arr>LE HOULME<Arr>.
-Prévoyez mon départ depuis <Dep>RIVES<Dep> jusqu'à <Arr>CHINDRIEUX<Arr>.
-Je recherche un train de <Dep>RINXENT<Dep> à <Arr>LEVAL<Arr>.
-Le bus quitte <Dep>VAL-DES-MARAIS<Dep> et se dirige vers <Arr>LIMOGES<Arr>.
-Un vol qui part de <Dep>BAISIEUX<Dep> et arrive à <Arr>LA CHARTRE-SUR-LE-LOIR<Arr> serait parfait.
-Je veux partir de <Dep>QUIMPERLE<Dep> pour arriver à <Arr>SIERCK-LES-BAINS<Arr> demain.
-Trouve-moi un billet pour un départ depuis <Dep>ALES<Dep> jusqu’à <Arr>SUCY-EN-BRIE<Arr>.
-Prévoyez mon départ depuis <Dep>CRANCEY<Dep> jusqu'à <Arr>ARGENTON-SUR-CREUSE<Arr>.
-Mon itinéraire comprend un départ de <Dep>SULLY-SUR-LOIRE<Dep> pour <Arr>CORCY<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>ERMONT<Dep> jusqu’à <Arr>LA GUIERCHE<Arr>.
-Je cherche un vol entre <Dep>MARSEILLE<Dep> et <Arr>REDON<Arr>.
-Il me faudrait un billet de <Dep>AILLY-SUR-SOMME<Dep> vers <Arr>ETAMPES<Arr>.
-Quel est le prochain train de <Dep>GENSAC-LA-PALLUE<Dep> à <Arr>Genève</Arr> ?
-Je recherche un train de <Dep>WALBOURG<Dep> à <Arr>CAHORS<Arr>.
-Il me faudrait un billet de <Dep>NOYEN-SUR-SARTHE<Dep> vers <Arr>VILLEFORT<Arr>.
-Quel est le prochain train de <Dep>CHATEAU-RENAULT<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>VARENNES-SUR-SEINE<Dep> et arrivera à <Arr>MOUZON<Arr>.
-Un vol de <Dep>MONTMELIAN<Dep> vers <Arr>PARIS<Arr> m'intéresse.
-Trouve un billet de train qui part de <Dep>HUNDLING<Dep> à destination de <Arr>CIRY-SALSOGNE<Arr>.
-Je recherche un train de <Dep>BOURG-EN-BRESSE<Dep> à <Arr>BESSAY-SUR-ALLIER<Arr>.
-Je dois aller de <Dep>LE CATEAU-CAMBRESIS<Dep> vers <Arr>URT<Arr> la semaine prochaine.
-Quel est le prochain train de <Dep>PLENEE-JUGON<Dep> à <Arr>Genève</Arr> ?
-Mon trajet commence à <Dep>CAZERES<Dep> et se termine à <Arr>SAINT-CYR-EN-VAL<Arr>.
-Il me faudrait un billet de <Dep>SAINT-POL-DE-LEON<Dep> vers <Arr>EZE<Arr>.
-Mon itinéraire comprend un départ de <Dep>VIDAUBAN<Dep> pour <Arr>VIRE NORMANDIE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>CHANTONNAY<Dep> jusqu’à <Arr>VENDOME<Arr>.
-Je veux partir de <Dep>BRETIGNY-SUR-ORGE<Dep> pour arriver à <Arr>AULNAY-SOUS-BOIS<Arr> demain.
-Quel est le prochain train de <Dep>ORRY-LA-VILLE<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>VIAS<Dep> et arrivera à <Arr>FROUARD<Arr>.
-J'ai besoin d'un vol qui part de <Dep>BARENTIN<Dep> et arrive à <Arr>SAINT-AY<Arr>.
-Je recherche un train de <Dep>SERDINYA<Dep> à <Arr>ECOUFLANT<Arr>.
-Il me faudrait un billet de <Dep>LE MEUX<Dep> vers <Arr>TEILLE<Arr>.
-Quel est le prochain train de <Dep>DINAN<Dep> à <Arr>Genève</Arr> ?
-Le bus quitte <Dep>LACAPELLE-VIESCAMP<Dep> et se dirige vers <Arr>BRENY<Arr>.
-Quel est le prochain train de <Dep>MARSEILLE<Dep> à <Arr>Genève</Arr> ?
-Le bus quitte <Dep>LOUVIGNY<Dep> et se dirige vers <Arr>DORDIVES<Arr>.
-Un vol de <Dep>US<Dep> vers <Arr>VIRVILLE<Arr> m'intéresse.
-Prévoyez mon départ depuis <Dep>DECIZE<Dep> jusqu'à <Arr>VIEUX-THANN<Arr>.
-Réservez un train de <Dep>MILHAUD<Dep> vers <Arr>MOUTIERS<Arr>.Réservez un train de <Dep>GEISPOLSHEIM<Dep> vers <Arr>SAINT-ROMAIN-LE-PUY<Arr>.Je voudrais réserver un vol de <Dep>LILLERS<Dep> pour <Arr>FLEURANCE<Arr>.
-Il me faudrait un billet de <Dep>CHALONNES-SUR-LOIRE<Dep> vers <Arr>CHAMPIGNY<Arr>.
-Réservez un train de <Dep>GOURDON<Dep> vers <Arr>DEUIL-LA-BARRE<Arr>.Je dois aller de <Dep>ORGON<Dep> vers <Arr>VILLEPINTE<Arr> la semaine prochaine.
-Réservez un train de <Dep>EVETTE-SALBERT<Dep> vers <Arr>MARCILLY-SUR-TILLE<Arr>.Trouve-moi un billet pour un départ depuis <Dep>SAINT-HILAIRE-PEYROUX<Dep> jusqu’à <Arr>BORDEAUX<Arr>.
-Je recherche un train de <Dep>LANGRES<Dep> à <Arr>AVION<Arr>.
-Un vol de <Dep>SAINCAIZE-MEAUCE<Dep> vers <Arr>DACHSTEIN<Arr> m'intéresse.
-Trouve-moi un billet pour un départ depuis <Dep>LA MEILLERAIE-TILLAY<Dep> jusqu’à <Arr>PARIS<Arr>.
-Je voudrais réserver un vol de <Dep>MOON-SUR-ELLE<Dep> pour <Arr>MORET-LOING-ET-ORVANNE<Arr>.
-Je pars de <Dep>CRECY-LA-CHAPELLE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je cherche un vol entre <Dep>PORT-SAINT-LOUIS-DU-RHONE<Dep> et <Arr>AIX-EN-PROVENCE<Arr>.
-Prévoyez mon départ depuis <Dep>LIANCOURT-SAINT-PIERRE<Dep> jusqu'à <Arr>BREAUTE<Arr>.
-Le prochain bus va de <Dep>AVIGNON<Dep> à <Arr>CHATILLON<Arr>.
-Je dois aller de <Dep>COUTRAS<Dep> vers <Arr>HUNINGUE<Arr> la semaine prochaine.
-Je dois aller de <Dep>LOUHANS<Dep> vers <Arr>LE BUGUE<Arr> la semaine prochaine.
-Un vol de <Dep>AVON<Dep> vers <Arr>JAUNAY-MARIGNY<Arr> m'intéresse.
-Mon vol part de <Dep>BUZY<Dep> et arrivera à <Arr>PLOURIVO<Arr>.
-Trouve un billet de train qui part de <Dep>CHAMPAGNE-SUR-OISE<Dep> à destination de <Arr>RIA-SIRACH<Arr>.
-Un vol qui part de <Dep>ANOR<Dep> et arrive à <Arr>CRECY-LA-CHAPELLE<Arr> serait parfait.
-Je veux partir de <Dep>LESTELLE-DE-SAINT-MARTORY<Dep> pour arriver à <Arr>LILLE<Arr> demain.
-J'ai besoin d'un vol qui part de <Dep>DEVECEY<Dep> et arrive à <Arr>SAINT-HILAIRE-DE-VILLEFRANCHE<Arr>.
-Mon itinéraire comprend un départ de <Dep>LONGECOURT-EN-PLAINE<Dep> pour <Arr>SOLLIES-PONT<Arr>.
-Un vol de <Dep>BASSE-HAM<Dep> vers <Arr>LA CHAPELLE-DE-GUINCHAY<Arr> m'intéresse.
-Je veux partir de <Dep>CHAMPIGNY<Dep> pour arriver à <Arr>SAINT-FARGEAU-PONTHIERRY<Arr> demain.
-Le bus quitte <Dep>BYANS-SUR-DOUBS<Dep> et se dirige vers <Arr>RUX<Arr>.
-Réservez un train de <Dep>IMPHY<Dep> vers <Arr>BEAUVOIR-SUR-NIORT<Arr>.Je pars de <Dep>SOTTEVILLE-LES-ROUEN<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Trouve un billet de train qui part de <Dep>MARCILLY-SUR-TILLE<Dep> à destination de <Arr>LIMAY<Arr>.
-Mon trajet commence à <Dep>GAZERAN<Dep> et se termine à <Arr>PARIS<Arr>.
-Je cherche un vol entre <Dep>HERNY<Dep> et <Arr>PATAY<Arr>.
-Il me faudrait un billet de <Dep>LE MALESHERBOIS<Dep> vers <Arr>ENTZHEIM<Arr>.
-Il me faudrait un billet de <Dep>WIMILLE<Dep> vers <Arr>ESPIRA-DE-L'AGLY<Arr>.
-Il me faudrait un billet de <Dep>SAINT-ETIENNE<Dep> vers <Arr>RICHWILLER<Arr>.
-Je dois aller de <Dep>SAILLANS<Dep> vers <Arr>LE VIEUX-MARCHE<Arr> la semaine prochaine.
-Mon vol part de <Dep>GAMBSHEIM<Dep> et arrivera à <Arr>BEAUVOISIN<Arr>.
-Trouve un billet de train qui part de <Dep>US<Dep> à destination de <Arr>LA ROCHELLE<Arr>.
-Je cherche un vol entre <Dep>LUZY<Dep> et <Arr>LE CHATEAU-D'ALMENECHES<Arr>.
-Je dois aller de <Dep>ERMONT<Dep> vers <Arr>CONDE-SUR-VIRE<Arr> la semaine prochaine.
-Un vol qui part de <Dep>LUS-LA-CROIX-HAUTE<Dep> et arrive à <Arr>PUTEAUX<Arr> serait parfait.
-Mon vol part de <Dep>LA CHAPELLE-SUR-LOIRE<Dep> et arrivera à <Arr>MONTDIDIER<Arr>.
-Le prochain bus va de <Dep>PARIS<Dep> à <Arr>RUFFEY-LES-ECHIREY<Arr>.
-Je recherche un train de <Dep>LA TOUR-DU-PIN<Dep> à <Arr>PORT-DE-BOUC<Arr>.
-Trouve un billet de train qui part de <Dep>GAMBSHEIM<Dep> à destination de <Arr>SEREZIN-DU-RHONE<Arr>.
-Je voudrais réserver un vol de <Dep>LAPEYROUSE<Dep> pour <Arr>CORCY<Arr>.
-Mon itinéraire comprend un départ de <Dep>VARENNES-SUR-ALLIER<Dep> pour <Arr>PONT-SAINT-VINCENT<Arr>.
-Je dois aller de <Dep>OLETTE<Dep> vers <Arr>DOUAI<Arr> la semaine prochaine.
-Mon trajet commence à <Dep>PEYRILLES<Dep> et se termine à <Arr>LA ROCHEFOUCAULD-EN-ANGOUMOIS<Arr>.
-Un vol de <Dep>CHAMONIX-MONT-BLANC<Dep> vers <Arr>TROIS-RIVIERES<Arr> m'intéresse.
-J'ai besoin d'un vol qui part de <Dep>MONDOUBLEAU<Dep> et arrive à <Arr>COLOMBIER-SAUGNIEU<Arr>.
-Trouve un billet de train qui part de <Dep>MAXILLY-SUR-SAONE<Dep> à destination de <Arr>LE GRAND-LEMPS<Arr>.
-Je pars de <Dep>PAGNY-SUR-MOSELLE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Mon itinéraire comprend un départ de <Dep>LUTTENBACH-PRES-MUNSTER<Dep> pour <Arr>MALAUSE<Arr>.
-Quel est le prochain train de <Dep>LEVAL<Dep> à <Arr>Genève</Arr> ?
-Réservez un train de <Dep>CHEVILLY<Dep> vers <Arr>MOUZON<Arr>.Quel est le prochain train de <Dep>VARENNES-VAUZELLES<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>COURNON-D'AUVERGNE<Dep> et arrivera à <Arr>SERQUIGNY<Arr>.
-Réservez un train de <Dep>LE ROUGET-PERS<Dep> vers <Arr>ANCENIS-SAINT-GEREON<Arr>.Quel est le prochain train de <Dep>PARIS<Dep> à <Arr>Genève</Arr> ?
-Je veux partir de <Dep>MUIZON<Dep> pour arriver à <Arr>MAZINGARBE<Arr> demain.
-Un vol qui part de <Dep>PURE<Dep> et arrive à <Arr>ERSTEIN<Arr> serait parfait.
-Je pars de <Dep>LONGPRE-LES-CORPS-SAINTS<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-J'ai besoin d'un vol qui part de <Dep>ROUEN<Dep> et arrive à <Arr>GRANDVILLIERS<Arr>.
-Il me faudrait un billet de <Dep>LE VIEUX-MARCHE<Dep> vers <Arr>L'ETANG-LA-VILLE<Arr>.
-Mon trajet commence à <Dep>PARIS<Dep> et se termine à <Arr>MOIRANS<Arr>.
-Le prochain bus va de <Dep>AILLY-SUR-SOMME<Dep> à <Arr>VILLEPINTE<Arr>.
-Un vol de <Dep>DIEMERINGEN<Dep> vers <Arr>LUXE<Arr> m'intéresse.
-Un vol qui part de <Dep>ARRAS<Dep> et arrive à <Arr>ALLENC<Arr> serait parfait.
-Mon vol part de <Dep>LES SABLES-D'OLONNE<Dep> et arrivera à <Arr>NANTES<Arr>.
-Je recherche un train de <Dep>CREIL<Dep> à <Arr>ARTIX<Arr>.
-Réservez un train de <Dep>ARC-LES-GRAY<Dep> vers <Arr>SEZANNE<Arr>.Je veux partir de <Dep>TIERCE<Dep> pour arriver à <Arr>AVIGNON<Arr> demain.
-Un vol de <Dep>BRIENON-SUR-ARMANCON<Dep> vers <Arr>MANDELIEU-LA-NAPOULE<Arr> m'intéresse.
-Le bus quitte <Dep>SAINT-JEAN-PIED-DE-PORT<Dep> et se dirige vers <Arr>BOHAIN-EN-VERMANDOIS<Arr>.
-Un vol qui part de <Dep>MARTIGUES<Dep> et arrive à <Arr>AIGUILLON<Arr> serait parfait.
-Réservez un train de <Dep>MACHECOUL-SAINT-MEME<Dep> vers <Arr>SAINT-BONNET-DE-ROCHEFORT<Arr>.Il me faudrait un billet de <Dep>PRE-EN-PAIL-SAINT-SAMSON<Dep> vers <Arr>LES MARTRES-DE-VEYRE<Arr>.
-Le prochain bus va de <Dep>VAL-DE-VIRIEU<Dep> à <Arr>AIME-LA-PLAGNE<Arr>.
-Il me faudrait un billet de <Dep>GRACES<Dep> vers <Arr>CHEVREMONT<Arr>.
-Mon vol part de <Dep>THIVIERS<Dep> et arrivera à <Arr>CHAMPAGNE<Arr>.
-Un vol qui part de <Dep>PEROLS-SUR-VEZERE<Dep> et arrive à <Arr>ENVEITG<Arr> serait parfait.
-Je cherche un vol entre <Dep>BIARRITZ<Dep> et <Arr>SAINT-DENIS-DES-MURS<Arr>.
-Mon trajet commence à <Dep>POIX-TERRON<Dep> et se termine à <Arr>MONTABARD<Arr>.
-Le bus quitte <Dep>SAUSSET-LES-PINS<Dep> et se dirige vers <Arr>ROINVILLE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>SAINT-VALERY-EN-CAUX<Dep> et arrive à <Arr>AILLY-SUR-NOYE<Arr>.
-Un vol qui part de <Dep>L'AIGLE<Dep> et arrive à <Arr>FAULQUEMONT<Arr> serait parfait.
-Le prochain bus va de <Dep>VIAS<Dep> à <Arr>VALLON-EN-SULLY<Arr>.
-Je dois aller de <Dep>ANTIBES<Dep> vers <Arr>BERRE-L'ETANG<Arr> la semaine prochaine.
-Mon vol part de <Dep>LUDON-MEDOC<Dep> et arrivera à <Arr>NOISY-LE-GRAND<Arr>.
-Mon trajet commence à <Dep>CREST<Dep> et se termine à <Arr>SAINT-AUBIN-LES-ELBEUF<Arr>.
-Trouve un billet de train qui part de <Dep>MONTRABE<Dep> à destination de <Arr>WIMILLE<Arr>.
-Un vol de <Dep>NOMAIN<Dep> vers <Arr>VERTAIZON<Arr> m'intéresse.
-J'ai besoin d'un vol qui part de <Dep>BLODELSHEIM<Dep> et arrive à <Arr>HUNDLING<Arr>.
-Je pars de <Dep>BALAGNY-SUR-THERAIN<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Mon vol part de <Dep>PORTES-LES-VALENCE<Dep> et arrivera à <Arr>SAINT-LAURENT-D'AIGOUZE<Arr>.
-Le bus quitte <Dep>ESCLANEDES<Dep> et se dirige vers <Arr>BENESTROFF<Arr>.
-Le bus quitte <Dep>CUSSET<Dep> et se dirige vers <Arr>SURGERES<Arr>.
-Je cherche un vol entre <Dep>MOUZON<Dep> et <Arr>CLERMONT-LES-FERMES<Arr>.
-Je dois aller de <Dep>PINEUILH<Dep> vers <Arr>LA CHAUMUSSE<Arr> la semaine prochaine.
-Le prochain bus va de <Dep>MUNCHHAUSEN<Dep> à <Arr>VILLIERS-SUR-MARNE<Arr>.
-Prévoyez mon départ depuis <Dep>ARMENTIERES<Dep> jusqu'à <Arr>TONNEINS<Arr>.
-Réservez un train de <Dep>JOUY<Dep> vers <Arr>AVIGNON<Arr>.Je dois aller de <Dep>LA RIVIERE-DRUGEON<Dep> vers <Arr>CAP-D'AIL<Arr> la semaine prochaine.
-Mon vol part de <Dep>THOIRY<Dep> et arrivera à <Arr>VILLEPINTE<Arr>.
-Prévoyez mon départ depuis <Dep>CHINON<Dep> jusqu'à <Arr>VICHY<Arr>.
-Réservez un train de <Dep>MONTOIRE-SUR-LE-LOIR<Dep> vers <Arr>COGNAC<Arr>.Mon vol part de <Dep>MORTEAU<Dep> et arrivera à <Arr>SCHILTIGHEIM<Arr>.
-Un vol de <Dep>SAINT-PIERRE-LE-VIGER<Dep> vers <Arr>PARIS<Arr> m'intéresse.
-Le bus quitte <Dep>SAINT-PRIEST-TAURION<Dep> et se dirige vers <Arr>LONGJUMEAU<Arr>.
-Le bus quitte <Dep>VALSERHONE<Dep> et se dirige vers <Arr>CHAMPLAN<Arr>.
-Je dois aller de <Dep>VOIVRES-LES-LE-MANS<Dep> vers <Arr>LA ROCHE-SUR-YON<Arr> la semaine prochaine.
-Mon trajet commence à <Dep>COUDEKERQUE-BRANCHE<Dep> et se termine à <Arr>DUGNY-SUR-MEUSE<Arr>.
-Prévoyez mon départ depuis <Dep>COUDEKERQUE-BRANCHE<Dep> jusqu'à <Arr>MANDUEL<Arr>.
-Trouve un billet de train qui part de <Dep>SASSENAY<Dep> à destination de <Arr>VERSAILLES<Arr>.
-Trouve un billet de train qui part de <Dep>LA MEILLERAIE-TILLAY<Dep> à destination de <Arr>AVIGNON<Arr>.
-Je pars de <Dep>RILLIEUX-LA-PAPE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je dois aller de <Dep>VITTEL<Dep> vers <Arr>SAINT-GENIES-DE-MALGOIRES<Arr> la semaine prochaine.
-Mon vol part de <Dep>MANDUEL<Dep> et arrivera à <Arr>SAINT-JULIEN-EN-GENEVOIS<Arr>.
-Mon vol part de <Dep>MAUZAC-ET-GRAND-CASTANG<Dep> et arrivera à <Arr>MORCENX-LA-NOUVELLE<Arr>.
-Un vol qui part de <Dep>PLECHATEL<Dep> et arrive à <Arr>NEUILLY-SUR-MARNE<Arr> serait parfait.
-Quel est le prochain train de <Dep>FUVEAU<Dep> à <Arr>Genève</Arr> ?
-Un vol qui part de <Dep>FERE-CHAMPENOISE<Dep> et arrive à <Arr>MENDE<Arr> serait parfait.
-Je cherche un vol entre <Dep>BEAUREPAIRE<Dep> et <Arr>VARENNES-SUR-SEINE<Arr>.
-Mon vol part de <Dep>GIVORS<Dep> et arrivera à <Arr>SAINT-BRANDAN<Arr>.
-Mon trajet commence à <Dep>ABANCOURT<Dep> et se termine à <Arr>ANTIBES<Arr>.
-Un vol qui part de <Dep>MONTBRISON<Dep> et arrive à <Arr>SAINT-ANTOINE-DU-ROCHER<Arr> serait parfait.
-Prévoyez mon départ depuis <Dep>NUISEMENT-SUR-COOLE<Dep> jusqu'à <Arr>BOURG-EN-BRESSE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>PARSAC-RIMONDEIX<Dep> et arrive à <Arr>PONTRIEUX<Arr>.
-Je veux partir de <Dep>FONTENOY-SUR-MOSELLE<Dep> pour arriver à <Arr>ESBLY<Arr> demain.
-Mon vol part de <Dep>CHATEAUNEUF-SUR-ISERE<Dep> et arrivera à <Arr>LES HOUCHES<Arr>.
-Je dois aller de <Dep>MAROLLES<Dep> vers <Arr>VALLON-EN-SULLY<Arr> la semaine prochaine.
-Mon itinéraire comprend un départ de <Dep>SAINT-SOLVE<Dep> pour <Arr>DEAUVILLE<Arr>.
-Le bus quitte <Dep>PAREMPUYRE<Dep> et se dirige vers <Arr>CLERAC<Arr>.
-Trouve un billet de train qui part de <Dep>MONTBELIARD<Dep> à destination de <Arr>CHAUMONT<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>LE THEIL-DE-BRETAGNE<Dep> jusqu’à <Arr>CHASSENEUIL-SUR-BONNIEURE<Arr>.
-Un vol de <Dep>JOUE-LES-TOURS<Dep> vers <Arr>VICHY<Arr> m'intéresse.
-Je veux partir de <Dep>VIELMUR-SUR-AGOUT<Dep> pour arriver à <Arr>MONTMEDY<Arr> demain.
-Trouve un billet de train qui part de <Dep>PERRIGNIER<Dep> à destination de <Arr>BORDS<Arr>.
-J'ai besoin d'un vol qui part de <Dep>NOUAN-LE-FUZELIER<Dep> et arrive à <Arr>MONTLOUIS-SUR-LOIRE<Arr>.
-Je cherche un vol entre <Dep>LAISSEY<Dep> et <Arr>ELBEUF<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>TENDU<Dep> jusqu’à <Arr>STEENBECQUE<Arr>.
-Prévoyez mon départ depuis <Dep>FRETHUN<Dep> jusqu'à <Arr>TETING-SUR-NIED<Arr>.
-Un vol de <Dep>MAUZAC-ET-GRAND-CASTANG<Dep> vers <Arr>NEXON<Arr> m'intéresse.
-Réservez un train de <Dep>LE MANS<Dep> vers <Arr>VARILHES<Arr>.Quel est le prochain train de <Dep>CHASSE-SUR-RHONE<Dep> à <Arr>Genève</Arr> ?
-Le bus quitte <Dep>GAILLAC<Dep> et se dirige vers <Arr>PROUVY<Arr>.
-Je cherche un vol entre <Dep>LILLE<Dep> et <Arr>AVENAY-VAL-D'OR<Arr>.
-Quel est le prochain train de <Dep>SOLAIZE<Dep> à <Arr>Genève</Arr> ?
-Je voudrais réserver un vol de <Dep>LILLE<Dep> pour <Arr>LIVRY-SUR-SEINE<Arr>.
-Un vol de <Dep>APACH<Dep> vers <Arr>VINCA<Arr> m'intéresse.
-Quel est le prochain train de <Dep>PONTFAVERGER-MORONVILLIERS<Dep> à <Arr>Genève</Arr> ?
-Quel est le prochain train de <Dep>LA FERTE-ALAIS<Dep> à <Arr>Genève</Arr> ?
-Le prochain bus va de <Dep>CAUDIES-DE-FENOUILLEDES<Dep> à <Arr>LA CHARTRE-SUR-LE-LOIR<Arr>.
-Prévoyez mon départ depuis <Dep>LA CHAIZE-LE-VICOMTE<Dep> jusqu'à <Arr>FONTENAY-LE-FLEURY<Arr>.
-Je dois aller de <Dep>EU<Dep> vers <Arr>HERICOURT<Arr> la semaine prochaine.
-Je pars de <Dep>GENNEVILLIERS<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je recherche un train de <Dep>COMPANS<Dep> à <Arr>SAINT-RAMBERT-D'ALBON<Arr>.
-Prévoyez mon départ depuis <Dep>JARNY<Dep> jusqu'à <Arr>JUVISY-SUR-ORGE<Arr>.
-Je recherche un train de <Dep>MARCILLY-SUR-TILLE<Dep> à <Arr>LE VERNET<Arr>.
-Le prochain bus va de <Dep>COMMUNE NOUVELLE D'ARROU<Dep> à <Arr>LUTZELBOURG<Arr>.
-Le bus quitte <Dep>MONTAIGU-VENDEE<Dep> et se dirige vers <Arr>MASSIAC<Arr>.
-J'ai besoin d'un vol qui part de <Dep>HAGUENAU<Dep> et arrive à <Arr>MENNECY<Arr>.
-Le bus quitte <Dep>NERAC<Dep> et se dirige vers <Arr>BAUVIN<Arr>.
-Je dois aller de <Dep>GRACES<Dep> vers <Arr>SAINT-POL-DE-LEON<Arr> la semaine prochaine.
-Mon trajet commence à <Dep>SAINT-AUBIN-DES-LANDES<Dep> et se termine à <Arr>MUNCHHAUSEN<Arr>.
-Je recherche un train de <Dep>SAINT-CERGUES<Dep> à <Arr>VERGIGNY<Arr>.
-Réservez un train de <Dep>NEUVY-PAILLOUX<Dep> vers <Arr>BEAUCAIRE<Arr>.Réservez un train de <Dep>ILLFURTH<Dep> vers <Arr>BEAUREPAIRE<Arr>.Trouve un billet de train qui part de <Dep>MAZEYRAT-D'ALLIER<Dep> à destination de <Arr>MONTROND-LES-BAINS<Arr>.
-Mon vol part de <Dep>RUMINGHEM<Dep> et arrivera à <Arr>FROMENTAL<Arr>.
-Il me faudrait un billet de <Dep>LEZIGNAN-LA-CEBE<Dep> vers <Arr>AIGUEBELETTE-LE-LAC<Arr>.
-Le prochain bus va de <Dep>CHANGIS-SUR-MARNE<Dep> à <Arr>MIRIBEL<Arr>.
-Je cherche un vol entre <Dep>PLOUGONVER<Dep> et <Arr>MUNSTER<Arr>.
-Je dois aller de <Dep>SAINT-GERVAIS-LES-BAINS<Dep> vers <Arr>VOLVIC<Arr> la semaine prochaine.
-Quel est le prochain train de <Dep>OSSEJA<Dep> à <Arr>Genève</Arr> ?
-Je dois aller de <Dep>LOUVERNE<Dep> vers <Arr>VERSAILLES<Arr> la semaine prochaine.
-Trouve un billet de train qui part de <Dep>LES VILLAGES VOVEENS<Dep> à destination de <Arr>DONTRIEN<Arr>.
-J'ai besoin d'un vol qui part de <Dep>MASSY<Dep> et arrive à <Arr>LIPSHEIM<Arr>.
-J'ai besoin d'un vol qui part de <Dep>GRENOBLE<Dep> et arrive à <Arr>BARENTIN<Arr>.
-Il me faudrait un billet de <Dep>BOUCAU<Dep> vers <Arr>GRANDPUITS-BAILLY-CARROIS<Arr>.
-Le bus quitte <Dep>LEGNY<Dep> et se dirige vers <Arr>AUBERGENVILLE<Arr>.
-Trouve un billet de train qui part de <Dep>CHAMONIX-MONT-BLANC<Dep> à destination de <Arr>LATHUS-SAINT-REMY<Arr>.
-Réservez un train de <Dep>LA FALOISE<Dep> vers <Arr>BOUCAU<Arr>.Prévoyez mon départ depuis <Dep>LAVELINE-DEVANT-BRUYERES<Dep> jusqu'à <Arr>LALINDE<Arr>.
-Je voudrais réserver un vol de <Dep>AULNAT<Dep> pour <Arr>DOL-DE-BRETAGNE<Arr>.
-Mon itinéraire comprend un départ de <Dep>BRUMATH<Dep> pour <Arr>L'ESCARENE<Arr>.
-Mon trajet commence à <Dep>BRENY<Dep> et se termine à <Arr>AMIENS<Arr>.
-Je pars de <Dep>ECOLE-VALENTIN<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Mon itinéraire comprend un départ de <Dep>SAINT-ETIENNE<Dep> pour <Arr>HONNECHY<Arr>.
-Prévoyez mon départ depuis <Dep>BUTRY-SUR-OISE<Dep> jusqu'à <Arr>SAINTES<Arr>.
-Je veux partir de <Dep>VILLEFRANCHE-SUR-MER<Dep> pour arriver à <Arr>SAINTE-GAUBURGE-SAINTE-COLOMBE<Arr> demain.
-Il me faudrait un billet de <Dep>PICQUIGNY<Dep> vers <Arr>HAUTS DE BIENNE<Arr>.
-Un vol de <Dep>HOUSSEVILLE<Dep> vers <Arr>STRAZEELE<Arr> m'intéresse.
-J'ai besoin d'un vol qui part de <Dep>MARCQ-EN-BARUL<Dep> et arrive à <Arr>AVEZAC-PRAT-LAHITTE<Arr>.
-Je voudrais réserver un vol de <Dep>SAINT-GERMAIN-EN-LAYE<Dep> pour <Arr>LA TRINITE<Arr>.
-Je cherche un vol entre <Dep>EURVILLE-BIENVILLE<Dep> et <Arr>FLEURY-LES-AUBRAIS<Arr>.
-Mon trajet commence à <Dep>MEULAN-EN-YVELINES<Dep> et se termine à <Arr>MORTAGNE-DU-NORD<Arr>.
-Mon itinéraire comprend un départ de <Dep>PORT-DE-BOUC<Dep> pour <Arr>SAINT-LEONARD-DE-NOBLAT<Arr>.
-Je voudrais réserver un vol de <Dep>MAIZIERES-LES-METZ<Dep> pour <Arr>FLIN<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>CANNES<Dep> jusqu’à <Arr>CHASSENEUIL-DU-POITOU<Arr>.
-Quel est le prochain train de <Dep>EPINAY-SUR-ORGE<Dep> à <Arr>Genève</Arr> ?
-Mon trajet commence à <Dep>TACOIGNIERES<Dep> et se termine à <Arr>MERTZWILLER<Arr>.
-Le bus quitte <Dep>MOOSCH<Dep> et se dirige vers <Arr>AUXERRE<Arr>.
-Le prochain bus va de <Dep>ROMORANTIN-LANTHENAY<Dep> à <Arr>ODEREN<Arr>.
-J'ai besoin d'un vol qui part de <Dep>SOTTEVILLE-LES-ROUEN<Dep> et arrive à <Arr>FAVERNEY<Arr>.
-Je recherche un train de <Dep>GENNEVILLIERS<Dep> à <Arr>REHON<Arr>.
-Quel est le prochain train de <Dep>TAGOLSHEIM<Dep> à <Arr>Genève</Arr> ?
-Le bus quitte <Dep>LE VERDON-SUR-MER<Dep> et se dirige vers <Arr>SARRE-UNION<Arr>.
-Le bus quitte <Dep>VERSAILLES<Dep> et se dirige vers <Arr>MIONNAY<Arr>.
-Il me faudrait un billet de <Dep>HEILLES<Dep> vers <Arr>SCHWEIGHOUSE-SUR-MODER<Arr>.
-Trouve un billet de train qui part de <Dep>COLLEVILLE<Dep> à destination de <Arr>RENNES<Arr>.
-Prévoyez mon départ depuis <Dep>EYMOUTIERS<Dep> jusqu'à <Arr>NICE<Arr>.
-Le prochain bus va de <Dep>MONTMEDY<Dep> à <Arr>LA LOUPE<Arr>.
-Le bus quitte <Dep>LES VILLAGES VOVEENS<Dep> et se dirige vers <Arr>FLEURANCE<Arr>.
-Je veux partir de <Dep>COLOMBIER-FONTAINE<Dep> pour arriver à <Arr>MONT LOZERE ET GOULET<Arr> demain.
-Trouve-moi un billet pour un départ depuis <Dep>CHAUMONT<Dep> jusqu’à <Arr>VERNEUIL-SUR-SEINE<Arr>.
-Je pars de <Dep>CHELLES<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Prévoyez mon départ depuis <Dep>VAL-DE-SCIE<Dep> jusqu'à <Arr>LEROUVILLE<Arr>.
-Réservez un train de <Dep>BONDY<Dep> vers <Arr>VALLENAY<Arr>.Trouve un billet de train qui part de <Dep>VIROFLAY<Dep> à destination de <Arr>MACON<Arr>.
-Un vol de <Dep>VIROFLAY<Dep> vers <Arr>ROUSIES<Arr> m'intéresse.
-Je pars de <Dep>VERSAILLES<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Un vol qui part de <Dep>BITCHE<Dep> et arrive à <Arr>MONTMELIAN<Arr> serait parfait.
-Il me faudrait un billet de <Dep>AISEREY<Dep> vers <Arr>VIDAUBAN<Arr>.
-Mon itinéraire comprend un départ de <Dep>MER<Dep> pour <Arr>BERTHECOURT<Arr>.
-Mon trajet commence à <Dep>LEPANGES-SUR-VOLOGNE<Dep> et se termine à <Arr>PONTRIEUX<Arr>.
-Un vol de <Dep>AVION<Dep> vers <Arr>VAL-DE-VESLE<Arr> m'intéresse.
-Mon trajet commence à <Dep>PONTGIBAUD<Dep> et se termine à <Arr>NIMES<Arr>.
-Je dois aller de <Dep>LYON<Dep> vers <Arr>PARIS<Arr> la semaine prochaine.
-Le prochain bus va de <Dep>L'ETANG-LA-VILLE<Dep> à <Arr>COIGNIERES<Arr>.
-Prévoyez mon départ depuis <Dep>COIGNIERES<Dep> jusqu'à <Arr>SARRANCE<Arr>.
-Je voudrais réserver un vol de <Dep>ZILLISHEIM<Dep> pour <Arr>CORDEMAIS<Arr>.
-Je veux partir de <Dep>BUEIL<Dep> pour arriver à <Arr>PAVILLY<Arr> demain.
-J'ai besoin d'un vol qui part de <Dep>BRAM<Dep> et arrive à <Arr>DIEPPE<Arr>.
-Un vol de <Dep>MIRAMAS<Dep> vers <Arr>MORGNY-LA-POMMERAYE<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>JOUE-LES-TOURS<Dep> pour <Arr>SALINDRES<Arr>.
-Un vol de <Dep>MARQUILLIES<Dep> vers <Arr>EPINAY-SUR-ORGE<Arr> m'intéresse.
-Prévoyez mon départ depuis <Dep>ROSIERES-EN-SANTERRE<Dep> jusqu'à <Arr>SAVY-BERLETTE<Arr>.
-Mon itinéraire comprend un départ de <Dep>TRITH-SAINT-LEGER<Dep> pour <Arr>SAINT-DENIS-CATUS<Arr>.
-Mon trajet commence à <Dep>BREIL-SUR-ROYA<Dep> et se termine à <Arr>VERNASSAL<Arr>.
-Je voudrais réserver un vol de <Dep>NANTES<Dep> pour <Arr>MARCILLY-SUR-TILLE<Arr>.
-Le prochain bus va de <Dep>SAINTES<Dep> à <Arr>CRECY-LA-CHAPELLE<Arr>.
-Un vol qui part de <Dep>BROUE<Dep> et arrive à <Arr>SAINT-DIZIER<Arr> serait parfait.
-Je recherche un train de <Dep>SAINT-LEONARD-DE-NOBLAT<Dep> à <Arr>BRIONNE<Arr>.
-Je pars de <Dep>VAUXAILLON<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Réservez un train de <Dep>PARIS<Dep> vers <Arr>MONT-DE-MARSAN<Arr>.Mon vol part de <Dep>CHASSENEUIL-DU-POITOU<Dep> et arrivera à <Arr>AMBERIEU-EN-BUGEY<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LOON-PLAGE<Dep> et arrive à <Arr>MUILLE-VILLETTE<Arr>.
-Je dois aller de <Dep>FOURMIES<Dep> vers <Arr>PARIS<Arr> la semaine prochaine.
-Le bus quitte <Dep>MOISSAC<Dep> et se dirige vers <Arr>MOURIOUX-VIEILLEVILLE<Arr>.
-Prévoyez mon départ depuis <Dep>BATZ-SUR-MER<Dep> jusqu'à <Arr>CARBONNE<Arr>.
-Je recherche un train de <Dep>VALENCIENNES<Dep> à <Arr>BETHUNE<Arr>.
-Je voudrais réserver un vol de <Dep>ROCHEFORT<Dep> pour <Arr>SAINS-DU-NORD<Arr>.
-Il me faudrait un billet de <Dep>SAINT-JEAN-PLA-DE-CORTS<Dep> vers <Arr>CREST<Arr>.
-Un vol de <Dep>MENNETOU-SUR-CHER<Dep> vers <Arr>KOGENHEIM<Arr> m'intéresse.
-Je voudrais réserver un vol de <Dep>VIGNORY<Dep> pour <Arr>SABLONS SUR HUISNE<Arr>.
-Un vol qui part de <Dep>OISSEL<Dep> et arrive à <Arr>PONTARLIER<Arr> serait parfait.
-Prévoyez mon départ depuis <Dep>PLOUIGNEAU<Dep> jusqu'à <Arr>LOZANNE<Arr>.
-Trouve un billet de train qui part de <Dep>VOREY<Dep> à destination de <Arr>MORTIERS<Arr>.
-Je voudrais réserver un vol de <Dep>MOLSHEIM<Dep> pour <Arr>VOLVIC<Arr>.
-Je cherche un vol entre <Dep>ISSY-LES-MOULINEAUX<Dep> et <Arr>MORTIERS<Arr>.
-Le prochain bus va de <Dep>MAISONS-ALFORT<Dep> à <Arr>ANNEMASSE<Arr>.
-Le bus quitte <Dep>MOOSCH<Dep> et se dirige vers <Arr>COLOMBES<Arr>.
-Je voudrais réserver un vol de <Dep>BROU<Dep> pour <Arr>EVEUX<Arr>.
-Mon itinéraire comprend un départ de <Dep>LES ORMES<Dep> pour <Arr>NEUVILLE-SUR-OISE<Arr>.
-Le prochain bus va de <Dep>PROVENCHERES-ET-COLROY<Dep> à <Arr>SCHWEIGHOUSE-SUR-MODER<Arr>.
-Un vol de <Dep>GILLEY<Dep> vers <Arr>MENTON<Arr> m'intéresse.
-Prévoyez mon départ depuis <Dep>LA LECHERE<Dep> jusqu'à <Arr>ARDRES<Arr>.
-Je dois aller de <Dep>CHATEAU-ARNOUX-SAINT-AUBAN<Dep> vers <Arr>BLANZY<Arr> la semaine prochaine.
-Un vol qui part de <Dep>SAILLANS<Dep> et arrive à <Arr>LE POUZIN<Arr> serait parfait.
-Réservez un train de <Dep>COURSAN<Dep> vers <Arr>VILLEFRANCHE-SUR-CHER<Arr>.Je voudrais réserver un vol de <Dep>MENNETOU-SUR-CHER<Dep> pour <Arr>AVESNES-SUR-HELPE<Arr>.
-Le prochain bus va de <Dep>PARIS<Dep> à <Arr>ECOUCHE-LES-VALLEES<Arr>.
-Mon trajet commence à <Dep>PROVINS<Dep> et se termine à <Arr>ILLIERS-COMBRAY<Arr>.
-Réservez un train de <Dep>ANDELOT-EN-MONTAGNE<Dep> vers <Arr>BOLBEC<Arr>.Trouve un billet de train qui part de <Dep>SARREINSMING<Dep> à destination de <Arr>MARGAUX-CANTENAC<Arr>.
-Le bus quitte <Dep>GRETZ-ARMAINVILLIERS<Dep> et se dirige vers <Arr>BALLANCOURT-SUR-ESSONNE<Arr>.
-Le bus quitte <Dep>LES HOUCHES<Dep> et se dirige vers <Arr>FOUG<Arr>.
-Je voudrais réserver un vol de <Dep>SARRALBE<Dep> pour <Arr>LA BONNEVILLE-SUR-ITON<Arr>.
-Mon itinéraire comprend un départ de <Dep>EZANVILLE<Dep> pour <Arr>LA BATHIE<Arr>.
-Quel est le prochain train de <Dep>SAINT-DENIS-DE-L'HOTEL<Dep> à <Arr>Genève</Arr> ?
-Je cherche un vol entre <Dep>LE PONT-DE-CLAIX<Dep> et <Arr>SAINT-VALLIER<Arr>.
-Prévoyez mon départ depuis <Dep>RILLIEUX-LA-PAPE<Dep> jusqu'à <Arr>MARLIEUX<Arr>.
-Je voudrais réserver un vol de <Dep>ANCERVILLE<Dep> pour <Arr>YCHOUX<Arr>.
-Prévoyez mon départ depuis <Dep>SAINT-MARTIN-DE-CRAU<Dep> jusqu'à <Arr>TONNEINS<Arr>.
-Réservez un train de <Dep>VILLEFORT<Dep> vers <Arr>GRESSWILLER<Arr>.Quel est le prochain train de <Dep>BRUGES<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>BEAUVOISIN<Dep> et arrivera à <Arr>BREST<Arr>.
-Mon itinéraire comprend un départ de <Dep>MARQUILLIES<Dep> pour <Arr>REICHSHOFFEN<Arr>.
-Un vol de <Dep>VIONS<Dep> vers <Arr>LA CHAPELLE-SAINT-URSIN<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>PONTRIEUX<Dep> pour <Arr>LATHUS-SAINT-REMY<Arr>.
-Trouve un billet de train qui part de <Dep>ERMONT<Dep> à destination de <Arr>PARIS<Arr>.
-Il me faudrait un billet de <Dep>SARRANCE<Dep> vers <Arr>SAINT-NAZAIRE<Arr>.
-Mon trajet commence à <Dep>ROSPORDEN<Dep> et se termine à <Arr>MIGNALOUX-BEAUVOIR<Arr>.
-Je cherche un vol entre <Dep>LANGON<Dep> et <Arr>NIEPPE<Arr>.
-Prévoyez mon départ depuis <Dep>GUETHARY<Dep> jusqu'à <Arr>WITTELSHEIM<Arr>.
-Un vol de <Dep>AUTREY<Dep> vers <Arr>SAINT-PRIEST<Arr> m'intéresse.
-Trouve-moi un billet pour un départ depuis <Dep>JOUE-LES-TOURS<Dep> jusqu’à <Arr>LUCON<Arr>.
-Prévoyez mon départ depuis <Dep>LYON<Dep> jusqu'à <Arr>VOREY<Arr>.
-Quel est le prochain train de <Dep>LE VIEIL-EVREUX<Dep> à <Arr>Genève</Arr> ?
-Quel est le prochain train de <Dep>VILLARS-LES-DOMBES<Dep> à <Arr>Genève</Arr> ?
-Prévoyez mon départ depuis <Dep>BAINVILLE-SUR-MADON<Dep> jusqu'à <Arr>SAINT-ETIENNE<Arr>.
-Un vol qui part de <Dep>SAINT-MESMIN<Dep> et arrive à <Arr>LES PAVILLONS-SOUS-BOIS<Arr> serait parfait.
-Réservez un train de <Dep>SAINT-SOLVE<Dep> vers <Arr>AMPLEPUIS<Arr>.Je veux partir de <Dep>EPINAY-SUR-ORGE<Dep> pour arriver à <Arr>VELARS-SUR-OUCHE<Arr> demain.
-Prévoyez mon départ depuis <Dep>NEUVILLE-SUR-ESCAUT<Dep> jusqu'à <Arr>PARIS<Arr>.
-Il me faudrait un billet de <Dep>LE VIGEN<Dep> vers <Arr>AIX-EN-PROVENCE<Arr>.
-Je cherche un vol entre <Dep>ETAPLES<Dep> et <Arr>VIROFLAY<Arr>.
-Trouve un billet de train qui part de <Dep>SERDINYA<Dep> à destination de <Arr>SAINT-EMILION<Arr>.
-Je cherche un vol entre <Dep>ROSNY-SOUS-BOIS<Dep> et <Arr>VALLEIRY<Arr>.
-Mon trajet commence à <Dep>DINGE<Dep> et se termine à <Arr>CESSIEU<Arr>.
-Mon trajet commence à <Dep>COYOLLES<Dep> et se termine à <Arr>BOVES<Arr>.
-Réservez un train de <Dep>SAINT-JEAN-DE-SAUVES<Dep> vers <Arr>MONESTIER-DE-CLERMONT<Arr>.Je voudrais réserver un vol de <Dep>LOISY-SUR-MARNE<Dep> pour <Arr>STAFFELFELDEN<Arr>.
-Je veux partir de <Dep>POIGNY<Dep> pour arriver à <Arr>ARS-SUR-MOSELLE<Arr> demain.
-Je voudrais réserver un vol de <Dep>LOUVRES<Dep> pour <Arr>LE DORAT<Arr>.
-Prévoyez mon départ depuis <Dep>SAINT-NAZAIRE<Dep> jusqu'à <Arr>AUXERRE<Arr>.
-Le prochain bus va de <Dep>BOGNY-SUR-MEUSE<Dep> à <Arr>ROUXMESNIL-BOUTEILLES<Arr>.
-Prévoyez mon départ depuis <Dep>SERDINYA<Dep> jusqu'à <Arr>IWUY<Arr>.
-Je veux partir de <Dep>SAINT-HILAIRE-SUR-HELPE<Dep> pour arriver à <Arr>WIMILLE<Arr> demain.
-Un vol qui part de <Dep>DEUIL-LA-BARRE<Dep> et arrive à <Arr>CATTENIERES<Arr> serait parfait.
-Je veux partir de <Dep>LANDERNEAU<Dep> pour arriver à <Arr>LE BUISSON-DE-CADOUIN<Arr> demain.
-Quel est le prochain train de <Dep>LA CELLE-SAINT-AVANT<Dep> à <Arr>Genève</Arr> ?
-Mon trajet commence à <Dep>LE MEUX<Dep> et se termine à <Arr>EPEHY<Arr>.
-Le bus quitte <Dep>JARNY<Dep> et se dirige vers <Arr>AIX-EN-PROVENCE<Arr>.
-Mon trajet commence à <Dep>RONCQ<Dep> et se termine à <Arr>BONNEVILLE<Arr>.
-Un vol qui part de <Dep>LA ROCHELLE<Dep> et arrive à <Arr>BOEN-SUR-LIGNON<Arr> serait parfait.
-Mon vol part de <Dep>LUCON<Dep> et arrivera à <Arr>MAISSE<Arr>.
-Je pars de <Dep>ASSIER<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le bus quitte <Dep>VALLOIRE-SUR-CISSE<Dep> et se dirige vers <Arr>ORIGNY-SAINTE-BENOITE<Arr>.
-Je dois aller de <Dep>CHAMPAGNE-SUR-OISE<Dep> vers <Arr>GARDANNE<Arr> la semaine prochaine.
-Le prochain bus va de <Dep>PARTHENAY<Dep> à <Arr>GRANDE-SYNTHE<Arr>.
-Je pars de <Dep>MUNSTER<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le bus quitte <Dep>LONGUEVILLE-SUR-SCIE<Dep> et se dirige vers <Arr>LANGRES<Arr>.
-Mon trajet commence à <Dep>LE MALESHERBOIS<Dep> et se termine à <Arr>VIAS<Arr>.
-Je veux partir de <Dep>SAINT-BRIEUC<Dep> pour arriver à <Arr>ARMENTIERES<Arr> demain.
-Je recherche un train de <Dep>SAINT-MEDARD-DE-GUIZIERES<Dep> à <Arr>BEAUZAC<Arr>.
-Le prochain bus va de <Dep>AMIENS<Dep> à <Arr>LA RIVIERE-DRUGEON<Arr>.
-Trouve un billet de train qui part de <Dep>MONTFORT-SUR-MEU<Dep> à destination de <Arr>JOUY<Arr>.
-Je veux partir de <Dep>ANCY-DORNOT<Dep> pour arriver à <Arr>VENDOME<Arr> demain.
-Un vol de <Dep>TASSIN-LA-DEMI-LUNE<Dep> vers <Arr>LE PLESSIS-BELLEVILLE<Arr> m'intéresse.
-Un vol qui part de <Dep>JUSSEY<Dep> et arrive à <Arr>LAIFOUR<Arr> serait parfait.
-Un vol qui part de <Dep>CANNES<Dep> et arrive à <Arr>SIN-LE-NOBLE<Arr> serait parfait.
-J'ai besoin d'un vol qui part de <Dep>LA CHAIZE-LE-VICOMTE<Dep> et arrive à <Arr>BIDARRAY<Arr>.
-Je dois aller de <Dep>VAUX-SUR-SEINE<Dep> vers <Arr>ANCENIS-SAINT-GEREON<Arr> la semaine prochaine.
-Je cherche un vol entre <Dep>GRENOBLE<Dep> et <Arr>MONTFERRAND-LE-CHATEAU<Arr>.
-Trouve un billet de train qui part de <Dep>VERSAILLES<Dep> à destination de <Arr>MARLY-LE-ROI<Arr>.
-Mon trajet commence à <Dep>MANDUEL<Dep> et se termine à <Arr>FONTAN<Arr>.
-Je dois aller de <Dep>LUX<Dep> vers <Arr>MANTES-LA-JOLIE<Arr> la semaine prochaine.
-Prévoyez mon départ depuis <Dep>NUISEMENT-SUR-COOLE<Dep> jusqu'à <Arr>ROUXMESNIL-BOUTEILLES<Arr>.
-Prévoyez mon départ depuis <Dep>NIMES<Dep> jusqu'à <Arr>REMELFING<Arr>.
-Je dois aller de <Dep>L'ETANG-LA-VILLE<Dep> vers <Arr>LA ROCHELLE<Arr> la semaine prochaine.
-Il me faudrait un billet de <Dep>MOIRANS<Dep> vers <Arr>ROUESSE-VASSE<Arr>.
-Mon trajet commence à <Dep>PARIS<Dep> et se termine à <Arr>SARREINSMING<Arr>.
-Je voudrais réserver un vol de <Dep>ASPRES-SUR-BUECH<Dep> pour <Arr>SAINT-AMAND-LES-EAUX<Arr>.
-Réservez un train de <Dep>ROSNY-SUR-SEINE<Dep> vers <Arr>RILLIEUX-LA-PAPE<Arr>.Le prochain bus va de <Dep>VILLEFRANQUE<Dep> à <Arr>LANDAS<Arr>.
-Mon trajet commence à <Dep>ORCHAMPS<Dep> et se termine à <Arr>LOIRE-SUR-RHONE<Arr>.
-Je dois aller de <Dep>METZ<Dep> vers <Arr>LA RICAMARIE<Arr> la semaine prochaine.
-Un vol de <Dep>NEUVILLE-AUX-BOIS<Dep> vers <Arr>PRADES<Arr> m'intéresse.
-Un vol de <Dep>AMPLEPUIS<Dep> vers <Arr>SAINCAIZE-MEAUCE<Arr> m'intéresse.
-Je veux partir de <Dep>PAGNY-SUR-MOSELLE<Dep> pour arriver à <Arr>EPERNON<Arr> demain.
-Je recherche un train de <Dep>ALLAND'HUY-ET-SAUSSEUIL<Dep> à <Arr>AIX-LES-BAINS<Arr>.
-Le prochain bus va de <Dep>CHAMBLY<Dep> à <Arr>GRAMAT<Arr>.
-Je recherche un train de <Dep>MONISTROL-D'ALLIER<Dep> à <Arr>VIRECOURT<Arr>.
-J'ai besoin d'un vol qui part de <Dep>BANTZENHEIM<Dep> et arrive à <Arr>CLERMONT-FERRAND<Arr>.
-Mon itinéraire comprend un départ de <Dep>VEYNES<Dep> pour <Arr>DOMMARY-BARONCOURT<Arr>.
-J'ai besoin d'un vol qui part de <Dep>AVRECHY<Dep> et arrive à <Arr>CARNOULES<Arr>.
-Je voudrais réserver un vol de <Dep>OERMINGEN<Dep> pour <Arr>FOS-SUR-MER<Arr>.
-Je veux partir de <Dep>EVEUX<Dep> pour arriver à <Arr>VARENNES-SUR-ALLIER<Arr> demain.
-Je cherche un vol entre <Dep>MIGENNES<Dep> et <Arr>MAREUIL-SUR-OURCQ<Arr>.
-Je dois aller de <Dep>MORMANT<Dep> vers <Arr>DESCARTES<Arr> la semaine prochaine.
-Le bus quitte <Dep>SAINT-SAUVEUR-MARVILLE<Dep> et se dirige vers <Arr>GRANVILLE<Arr>.
-Un vol qui part de <Dep>BOHAIN-EN-VERMANDOIS<Dep> et arrive à <Arr>CAFFIERS<Arr> serait parfait.
-Je pars de <Dep>VILLABE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-J'ai besoin d'un vol qui part de <Dep>LAVAUR<Dep> et arrive à <Arr>PLAISIR<Arr>.
-Mon vol part de <Dep>LA CHAPELLE-SAINT-MESMIN<Dep> et arrivera à <Arr>SAINT-PAUL-DE-VARAX<Arr>.
-Prévoyez mon départ depuis <Dep>CAMIERS<Dep> jusqu'à <Arr>BARR<Arr>.
-Je voudrais réserver un vol de <Dep>MARCILLY-SUR-TILLE<Dep> pour <Arr>BOURG-EN-BRESSE<Arr>.
-Je dois aller de <Dep>GRETZ-ARMAINVILLIERS<Dep> vers <Arr>MIRECOURT<Arr> la semaine prochaine.
-Je veux partir de <Dep>BRIONNE<Dep> pour arriver à <Arr>BENESTROFF<Arr> demain.
-J'ai besoin d'un vol qui part de <Dep>TERMINIERS<Dep> et arrive à <Arr>PICQUIGNY<Arr>.
-Un vol qui part de <Dep>MEUNG-SUR-LOIRE<Dep> et arrive à <Arr>BREE<Arr> serait parfait.
-Je pars de <Dep>CHAMPAGNE-SUR-OISE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Il me faudrait un billet de <Dep>RICHWILLER<Dep> vers <Arr>LE BOULOU<Arr>.
-Je recherche un train de <Dep>RETIERS<Dep> à <Arr>BEAURAINVILLE<Arr>.
-Le bus quitte <Dep>LE CHEYLAS<Dep> et se dirige vers <Arr>SAINT-ETIENNE<Arr>.
-Trouve un billet de train qui part de <Dep>LINGOLSHEIM<Dep> à destination de <Arr>LABERGEMENT-SAINTE-MARIE<Arr>.
-Je cherche un vol entre <Dep>CHALON-SUR-SAONE<Dep> et <Arr>VILLENEUVE-SUR-YONNE<Arr>.
-Je dois aller de <Dep>SECLIN<Dep> vers <Arr>HERICY<Arr> la semaine prochaine.
-Je cherche un vol entre <Dep>LES HOUCHES<Dep> et <Arr>MAMIROLLE<Arr>.
-Je veux partir de <Dep>MONTVAL-SUR-LOIR<Dep> pour arriver à <Arr>SAINT-ANTOINE-DE-BREUILH<Arr> demain.
-Un vol qui part de <Dep>MONTAIGNAC-SUR-DOUSTRE<Dep> et arrive à <Arr>MENNESSIS<Arr> serait parfait.
-Je voudrais réserver un vol de <Dep>VRIGNE-MEUSE<Dep> pour <Arr>MARCILLY-SUR-TILLE<Arr>.
-Quel est le prochain train de <Dep>SAINT-OUEN-L'AUMONE<Dep> à <Arr>Genève</Arr> ?
-Je cherche un vol entre <Dep>BETHUNE<Dep> et <Arr>COYOLLES<Arr>.
-Il me faudrait un billet de <Dep>BETAILLE<Dep> vers <Arr>ONVILLE<Arr>.
-Mon itinéraire comprend un départ de <Dep>LA SUZE-SUR-SARTHE<Dep> pour <Arr>MAISSE<Arr>.
-Je cherche un vol entre <Dep>TOULOUSE<Dep> et <Arr>NARBONNE<Arr>.
-Je voudrais réserver un vol de <Dep>ARBOIS<Dep> pour <Arr>PARIS<Arr>.
-Je cherche un vol entre <Dep>MUHLBACH-SUR-BRUCHE<Dep> et <Arr>BUCHERES<Arr>.
-Un vol qui part de <Dep>COLOMBIER-FONTAINE<Dep> et arrive à <Arr>AUBUSSON<Arr> serait parfait.
-Je pars de <Dep>MONTEUX<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le bus quitte <Dep>MASSY<Dep> et se dirige vers <Arr>EVRY-COURCOURONNES<Arr>.
-Le bus quitte <Dep>ROSIERES-EN-SANTERRE<Dep> et se dirige vers <Arr>STRASBOURG<Arr>.
-Réservez un train de <Dep>BOLOZON<Dep> vers <Arr>TASSIN-LA-DEMI-LUNE<Arr>.Je cherche un vol entre <Dep>OSNY<Dep> et <Arr>SAINT-GERMAIN-EN-LAYE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>SAINT-PIERRE-QUIBERON<Dep> jusqu’à <Arr>CHATEAUNEUF-SUR-CHARENTE<Arr>.
-Quel est le prochain train de <Dep>SAUVETERRE-LA-LEMANCE<Dep> à <Arr>Genève</Arr> ?
-Quel est le prochain train de <Dep>SEVRAN<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>CHATEAULIN<Dep> et arrivera à <Arr>SCHWEIGHOUSE-SUR-MODER<Arr>.
-Je voudrais réserver un vol de <Dep>LILLE<Dep> pour <Arr>BREUILLET<Arr>.
-Réservez un train de <Dep>ASPRES-SUR-BUECH<Dep> vers <Arr>BAILLEUL<Arr>.Trouve-moi un billet pour un départ depuis <Dep>SIMIANE-COLLONGUE<Dep> jusqu’à <Arr>MASSIAC<Arr>.
-Mon trajet commence à <Dep>PLOUVARA<Dep> et se termine à <Arr>FONTENAY-LE-COMTE<Arr>.
-Je cherche un vol entre <Dep>MONTARGIS<Dep> et <Arr>SAINT-SULPICE-LA-POINTE<Arr>.
-Je cherche un vol entre <Dep>LE PLESSIS-BELLEVILLE<Dep> et <Arr>CERIZAY<Arr>.
-Trouve un billet de train qui part de <Dep>DRUSENHEIM<Dep> à destination de <Arr>BARAQUEVILLE<Arr>.
-Réservez un train de <Dep>ORMOY-VILLERS<Dep> vers <Arr>MEXIMIEUX<Arr>.Un vol qui part de <Dep>ALLEYRAS<Dep> et arrive à <Arr>CAMBRAI<Arr> serait parfait.
-Quel est le prochain train de <Dep>SAINT-CYPRIEN<Dep> à <Arr>Genève</Arr> ?
-Je recherche un train de <Dep>MAUBEUGE<Dep> à <Arr>CHEILLY-LES-MARANGES<Arr>.
-Je dois aller de <Dep>LA MADELEINE<Dep> vers <Arr>HAZEBROUCK<Arr> la semaine prochaine.
-J'ai besoin d'un vol qui part de <Dep>NOYELLES-SUR-MER<Dep> et arrive à <Arr>ALLEYRAS<Arr>.
-Le bus quitte <Dep>DRUSENHEIM<Dep> et se dirige vers <Arr>DOMBASLE-SUR-MEURTHE<Arr>.
-Mon itinéraire comprend un départ de <Dep>BONS-EN-CHABLAIS<Dep> pour <Arr>RIVE-DE-GIER<Arr>.
-Je pars de <Dep>LAMOTHE-LANDERRON<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je dois aller de <Dep>SAINT-JEAN-PLA-DE-CORTS<Dep> vers <Arr>ANZELING<Arr> la semaine prochaine.
-J'ai besoin d'un vol qui part de <Dep>YVETOT<Dep> et arrive à <Arr>IRIGNY<Arr>.
-Je recherche un train de <Dep>FEPIN<Dep> à <Arr>SALON-DE-PROVENCE<Arr>.
-Je pars de <Dep>REVEL<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Mon trajet commence à <Dep>MERICOURT-L'ABBE<Dep> et se termine à <Arr>BEAUGENCY<Arr>.
-Le bus quitte <Dep>TOULOUSE<Dep> et se dirige vers <Arr>USSEL<Arr>.
-Un vol de <Dep>EVRON<Dep> vers <Arr>CLICHY<Arr> m'intéresse.
-Un vol qui part de <Dep>COULOMMIERS<Dep> et arrive à <Arr>LONGUEVILLE-SUR-SCIE<Arr> serait parfait.
-Le bus quitte <Dep>VOUTRE<Dep> et se dirige vers <Arr>MEZIN<Arr>.
-Trouve un billet de train qui part de <Dep>SAINT-JORY<Dep> à destination de <Arr>AUBIET<Arr>.
-Je dois aller de <Dep>NEVERS<Dep> vers <Arr>MONTAIGNAC-SUR-DOUSTRE<Arr> la semaine prochaine.
-Trouve-moi un billet pour un départ depuis <Dep>GIEN<Dep> jusqu’à <Arr>NANTERRE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LUCQUY<Dep> et arrive à <Arr>BRETEUIL<Arr>.
-Mon trajet commence à <Dep>RIOM<Dep> et se termine à <Arr>SAVENAY<Arr>.
-Trouve un billet de train qui part de <Dep>RODEZ<Dep> à destination de <Arr>SAINT-SENOUX<Arr>.
-Je voudrais réserver un vol de <Dep>RUX<Dep> pour <Arr>FOIX<Arr>.
-Un vol qui part de <Dep>COLMAR<Dep> et arrive à <Arr>AIX-EN-PROVENCE<Arr> serait parfait.
-Trouve-moi un billet pour un départ depuis <Dep>RENNES<Dep> jusqu’à <Arr>LES SABLES-D'OLONNE<Arr>.
-Prévoyez mon départ depuis <Dep>ARTENAY<Dep> jusqu'à <Arr>PARTHENAY<Arr>.
-Quel est le prochain train de <Dep>PLAINTEL<Dep> à <Arr>Genève</Arr> ?
-Le bus quitte <Dep>PONTRIEUX<Dep> et se dirige vers <Arr>MAUBEUGE<Arr>.
-Trouve un billet de train qui part de <Dep>LIEUSAINT<Dep> à destination de <Arr>LE PEAGE-DE-ROUSSILLON<Arr>.
-Mon vol part de <Dep>MORANNES SUR SARTHE-DAUMERAY<Dep> et arrivera à <Arr>TOURNAY<Arr>.
-Quel est le prochain train de <Dep>PLAINTEL<Dep> à <Arr>Genève</Arr> ?
-Je cherche un vol entre <Dep>DIJON<Dep> et <Arr>ARMENTIERES<Arr>.
-Mon itinéraire comprend un départ de <Dep>VELINES<Dep> pour <Arr>JANVILLE-EN-BEAUCE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>PARIS<Dep> jusqu’à <Arr>VOLVIC<Arr>.
-J'ai besoin d'un vol qui part de <Dep>DIJON<Dep> et arrive à <Arr>CHECY<Arr>.
-Le prochain bus va de <Dep>TEILLE<Dep> à <Arr>MOLINONS<Arr>.
-Je recherche un train de <Dep>JUVISY-SUR-ORGE<Dep> à <Arr>SAINT-SYMPHORIEN-DE-MARMAGNE<Arr>.
-Le prochain bus va de <Dep>PALAISEAU<Dep> à <Arr>SAINT-MESMIN<Arr>.
-Le bus quitte <Dep>MEYMAC<Dep> et se dirige vers <Arr>LE POULIGUEN<Arr>.
-Je cherche un vol entre <Dep>TOURNEMIRE<Dep> et <Arr>SAINT-PRIEST<Arr>.
-Un vol qui part de <Dep>L'ETANG-LA-VILLE<Dep> et arrive à <Arr>QUEDILLAC<Arr> serait parfait.
-Mon trajet commence à <Dep>CHATILLON<Dep> et se termine à <Arr>SUIPPES<Arr>.
-Trouve un billet de train qui part de <Dep>BREUILLET<Dep> à destination de <Arr>RULX<Arr>.
-Prévoyez mon départ depuis <Dep>LANGUENAN<Dep> jusqu'à <Arr>FLEURY-LES-AUBRAIS<Arr>.
-Je veux partir de <Dep>LE HAVRE<Dep> pour arriver à <Arr>CASTELNAU-D'ESTRETEFONDS<Arr> demain.
-Je pars de <Dep>VILLARS-LES-DOMBES<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-J'ai besoin d'un vol qui part de <Dep>ARPAJON<Dep> et arrive à <Arr>CINTEGABELLE<Arr>.
-Je veux partir de <Dep>AIGUES-MORTES<Dep> pour arriver à <Arr>MONTIGNY-LE-BRETONNEUX<Arr> demain.
-Mon trajet commence à <Dep>MEUDON<Dep> et se termine à <Arr>METZ<Arr>.
-Je voudrais réserver un vol de <Dep>LIZY-SUR-OURCQ<Dep> pour <Arr>PARIS<Arr>.
-Un vol de <Dep>CAVIGNAC<Dep> vers <Arr>VILLENEUVE-SAINT-GEORGES<Arr> m'intéresse.
-Je cherche un vol entre <Dep>BRUNOY<Dep> et <Arr>LA JARRIE<Arr>.
-Mon itinéraire comprend un départ de <Dep>CELON<Dep> pour <Arr>MEZIN<Arr>.
-Un vol qui part de <Dep>PLOUEC-DU-TRIEUX<Dep> et arrive à <Arr>DOURDAN<Arr> serait parfait.
-Mon vol part de <Dep>BERLAIMONT<Dep> et arrivera à <Arr>MARSEILLE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>HENIN-BEAUMONT<Dep> et arrive à <Arr>TREMENTINES<Arr>.
-Je recherche un train de <Dep>MOON-SUR-ELLE<Dep> à <Arr>BOURGS SUR COLAGNE<Arr>.
-Un vol qui part de <Dep>BLANZAY<Dep> et arrive à <Arr>NANTES<Arr> serait parfait.
-Un vol de <Dep>DAMELEVIERES<Dep> vers <Arr>LESCAR<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>SENS<Dep> pour <Arr>PORT-DE-BOUC<Arr>.
-Mon vol part de <Dep>MERENS-LES-VALS<Dep> et arrivera à <Arr>SAINT-DENIS-CATUS<Arr>.
-Mon itinéraire comprend un départ de <Dep>PRIN-DEYRANCON<Dep> pour <Arr>VIROFLAY<Arr>.
-Le bus quitte <Dep>TRIE-CHATEAU<Dep> et se dirige vers <Arr>AUDRUICQ<Arr>.
-Le prochain bus va de <Dep>BOSMIE-L'AIGUILLE<Dep> à <Arr>CHABONS<Arr>.
-Je voudrais réserver un vol de <Dep>REMY<Dep> pour <Arr>MORBIER<Arr>.
-Le bus quitte <Dep>PARIS<Dep> et se dirige vers <Arr>L'ISLE-JOURDAIN<Arr>.
-Le bus quitte <Dep>RILLIEUX-LA-PAPE<Dep> et se dirige vers <Arr>BONSON<Arr>.
-Je cherche un vol entre <Dep>MULHOUSE<Dep> et <Arr>CHAMALIERES-SUR-LOIRE<Arr>.
-Mon vol part de <Dep>FONTENAY-LE-FLEURY<Dep> et arrivera à <Arr>SURGERES<Arr>.
-Je cherche un vol entre <Dep>VALLEIRY<Dep> et <Arr>CHATEAUBRIANT<Arr>.
-Mon vol part de <Dep>ILLE-SUR-TET<Dep> et arrivera à <Arr>SAINT-SULPICE-LA-POINTE<Arr>.
-Trouve un billet de train qui part de <Dep>CHAMBARON SUR MORGE<Dep> à destination de <Arr>NOYELLES-SUR-MER<Arr>.
-Je veux partir de <Dep>STEENBECQUE<Dep> pour arriver à <Arr>STRASBOURG<Arr> demain.
-Un vol de <Dep>FOS-SUR-MER<Dep> vers <Arr>GRACES<Arr> m'intéresse.
-Je cherche un vol entre <Dep>ASNIERES-SUR-SEINE<Dep> et <Arr>SAUSSET-LES-PINS<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>OSSUN<Dep> jusqu’à <Arr>SAINT-AMAND-LES-EAUX<Arr>.
-J'ai besoin d'un vol qui part de <Dep>MONTPELLIER<Dep> et arrive à <Arr>LIART<Arr>.
-Mon trajet commence à <Dep>PARIS<Dep> et se termine à <Arr>BEAUTIRAN<Arr>.
-Réservez un train de <Dep>SAINT-PREST<Dep> vers <Arr>MULHOUSE<Arr>.Il me faudrait un billet de <Dep>SAINT-JULIEN-MONT-DENIS<Dep> vers <Arr>DREUX<Arr>.
-Un vol qui part de <Dep>LA BOUTEILLE<Dep> et arrive à <Arr>TREMOLAT<Arr> serait parfait.
-Le prochain bus va de <Dep>LACELLE<Dep> à <Arr>SAINTE-COLOMBE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LA PORCHERIE<Dep> et arrive à <Arr>CADAUJAC<Arr>.
-Mon vol part de <Dep>MERREY<Dep> et arrivera à <Arr>RANCHOT<Arr>.
-Prévoyez mon départ depuis <Dep>SAVONNIERES<Dep> jusqu'à <Arr>TRICOT<Arr>.
-Un vol qui part de <Dep>SESSENHEIM<Dep> et arrive à <Arr>LOIRE-SUR-RHONE<Arr> serait parfait.
-Un vol de <Dep>SAINT-PIERRE-LA-COUR<Dep> vers <Arr>MONTGERON<Arr> m'intéresse.
-J'ai besoin d'un vol qui part de <Dep>MACON<Dep> et arrive à <Arr>MONTENDRE<Arr>.
-Un vol qui part de <Dep>MULHOUSE<Dep> et arrive à <Arr>PARIS<Arr> serait parfait.
-Un vol qui part de <Dep>VENISSIEUX<Dep> et arrive à <Arr>CORNIL<Arr> serait parfait.
-Trouve un billet de train qui part de <Dep>HENDAYE<Dep> à destination de <Arr>ORANGE<Arr>.
-Je pars de <Dep>ISTRES<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Trouve un billet de train qui part de <Dep>THIAIS<Dep> à destination de <Arr>AMBES<Arr>.
-Je voudrais réserver un vol de <Dep>LILLERS<Dep> pour <Arr>LAUTERBOURG<Arr>.
-Mon vol part de <Dep>GRAGNAGUE<Dep> et arrivera à <Arr>LA ROCHELLE<Arr>.
-Je voudrais réserver un vol de <Dep>CHAMPIGNY<Dep> pour <Arr>BIARS-SUR-CERE<Arr>.
-Prévoyez mon départ depuis <Dep>MONTREUX-VIEUX<Dep> jusqu'à <Arr>VERSAILLES<Arr>.
-Un vol qui part de <Dep>LA MENITRE<Dep> et arrive à <Arr>RIVE-DE-GIER<Arr> serait parfait.
-Je voudrais réserver un vol de <Dep>CHAMBOURG-SUR-INDRE<Dep> pour <Arr>AUBIET<Arr>.
-Mon trajet commence à <Dep>GIVET<Dep> et se termine à <Arr>FAVERNEY<Arr>.
-Je recherche un train de <Dep>SAINT-LO<Dep> à <Arr>COLOMBES<Arr>.
-Un vol de <Dep>MARSEILLE<Dep> vers <Arr>PONTGOUIN<Arr> m'intéresse.
-Trouve-moi un billet pour un départ depuis <Dep>ROSULT<Dep> jusqu’à <Arr>ARS-SUR-MOSELLE<Arr>.
-Quel est le prochain train de <Dep>VALOGNES<Dep> à <Arr>Genève</Arr> ?
-Je voudrais réserver un vol de <Dep>VALMY<Dep> pour <Arr>LES ARCS<Arr>.
-Trouve un billet de train qui part de <Dep>ROQUEBRUNE-CAP-MARTIN<Dep> à destination de <Arr>ESPIRA-DE-L'AGLY<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LE CHEYLAS<Dep> et arrive à <Arr>AVESNELLES<Arr>.
-Quel est le prochain train de <Dep>AULNAT<Dep> à <Arr>Genève</Arr> ?
-Je pars de <Dep>RIEDSELTZ<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Un vol qui part de <Dep>LA FERTE-SAINT-AUBIN<Dep> et arrive à <Arr>LYON<Arr> serait parfait.
-Je pars de <Dep>AUVERS-SUR-OISE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le prochain bus va de <Dep>LE THEIL-DE-BRETAGNE<Dep> à <Arr>MOREUIL<Arr>.
-Le bus quitte <Dep>CHAMPAGNE<Dep> et se dirige vers <Arr>PORT-DE-BOUC<Arr>.
-Il me faudrait un billet de <Dep>PARIS<Dep> vers <Arr>COUSSAC-BONNEVAL<Arr>.
-Je dois aller de <Dep>ALENCON<Dep> vers <Arr>BYANS-SUR-DOUBS<Arr> la semaine prochaine.
-Trouve un billet de train qui part de <Dep>BIGANOS<Dep> à destination de <Arr>EMBRUN<Arr>.
-Je dois aller de <Dep>BAUVIN<Dep> vers <Arr>TAVAUX<Arr> la semaine prochaine.
-Le prochain bus va de <Dep>SORGUES<Dep> à <Arr>PLAISIR<Arr>.
-Le bus quitte <Dep>CHATEAU-L'EVEQUE<Dep> et se dirige vers <Arr>LA FERTE-MILON<Arr>.
-Je veux partir de <Dep>SAINT-GERMAIN-SUR-MEUSE<Dep> pour arriver à <Arr>SAINT-GERMAIN-EN-LAYE<Arr> demain.
-Mon vol part de <Dep>TOURS<Dep> et arrivera à <Arr>COLMAR<Arr>.
-Il me faudrait un billet de <Dep>SAINT-MARTIN-D'ARROSSA<Dep> vers <Arr>BIDARRAY<Arr>.
-Je cherche un vol entre <Dep>ROUFFACH<Dep> et <Arr>CHAMPIGNEULLES<Arr>.
-Je pars de <Dep>OYONNAX<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Quel est le prochain train de <Dep>SAINT-HERVE<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>BALSIEGES<Dep> et arrivera à <Arr>LA DOUZE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>BUSIGNY<Dep> jusqu’à <Arr>VARENNES-VAUZELLES<Arr>.
-Je voudrais réserver un vol de <Dep>ROGNAC<Dep> pour <Arr>GIVORS<Arr>.
-Je pars de <Dep>AIX-EN-PROVENCE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je dois aller de <Dep>VILLERS-SAINT-PAUL<Dep> vers <Arr>BALLANCOURT-SUR-ESSONNE<Arr> la semaine prochaine.
-Trouve un billet de train qui part de <Dep>TASSIN-LA-DEMI-LUNE<Dep> à destination de <Arr>STEINBOURG<Arr>.
-Le prochain bus va de <Dep>FLAVY-LE-MARTEL<Dep> à <Arr>MONT LOZERE ET GOULET<Arr>.
-Prévoyez mon départ depuis <Dep>PONTARLIER<Dep> jusqu'à <Arr>CANNES<Arr>.
-Prévoyez mon départ depuis <Dep>LUDON-MEDOC<Dep> jusqu'à <Arr>SAINT-MEDARD-SUR-ILLE<Arr>.
-Un vol qui part de <Dep>ABANCOURT<Dep> et arrive à <Arr>RAMBOUILLET<Arr> serait parfait.
-Trouve un billet de train qui part de <Dep>L'HERMITAGE<Dep> à destination de <Arr>SERQUEUX<Arr>.
-Je dois aller de <Dep>CASTELNAUDARY<Dep> vers <Arr>LAMANON<Arr> la semaine prochaine.
-Un vol de <Dep>LUC<Dep> vers <Arr>MARLY<Arr> m'intéresse.
-Je pars de <Dep>BOE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le bus quitte <Dep>OUDON<Dep> et se dirige vers <Arr>TREMBLAY-EN-FRANCE<Arr>.
-Je veux partir de <Dep>SAINTES<Dep> pour arriver à <Arr>CERCOTTES<Arr> demain.
-Je veux partir de <Dep>TERGNIER<Dep> pour arriver à <Arr>MIGNALOUX-BEAUVOIR<Arr> demain.
-Je veux partir de <Dep>MAROLLES<Dep> pour arriver à <Arr>REIMS<Arr> demain.
-Mon itinéraire comprend un départ de <Dep>BELLEVIGNY<Dep> pour <Arr>LA FERTE-MILON<Arr>.
-Je recherche un train de <Dep>SISTERON<Dep> à <Arr>SOMAIN<Arr>.
-Trouve un billet de train qui part de <Dep>AULNAY-SOUS-BOIS<Dep> à destination de <Arr>CHENIMENIL<Arr>.
-Mon trajet commence à <Dep>MONT LOZERE ET GOULET<Dep> et se termine à <Arr>MARTIGUES<Arr>.
-Mon itinéraire comprend un départ de <Dep>AMPLEPUIS<Dep> pour <Arr>DHUYS ET MORIN-EN-BRIE<Arr>.
-Je voudrais réserver un vol de <Dep>BOURNEZEAU<Dep> pour <Arr>DARCEY<Arr>.
-Je pars de <Dep>NIEDERBRONN-LES-BAINS<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Mon vol part de <Dep>NEUVILLE-AUX-BOIS<Dep> et arrivera à <Arr>GRESSWILLER<Arr>.
-Réservez un train de <Dep>SETE<Dep> vers <Arr>GARANOU<Arr>.Un vol qui part de <Dep>MEYRARGUES<Dep> et arrive à <Arr>BRENY<Arr> serait parfait.
-Mon vol part de <Dep>PARIS<Dep> et arrivera à <Arr>SAINGHIN-EN-WEPPES<Arr>.
-Je pars de <Dep>COULOMBIERS<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je cherche un vol entre <Dep>SAINT-LEONARD-DE-NOBLAT<Dep> et <Arr>LAVAL<Arr>.
-Trouve un billet de train qui part de <Dep>LE VIGEN<Dep> à destination de <Arr>LA POSSONNIERE<Arr>.
-Mon itinéraire comprend un départ de <Dep>CHATENOIS<Dep> pour <Arr>LES ORMES<Arr>.
-Le prochain bus va de <Dep>JARNY<Dep> à <Arr>LANGEAC<Arr>.
-Prévoyez mon départ depuis <Dep>AUTERIVE<Dep> jusqu'à <Arr>COLMAR<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>TAILLEBOURG<Dep> jusqu’à <Arr>ATTIGNY<Arr>.
-Prévoyez mon départ depuis <Dep>GIEN<Dep> jusqu'à <Arr>WAMBAIX<Arr>.
-Le bus quitte <Dep>MUILLE-VILLETTE<Dep> et se dirige vers <Arr>LAVAUR<Arr>.
-Trouve un billet de train qui part de <Dep>CHATEAUNEUF-SUR-ISERE<Dep> à destination de <Arr>SALINDRES<Arr>.
-Il me faudrait un billet de <Dep>SAINT-MESMIN<Dep> vers <Arr>SAINT-MARTIN-D'ONEY<Arr>.
-Je veux partir de <Dep>VERTOU<Dep> pour arriver à <Arr>SURY-LE-COMTAL<Arr> demain.
-Le prochain bus va de <Dep>AUTET<Dep> à <Arr>NOYERS-SUR-CHER<Arr>.
-Je pars de <Dep>THEOULE-SUR-MER<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Un vol qui part de <Dep>CUERS<Dep> et arrive à <Arr>SAINT-PRIEST<Arr> serait parfait.
-Je cherche un vol entre <Dep>SAINT-PIERRE-EN-FAUCIGNY<Dep> et <Arr>MONTS<Arr>.
-Je cherche un vol entre <Dep>GIVORS<Dep> et <Arr>PARIS<Arr>.
-Prévoyez mon départ depuis <Dep>SUEVRES<Dep> jusqu'à <Arr>LE DORAT<Arr>.
-Je veux partir de <Dep>LABERGEMENT-SAINTE-MARIE<Dep> pour arriver à <Arr>ETRICHE<Arr> demain.
-Je voudrais réserver un vol de <Dep>VITROLLES<Dep> pour <Arr>BANDOL<Arr>.
-Il me faudrait un billet de <Dep>MALLING<Dep> vers <Arr>BORNEL<Arr>.
-Un vol de <Dep>LE GRAND-QUEVILLY<Dep> vers <Arr>VEUZAIN-SUR-LOIRE<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>SOUPPES-SUR-LOING<Dep> pour <Arr>ECUISSES<Arr>.
-Mon vol part de <Dep>MERVANS<Dep> et arrivera à <Arr>RETIERS<Arr>.
-Un vol qui part de <Dep>ARQUES<Dep> et arrive à <Arr>ROGNAC<Arr> serait parfait.
-Il me faudrait un billet de <Dep>MONTGEROULT<Dep> vers <Arr>NOMAIN<Arr>.
-Je dois aller de <Dep>NEUVIC<Dep> vers <Arr>AYTRE<Arr> la semaine prochaine.
-Prévoyez mon départ depuis <Dep>BORDEAUX<Dep> jusqu'à <Arr>VARENNES-SUR-SEINE<Arr>.
-Je pars de <Dep>VESOUL<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le prochain bus va de <Dep>EVRY-COURCOURONNES<Dep> à <Arr>LE COUDRAY<Arr>.
-Quel est le prochain train de <Dep>VILLERS-SAINT-PAUL<Dep> à <Arr>Genève</Arr> ?
-Je cherche un vol entre <Dep>MEZIN<Dep> et <Arr>URT<Arr>.
-Un vol de <Dep>CHALINDREY<Dep> vers <Arr>SERVAS<Arr> m'intéresse.
-Mon vol part de <Dep>DISSAY<Dep> et arrivera à <Arr>MONTFORT-SUR-MEU<Arr>.
-Mon itinéraire comprend un départ de <Dep>SOULAC-SUR-MER<Dep> pour <Arr>COURBEVOIE<Arr>.
-Réservez un train de <Dep>MARUIL<Dep> vers <Arr>ROGNAC<Arr>.Réservez un train de <Dep>LONGVIC<Dep> vers <Arr>NEUFCHATEAU<Arr>.Le prochain bus va de <Dep>BONDY<Dep> à <Arr>LA PENNE-SUR-HUVEAUNE<Arr>.
-Le bus quitte <Dep>BALSIEGES<Dep> et se dirige vers <Arr>SAVONNIERES<Arr>.
-Je cherche un vol entre <Dep>PARIS<Dep> et <Arr>FONS<Arr>.
-Un vol de <Dep>CARIGNAN<Dep> vers <Arr>BLANZY<Arr> m'intéresse.
-Mon vol part de <Dep>LONGEVILLES-MONT-D'OR<Dep> et arrivera à <Arr>MONTREUIL-BELLAY<Arr>.
-Je veux partir de <Dep>LA FERTE-HAUTERIVE<Dep> pour arriver à <Arr>MONTAIGUT-LE-BLANC<Arr> demain.
-Mon vol part de <Dep>VAIRES-SUR-MARNE<Dep> et arrivera à <Arr>BOURG-EN-BRESSE<Arr>.
-Je dois aller de <Dep>GRAVELINES<Dep> vers <Arr>MONTLUCON<Arr> la semaine prochaine.
-Un vol qui part de <Dep>ALTKIRCH<Dep> et arrive à <Arr>BOIS-COLOMBES<Arr> serait parfait.
-Je voudrais réserver un vol de <Dep>ISTRES<Dep> pour <Arr>VIRECOURT<Arr>.
-J'ai besoin d'un vol qui part de <Dep>FEIGNIES<Dep> et arrive à <Arr>SAINT-SYMPHORIEN-DE-MARMAGNE<Arr>.
-Un vol de <Dep>HNHEIM<Dep> vers <Arr>LAISSEY<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>EVRY-COURCOURONNES<Dep> pour <Arr>LA BRILLANNE<Arr>.
-Prévoyez mon départ depuis <Dep>URMATT<Dep> jusqu'à <Arr>AIX-EN-PROVENCE<Arr>.
-Mon trajet commence à <Dep>OZOIR-LA-FERRIERE<Dep> et se termine à <Arr>COMBS-LA-VILLE<Arr>.
-Quel est le prochain train de <Dep>MONTATAIRE<Dep> à <Arr>Genève</Arr> ?
-Le bus quitte <Dep>FRESNAY-SUR-SARTHE<Dep> et se dirige vers <Arr>NOVILLARS<Arr>.
-Le prochain bus va de <Dep>MORLAIX<Dep> à <Arr>BREVAL<Arr>.
-Quel est le prochain train de <Dep>AUDRUICQ<Dep> à <Arr>Genève</Arr> ?
-Prévoyez mon départ depuis <Dep>MEUDON<Dep> jusqu'à <Arr>LUC-EN-DIOIS<Arr>.
-Je cherche un vol entre <Dep>TASSIN-LA-DEMI-LUNE<Dep> et <Arr>FRETHUN<Arr>.
-Quel est le prochain train de <Dep>PARIS<Dep> à <Arr>Genève</Arr> ?
-Un vol qui part de <Dep>ARGELES-SUR-MER<Dep> et arrive à <Arr>AIGUILLON<Arr> serait parfait.
-Trouve-moi un billet pour un départ depuis <Dep>MARIGNAC<Dep> jusqu’à <Arr>SAINT-PIERRE-QUIBERON<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LANDEBIA<Dep> et arrive à <Arr>DEVECEY<Arr>.
-Un vol qui part de <Dep>SAINT-ANTOINE-DE-BREUILH<Dep> et arrive à <Arr>MANTES-LA-VILLE<Arr> serait parfait.
-Le bus quitte <Dep>FRANXAULT<Dep> et se dirige vers <Arr>ARGELES-SUR-MER<Arr>.
-Un vol qui part de <Dep>SARREGUEMINES<Dep> et arrive à <Arr>VERNASSAL<Arr> serait parfait.
-Il me faudrait un billet de <Dep>CAUDIES-DE-FENOUILLEDES<Dep> vers <Arr>POMMEVIC<Arr>.
-Prévoyez mon départ depuis <Dep>EPINAL<Dep> jusqu'à <Arr>BAZEILLES<Arr>.
-Mon vol part de <Dep>AUBIGNE-RACAN<Dep> et arrivera à <Arr>BIGANOS<Arr>.
-J'ai besoin d'un vol qui part de <Dep>VERREY-SOUS-SALMAISE<Dep> et arrive à <Arr>THOUARS<Arr>.
-Je veux partir de <Dep>COURBEVOIE<Dep> pour arriver à <Arr>MARCILLY-D'AZERGUES<Arr> demain.
-Il me faudrait un billet de <Dep>SAINT-MARTIN-D'ONEY<Dep> vers <Arr>GAGNY<Arr>.
-Mon trajet commence à <Dep>GAZERAN<Dep> et se termine à <Arr>BREVAL<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>LES ESSARTS-LE-ROI<Dep> jusqu’à <Arr>BAVAY<Arr>.
-Je pars de <Dep>SOUPPES-SUR-LOING<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Il me faudrait un billet de <Dep>PARIS<Dep> vers <Arr>ROQUEREDONDE<Arr>.
-Il me faudrait un billet de <Dep>LES LOGES-EN-JOSAS<Dep> vers <Arr>DESVRES<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>DIGOIN<Dep> jusqu’à <Arr>PONT-L'EVEQUE<Arr>.
-Le bus quitte <Dep>ARS-SUR-MOSELLE<Dep> et se dirige vers <Arr>EXIDEUIL-SUR-VIENNE<Arr>.
-Je recherche un train de <Dep>HANGEST-SUR-SOMME<Dep> à <Arr>PAGNY-SUR-MEUSE<Arr>.
-Je cherche un vol entre <Dep>LA CHAPELLE-SUR-ERDRE<Dep> et <Arr>EBBLINGHEM<Arr>.
-Prévoyez mon départ depuis <Dep>MURET<Dep> jusqu'à <Arr>FRETEVAL<Arr>.
-Mon itinéraire comprend un départ de <Dep>MENDE<Dep> pour <Arr>LA TRINITE<Arr>.
-Un vol de <Dep>EVRY-COURCOURONNES<Dep> vers <Arr>MOURMELON-LE-PETIT<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>MOOSCH<Dep> pour <Arr>BAILLEUL<Arr>.
-Je pars de <Dep>LE VAL D'HAZEY<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Trouve un billet de train qui part de <Dep>COUERON<Dep> à destination de <Arr>GILLY-SUR-LOIRE<Arr>.
-Mon itinéraire comprend un départ de <Dep>LUC<Dep> pour <Arr>DRANCY<Arr>.
-Je cherche un vol entre <Dep>LE CELLIER<Dep> et <Arr>MARTIGUES<Arr>.
-Je voudrais réserver un vol de <Dep>AIRE-SUR-L'ADOUR<Dep> pour <Arr>PROUVY<Arr>.
-Trouve un billet de train qui part de <Dep>GOURDAN-POLIGNAN<Dep> à destination de <Arr>ASPRES-SUR-BUECH<Arr>.
-Le prochain bus va de <Dep>CRESPIN<Dep> à <Arr>MUHLBACH-SUR-BRUCHE<Arr>.
-Je cherche un vol entre <Dep>KURTZENHOUSE<Dep> et <Arr>WINTZENHEIM<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LILLE<Dep> et arrive à <Arr>VERNASSAL<Arr>.
-Je recherche un train de <Dep>LUZY<Dep> à <Arr>BOLLWILLER<Arr>.
-Un vol qui part de <Dep>MILLAU<Dep> et arrive à <Arr>MAREUIL-SUR-OURCQ<Arr> serait parfait.
-Mon trajet commence à <Dep>PESSAC<Dep> et se termine à <Arr>VILLEDOMER<Arr>.
-Réservez un train de <Dep>YZEURE<Dep> vers <Arr>SENOZAN<Arr>.Je veux partir de <Dep>SARREGUEMINES<Dep> pour arriver à <Arr>LACAPELLE-VIESCAMP<Arr> demain.
-Trouve un billet de train qui part de <Dep>COLOMBES<Dep> à destination de <Arr>CHATEAULIN<Arr>.
-Le prochain bus va de <Dep>SAINT-JULIEN-SUR-DHEUNE<Dep> à <Arr>AUDES<Arr>.
-Je cherche un vol entre <Dep>CHANTENAY-SAINT-IMBERT<Dep> et <Arr>COLMAR<Arr>.
-Je recherche un train de <Dep>PARIS<Dep> à <Arr>AYRON<Arr>.
-Un vol de <Dep>CLERMONT-LES-FERMES<Dep> vers <Arr>NANCY<Arr> m'intéresse.
-Réservez un train de <Dep>LAVAUFRANCHE<Dep> vers <Arr>STRASBOURG<Arr>.Je recherche un train de <Dep>SEURRE<Dep> à <Arr>CANNES<Arr>.
-Mon trajet commence à <Dep>SCHOPPERTEN<Dep> et se termine à <Arr>LANDAUL<Arr>.
-Un vol qui part de <Dep>POIX-TERRON<Dep> et arrive à <Arr>SAINT-MARTORY<Arr> serait parfait.
-Un vol qui part de <Dep>ANCY-DORNOT<Dep> et arrive à <Arr>LUMBRES<Arr> serait parfait.
-Un vol de <Dep>LOOS<Dep> vers <Arr>FLEURY-LES-AUBRAIS<Arr> m'intéresse.
-Réservez un train de <Dep>LYON<Dep> vers <Arr>BUSSY-LETTREE<Arr>.Je voudrais réserver un vol de <Dep>PARIS<Dep> pour <Arr>LA COURNEUVE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>VALENCAY<Dep> jusqu’à <Arr>QUESNOY-SUR-DEULE<Arr>.
-Mon vol part de <Dep>SAINT-JUNIEN<Dep> et arrivera à <Arr>SOLFERINO<Arr>.
-Un vol de <Dep>AMIENS<Dep> vers <Arr>RIVARENNES<Arr> m'intéresse.
-Un vol de <Dep>AUDUN-LE-ROMAN<Dep> vers <Arr>LA FOUILLOUSE<Arr> m'intéresse.
-Je voudrais réserver un vol de <Dep>CRAMOISY<Dep> pour <Arr>NOUZONVILLE<Arr>.
-Mon itinéraire comprend un départ de <Dep>SAINT-VINCENT-DE-TYROSSE<Dep> pour <Arr>MARSEILLE-EN-BEAUVAISIS<Arr>.
-Je dois aller de <Dep>LONGAGES<Dep> vers <Arr>FREISTROFF<Arr> la semaine prochaine.
-J'ai besoin d'un vol qui part de <Dep>MAROLLES<Dep> et arrive à <Arr>MARCELCAVE<Arr>.
-Je pars de <Dep>OSSUN<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Mon vol part de <Dep>PESSAC<Dep> et arrivera à <Arr>ECHIROLLES<Arr>.
-Trouve un billet de train qui part de <Dep>VEIGNE<Dep> à destination de <Arr>ALTKIRCH<Arr>.
-Un vol qui part de <Dep>MOULT-CHICHEBOVILLE<Dep> et arrive à <Arr>LUCAY-LE-MALE<Arr> serait parfait.
-Je cherche un vol entre <Dep>LIMOGES<Dep> et <Arr>SAINT-DENIS<Arr>.
-Quel est le prochain train de <Dep>CORMEILLES-EN-PARISIS<Dep> à <Arr>Genève</Arr> ?
-Un vol de <Dep>LIGUGE<Dep> vers <Arr>VILLIERS-SUR-LOIR<Arr> m'intéresse.
-Je voudrais réserver un vol de <Dep>BANTZENHEIM<Dep> pour <Arr>SAINT-MARCEL<Arr>.
-Réservez un train de <Dep>PARIS<Dep> vers <Arr>ROZIERES-SUR-MOUZON<Arr>.Prévoyez mon départ depuis <Dep>CHATEAUNEUF-DE-GADAGNE<Dep> jusqu'à <Arr>PUTEAUX<Arr>.
-J'ai besoin d'un vol qui part de <Dep>ROQUEBRUNE-CAP-MARTIN<Dep> et arrive à <Arr>DOMPIERRE-SUR-HELPE<Arr>.
-Je dois aller de <Dep>ILLZACH<Dep> vers <Arr>SAINT-MEDARD-DE-GUIZIERES<Arr> la semaine prochaine.
-Il me faudrait un billet de <Dep>ARC-ET-SENANS<Dep> vers <Arr>LONGJUMEAU<Arr>.
-Il me faudrait un billet de <Dep>SAINT-LAURENT-D'AIGOUZE<Dep> vers <Arr>ARGENTON-SUR-CREUSE<Arr>.
-Quel est le prochain train de <Dep>COURTHEZON<Dep> à <Arr>Genève</Arr> ?
-Réservez un train de <Dep>EPINAL<Dep> vers <Arr>VIVIEZ<Arr>.Trouve-moi un billet pour un départ depuis <Dep>EPIRY<Dep> jusqu’à <Arr>SAINT-MICHEL-SUR-MEURTHE<Arr>.
-Un vol de <Dep>SAINT-CLEMENT<Dep> vers <Arr>HESDIGNEUL-LES-BOULOGNE<Arr> m'intéresse.
-Un vol qui part de <Dep>HAZEBROUCK<Dep> et arrive à <Arr>TOURVILLE-LA-RIVIERE<Arr> serait parfait.
-Je voudrais réserver un vol de <Dep>ROMBAS<Dep> pour <Arr>VALDAHON<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>NANTES<Dep> jusqu’à <Arr>RILLY-LA-MONTAGNE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>HOUDAN<Dep> et arrive à <Arr>ORIGNY-EN-THIERACHE<Arr>.
-Un vol de <Dep>GARANCIERES<Dep> vers <Arr>LA SOUTERRAINE<Arr> m'intéresse.
-Mon vol part de <Dep>TRILPORT<Dep> et arrivera à <Arr>LE SOLER<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>COMBS-LA-VILLE<Dep> jusqu’à <Arr>PARIS<Arr>.
-Le bus quitte <Dep>MIRAMAS<Dep> et se dirige vers <Arr>GENNES-VAL-DE-LOIRE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>SAINT-JULIEN-PUY-LAVEZE<Dep> et arrive à <Arr>SENNECEY-LE-GRAND<Arr>.
-Il me faudrait un billet de <Dep>LOUROUX-DE-BOUBLE<Dep> vers <Arr>LE HOULME<Arr>.
-Mon vol part de <Dep>BRUZ<Dep> et arrivera à <Arr>PAVILLY<Arr>.
-Le bus quitte <Dep>TREMENTINES<Dep> et se dirige vers <Arr>LABENNE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>LOREUX<Dep> jusqu’à <Arr>BUSSIERE-GALANT<Arr>.
-Mon vol part de <Dep>BLANGY-SUR-BRESLE<Dep> et arrivera à <Arr>DRAP<Arr>.
-Mon vol part de <Dep>SAINT-MARTIN-D'ARROSSA<Dep> et arrivera à <Arr>DUGNY-SUR-MEUSE<Arr>.
-Un vol de <Dep>ALBI<Dep> vers <Arr>ALIZAY<Arr> m'intéresse.
-Je pars de <Dep>ETRICHE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je voudrais réserver un vol de <Dep>CUINCHY<Dep> pour <Arr>MILLY-SUR-THERAIN<Arr>.
-Le prochain bus va de <Dep>COURTENAY<Dep> à <Arr>MAGLAND<Arr>.
-Le bus quitte <Dep>CAEN<Dep> et se dirige vers <Arr>LE BOULOU<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>LUTTERBACH<Dep> jusqu’à <Arr>SAINT-JULIEN-EN-GENEVOIS<Arr>.
-Je recherche un train de <Dep>ABBARETZ<Dep> à <Arr>RONCHIN<Arr>.
-Un vol de <Dep>DECIZE<Dep> vers <Arr>SUCE-SUR-ERDRE<Arr> m'intéresse.
-Mon trajet commence à <Dep>SAINT-AMAND-LES-EAUX<Dep> et se termine à <Arr>VALSERHONE<Arr>.
-Je pars de <Dep>CHAMONIX-MONT-BLANC<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-J'ai besoin d'un vol qui part de <Dep>SAINT-MANVIEU-NORREY<Dep> et arrive à <Arr>MAUZAC-ET-GRAND-CASTANG<Arr>.
-Prévoyez mon départ depuis <Dep>VENDOME<Dep> jusqu'à <Arr>MORANNES SUR SARTHE-DAUMERAY<Arr>.
-Un vol qui part de <Dep>VENIZEL<Dep> et arrive à <Arr>LE MUY<Arr> serait parfait.
-J'ai besoin d'un vol qui part de <Dep>VANDIERES<Dep> et arrive à <Arr>LENS<Arr>.
-Mon trajet commence à <Dep>EPONE<Dep> et se termine à <Arr>CORCY<Arr>.
-Mon trajet commence à <Dep>LA MARCHE<Dep> et se termine à <Arr>PARIS<Arr>.
-Un vol qui part de <Dep>ECOUFLANT<Dep> et arrive à <Arr>LONGROY<Arr> serait parfait.
-Réservez un train de <Dep>HONNECHY<Dep> vers <Arr>LE TEIL<Arr>.Trouve-moi un billet pour un départ depuis <Dep>VALLORCINE<Dep> jusqu’à <Arr>ROINVILLE<Arr>.
-Le prochain bus va de <Dep>LINGOLSHEIM<Dep> à <Arr>PIERRELATTE<Arr>.
-Je voudrais réserver un vol de <Dep>VENDOME<Dep> pour <Arr>NOIZAY<Arr>.
-Je recherche un train de <Dep>ATHIS-MONS<Dep> à <Arr>PAGNY-SUR-MOSELLE<Arr>.
-Mon vol part de <Dep>ARRAS<Dep> et arrivera à <Arr>DREUIL-LES-AMIENS<Arr>.
-Je pars de <Dep>AUDES<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Quel est le prochain train de <Dep>OUGES<Dep> à <Arr>Genève</Arr> ?
-Un vol de <Dep>PANTIN<Dep> vers <Arr>FREISTROFF<Arr> m'intéresse.
-Trouve-moi un billet pour un départ depuis <Dep>BEAUVAIS<Dep> jusqu’à <Arr>UZERCHE<Arr>.
-Je voudrais réserver un vol de <Dep>LE CHATEAU-D'ALMENECHES<Dep> pour <Arr>SAINT-EGREVE<Arr>.
-Prévoyez mon départ depuis <Dep>CHAMALIERES-SUR-LOIRE<Dep> jusqu'à <Arr>ERMONT<Arr>.
-Mon itinéraire comprend un départ de <Dep>SALLAUMINES<Dep> pour <Arr>ERMONT<Arr>.
-Il me faudrait un billet de <Dep>SUCY-EN-BRIE<Dep> vers <Arr>CAMBO-LES-BAINS<Arr>.
-Prévoyez mon départ depuis <Dep>RIVE-DE-GIER<Dep> jusqu'à <Arr>CHAMBLY<Arr>.
-Un vol qui part de <Dep>ENVEITG<Dep> et arrive à <Arr>ODEREN<Arr> serait parfait.
-Mon vol part de <Dep>VITTEL<Dep> et arrivera à <Arr>BOIS-LE-ROI<Arr>.
-Un vol de <Dep>MONTVAL-SUR-LOIR<Dep> vers <Arr>VAUX-SUR-SEINE<Arr> m'intéresse.
-Je veux partir de <Dep>ETREPAGNY<Dep> pour arriver à <Arr>SAINT-ANDRE-LEZ-LILLE<Arr> demain.
-Prévoyez mon départ depuis <Dep>GOUAIX<Dep> jusqu'à <Arr>PONTGOUIN<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>GRENOBLE<Dep> jusqu’à <Arr>NOGENT-LE-ROTROU<Arr>.
-Un vol qui part de <Dep>ESPIRA-DE-L'AGLY<Dep> et arrive à <Arr>RONCHIN<Arr> serait parfait.
-Trouve-moi un billet pour un départ depuis <Dep>VALSERHONE<Dep> jusqu’à <Arr>TERRES-DE-HAUTE-CHARENTE<Arr>.
-Je recherche un train de <Dep>SUCY-EN-BRIE<Dep> à <Arr>VILLEMAURY<Arr>.
-Je recherche un train de <Dep>SAINT-LO<Dep> à <Arr>SAINT-POL-DE-LEON<Arr>.
-Je pars de <Dep>CHAVANGES<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Un vol qui part de <Dep>LE HAVRE<Dep> et arrive à <Arr>LA ROCHE-SUR-FORON<Arr> serait parfait.
-Il me faudrait un billet de <Dep>ROQUEFORT<Dep> vers <Arr>CANNES<Arr>.
-Je pars de <Dep>NAINTRE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Un vol qui part de <Dep>THEILLAY<Dep> et arrive à <Arr>SELTZ<Arr> serait parfait.
-Un vol de <Dep>SENS<Dep> vers <Arr>GLOS-SUR-RISLE<Arr> m'intéresse.
-Mon vol part de <Dep>GILLY-SUR-LOIRE<Dep> et arrivera à <Arr>VILLEDOMER<Arr>.
-Quel est le prochain train de <Dep>PIBRAC<Dep> à <Arr>Genève</Arr> ?
-Un vol qui part de <Dep>JUVISY-SUR-ORGE<Dep> et arrive à <Arr>CLION<Arr> serait parfait.
-Il me faudrait un billet de <Dep>POLIENAS<Dep> vers <Arr>ANOR<Arr>.
-Quel est le prochain train de <Dep>LYON<Dep> à <Arr>Genève</Arr> ?
-Je recherche un train de <Dep>LE COTEAU<Dep> à <Arr>LE BOULOU<Arr>.
-Je dois aller de <Dep>PORT-BRILLET<Dep> vers <Arr>BEAUCAIRE<Arr> la semaine prochaine.
-Trouve-moi un billet pour un départ depuis <Dep>ALIZAY<Dep> jusqu’à <Arr>PICQUIGNY<Arr>.
-Le prochain bus va de <Dep>GENNES-VAL-DE-LOIRE<Dep> à <Arr>BOUCOIRAN-ET-NOZIERES<Arr>.
-Je veux partir de <Dep>FUMAY<Dep> pour arriver à <Arr>NANTES<Arr> demain.
-Quel est le prochain train de <Dep>VARETZ<Dep> à <Arr>Genève</Arr> ?
-Le prochain bus va de <Dep>GUERIGNY<Dep> à <Arr>AMIFONTAINE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>VICQ-SUR-BREUILH<Dep> jusqu’à <Arr>MANDUEL<Arr>.
-Trouve un billet de train qui part de <Dep>GROSLAY<Dep> à destination de <Arr>LA TOUR-DU-PIN<Arr>.
-Un vol qui part de <Dep>GENNES-LONGUEFUYE<Dep> et arrive à <Arr>SEZANNE<Arr> serait parfait.
-Il me faudrait un billet de <Dep>THIVIERS<Dep> vers <Arr>ARRAS<Arr>.
-Je voudrais réserver un vol de <Dep>SAINT-PIERRE-LES-NEMOURS<Dep> pour <Arr>BRUYERES<Arr>.
-Je cherche un vol entre <Dep>BOVES<Dep> et <Arr>IVRY-SUR-SEINE<Arr>.
-Mon itinéraire comprend un départ de <Dep>SULLY-SUR-LOIRE<Dep> pour <Arr>SAINT-LOUIS<Arr>.
-Je recherche un train de <Dep>LUXEUIL-LES-BAINS<Dep> à <Arr>SCHILTIGHEIM<Arr>.
-Il me faudrait un billet de <Dep>LA GUERCHE-SUR-L'AUBOIS<Dep> vers <Arr>TOULOUSE<Arr>.
-Je cherche un vol entre <Dep>LONGPRE-LES-CORPS-SAINTS<Dep> et <Arr>GAP<Arr>.
-Mon vol part de <Dep>LOULAY<Dep> et arrivera à <Arr>VILLENAVE-D'ORNON<Arr>.
-Je dois aller de <Dep>DEAUVILLE<Dep> vers <Arr>SAINT-MICHEL-SUR-ORGE<Arr> la semaine prochaine.
-Je cherche un vol entre <Dep>MONTAUBAN-DE-BRETAGNE<Dep> et <Arr>CHALETTE-SUR-LOING<Arr>.
-Je veux partir de <Dep>NOMAIN<Dep> pour arriver à <Arr>DACHSTEIN<Arr> demain.
-Je cherche un vol entre <Dep>CHATEAU-RENAULT<Dep> et <Arr>REICHSHOFFEN<Arr>.
-Quel est le prochain train de <Dep>GRENADE-SUR-L'ADOUR<Dep> à <Arr>Genève</Arr> ?
-Je veux partir de <Dep>ATHIES-SOUS-LAON<Dep> pour arriver à <Arr>CHALONS-EN-CHAMPAGNE<Arr> demain.
-Mon trajet commence à <Dep>MANSAC<Dep> et se termine à <Arr>ONVILLE<Arr>.
-Je voudrais réserver un vol de <Dep>SAINT-VINCENT-DE-TYROSSE<Dep> pour <Arr>VAL-DE-VESLE<Arr>.
-Prévoyez mon départ depuis <Dep>LA CIOTAT<Dep> jusqu'à <Arr>LA GUERCHE-SUR-L'AUBOIS<Arr>.
-Trouve un billet de train qui part de <Dep>COMMUNE NOUVELLE D'ARROU<Dep> à destination de <Arr>CHATEAUNEUF-SUR-ISERE<Arr>.
-Le bus quitte <Dep>SIMANDRE-SUR-SURAN<Dep> et se dirige vers <Arr>NANTEUIL-LE-HAUDOUIN<Arr>.
-Un vol de <Dep>SAINT-PANTALEON-DE-LARCHE<Dep> vers <Arr>LANGEAC<Arr> m'intéresse.
-Je voudrais réserver un vol de <Dep>MONTBARREY<Dep> pour <Arr>PARIS<Arr>.
-Trouve un billet de train qui part de <Dep>BANDOL<Dep> à destination de <Arr>PORTIEUX<Arr>.
-Le prochain bus va de <Dep>HAUTS DE BIENNE<Dep> à <Arr>MARSEILLE<Arr>.
-Il me faudrait un billet de <Dep>RULLY<Dep> vers <Arr>SAINT-AMOUR<Arr>.
-Mon vol part de <Dep>MONTLUCON<Dep> et arrivera à <Arr>SABLE-SUR-SARTHE<Arr>.
-Je voudrais réserver un vol de <Dep>MASSY<Dep> pour <Arr>RONCHIN<Arr>.
-Je voudrais réserver un vol de <Dep>COTEAUX-SUR-LOIRE<Dep> pour <Arr>SAINT-JEAN-DE-MAURIENNE<Arr>.
-Un vol de <Dep>BELLENAVES<Dep> vers <Arr>NONANCOURT<Arr> m'intéresse.
-Trouve-moi un billet pour un départ depuis <Dep>LAMOTHE-MONTRAVEL<Dep> jusqu’à <Arr>CLION<Arr>.
-Mon trajet commence à <Dep>REMIREMONT<Dep> et se termine à <Arr>TROSLY-BREUIL<Arr>.
-Mon trajet commence à <Dep>BLOIS<Dep> et se termine à <Arr>MORTIERS<Arr>.
-Trouve un billet de train qui part de <Dep>LANGUENAN<Dep> à destination de <Arr>AVION<Arr>.
-Je pars de <Dep>AUBIN<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>BORNEL<Dep> jusqu’à <Arr>VIC-LA-GARDIOLE<Arr>.
-Mon itinéraire comprend un départ de <Dep>DOURGES<Dep> pour <Arr>LE ROVE<Arr>.
-Je cherche un vol entre <Dep>UCKANGE<Dep> et <Arr>CRANCEY<Arr>.
-Un vol de <Dep>GONFARON<Dep> vers <Arr>CHATEAUDUN<Arr> m'intéresse.
-J'ai besoin d'un vol qui part de <Dep>MESVES-SUR-LOIRE<Dep> et arrive à <Arr>WILLER-SUR-THUR<Arr>.
-Mon itinéraire comprend un départ de <Dep>LIMOGES<Dep> pour <Arr>EVRY-COURCOURONNES<Arr>.
-Un vol qui part de <Dep>BARR<Dep> et arrive à <Arr>LAYRAC<Arr> serait parfait.
-Prévoyez mon départ depuis <Dep>ROMORANTIN-LANTHENAY<Dep> jusqu'à <Arr>ROINVILLE<Arr>.
-Je pars de <Dep>CHEVRY<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Je cherche un vol entre <Dep>SAINT-RAMBERT-EN-BUGEY<Dep> et <Arr>SAINT-NAZAIRE<Arr>.
-Je cherche un vol entre <Dep>CHEZY-SUR-MARNE<Dep> et <Arr>BARBENTANE<Arr>.
-Un vol de <Dep>NURIEUX-VOLOGNAT<Dep> vers <Arr>USTARITZ<Arr> m'intéresse.
-Trouve-moi un billet pour un départ depuis <Dep>PREIGNAC<Dep> jusqu’à <Arr>TREMOLAT<Arr>.
-Mon itinéraire comprend un départ de <Dep>JARVILLE-LA-MALGRANGE<Dep> pour <Arr>GIVORS<Arr>.
-Je recherche un train de <Dep>CAULNES<Dep> à <Arr>TROIS-RIVIERES<Arr>.
-Je cherche un vol entre <Dep>RAI<Dep> et <Arr>TAMNAY-EN-BAZOIS<Arr>.
-Le bus quitte <Dep>FONTENAY-LE-COMTE<Dep> et se dirige vers <Arr>DOMBASLE-SUR-MEURTHE<Arr>.
-Mon vol part de <Dep>ETREMBIERES<Dep> et arrivera à <Arr>BASSENS<Arr>.
-Quel est le prochain train de <Dep>ERMONT<Dep> à <Arr>Genève</Arr> ?
-Je recherche un train de <Dep>FONTENAY-LE-COMTE<Dep> à <Arr>LA COQUILLE<Arr>.
-Quel est le prochain train de <Dep>SURY-LE-COMTAL<Dep> à <Arr>Genève</Arr> ?
-Mon vol part de <Dep>PACY-SUR-ARMANCON<Dep> et arrivera à <Arr>DREUX<Arr>.
-Il me faudrait un billet de <Dep>BORDEAUX<Dep> vers <Arr>LA CHAIZE-LE-VICOMTE<Arr>.
-Un vol de <Dep>CHATEAUNEUF-SUR-ISERE<Dep> vers <Arr>BOULAZAC ISLE MANOIRE<Arr> m'intéresse.
-Je cherche un vol entre <Dep>CHAMONIX-MONT-BLANC<Dep> et <Arr>BOURG-BRUCHE<Arr>.
-Un vol de <Dep>MAIZIERES-LES-METZ<Dep> vers <Arr>VERGIGNY<Arr> m'intéresse.
-Mon trajet commence à <Dep>ROMILLY-LA-PUTHENAYE<Dep> et se termine à <Arr>SERQUEUX<Arr>.
-Quel est le prochain train de <Dep>ROUESSE-VASSE<Dep> à <Arr>Genève</Arr> ?
-Un vol de <Dep>PARAY-LE-MONIAL<Dep> vers <Arr>MINIAC-MORVAN<Arr> m'intéresse.
-Mon trajet commence à <Dep>LE DOUHET<Dep> et se termine à <Arr>ROLLEVILLE<Arr>.
-Mon vol part de <Dep>BIARRITZ<Dep> et arrivera à <Arr>CHAMONIX-MONT-BLANC<Arr>.
-Le prochain bus va de <Dep>OSNY<Dep> à <Arr>OIRY<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>NICE<Dep> jusqu’à <Arr>METZ<Arr>.
-Le prochain bus va de <Dep>MORGNY-LA-POMMERAYE<Dep> à <Arr>OSSUN<Arr>.
-Je recherche un train de <Dep>DARDILLY<Dep> à <Arr>ETANG-SUR-ARROUX<Arr>.
-Trouve un billet de train qui part de <Dep>ABLAINCOURT-PRESSOIR<Dep> à destination de <Arr>NOUAN-LE-FUZELIER<Arr>.
-Le prochain bus va de <Dep>BEAUNE<Dep> à <Arr>LA RIVIERE-DRUGEON<Arr>.
-Le bus quitte <Dep>LA COURNEUVE<Dep> et se dirige vers <Arr>HERICY<Arr>.
-Mon itinéraire comprend un départ de <Dep>CHOCQUES<Dep> pour <Arr>SAINT-ANDRE-DE-CORCY<Arr>.
-Je voudrais réserver un vol de <Dep>TRESSIN<Dep> pour <Arr>STRASBOURG<Arr>.
-J'ai besoin d'un vol qui part de <Dep>LE VERNET<Dep> et arrive à <Arr>VIRE NORMANDIE<Arr>.
-Je cherche un vol entre <Dep>VICQ-SUR-BREUILH<Dep> et <Arr>FONTENAY-LE-COMTE<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>ILLZACH<Dep> jusqu’à <Arr>SAINT-VIT<Arr>.
-Un vol de <Dep>REVEL<Dep> vers <Arr>LA FERTE-IMBAULT<Arr> m'intéresse.
-Un vol de <Dep>SARREGUEMINES<Dep> vers <Arr>MARCK<Arr> m'intéresse.
-Réservez un train de <Dep>MAILLY-LE-CAMP<Dep> vers <Arr>CAVIGNAC<Arr>.Un vol de <Dep>OBERMODERN-ZUTZENDORF<Dep> vers <Arr>BLANZAY<Arr> m'intéresse.
-Je cherche un vol entre <Dep>BROONS<Dep> et <Arr>LES EGLISOTTES-ET-CHALAURES<Arr>.
-Le prochain bus va de <Dep>SQUIFFIEC<Dep> à <Arr>MARSEILLE<Arr>.
-Je veux partir de <Dep>SAVIGNY-SUR-ORGE<Dep> pour arriver à <Arr>AMIENS<Arr> demain.
-Le prochain bus va de <Dep>MINIAC-MORVAN<Dep> à <Arr>BRUZ<Arr>.
-Je pars de <Dep>SAINT-GERMAIN-EN-LAYE<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
-Le prochain bus va de <Dep>BRESSUIRE<Dep> à <Arr>TIEFFENBACH<Arr>.
-Je dois aller de <Dep>COLAYRAC-SAINT-CIRQ<Dep> vers <Arr>LESPARRE-MEDOC<Arr> la semaine prochaine.
-Le prochain bus va de <Dep>JOIGNY<Dep> à <Arr>VOUZIERS<Arr>.
-J'ai besoin d'un vol qui part de <Dep>SAINT-HILAIRE-SUR-HELPE<Dep> et arrive à <Arr>DONZERE<Arr>.
-Un vol qui part de <Dep>PARAY-LE-MONIAL<Dep> et arrive à <Arr>LENS<Arr> serait parfait.
-Le bus quitte <Dep>LENS<Dep> et se dirige vers <Arr>MAREIL-SUR-MAULDRE<Arr>.
-Mon trajet commence à <Dep>AUDES<Dep> et se termine à <Arr>MONTRICHARD VAL DE CHER<Arr>.
-Quel est le prochain train de <Dep>VEUXHAULLES-SUR-AUBE<Dep> à <Arr>Genève</Arr> ?
-Un vol qui part de <Dep>CHAMBLY<Dep> et arrive à <Arr>MOLSHEIM<Arr> serait parfait.
-Un vol qui part de <Dep>DERCY<Dep> et arrive à <Arr>BEINHEIM<Arr> serait parfait.
-Trouve un billet de train qui part de <Dep>EVRY-COURCOURONNES<Dep> à destination de <Arr>BRUYERES<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>FLORANGE<Dep> jusqu’à <Arr>VILLERS-COTTERETS<Arr>.
-Un vol de <Dep>BROONS<Dep> vers <Arr>CAUDRY<Arr> m'intéresse.
-Le bus quitte <Dep>FONTAINE-LE-PORT<Dep> et se dirige vers <Arr>VEYNES<Arr>.
-J'ai besoin d'un vol qui part de <Dep>VERNEUIL D'AVRE ET D'ITON<Dep> et arrive à <Arr>VERSAILLES<Arr>.
-Un vol de <Dep>BENFELD<Dep> vers <Arr>OSNY<Arr> m'intéresse.
-Mon itinéraire comprend un départ de <Dep>BOUCOIRAN-ET-NOZIERES<Dep> pour <Arr>CHAMBARON SUR MORGE<Arr>.
-Je cherche un vol entre <Dep>VOUJEAUCOURT<Dep> et <Arr>GIROMAGNY<Arr>.
-Je recherche un train de <Dep>PARENT<Dep> à <Arr>GUILLON-TERRE-PLAINE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>ARCHES<Dep> et arrive à <Arr>RIXHEIM<Arr>.
-J'ai besoin d'un vol qui part de <Dep>BOISSISE-LE-ROI<Dep> et arrive à <Arr>ESPIRA-DE-L'AGLY<Arr>.
-Réservez un train de <Dep>MERIGNAC<Dep> vers <Arr>TOUL<Arr>.Réservez un train de <Dep>DOLE<Dep> vers <Arr>BOIS-LE-ROI<Arr>.Mon vol part de <Dep>LOUHANS<Dep> et arrivera à <Arr>ARC-ET-SENANS<Arr>.
-Trouve-moi un billet pour un départ depuis <Dep>PONT-SUR-YONNE<Dep> jusqu’à <Arr>CHAMALIERES-SUR-LOIRE<Arr>.
-J'ai besoin d'un vol qui part de <Dep>PONTORSON<Dep> et arrive à <Arr>SAINT-OUEN-L'AUMONE<Arr>.
-Je cherche un vol entre <Dep>MIGNALOUX-BEAUVOIR<Dep> et <Arr>CHARLEVILLE-MEZIERES<Arr>.
-Le bus quitte <Dep>APPILLY<Dep> et se dirige vers <Arr>GANNAT<Arr>.
-Prévoyez mon départ depuis <Dep>VARENNES-VAUZELLES<Dep> jusqu'à <Arr>CHALON-SUR-SAONE<Arr>.
-Je veux partir de <Dep>AUBIGNY<Dep> pour arriver à <Arr>LIGUGE<Arr> demain.
+Réservez un train de <Dep>CHANTONNAY<Dep> vers <Arr>LES CABANNES<Arr>.Quel est le prochain train de <Dep>COMINES<Dep> à <Arr>BOVES<Arr> ?
+Je pars de <Dep>MARTIGUES<Dep> pour aller à <Arr>LUS-LA-CROIX-HAUTE<Arr>.
+Je dois aller de <Dep>PALAISEAU<Dep> vers <Arr>RIA-SIRACH<Arr> la semaine prochaine.
+Prévoyez mon départ depuis <Dep>BLOIS<Dep> jusqu'à <Arr>AVALLON<Arr>.
+Mon trajet commence à <Dep>BASSENS<Dep> et se termine à <Arr>LILLE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>MER<Dep> et arrive à <Arr>MOIRANS<Arr>.
+Mon vol part de <Dep>GLOS-SUR-RISLE<Dep> et arrivera à <Arr>CHALAIS<Arr>.
+J'ai besoin d'un vol qui part de <Dep>RIXHEIM<Dep> et arrive à <Arr>LE CHATEAU-D'ALMENECHES<Arr>.
+Le prochain bus va de <Dep>MENNETOU-SUR-CHER<Dep> à <Arr>CHATELAILLON-PLAGE<Arr>.
+Je dois aller de <Dep>CHAMBARON SUR MORGE<Dep> vers <Arr>BAUVIN<Arr> la semaine prochaine.
+Il me faudrait un billet de <Dep>RENESCURE<Dep> vers <Arr>SAINTE-EANNE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BUZET-SUR-TARN<Dep> jusqu’à <Arr>MAISONS-ALFORT<Arr>.
+Je cherche un vol entre <Dep>LUCAY-LE-MALE<Dep> et <Arr>MARSEILLE<Arr>.
+Mon itinéraire comprend un départ de <Dep>AIFFRES<Dep> pour <Arr>LA HOUSSAYE-EN-BRIE<Arr>.
+Je voudrais réserver un vol de <Dep>SAINT-JEAN-PIED-DE-PORT<Dep> pour <Arr>PARIS<Arr>.
+Je recherche un train de <Dep>MOUTIERS<Dep> à <Arr>HERBITZHEIM<Arr>.
+Je dois aller de <Dep>MEAUX<Dep> vers <Arr>LA FERTE-SOUS-JOUARRE<Arr> la semaine prochaine.
+Trouve-moi un billet pour un départ depuis <Dep>SAINT-PRIEST<Dep> jusqu’à <Arr>RAEDERSHEIM<Arr>.
+Il me faudrait un billet de <Dep>DEUIL-LA-BARRE<Dep> vers <Arr>EINVAUX<Arr>.
+J'ai besoin d'un vol qui part de <Dep>VALLORCINE<Dep> et arrive à <Arr>MOUZON<Arr>.
+Le bus quitte <Dep>SAINT-JULIEN-EN-GENEVOIS<Dep> et se dirige vers <Arr>TRONSANGES<Arr>.
+Je recherche un train de <Dep>ARNEKE<Dep> à <Arr>LA BATHIE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>FUILLA<Dep> et arrive à <Arr>DARCEY<Arr>.
+Le bus quitte <Dep>SEZANNE<Dep> et se dirige vers <Arr>MONTROND-LES-BAINS<Arr>.
+Je dois aller de <Dep>CUSSET<Dep> vers <Arr>RENNES<Arr> la semaine prochaine.
+Prévoyez mon départ depuis <Dep>CORBEIL-ESSONNES<Dep> jusqu'à <Arr>VALLENAY<Arr>.
+Un vol de <Dep>PAREMPUYRE<Dep> vers <Arr>CHATEAU-RENAULT<Arr> m'intéresse.
+Mon itinéraire comprend un départ de <Dep>NEUVIC-ENTIER<Dep> pour <Arr>RUNGIS<Arr>.
+Réservez un train de <Dep>BUSSAC-FORET<Dep> vers <Arr>VENDEUVRE-SUR-BARSE<Arr>.Prévoyez mon départ depuis <Dep>TOURY<Dep> jusqu'à <Arr>LA SUZE-SUR-SARTHE<Arr>.
+Je pars de <Dep>ANICHE<Dep> pour aller à <Arr>SAINT-MARTIN-DU-MONT<Arr>.
+Je veux partir de <Dep>LA BAULE-ESCOUBLAC<Dep> pour arriver à <Arr>SAINT-ETIENNE-DE-MONTLUC<Arr> demain.
+Quel est le prochain train de <Dep>LES TROIS-DOMAINES<Dep> à <Arr>BYANS-SUR-DOUBS<Arr> ?
+Mon itinéraire comprend un départ de <Dep>AMILLY<Dep> pour <Arr>FEPIN<Arr>.
+Trouve un billet de train qui part de <Dep>AUBIGNY-AU-BAC<Dep> à destination de <Arr>BEAULIEU-SUR-MER<Arr>.
+Il me faudrait un billet de <Dep>GORGES<Dep> vers <Arr>MONTREUIL-BELLAY<Arr>.
+Mon itinéraire comprend un départ de <Dep>CHALON-SUR-SAONE<Dep> pour <Arr>WALLERS<Arr>.
+Mon vol part de <Dep>ROUBAIX<Dep> et arrivera à <Arr>MOUANS-SARTOUX<Arr>.
+Un vol qui part de <Dep>GRETZ-ARMAINVILLIERS<Dep> et arrive à <Arr>FARBUS<Arr> serait parfait.
+Trouve un billet de train qui part de <Dep>VIRY-CHATILLON<Dep> à destination de <Arr>MILLY-SUR-THERAIN<Arr>.
+Je recherche un train de <Dep>FREISTROFF<Dep> à <Arr>BILLY-MONTIGNY<Arr>.
+Mon trajet commence à <Dep>MONTLUCON<Dep> et se termine à <Arr>VAL DE VIRVEE<Arr>.
+Il me faudrait un billet de <Dep>SAINT-MARTIN-LE-BEAU<Dep> vers <Arr>BAGNERES-DE-LUCHON<Arr>.
+Prévoyez mon départ depuis <Dep>PARTHENAY<Dep> jusqu'à <Arr>BEAUVOIR-SUR-NIORT<Arr>.
+Trouve un billet de train qui part de <Dep>MARSEILLE<Dep> à destination de <Arr>VALLORCINE<Arr>.
+Il me faudrait un billet de <Dep>SAINTE-PAZANNE<Dep> vers <Arr>GUICHEN<Arr>.
+Je voudrais réserver un vol de <Dep>PONT-L'EVEQUE<Dep> pour <Arr>AIMARGUES<Arr>.
+Trouve un billet de train qui part de <Dep>FELLERING<Dep> à destination de <Arr>CRAMPAGNA<Arr>.
+Prévoyez mon départ depuis <Dep>SAINT-DIZIER<Dep> jusqu'à <Arr>GUINGAMP<Arr>.
+Je voudrais réserver un vol de <Dep>COLLONGES-ET-PREMIERES<Dep> pour <Arr>RENNES<Arr>.
+Trouve un billet de train qui part de <Dep>CHAMONIX-MONT-BLANC<Dep> à destination de <Arr>RICHWILLER<Arr>.
+Je pars de <Dep>HERICOURT<Dep> pour aller à <Arr>BOBIGNY<Arr>.
+Réservez un train de <Dep>GENECH<Dep> vers <Arr>BITCHE<Arr>.Je voudrais réserver un vol de <Dep>ACHERES<Dep> pour <Arr>GONCELIN<Arr>.
+Réservez un train de <Dep>SEES<Dep> vers <Arr>PONTIVY<Arr>.J'ai besoin d'un vol qui part de <Dep>BARENTIN<Dep> et arrive à <Arr>SAINT-SEBASTIEN<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>GOXWILLER<Dep> jusqu’à <Arr>GOUAIX<Arr>.
+Un vol qui part de <Dep>AUBUSSON<Dep> et arrive à <Arr>MARQUIXANES<Arr> serait parfait.
+Le bus quitte <Dep>SAINT-OMER-EN-CHAUSSEE<Dep> et se dirige vers <Arr>SEVRAN<Arr>.
+Je pars de <Dep>COURTENAY<Dep> pour aller à <Arr>LAVAUR<Arr>.
+Mon trajet commence à <Dep>LAVEISSIERE<Dep> et se termine à <Arr>POLIGNY<Arr>.
+Je voudrais réserver un vol de <Dep>COMMERCY<Dep> pour <Arr>HAM-EN-ARTOIS<Arr>.
+Le bus quitte <Dep>MOUGINS<Dep> et se dirige vers <Arr>BOUFFEMONT<Arr>.
+Je pars de <Dep>VILLEPINTE<Dep> pour aller à <Arr>OXELAERE<Arr>.
+Je recherche un train de <Dep>NEUVES-MAISONS<Dep> à <Arr>BOLOGNE<Arr>.
+Mon vol part de <Dep>BONNEVAL<Dep> et arrivera à <Arr>TRILPORT<Arr>.
+Mon vol part de <Dep>AUBRIVES<Dep> et arrivera à <Arr>AVIGNON<Arr>.
+Je cherche un vol entre <Dep>OSSEJA<Dep> et <Arr>LAVAUR<Arr>.
+Il me faudrait un billet de <Dep>MURAT<Dep> vers <Arr>BEAUVOIR-SUR-NIORT<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>ANSTAING<Dep> jusqu’à <Arr>MER<Arr>.
+Le prochain bus va de <Dep>LAON<Dep> à <Arr>NOISY-LE-ROI<Arr>.
+Un vol de <Dep>GENELARD<Dep> vers <Arr>ARLEUX<Arr> m'intéresse.
+Un vol qui part de <Dep>VILLENEUVE-SUR-YONNE<Dep> et arrive à <Arr>LOCQUIGNOL<Arr> serait parfait.
+Je recherche un train de <Dep>LA CHAIZE-LE-VICOMTE<Dep> à <Arr>SAINT-CLAUDE<Arr>.
+Il me faudrait un billet de <Dep>MOULINS-SUR-YEVRE<Dep> vers <Arr>ETREPAGNY<Arr>.
+Je cherche un vol entre <Dep>SOLAIZE<Dep> et <Arr>LANGON<Arr>.
+Je recherche un train de <Dep>VIVIEZ<Dep> à <Arr>TREMENTINES<Arr>.
+J'ai besoin d'un vol qui part de <Dep>BEDARIEUX<Dep> et arrive à <Arr>SAINT-DIZIER<Arr>.
+Prévoyez mon départ depuis <Dep>GRAND BOURGTHEROULDE<Dep> jusqu'à <Arr>VERDUN<Arr>.
+Le prochain bus va de <Dep>CHEVREMONT<Dep> à <Arr>VENDOME<Arr>.
+Je veux partir de <Dep>NERAC<Dep> pour arriver à <Arr>MOIRANS<Arr> demain.
+Je veux partir de <Dep>FAVERNEY<Dep> pour arriver à <Arr>ARNAC-POMPADOUR<Arr> demain.
+Le prochain bus va de <Dep>LA PENNE-SUR-HUVEAUNE<Dep> à <Arr>LE POUZIN<Arr>.
+Je pars de <Dep>BAGNAC-SUR-CELE<Dep> pour aller à <Arr>NICE<Arr>.
+Je recherche un train de <Dep>MORTIERS<Dep> à <Arr>CHESSY<Arr>.
+Mon itinéraire comprend un départ de <Dep>PERPIGNAN<Dep> pour <Arr>HERBLAY-SUR-SEINE<Arr>.
+Je pars de <Dep>STRASBOURG<Dep> pour aller à <Arr>ANCENIS-SAINT-GEREON<Arr>.
+Je dois aller de <Dep>GRIGNY<Dep> vers <Arr>BENING-LES-SAINT-AVOLD<Arr> la semaine prochaine.
+Un vol qui part de <Dep>HAUTS DE BIENNE<Dep> et arrive à <Arr>TOULOUSE<Arr> serait parfait.
+Trouve-moi un billet pour un départ depuis <Dep>EGLETONS<Dep> jusqu’à <Arr>AVIGNON<Arr>.
+Le prochain bus va de <Dep>LAISSAC-SEVERAC L'EGLISE<Dep> à <Arr>PARIS<Arr>.
+Le bus quitte <Dep>PARIS<Dep> et se dirige vers <Arr>SAINT-SULPICE-ET-CAMEYRAC<Arr>.
+Le bus quitte <Dep>ETREMBIERES<Dep> et se dirige vers <Arr>PEILLON<Arr>.
+Mon vol part de <Dep>VIRY-NOUREUIL<Dep> et arrivera à <Arr>SAUMUR<Arr>.
+Il me faudrait un billet de <Dep>PLEINE-FOUGERES<Dep> vers <Arr>TOURNES<Arr>.
+Un vol de <Dep>SAINT-PATERNE-RACAN<Dep> vers <Arr>MOULINS-SUR-YEVRE<Arr> m'intéresse.
+Le prochain bus va de <Dep>GRIGNY<Dep> à <Arr>SAINT-GERMAIN-EN-LAYE<Arr>.
+Réservez un train de <Dep>GENNES-VAL-DE-LOIRE<Dep> vers <Arr>SANTEUIL<Arr>.Trouve-moi un billet pour un départ depuis <Dep>MORMANT<Dep> jusqu’à <Arr>CHORGES<Arr>.
+Je voudrais réserver un vol de <Dep>ALET-LES-BAINS<Dep> pour <Arr>LOPERHET<Arr>.
+Trouve un billet de train qui part de <Dep>COSNE-COURS-SUR-LOIRE<Dep> à destination de <Arr>DONCHERY<Arr>.
+Un vol de <Dep>SAINT-CLEMENT<Dep> vers <Arr>DIEMERINGEN<Arr> m'intéresse.
+Un vol qui part de <Dep>BERTHELMING<Dep> et arrive à <Arr>MENNETOU-SUR-CHER<Arr> serait parfait.
+Trouve un billet de train qui part de <Dep>THEZY-GLIMONT<Dep> à destination de <Arr>LA BAULE-ESCOUBLAC<Arr>.
+Je voudrais réserver un vol de <Dep>PORT-DE-BOUC<Dep> pour <Arr>BEAUMONT-DE-LOMAGNE<Arr>.
+Trouve un billet de train qui part de <Dep>ENTRAIGUES-SUR-LA-SORGUE<Dep> à destination de <Arr>MONTENDRE<Arr>.
+Un vol de <Dep>VERSAILLES<Dep> vers <Arr>TERGNIER<Arr> m'intéresse.
+Je pars de <Dep>SARRE-UNION<Dep> pour aller à <Arr>SAINT-DIZIER<Arr>.
+Trouve un billet de train qui part de <Dep>BOLOGNE<Dep> à destination de <Arr>NOISY-LE-SEC<Arr>.
+Je pars de <Dep>METZERVISSE<Dep> pour aller à <Arr>GRANDPUITS-BAILLY-CARROIS<Arr>.
+Le prochain bus va de <Dep>LA MEAUGON<Dep> à <Arr>SAINT-ANDRE-DE-L'EURE<Arr>.
+Trouve un billet de train qui part de <Dep>TURCKHEIM<Dep> à destination de <Arr>FOLLIGNY<Arr>.
+Je recherche un train de <Dep>IGNY<Dep> à <Arr>ARCACHON<Arr>.
+Trouve un billet de train qui part de <Dep>REICHSTETT<Dep> à destination de <Arr>BATZ-SUR-MER<Arr>.
+Je dois aller de <Dep>BOBIGNY<Dep> vers <Arr>FRONVILLE<Arr> la semaine prochaine.
+Le bus quitte <Dep>BONNEVAL<Dep> et se dirige vers <Arr>SAINT-MAIXENT-L'ECOLE<Arr>.
+Mon vol part de <Dep>LE PALLET<Dep> et arrivera à <Arr>MENARS<Arr>.
+Un vol qui part de <Dep>ATHIES-SOUS-LAON<Dep> et arrive à <Arr>CHINDRIEUX<Arr> serait parfait.
+Trouve-moi un billet pour un départ depuis <Dep>ALIZAY<Dep> jusqu’à <Arr>VIROFLAY<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>MORTCERF<Dep> jusqu’à <Arr>TASSIN-LA-DEMI-LUNE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>LA GRAND-COMBE<Dep> et arrive à <Arr>CONTREXEVILLE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>SAINT-CLOUD<Dep> jusqu’à <Arr>LA FERTE-BERNARD<Arr>.
+Le bus quitte <Dep>VAYRAC<Dep> et se dirige vers <Arr>CHATEAU-CHINON (CAMPAGNE)<Arr>.
+Réservez un train de <Dep>VILLEHERVIERS<Dep> vers <Arr>AIRE-SUR-LA-LYS<Arr>.Mon itinéraire comprend un départ de <Dep>ROGNAC<Dep> pour <Arr>TOURNES<Arr>.
+Mon itinéraire comprend un départ de <Dep>DEVECEY<Dep> pour <Arr>PARIS<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BOISSISE-LE-ROI<Dep> jusqu’à <Arr>LA TRINITE<Arr>.
+Je pars de <Dep>CHEMILLY-SUR-YONNE<Dep> pour aller à <Arr>ATHIS-MONS<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>VIAS<Dep> jusqu’à <Arr>COLOMBIERS<Arr>.
+Le bus quitte <Dep>LIPSHEIM<Dep> et se dirige vers <Arr>POLISOT<Arr>.
+Je cherche un vol entre <Dep>AIGUILLON<Dep> et <Arr>SOMMESOUS<Arr>.
+J'ai besoin d'un vol qui part de <Dep>LANGON<Dep> et arrive à <Arr>AIRE-SUR-L'ADOUR<Arr>.
+Mon vol part de <Dep>BESSANCOURT<Dep> et arrivera à <Arr>LUCQUY<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>THOIRY<Dep> jusqu’à <Arr>URMATT<Arr>.
+Mon itinéraire comprend un départ de <Dep>ROMILLY-LA-PUTHENAYE<Dep> pour <Arr>FLAVY-LE-MARTEL<Arr>.
+Un vol de <Dep>ETIVAL-CLAIREFONTAINE<Dep> vers <Arr>CHAMPTOCE-SUR-LOIRE<Arr> m'intéresse.
+Un vol de <Dep>CORBEIL-ESSONNES<Dep> vers <Arr>PONTIVY<Arr> m'intéresse.
+Il me faudrait un billet de <Dep>LESQUIN<Dep> vers <Arr>LANDEBIA<Arr>.
+Il me faudrait un billet de <Dep>BLANGY-SUR-TERNOISE<Dep> vers <Arr>CHAMALIERES<Arr>.
+Je voudrais réserver un vol de <Dep>BOISSET<Dep> pour <Arr>ARENGOSSE<Arr>.
+Un vol de <Dep>DUAULT<Dep> vers <Arr>MEUDON<Arr> m'intéresse.
+Je cherche un vol entre <Dep>ANSE<Dep> et <Arr>MONTSOULT<Arr>.
+Quel est le prochain train de <Dep>LABARTHE-INARD<Dep> à <Arr>YERRES<Arr> ?
+Prévoyez mon départ depuis <Dep>VEAUCHE<Dep> jusqu'à <Arr>TARARE<Arr>.
+Mon itinéraire comprend un départ de <Dep>BOURGES<Dep> pour <Arr>QUIMPERLE<Arr>.
+Un vol de <Dep>LAIGNEVILLE<Dep> vers <Arr>TOURCOING<Arr> m'intéresse.
+Mon itinéraire comprend un départ de <Dep>SOMAIN<Dep> pour <Arr>SALSES-LE-CHATEAU<Arr>.
+Un vol de <Dep>PONTCHARRA<Dep> vers <Arr>VARANGEVILLE<Arr> m'intéresse.
+Le bus quitte <Dep>LA CROIX-EN-TOURAINE<Dep> et se dirige vers <Arr>BETAILLE<Arr>.
+Je veux partir de <Dep>TROIS-PUITS<Dep> pour arriver à <Arr>ANDELOT-EN-MONTAGNE<Arr> demain.
+Je cherche un vol entre <Dep>PARIS<Dep> et <Arr>FOECY<Arr>.
+Prévoyez mon départ depuis <Dep>TOURS<Dep> jusqu'à <Arr>LONGROY<Arr>.
+Je voudrais réserver un vol de <Dep>FOUGEROLLES-SAINT-VALBERT<Dep> pour <Arr>LE VAL D'HAZEY<Arr>.
+Quel est le prochain train de <Dep>TROSLY-BREUIL<Dep> à <Arr>GUJAN-MESTRAS<Arr> ?
+Trouve-moi un billet pour un départ depuis <Dep>VALENCIENNES<Dep> jusqu’à <Arr>BIGANOS<Arr>.
+J'ai besoin d'un vol qui part de <Dep>LUDRES<Dep> et arrive à <Arr>LISIEUX<Arr>.
+Je veux partir de <Dep>LA GUIERCHE<Dep> pour arriver à <Arr>THANN<Arr> demain.
+Mon vol part de <Dep>LURBE-SAINT-CHRISTAU<Dep> et arrivera à <Arr>MILLY-SUR-THERAIN<Arr>.
+Un vol qui part de <Dep>VALLORCINE<Dep> et arrive à <Arr>DREUX<Arr> serait parfait.
+Je pars de <Dep>CHEPY<Dep> pour aller à <Arr>SAINT-MALO<Arr>.
+Un vol qui part de <Dep>GOUAIX<Dep> et arrive à <Arr>CHADENET<Arr> serait parfait.
+Un vol qui part de <Dep>LUBERSAC<Dep> et arrive à <Arr>VEAUCHE<Arr> serait parfait.
+Mon trajet commence à <Dep>SAINT-GERMAIN-SUR-MEUSE<Dep> et se termine à <Arr>DUGNY-SUR-MEUSE<Arr>.
+Je veux partir de <Dep>AIGUES-MORTES<Dep> pour arriver à <Arr>ORRY-LA-VILLE<Arr> demain.
+Quel est le prochain train de <Dep>PARIS<Dep> à <Arr>SAINTE-COLOMBE<Arr> ?
+Mon itinéraire comprend un départ de <Dep>VINCA<Dep> pour <Arr>REVIGNY-SUR-ORNAIN<Arr>.
+Un vol qui part de <Dep>CHATELLERAULT<Dep> et arrive à <Arr>PONT-REMY<Arr> serait parfait.
+Le prochain bus va de <Dep>FORBACH<Dep> à <Arr>CAUDROT<Arr>.
+Mon vol part de <Dep>FOS-SUR-MER<Dep> et arrivera à <Arr>SAINT-JULIEN<Arr>.
+Je voudrais réserver un vol de <Dep>BARENTON-BUGNY<Dep> pour <Arr>DREFFEAC<Arr>.
+Prévoyez mon départ depuis <Dep>UZERCHE<Dep> jusqu'à <Arr>PARIS<Arr>.
+Je dois aller de <Dep>LE RAINCY<Dep> vers <Arr>ROQUEBRUNE-CAP-MARTIN<Arr> la semaine prochaine.
+Un vol de <Dep>WILWISHEIM<Dep> vers <Arr>BAZEILLES<Arr> m'intéresse.
+Un vol de <Dep>GRESY-SUR-ISERE<Dep> vers <Arr>ESPIRA-DE-L'AGLY<Arr> m'intéresse.
+Prévoyez mon départ depuis <Dep>HOUILLES<Dep> jusqu'à <Arr>ROSNY-SUR-SEINE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>MAGALAS<Dep> et arrive à <Arr>LUTTENBACH-PRES-MUNSTER<Arr>.
+Je cherche un vol entre <Dep>ALET-LES-BAINS<Dep> et <Arr>RAVES<Arr>.
+Quel est le prochain train de <Dep>GILLEY<Dep> à <Arr>LE MEE-SUR-SEINE<Arr> ?
+Je veux partir de <Dep>SEVREMOINE<Dep> pour arriver à <Arr>NOTRE-DAME-DE-BONDEVILLE<Arr> demain.
+Mon itinéraire comprend un départ de <Dep>COLLONGES-AU-MONT-D'OR<Dep> pour <Arr>CHEZY-SUR-MARNE<Arr>.
+Trouve un billet de train qui part de <Dep>LONGUEVILLE-SUR-SCIE<Dep> à destination de <Arr>TOULOUSE<Arr>.
+Je dois aller de <Dep>CRAIN<Dep> vers <Arr>FONDAMENTE<Arr> la semaine prochaine.
+J'ai besoin d'un vol qui part de <Dep>NEUVIC<Dep> et arrive à <Arr>ANGERS<Arr>.
+Trouve un billet de train qui part de <Dep>NORTKERQUE<Dep> à destination de <Arr>TASSIN-LA-DEMI-LUNE<Arr>.
+Prévoyez mon départ depuis <Dep>CHERBOURG-EN-COTENTIN<Dep> jusqu'à <Arr>DIEMERINGEN<Arr>.
+Je veux partir de <Dep>SAINT-PIERRE-QUIBERON<Dep> pour arriver à <Arr>ARGENTEUIL<Arr> demain.
+Je dois aller de <Dep>MEURSAULT<Dep> vers <Arr>PARIS<Arr> la semaine prochaine.
+Prévoyez mon départ depuis <Dep>BEAUZAC<Dep> jusqu'à <Arr>SAUJON<Arr>.
+Je dois aller de <Dep>CHARTRETTES<Dep> vers <Arr>CHATEAU-GONTIER-SUR-MAYENNE<Arr> la semaine prochaine.
+J'ai besoin d'un vol qui part de <Dep>RIS-ORANGIS<Dep> et arrive à <Arr>RIA-SIRACH<Arr>.
+Je voudrais réserver un vol de <Dep>ROMBAS<Dep> pour <Arr>NONANT-LE-PIN<Arr>.
+Trouve un billet de train qui part de <Dep>CREPY-EN-VALOIS<Dep> à destination de <Arr>ACHERES<Arr>.
+Mon trajet commence à <Dep>GIEVRES<Dep> et se termine à <Arr>HERNY<Arr>.
+Réservez un train de <Dep>SAINT-JACQUES-DE-LA-LANDE<Dep> vers <Arr>MORTCERF<Arr>.Mon vol part de <Dep>BAVAY<Dep> et arrivera à <Arr>DINGE<Arr>.
+Quel est le prochain train de <Dep>HEILLES<Dep> à <Arr>JUSSEY<Arr> ?
+Quel est le prochain train de <Dep>NEUILLY-SUR-MARNE<Dep> à <Arr>REDON<Arr> ?
+Je cherche un vol entre <Dep>SARRE-UNION<Dep> et <Arr>SELOMMES<Arr>.
+Il me faudrait un billet de <Dep>BALLANCOURT-SUR-ESSONNE<Dep> vers <Arr>BESSANCOURT<Arr>.
+Réservez un train de <Dep>JALONS<Dep> vers <Arr>LA CHARITE-SUR-LOIRE<Arr>.Je recherche un train de <Dep>MAUZE-SUR-LE-MIGNON<Dep> à <Arr>VERNET<Arr>.
+Je voudrais réserver un vol de <Dep>MOULINS-SUR-ORNE<Dep> pour <Arr>CHATELLERAULT<Arr>.
+Prévoyez mon départ depuis <Dep>SAVY-BERLETTE<Dep> jusqu'à <Arr>CLICHY<Arr>.
+Mon itinéraire comprend un départ de <Dep>BREUIL-SUR-VESLE<Dep> pour <Arr>LA NORVILLE<Arr>.
+Réservez un train de <Dep>MOISSAC<Dep> vers <Arr>MENNESSIS<Arr>.Il me faudrait un billet de <Dep>SAINT-PATERNE-RACAN<Dep> vers <Arr>ABANCOURT<Arr>.
+Un vol qui part de <Dep>LE GENEST-SAINT-ISLE<Dep> et arrive à <Arr>SERQUEUX<Arr> serait parfait.
+Réservez un train de <Dep>VEZELISE<Dep> vers <Arr>STAINS<Arr>.Mon itinéraire comprend un départ de <Dep>SELESTAT<Dep> pour <Arr>ALTKIRCH<Arr>.
+Je recherche un train de <Dep>PARIS<Dep> à <Arr>MARIGNY<Arr>.
+Un vol de <Dep>BLAGNY<Dep> vers <Arr>BOUZONVILLE<Arr> m'intéresse.
+Prévoyez mon départ depuis <Dep>ETRECHY<Dep> jusqu'à <Arr>LA BAULE-ESCOUBLAC<Arr>.
+Je voudrais réserver un vol de <Dep>PAGNY-SUR-MOSELLE<Dep> pour <Arr>MONT-DORE<Arr>.
+Un vol de <Dep>ALBERT<Dep> vers <Arr>L'HOPITAL-DU-GROSBOIS<Arr> m'intéresse.
+Prévoyez mon départ depuis <Dep>BORDEAUX<Dep> jusqu'à <Arr>SAINT-PE-DE-BIGORRE<Arr>.
+Je veux partir de <Dep>VILLERS-COTTERETS<Dep> pour arriver à <Arr>LIMOGES<Arr> demain.
+Mon itinéraire comprend un départ de <Dep>PONT-A-MOUSSON<Dep> pour <Arr>SAINT-GEORGES-DE-RENEINS<Arr>.
+Prévoyez mon départ depuis <Dep>PESSAC<Dep> jusqu'à <Arr>MOTHERN<Arr>.
+Il me faudrait un billet de <Dep>MONT-DORE<Dep> vers <Arr>SAINT-JEAN-PLA-DE-CORTS<Arr>.
+Trouve un billet de train qui part de <Dep>VIRY-NOUREUIL<Dep> à destination de <Arr>LE BOULOU<Arr>.
+Le bus quitte <Dep>MARTIGNE-FERCHAUD<Dep> et se dirige vers <Arr>ORVAL<Arr>.
+Mon vol part de <Dep>PORT-DE-BOUC<Dep> et arrivera à <Arr>SAVENNIERES<Arr>.
+Un vol de <Dep>PAVILLY<Dep> vers <Arr>SAINT-OUEN-L'AUMONE<Arr> m'intéresse.
+Un vol qui part de <Dep>PRECY-SUR-OISE<Dep> et arrive à <Arr>ERR<Arr> serait parfait.
+J'ai besoin d'un vol qui part de <Dep>SAINT-GERVAIS-LES-BAINS<Dep> et arrive à <Arr>SAINT-HILAIRE-PEYROUX<Arr>.
+Le bus quitte <Dep>WILLER-SUR-THUR<Dep> et se dirige vers <Arr>SAINT-JEAN-DE-MAURIENNE<Arr>.
+Un vol qui part de <Dep>PRE-EN-PAIL-SAINT-SAMSON<Dep> et arrive à <Arr>CLERMONT-FERRAND<Arr> serait parfait.
+Je veux partir de <Dep>OULLINS<Dep> pour arriver à <Arr>PODENSAC<Arr> demain.
+Quel est le prochain train de <Dep>VAIRES-SUR-MARNE<Dep> à <Arr>SAINT-NAZAIRE<Arr> ?
+Le prochain bus va de <Dep>GOURDON<Dep> à <Arr>NIEDERBRONN-LES-BAINS<Arr>.
+Le bus quitte <Dep>SALINDRES<Dep> et se dirige vers <Arr>SALAISE-SUR-SANNE<Arr>.
+Je pars de <Dep>QUESNOY-SUR-DEULE<Dep> pour aller à <Arr>CERNAY<Arr>.
+Le prochain bus va de <Dep>CATTENIERES<Dep> à <Arr>SAUJON<Arr>.
+Je veux partir de <Dep>MORTIERS<Dep> pour arriver à <Arr>LILLE<Arr> demain.
+Un vol de <Dep>LUXEUIL-LES-BAINS<Dep> vers <Arr>RULX<Arr> m'intéresse.
+Je dois aller de <Dep>PONTIVY<Dep> vers <Arr>LANEUVEVILLE-DEVANT-NANCY<Arr> la semaine prochaine.
+Je recherche un train de <Dep>FOURMIES<Dep> à <Arr>SAINT-RAPHAEL<Arr>.
+Mon itinéraire comprend un départ de <Dep>BEAUREPAIRE<Dep> pour <Arr>MIRAMAS<Arr>.
+Le bus quitte <Dep>MONTAUT<Dep> et se dirige vers <Arr>SAINT-MEDARD-DE-MUSSIDAN<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>SAINT-ROMAIN-EN-GAL<Dep> jusqu’à <Arr>BUSSIERE-GALANT<Arr>.
+Je dois aller de <Dep>LANGUIDIC<Dep> vers <Arr>CLERMONT-FERRAND<Arr> la semaine prochaine.
+Mon trajet commence à <Dep>ISLES-LES-MELDEUSES<Dep> et se termine à <Arr>SAINT-REMY-DE-SILLE<Arr>.
+Le prochain bus va de <Dep>AMBARES-ET-LAGRAVE<Dep> à <Arr>LE PERRAY-EN-YVELINES<Arr>.
+Je pars de <Dep>L'ETANG-LA-VILLE<Dep> pour aller à <Arr>BOISSISE-LE-ROI<Arr>.
+Je recherche un train de <Dep>AVIGNON<Dep> à <Arr>CHEVILLY<Arr>.
+Je cherche un vol entre <Dep>GRENADE-SUR-L'ADOUR<Dep> et <Arr>WAMBRECHIES<Arr>.
+Un vol de <Dep>SALECHAN<Dep> vers <Arr>BRAZEY-EN-PLAINE<Arr> m'intéresse.
+Le bus quitte <Dep>ERAGNY<Dep> et se dirige vers <Arr>EYGLIERS<Arr>.
+J'ai besoin d'un vol qui part de <Dep>ENSUES-LA-REDONNE<Dep> et arrive à <Arr>BLODELSHEIM<Arr>.
+Le prochain bus va de <Dep>MONTREUX-VIEUX<Dep> à <Arr>COSNE-COURS-SUR-LOIRE<Arr>.
+Trouve un billet de train qui part de <Dep>HIRSON<Dep> à destination de <Arr>MEUDON<Arr>.
+Réservez un train de <Dep>VERMENTON<Dep> vers <Arr>SAINT-MEDARD-D'EYRANS<Arr>.Je cherche un vol entre <Dep>LANDEVANT<Dep> et <Arr>LE COUDRAY-MONTCEAUX<Arr>.
+Je dois aller de <Dep>BRETIGNY<Dep> vers <Arr>TOURNUS<Arr> la semaine prochaine.
+Mon trajet commence à <Dep>BIACHE-SAINT-VAAST<Dep> et se termine à <Arr>LOULAY<Arr>.
+Je veux partir de <Dep>SAINT-CLEMENT<Dep> pour arriver à <Arr>COURCELLES-SUR-NIED<Arr> demain.
+Mon trajet commence à <Dep>REICHSHOFFEN<Dep> et se termine à <Arr>LIMOUX<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BANTZENHEIM<Dep> jusqu’à <Arr>SAINT-SOLVE<Arr>.
+Le prochain bus va de <Dep>CONDOM<Dep> à <Arr>MOUZON<Arr>.
+Mon vol part de <Dep>MONT-DE-MARSAN<Dep> et arrivera à <Arr>BOUCHEMAINE<Arr>.
+Réservez un train de <Dep>ROGNAC<Dep> vers <Arr>CHATILLON<Arr>.Je veux partir de <Dep>HAUTS DE BIENNE<Dep> pour arriver à <Arr>LE BOULOU<Arr> demain.
+Je recherche un train de <Dep>URT<Dep> à <Arr>LE VERDON-SUR-MER<Arr>.
+Il me faudrait un billet de <Dep>TURENNE<Dep> vers <Arr>CHOISY-LE-ROI<Arr>.
+Je pars de <Dep>LILLERS<Dep> pour aller à <Arr>FLAVY-LE-MARTEL<Arr>.
+Je dois aller de <Dep>RAVES<Dep> vers <Arr>LILLE<Arr> la semaine prochaine.
+Un vol de <Dep>TRITH-SAINT-LEGER<Dep> vers <Arr>MANOIS<Arr> m'intéresse.
+Trouve-moi un billet pour un départ depuis <Dep>FONS<Dep> jusqu’à <Arr>DRUYE<Arr>.
+Je veux partir de <Dep>SAINT-GERMAIN-DES-FOSSES<Dep> pour arriver à <Arr>LA TOUR-DE-SALVAGNY<Arr> demain.
+Il me faudrait un billet de <Dep>CEYZERIAT<Dep> vers <Arr>SAINT-DIZIER<Arr>.
+Mon vol part de <Dep>LA FERE<Dep> et arrivera à <Arr>GAMBSHEIM<Arr>.
+Mon itinéraire comprend un départ de <Dep>WISCHES<Dep> pour <Arr>TOUET-DE-L'ESCARENE<Arr>.
+Je dois aller de <Dep>VERNOU-LA-CELLE-SUR-SEINE<Dep> vers <Arr>ARCHES<Arr> la semaine prochaine.
+Je pars de <Dep>RAMBOUILLET<Dep> pour aller à <Arr>PERRIGNIER<Arr>.
+Je pars de <Dep>ROMORANTIN-LANTHENAY<Dep> pour aller à <Arr>COURVILLE-SUR-EURE<Arr>.
+Prévoyez mon départ depuis <Dep>CHALINDREY<Dep> jusqu'à <Arr>GRAGNAGUE<Arr>.
+Mon trajet commence à <Dep>MANDUEL<Dep> et se termine à <Arr>CREIL<Arr>.
+Réservez un train de <Dep>FOUQUEREUIL<Dep> vers <Arr>MARCK<Arr>.Je pars de <Dep>ALLEYRAS<Dep> pour aller à <Arr>LABARTHE-INARD<Arr>.
+Je cherche un vol entre <Dep>MARUIL<Dep> et <Arr>AIGUEBELETTE-LE-LAC<Arr>.
+Mon trajet commence à <Dep>CHOUZE-SUR-LOIRE<Dep> et se termine à <Arr>SAINT-GEORGES-DE-RENEINS<Arr>.
+J'ai besoin d'un vol qui part de <Dep>EPIERRE<Dep> et arrive à <Arr>SEVRES<Arr>.
+Trouve un billet de train qui part de <Dep>JUF<Dep> à destination de <Arr>LA VILLE-DIEU-DU-TEMPLE<Arr>.
+Mon trajet commence à <Dep>FRANXAULT<Dep> et se termine à <Arr>CAGNES-SUR-MER<Arr>.
+Mon vol part de <Dep>PONTIVY<Dep> et arrivera à <Arr>GRACES<Arr>.
+Mon trajet commence à <Dep>MOLSHEIM<Dep> et se termine à <Arr>SANTILLY<Arr>.
+Un vol de <Dep>NORTKERQUE<Dep> vers <Arr>AMILLY<Arr> m'intéresse.
+Je recherche un train de <Dep>VALLOIRE-SUR-CISSE<Dep> à <Arr>SERQUIGNY<Arr>.
+Je recherche un train de <Dep>VAUVERT<Dep> à <Arr>LE CATEAU-CAMBRESIS<Arr>.
+Trouve un billet de train qui part de <Dep>AUDES<Dep> à destination de <Arr>CARMAUX<Arr>.
+Un vol qui part de <Dep>TOURNON-SAINT-MARTIN<Dep> et arrive à <Arr>TREMENTINES<Arr> serait parfait.
+Mon itinéraire comprend un départ de <Dep>WIZERNES<Dep> pour <Arr>LA ROCHE-RIGAULT<Arr>.
+Un vol qui part de <Dep>CESSON-SEVIGNE<Dep> et arrive à <Arr>VERN-SUR-SEICHE<Arr> serait parfait.
+Un vol de <Dep>LAMBERSART<Dep> vers <Arr>SAINT-POL-DE-LEON<Arr> m'intéresse.
+Un vol de <Dep>SAINT-GEORGES-SUR-EURE<Dep> vers <Arr>PARIS<Arr> m'intéresse.
+Mon itinéraire comprend un départ de <Dep>NOMAIN<Dep> pour <Arr>CHAUMONT<Arr>.
+Réservez un train de <Dep>MOREUIL<Dep> vers <Arr>RILLIEUX-LA-PAPE<Arr>.Je voudrais réserver un vol de <Dep>ROQUEFORT<Dep> pour <Arr>HESDIN<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>AUBRIVES<Dep> jusqu’à <Arr>SARREBOURG<Arr>.
+Le bus quitte <Dep>MAULE<Dep> et se dirige vers <Arr>BAILLEUL-SUR-THERAIN<Arr>.
+Je pars de <Dep>CHATILLON-SUR-SEINE<Dep> pour aller à <Arr>CHAUNY<Arr>.
+Un vol de <Dep>BREVAL<Dep> vers <Arr>ROLAMPONT<Arr> m'intéresse.
+Réservez un train de <Dep>LE THOU<Dep> vers <Arr>ACHIET-LE-GRAND<Arr>.Réservez un train de <Dep>FELLERING<Dep> vers <Arr>CHARMONT-SOUS-BARBUISE<Arr>.Je recherche un train de <Dep>AYTRE<Dep> à <Arr>CUGAND<Arr>.
+Il me faudrait un billet de <Dep>DEAUVILLE<Dep> vers <Arr>LATTES<Arr>.
+Le bus quitte <Dep>PORT-SAINTE-MARIE<Dep> et se dirige vers <Arr>ROISSY-EN-BRIE<Arr>.
+Un vol de <Dep>BOURG-EN-BRESSE<Dep> vers <Arr>BEAUTOT<Arr> m'intéresse.
+Je dois aller de <Dep>ANOR<Dep> vers <Arr>STRASBOURG<Arr> la semaine prochaine.
+Il me faudrait un billet de <Dep>SUEVRES<Dep> vers <Arr>CANNES<Arr>.
+Réservez un train de <Dep>SANTES<Dep> vers <Arr>ALENCON<Arr>.Je dois aller de <Dep>ASSAT<Dep> vers <Arr>VERREY-SOUS-SALMAISE<Arr> la semaine prochaine.
+Je cherche un vol entre <Dep>CAMBO-LES-BAINS<Dep> et <Arr>MELUN<Arr>.
+Je pars de <Dep>BOLLWILLER<Dep> pour aller à <Arr>CYSOING<Arr>.
+Il me faudrait un billet de <Dep>SALLES-COURBATIES<Dep> vers <Arr>VILLIERS-SAINT-FREDERIC<Arr>.
+Réservez un train de <Dep>COUZON-AU-MONT-D'OR<Dep> vers <Arr>GOUAIX<Arr>.Un vol qui part de <Dep>MARSEILLE<Dep> et arrive à <Arr>LYON<Arr> serait parfait.
+Je veux partir de <Dep>VIAS<Dep> pour arriver à <Arr>SAINT-YZAN-DE-SOUDIAC<Arr> demain.
+Trouve un billet de train qui part de <Dep>FIRMINY<Dep> à destination de <Arr>VIC-LA-GARDIOLE<Arr>.
+Mon vol part de <Dep>JALONS<Dep> et arrivera à <Arr>VILLEFRANCHE-DE-ROUERGUE<Arr>.
+Mon itinéraire comprend un départ de <Dep>SAINT-BLAISE-LA-ROCHE<Dep> pour <Arr>SAINT-SULPICE<Arr>.
+Quel est le prochain train de <Dep>CORBENAY<Dep> à <Arr>SAINT-LOUIS<Arr> ?
+Trouve un billet de train qui part de <Dep>YZEURE<Dep> à destination de <Arr>DAMBACH-LA-VILLE<Arr>.
+Je dois aller de <Dep>MARSAC<Dep> vers <Arr>CORBEIL-ESSONNES<Arr> la semaine prochaine.
+Trouve un billet de train qui part de <Dep>AILLY-SUR-NOYE<Dep> à destination de <Arr>SEVRAN<Arr>.
+J'ai besoin d'un vol qui part de <Dep>BONDY<Dep> et arrive à <Arr>LE CHAMBON-FEUGEROLLES<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CLISSON<Dep> et arrive à <Arr>ROUXMESNIL-BOUTEILLES<Arr>.
+Un vol de <Dep>MARGAUX-CANTENAC<Dep> vers <Arr>SAIN-BEL<Arr> m'intéresse.
+Le bus quitte <Dep>SAINT-REMY-DE-SILLE<Dep> et se dirige vers <Arr>VIRE NORMANDIE<Arr>.
+Je voudrais réserver un vol de <Dep>MORGNY-LA-POMMERAYE<Dep> pour <Arr>SAINT-GERVAIS-EN-BELIN<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BRENY<Dep> jusqu’à <Arr>WALHEIM<Arr>.
+Mon trajet commence à <Dep>ENNEZAT<Dep> et se termine à <Arr>SARRALBE<Arr>.
+Mon vol part de <Dep>QUINCIEUX<Dep> et arrivera à <Arr>DOUAI<Arr>.
+Trouve un billet de train qui part de <Dep>FLEURY-LES-AUBRAIS<Dep> à destination de <Arr>LIPSHEIM<Arr>.
+Je dois aller de <Dep>YFFINIAC<Dep> vers <Arr>BREIL-SUR-ROYA<Arr> la semaine prochaine.
+Je voudrais réserver un vol de <Dep>PONTGIBAUD<Dep> pour <Arr>MEZIDON VALLEE D'AUGE<Arr>.
+Un vol de <Dep>POIGNY<Dep> vers <Arr>BIFFONTAINE<Arr> m'intéresse.
+Il me faudrait un billet de <Dep>LA CHAPELLE-LA-REINE<Dep> vers <Arr>MERICOURT<Arr>.
+Le prochain bus va de <Dep>VIDAUBAN<Dep> à <Arr>PORNICHET<Arr>.
+Réservez un train de <Dep>FONTPEDROUSE<Dep> vers <Arr>CHALAIS<Arr>.Trouve un billet de train qui part de <Dep>ARQUES<Dep> à destination de <Arr>INGRE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>LANNEMEZAN<Dep> jusqu’à <Arr>GRAND BOURGTHEROULDE<Arr>.
+Je veux partir de <Dep>SORGUES<Dep> pour arriver à <Arr>LA BASTIDE-PUYLAURENT<Arr> demain.
+Je voudrais réserver un vol de <Dep>CIRES-LES-MELLO<Dep> pour <Arr>LE HAVRE<Arr>.
+Mon trajet commence à <Dep>MARLY<Dep> et se termine à <Arr>MIRAUMONT<Arr>.
+Je cherche un vol entre <Dep>GUEMENE-PENFAO<Dep> et <Arr>FOS-SUR-MER<Arr>.
+Je recherche un train de <Dep>CHARLEVILLE-MEZIERES<Dep> à <Arr>NOGENT-SUR-VERNISSON<Arr>.
+Je voudrais réserver un vol de <Dep>VARILHES<Dep> pour <Arr>WISSOUS<Arr>.
+Prévoyez mon départ depuis <Dep>JAUNAY-MARIGNY<Dep> jusqu'à <Arr>SAINT-HILAIRE-DE-CHALEONS<Arr>.
+Il me faudrait un billet de <Dep>REMIREMONT<Dep> vers <Arr>DEAUVILLE<Arr>.
+Je dois aller de <Dep>LA CABANASSE<Dep> vers <Arr>MUHLBACH-SUR-MUNSTER<Arr> la semaine prochaine.
+Trouve-moi un billet pour un départ depuis <Dep>THONON-LES-BAINS<Dep> jusqu’à <Arr>HALSOU<Arr>.
+J'ai besoin d'un vol qui part de <Dep>USTARITZ<Dep> et arrive à <Arr>CRESPIN<Arr>.
+Un vol de <Dep>JANZE<Dep> vers <Arr>SAINT-MARTIN-DU-MONT<Arr> m'intéresse.
+Trouve un billet de train qui part de <Dep>BALLAN-MIRE<Dep> à destination de <Arr>SAUJON<Arr>.
+Mon itinéraire comprend un départ de <Dep>RULX<Dep> pour <Arr>MORVILLARS<Arr>.
+Le bus quitte <Dep>BOLLWILLER<Dep> et se dirige vers <Arr>SEES<Arr>.
+Réservez un train de <Dep>BEZIERS<Dep> vers <Arr>OBERMODERN-ZUTZENDORF<Arr>.Je veux partir de <Dep>MERE<Dep> pour arriver à <Arr>NEUVILLE-SUR-OISE<Arr> demain.
+Quel est le prochain train de <Dep>PAGNY-SUR-MEUSE<Dep> à <Arr>EVETTE-SALBERT<Arr> ?
+Réservez un train de <Dep>LE MONTSAUGEONNAIS<Dep> vers <Arr>HOUILLES<Arr>.Le prochain bus va de <Dep>MERU<Dep> à <Arr>BOHAIN-EN-VERMANDOIS<Arr>.
+Je veux partir de <Dep>CLONAS-SUR-VAREZE<Dep> pour arriver à <Arr>ALIZAY<Arr> demain.
+Je recherche un train de <Dep>LOUHOSSOA<Dep> à <Arr>SAINT-CYR-EN-VAL<Arr>.
+Prévoyez mon départ depuis <Dep>COLOMBES<Dep> jusqu'à <Arr>BRESSUIRE<Arr>.
+Mon itinéraire comprend un départ de <Dep>SAINT-GEORGES-SUR-EURE<Dep> pour <Arr>SAINT-ELOY-LES-MINES<Arr>.
+Trouve un billet de train qui part de <Dep>THUES-ENTRE-VALLS<Dep> à destination de <Arr>LA CIOTAT<Arr>.
+Un vol qui part de <Dep>MASSIAC<Dep> et arrive à <Arr>LUC-EN-DIOIS<Arr> serait parfait.
+Quel est le prochain train de <Dep>SAINGHIN-EN-WEPPES<Dep> à <Arr>CUGAND<Arr> ?
+Un vol qui part de <Dep>SAINTE-GENEVIEVE-DES-BOIS<Dep> et arrive à <Arr>MIRIBEL<Arr> serait parfait.
+Mon trajet commence à <Dep>FOUGERE<Dep> et se termine à <Arr>SAINT-GENIES-DE-MALGOIRES<Arr>.
+Je cherche un vol entre <Dep>GEVREY-CHAMBERTIN<Dep> et <Arr>POMMEVIC<Arr>.
+Un vol de <Dep>CREPY<Dep> vers <Arr>MASSY<Arr> m'intéresse.
+Un vol de <Dep>LANNEMEZAN<Dep> vers <Arr>SAINT-MAUR-DES-FOSSES<Arr> m'intéresse.
+Mon trajet commence à <Dep>LE MESNIL-AMELOT<Dep> et se termine à <Arr>DIEUPENTALE<Arr>.
+Un vol qui part de <Dep>CHENIMENIL<Dep> et arrive à <Arr>MARCHEPRIME<Arr> serait parfait.
+Je cherche un vol entre <Dep>FRONCLES<Dep> et <Arr>PASSY<Arr>.
+Un vol qui part de <Dep>ARGENTEUIL<Dep> et arrive à <Arr>SAINCAIZE-MEAUCE<Arr> serait parfait.
+Je cherche un vol entre <Dep>BAUVIN<Dep> et <Arr>MEYMAC<Arr>.
+Mon trajet commence à <Dep>LIBOURNE<Dep> et se termine à <Arr>LE PONT-CHRETIEN-CHABENET<Arr>.
+Je cherche un vol entre <Dep>BUEIL<Dep> et <Arr>HALSOU<Arr>.
+Un vol qui part de <Dep>ROUEN<Dep> et arrive à <Arr>SOMMESOUS<Arr> serait parfait.
+Réservez un train de <Dep>POMAS<Dep> vers <Arr>VERSAILLES<Arr>.Mon itinéraire comprend un départ de <Dep>BRICON<Dep> pour <Arr>MONTBIZOT<Arr>.
+Réservez un train de <Dep>POUILLY-SUR-LOIRE<Dep> vers <Arr>OBERMODERN-ZUTZENDORF<Arr>.Je cherche un vol entre <Dep>REIMS<Dep> et <Arr>NOGENT-L'ARTAUD<Arr>.
+Quel est le prochain train de <Dep>METZ<Dep> à <Arr>BRUNOY<Arr> ?
+J'ai besoin d'un vol qui part de <Dep>WEYERSHEIM<Dep> et arrive à <Arr>REAUMONT<Arr>.
+Je voudrais réserver un vol de <Dep>COLOMIERS<Dep> pour <Arr>METZ<Arr>.
+Je dois aller de <Dep>SAINT-GILLES-CROIX-DE-VIE<Dep> vers <Arr>SERQUEUX<Arr> la semaine prochaine.
+Mon vol part de <Dep>SEPTEMES-LES-VALLONS<Dep> et arrivera à <Arr>AIME-LA-PLAGNE<Arr>.
+Je recherche un train de <Dep>FISMES<Dep> à <Arr>CERGY<Arr>.
+Mon vol part de <Dep>LE COTEAU<Dep> et arrivera à <Arr>OIRY<Arr>.
+Réservez un train de <Dep>DEVILLE<Dep> vers <Arr>SAINT-MICHEL-SUR-ORGE<Arr>.Trouve un billet de train qui part de <Dep>ANZELING<Dep> à destination de <Arr>VIEUX-THANN<Arr>.
+Je cherche un vol entre <Dep>FRANOIS<Dep> et <Arr>VRAINCOURT<Arr>.
+J'ai besoin d'un vol qui part de <Dep>VIAS<Dep> et arrive à <Arr>LECHELLE<Arr>.
+Il me faudrait un billet de <Dep>ARC-ET-SENANS<Dep> vers <Arr>SIMANDRE-SUR-SURAN<Arr>.
+Quel est le prochain train de <Dep>MONTLUCON<Dep> à <Arr>COURCELLES-SUR-NIED<Arr> ?
+Je dois aller de <Dep>LE CREUSOT<Dep> vers <Arr>NAUCELLE<Arr> la semaine prochaine.
+Il me faudrait un billet de <Dep>SAINT-SULPICE-LA-POINTE<Dep> vers <Arr>TASSIN-LA-DEMI-LUNE<Arr>.
+Un vol de <Dep>LA BASSEE<Dep> vers <Arr>EPINAL<Arr> m'intéresse.
+Le prochain bus va de <Dep>PROVENCHERES-ET-COLROY<Dep> à <Arr>DRANCY<Arr>.
+J'ai besoin d'un vol qui part de <Dep>BONDY<Dep> et arrive à <Arr>MONTAUT<Arr>.
+Il me faudrait un billet de <Dep>CHALETTE-SUR-LOING<Dep> vers <Arr>CHEVRY<Arr>.
+Un vol de <Dep>LABRUGUIERE<Dep> vers <Arr>PORT-DE-BOUC<Arr> m'intéresse.
+Je dois aller de <Dep>CHATENOIS<Dep> vers <Arr>COSNE-COURS-SUR-LOIRE<Arr> la semaine prochaine.
+J'ai besoin d'un vol qui part de <Dep>MONTAZELS<Dep> et arrive à <Arr>VILLARD-BONNOT<Arr>.
+Le bus quitte <Dep>LILLE<Dep> et se dirige vers <Arr>FRETHUN<Arr>.
+Je veux partir de <Dep>SAINT-ROMAIN-DE-POPEY<Dep> pour arriver à <Arr>SAINT-DIE-DES-VOSGES<Arr> demain.
+Je dois aller de <Dep>GIEVRES<Dep> vers <Arr>ATTIGNY<Arr> la semaine prochaine.
+Trouve un billet de train qui part de <Dep>ORMOY-VILLERS<Dep> à destination de <Arr>CRAMPAGNA<Arr>.
+Je dois aller de <Dep>MONTREUIL-SOUS-PEROUSE<Dep> vers <Arr>LE MESNIL-AMELOT<Arr> la semaine prochaine.
+Le bus quitte <Dep>BOISVILLE-LA-SAINT-PERE<Dep> et se dirige vers <Arr>COURCELLES-LE-COMTE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>QUESNOY-SUR-DEULE<Dep> jusqu’à <Arr>VIENNE<Arr>.
+Quel est le prochain train de <Dep>LUNEL-VIEL<Dep> à <Arr>VALLEROY<Arr> ?
+Le bus quitte <Dep>BRICON<Dep> et se dirige vers <Arr>CORBEIL-ESSONNES<Arr>.
+Quel est le prochain train de <Dep>THANN<Dep> à <Arr>VIERZY<Arr> ?
+Quel est le prochain train de <Dep>MONTLOUIS-SUR-LOIRE<Dep> à <Arr>CRAIN<Arr> ?
+Je dois aller de <Dep>ALLEYRAS<Dep> vers <Arr>ARGENTAN<Arr> la semaine prochaine.
+Je veux partir de <Dep>AMNEVILLE<Dep> pour arriver à <Arr>BEINHEIM<Arr> demain.
+Un vol qui part de <Dep>CONFLANS-SAINTE-HONORINE<Dep> et arrive à <Arr>MONTATAIRE<Arr> serait parfait.
+Mon trajet commence à <Dep>AMIENS<Dep> et se termine à <Arr>PONT-D'AIN<Arr>.
+Quel est le prochain train de <Dep>ESPIRA-DE-L'AGLY<Dep> à <Arr>ISSY-LES-MOULINEAUX<Arr> ?
+Réservez un train de <Dep>LE VERNET<Dep> vers <Arr>LIVRON-SUR-DROME<Arr>.Je pars de <Dep>SECLIN<Dep> pour aller à <Arr>VILLENNES-SUR-SEINE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>CHAMPAGNE-SUR-OISE<Dep> jusqu’à <Arr>SAINT-MEEN-LE-GRAND<Arr>.
+Je pars de <Dep>CAPVERN<Dep> pour aller à <Arr>BENESSE-MAREMNE<Arr>.
+Un vol de <Dep>EBERSVILLER<Dep> vers <Arr>SAINT-PIERRE-D'ALBIGNY<Arr> m'intéresse.
+Je cherche un vol entre <Dep>BRIOUZE<Dep> et <Arr>CHATEAU-ARNOUX-SAINT-AUBAN<Arr>.
+Un vol de <Dep>ETREPAGNY<Dep> vers <Arr>SCHOPPERTEN<Arr> m'intéresse.
+Mon vol part de <Dep>BIARRITZ<Dep> et arrivera à <Arr>DOURGES<Arr>.
+Je pars de <Dep>FONTENAY-SUR-LOING<Dep> pour aller à <Arr>CAVAILLON<Arr>.
+Je dois aller de <Dep>LALINDE<Dep> vers <Arr>ISTRES<Arr> la semaine prochaine.
+Trouve-moi un billet pour un départ depuis <Dep>SAINTE-COLOMBE<Dep> jusqu’à <Arr>LA BATHIE<Arr>.
+Trouve un billet de train qui part de <Dep>BELLENAVES<Dep> à destination de <Arr>SEVRES<Arr>.
+Mon trajet commence à <Dep>ISBERGUES<Dep> et se termine à <Arr>WOINCOURT<Arr>.
+Je cherche un vol entre <Dep>STRASBOURG<Dep> et <Arr>SAINT-GERMAIN-EN-LAYE<Arr>.
+Je dois aller de <Dep>ARC-ET-SENANS<Dep> vers <Arr>LUCAY-LE-MALE<Arr> la semaine prochaine.
+J'ai besoin d'un vol qui part de <Dep>LABENNE<Dep> et arrive à <Arr>NUISEMENT-SUR-COOLE<Arr>.
+Je dois aller de <Dep>FRESNAY-SUR-SARTHE<Dep> vers <Arr>LAVOUTE-SUR-LOIRE<Arr> la semaine prochaine.
+Le prochain bus va de <Dep>LILLE<Dep> à <Arr>LE VIGEN<Arr>.
+Un vol qui part de <Dep>PLANES<Dep> et arrive à <Arr>BRIONNE<Arr> serait parfait.
+Le prochain bus va de <Dep>BEDARIEUX<Dep> à <Arr>MONTLUCON<Arr>.
+Je cherche un vol entre <Dep>SAINT-AUBIN-LES-ELBEUF<Dep> et <Arr>NICE<Arr>.
+Je cherche un vol entre <Dep>ESPIRA-DE-L'AGLY<Dep> et <Arr>CERCY-LA-TOUR<Arr>.
+Je veux partir de <Dep>GROISY<Dep> pour arriver à <Arr>SAVY-BERLETTE<Arr> demain.
+Je recherche un train de <Dep>SAINT-DIZIER<Dep> à <Arr>MONDOUBLEAU<Arr>.
+Je dois aller de <Dep>EVEUX<Dep> vers <Arr>BALLAN-MIRE<Arr> la semaine prochaine.
+Réservez un train de <Dep>BOE<Dep> vers <Arr>ROQUEFORT<Arr>.Le prochain bus va de <Dep>SOUPPES-SUR-LOING<Dep> à <Arr>PRE-EN-PAIL-SAINT-SAMSON<Arr>.
+Le prochain bus va de <Dep>LATHUS-SAINT-REMY<Dep> à <Arr>ALBERTVILLE<Arr>.
+Quel est le prochain train de <Dep>TASSIN-LA-DEMI-LUNE<Dep> à <Arr>CHALAIS<Arr> ?
+Mon vol part de <Dep>MANOIS<Dep> et arrivera à <Arr>AVESNES-SUR-HELPE<Arr>.
+Quel est le prochain train de <Dep>LA CHAPELLE-SUR-LOIRE<Dep> à <Arr>CALAIS<Arr> ?
+Un vol qui part de <Dep>BELFORT<Dep> et arrive à <Arr>MITRY-MORY<Arr> serait parfait.
+Quel est le prochain train de <Dep>CIRY-LE-NOBLE<Dep> à <Arr>LORMONT<Arr> ?
+Mon trajet commence à <Dep>VILLENEUVE-LA-COMTESSE<Dep> et se termine à <Arr>VARENNES-SUR-ALLIER<Arr>.
+Je cherche un vol entre <Dep>BAILLEUL<Dep> et <Arr>FAULQUEMONT<Arr>.
+Mon vol part de <Dep>IRIGNY<Dep> et arrivera à <Arr>MOIRANS<Arr>.
+Un vol de <Dep>NIEDERBRONN-LES-BAINS<Dep> vers <Arr>LANGRES<Arr> m'intéresse.
+Je voudrais réserver un vol de <Dep>LAMURE-SUR-AZERGUES<Dep> pour <Arr>SAINT-OUEN-SUR-SEINE<Arr>.
+Mon trajet commence à <Dep>SAINT-JULIEN-PUY-LAVEZE<Dep> et se termine à <Arr>TORPES<Arr>.
+Il me faudrait un billet de <Dep>SAINT-AUBIN-SUR-SCIE<Dep> vers <Arr>BEUVRAGES<Arr>.
+Prévoyez mon départ depuis <Dep>FIGEAC<Dep> jusqu'à <Arr>CAVAILLON<Arr>.
+Mon trajet commence à <Dep>ENTRAINS-SUR-NOHAIN<Dep> et se termine à <Arr>BERTHECOURT<Arr>.
+Le bus quitte <Dep>VIONS<Dep> et se dirige vers <Arr>ISSOIRE<Arr>.
+Un vol qui part de <Dep>VILLEMAURY<Dep> et arrive à <Arr>LE RAINCY<Arr> serait parfait.
+Mon vol part de <Dep>LAVEISSIERE<Dep> et arrivera à <Arr>GIEVRES<Arr>.
+Mon trajet commence à <Dep>LAISSEY<Dep> et se termine à <Arr>BOUY<Arr>.
+Je veux partir de <Dep>REDON<Dep> pour arriver à <Arr>SAINT-PIERRE-QUIBERON<Arr> demain.
+Quel est le prochain train de <Dep>VIGEOIS<Dep> à <Arr>COUTANCES<Arr> ?
+Je veux partir de <Dep>TREMOLAT<Dep> pour arriver à <Arr>ALES<Arr> demain.
+Je dois aller de <Dep>ALES<Dep> vers <Arr>ETAPLES<Arr> la semaine prochaine.
+Trouve-moi un billet pour un départ depuis <Dep>LALUQUE<Dep> jusqu’à <Arr>GOUSSAINVILLE<Arr>.
+Je pars de <Dep>BRIENON-SUR-ARMANCON<Dep> pour aller à <Arr>ROINVILLE<Arr>.
+Le bus quitte <Dep>ATHIS-MONS<Dep> et se dirige vers <Arr>AVIGNON<Arr>.
+Prévoyez mon départ depuis <Dep>AUBERGENVILLE<Dep> jusqu'à <Arr>MENNETOU-SUR-CHER<Arr>.
+Je dois aller de <Dep>MAZEYRAT-D'ALLIER<Dep> vers <Arr>SAINT-ASTIER<Arr> la semaine prochaine.
+Mon trajet commence à <Dep>CHATENOIS<Dep> et se termine à <Arr>TOURNUS<Arr>.
+Le bus quitte <Dep>TAMNAY-EN-BAZOIS<Dep> et se dirige vers <Arr>LACQ<Arr>.
+Quel est le prochain train de <Dep>MONTLOUIS-SUR-LOIRE<Dep> à <Arr>SARREBOURG<Arr> ?
+Je dois aller de <Dep>DONGES<Dep> vers <Arr>CORBENAY<Arr> la semaine prochaine.
+Trouve-moi un billet pour un départ depuis <Dep>VITRY-SUR-SEINE<Dep> jusqu’à <Arr>LOPERHET<Arr>.
+Mon itinéraire comprend un départ de <Dep>JEANDELIZE<Dep> pour <Arr>DACHSTEIN<Arr>.
+Réservez un train de <Dep>GONDRECOURT-LE-CHATEAU<Dep> vers <Arr>RILLIEUX-LA-PAPE<Arr>.Réservez un train de <Dep>LYON<Dep> vers <Arr>CYSOING<Arr>.Je dois aller de <Dep>AGDE<Dep> vers <Arr>SETE<Arr> la semaine prochaine.
+Trouve un billet de train qui part de <Dep>CHATEAUNEUF-DE-GADAGNE<Dep> à destination de <Arr>L'ETANG-LA-VILLE<Arr>.
+Je pars de <Dep>LA MADELEINE<Dep> pour aller à <Arr>VILLIERS-SAINT-FREDERIC<Arr>.
+Trouve un billet de train qui part de <Dep>REICHSTETT<Dep> à destination de <Arr>SAVONNIERES<Arr>.
+Un vol de <Dep>MARIGNY<Dep> vers <Arr>SAINT-PREST<Arr> m'intéresse.
+Mon vol part de <Dep>CHAMBOURG-SUR-INDRE<Dep> et arrivera à <Arr>CHAMPAGNE-SUR-OISE<Arr>.
+Mon trajet commence à <Dep>CUBZAC-LES-PONTS<Dep> et se termine à <Arr>VENDOME<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BOURGOIN-JALLIEU<Dep> jusqu’à <Arr>LANNEMEZAN<Arr>.
+J'ai besoin d'un vol qui part de <Dep>SAINT-MICHEL-SUR-MEURTHE<Dep> et arrive à <Arr>GRESY-SUR-AIX<Arr>.
+Trouve un billet de train qui part de <Dep>CHASSE-SUR-RHONE<Dep> à destination de <Arr>TOUL<Arr>.
+Le prochain bus va de <Dep>SAINT-OMER<Dep> à <Arr>SENOZAN<Arr>.
+Réservez un train de <Dep>RULX<Dep> vers <Arr>PARTHENAY<Arr>.Il me faudrait un billet de <Dep>FLEURANCE<Dep> vers <Arr>COURBEVOIE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>NANTOUILLET<Dep> et arrive à <Arr>ENVEITG<Arr>.
+Trouve un billet de train qui part de <Dep>CHAVILLE<Dep> à destination de <Arr>BETTON<Arr>.
+Prévoyez mon départ depuis <Dep>VILLENEUVE-SUR-AISNE<Dep> jusqu'à <Arr>LABENNE<Arr>.
+Le bus quitte <Dep>VILLETANEUSE<Dep> et se dirige vers <Arr>ETAIS-LA-SAUVIN<Arr>.
+Mon itinéraire comprend un départ de <Dep>RENNES<Dep> pour <Arr>CHAVANGES<Arr>.
+Mon trajet commence à <Dep>ORCHAMPS<Dep> et se termine à <Arr>MARSAC-SUR-L'ISLE<Arr>.
+Un vol de <Dep>JARDRES<Dep> vers <Arr>ESTERNAY<Arr> m'intéresse.
+Mon itinéraire comprend un départ de <Dep>BAYEUX<Dep> pour <Arr>CHERBOURG-EN-COTENTIN<Arr>.
+Je pars de <Dep>TASSIN-LA-DEMI-LUNE<Dep> pour aller à <Arr>DRUYE<Arr>.
+Quel est le prochain train de <Dep>RULLY<Dep> à <Arr>DOMPIERRE-SUR-BESBRE<Arr> ?
+Quel est le prochain train de <Dep>MANTES-LA-VILLE<Dep> à <Arr>TOURY<Arr> ?
+Je dois aller de <Dep>ISSOU<Dep> vers <Arr>LE THEIL-DE-BRETAGNE<Arr> la semaine prochaine.
+Je recherche un train de <Dep>VOIVRES-LES-LE-MANS<Dep> à <Arr>CROIX<Arr>.
+Le prochain bus va de <Dep>LA BRIGUE<Dep> à <Arr>VIAS<Arr>.
+Un vol qui part de <Dep>GRIESBACH-AU-VAL<Dep> et arrive à <Arr>JUF<Arr> serait parfait.
+Je cherche un vol entre <Dep>MONTELIMAR<Dep> et <Arr>TRICOT<Arr>.
+Mon trajet commence à <Dep>LIMOUX<Dep> et se termine à <Arr>MONTIGNY-EN-OSTREVENT<Arr>.
+Il me faudrait un billet de <Dep>ARMENTIERES<Dep> vers <Arr>SAINTE-EULALIE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>SAINT-ETIENNE<Dep> et arrive à <Arr>VAL-DES-MARAIS<Arr>.
+Un vol de <Dep>BRICY<Dep> vers <Arr>LUTTENBACH-PRES-MUNSTER<Arr> m'intéresse.
+Mon itinéraire comprend un départ de <Dep>FRONVILLE<Dep> pour <Arr>SAINT-HILAIRE-PEYROUX<Arr>.
+Un vol de <Dep>MOUANS-SARTOUX<Dep> vers <Arr>ARPAJON<Arr> m'intéresse.
+J'ai besoin d'un vol qui part de <Dep>SIORAC-EN-PERIGORD<Dep> et arrive à <Arr>CHISSAY-EN-TOURAINE<Arr>.
+Trouve un billet de train qui part de <Dep>SARREBOURG<Dep> à destination de <Arr>BREIL-SUR-ROYA<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>WAMBRECHIES<Dep> jusqu’à <Arr>SAINT-MANVIEU-NORREY<Arr>.
+J'ai besoin d'un vol qui part de <Dep>LA CRAU<Dep> et arrive à <Arr>BISCHWILLER<Arr>.
+Mon vol part de <Dep>SAINT-VINCENT-DE-TYROSSE<Dep> et arrivera à <Arr>CONDE-SUR-VIRE<Arr>.
+Je voudrais réserver un vol de <Dep>DIENVILLE<Dep> pour <Arr>CHINDRIEUX<Arr>.
+Un vol de <Dep>EGLETONS<Dep> vers <Arr>PARIS<Arr> m'intéresse.
+Un vol de <Dep>LEYMENT<Dep> vers <Arr>MONDOUBLEAU<Arr> m'intéresse.
+Je dois aller de <Dep>CESSON-SEVIGNE<Dep> vers <Arr>ABBARETZ<Arr> la semaine prochaine.
+Mon trajet commence à <Dep>AUBAGNE<Dep> et se termine à <Arr>SAINT-ETIENNE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>GUERARD<Dep> et arrive à <Arr>ROUEN<Arr>.
+Le bus quitte <Dep>SAVENNIERES<Dep> et se dirige vers <Arr>HUNSPACH<Arr>.
+Mon vol part de <Dep>ETAPLES<Dep> et arrivera à <Arr>METZERAL<Arr>.
+Prévoyez mon départ depuis <Dep>BETHUNE<Dep> jusqu'à <Arr>PONT-DE-BUIS-LES-QUIMERCH<Arr>.
+Quel est le prochain train de <Dep>HAGUENAU<Dep> à <Arr>LA COURONNE<Arr> ?
+Un vol de <Dep>VERNASSAL<Dep> vers <Arr>NIMES<Arr> m'intéresse.
+Réservez un train de <Dep>BOIS-COLOMBES<Dep> vers <Arr>CANNES<Arr>.Quel est le prochain train de <Dep>BOUSSAY<Dep> à <Arr>MEYRARGUES<Arr> ?
+Mon trajet commence à <Dep>BONNARD<Dep> et se termine à <Arr>PIMPREZ<Arr>.
+Il me faudrait un billet de <Dep>CHAMPIGNEULLES<Dep> vers <Arr>VERREY-SOUS-SALMAISE<Arr>.
+Je pars de <Dep>MONTLUCON<Dep> pour aller à <Arr>VIDAUBAN<Arr>.
+Je dois aller de <Dep>VARENNES-SUR-SEINE<Dep> vers <Arr>SELESTAT<Arr> la semaine prochaine.
+Mon itinéraire comprend un départ de <Dep>RANSPACH<Dep> pour <Arr>CROUY<Arr>.
+Je pars de <Dep>HIRSON<Dep> pour aller à <Arr>MUHLBACH-SUR-BRUCHE<Arr>.
+Je veux partir de <Dep>AVIGNON<Dep> pour arriver à <Arr>SAINT-AMARIN<Arr> demain.
+Je cherche un vol entre <Dep>LA ROCHELLE<Dep> et <Arr>SAINT-MALO<Arr>.
+Mon trajet commence à <Dep>BEAUNE-LA-ROLANDE<Dep> et se termine à <Arr>GOUAIX<Arr>.
+Un vol de <Dep>THEOULE-SUR-MER<Dep> vers <Arr>CHABONS<Arr> m'intéresse.
+Trouve-moi un billet pour un départ depuis <Dep>CHAUFFAILLES<Dep> jusqu’à <Arr>MIRAMAS<Arr>.
+Trouve un billet de train qui part de <Dep>CLION<Dep> à destination de <Arr>LEUCATE<Arr>.
+Prévoyez mon départ depuis <Dep>PLOEMEL<Dep> jusqu'à <Arr>FREISTROFF<Arr>.
+Mon vol part de <Dep>TARARE<Dep> et arrivera à <Arr>LOUVRES<Arr>.
+Le bus quitte <Dep>SAINCAIZE-MEAUCE<Dep> et se dirige vers <Arr>ESPERAZA<Arr>.
+Un vol qui part de <Dep>NEUVILLE-SUR-ESCAUT<Dep> et arrive à <Arr>VILLENEUVE-SUR-AISNE<Arr> serait parfait.
+Il me faudrait un billet de <Dep>CHAMONIX-MONT-BLANC<Dep> vers <Arr>SAINT-GEORGES-DE-COMMIERS<Arr>.
+Mon itinéraire comprend un départ de <Dep>ARRAS<Dep> pour <Arr>EVEUX<Arr>.
+Je pars de <Dep>ABANCOURT<Dep> pour aller à <Arr>OBERMODERN-ZUTZENDORF<Arr>.
+Un vol de <Dep>AUBIGNY<Dep> vers <Arr>LE MERLERAULT<Arr> m'intéresse.
+Je voudrais réserver un vol de <Dep>GAMBSHEIM<Dep> pour <Arr>PONTCHATEAU<Arr>.
+Mon trajet commence à <Dep>MONTLUCON<Dep> et se termine à <Arr>VILLIERS-LE-SEC<Arr>.
+Le bus quitte <Dep>MORET-LOING-ET-ORVANNE<Dep> et se dirige vers <Arr>JUVISY-SUR-ORGE<Arr>.
+Je voudrais réserver un vol de <Dep>SAINT-VICTURNIEN<Dep> pour <Arr>CAMBRAI<Arr>.
+Je voudrais réserver un vol de <Dep>THIENNES<Dep> pour <Arr>ESTISSAC<Arr>.
+Il me faudrait un billet de <Dep>THENON<Dep> vers <Arr>AVESNELLES<Arr>.
+Un vol qui part de <Dep>FELLETIN<Dep> et arrive à <Arr>MERICOURT-L'ABBE<Arr> serait parfait.
+Le prochain bus va de <Dep>CHAMPAGNEY<Dep> à <Arr>LONGUEAU<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>SEVERAC D'AVEYRON<Dep> jusqu’à <Arr>SERVAS<Arr>.
+Je voudrais réserver un vol de <Dep>LUNERY<Dep> pour <Arr>SAINT-CLOUD<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>LES HOUCHES<Dep> jusqu’à <Arr>LANGRES<Arr>.
+Je recherche un train de <Dep>REDING<Dep> à <Arr>LE THOU<Arr>.
+Trouve un billet de train qui part de <Dep>VIAM<Dep> à destination de <Arr>URMATT<Arr>.
+Mon itinéraire comprend un départ de <Dep>ANTONY<Dep> pour <Arr>LE HAVRE<Arr>.
+Je veux partir de <Dep>SAINT-ETIENNE<Dep> pour arriver à <Arr>FRONVILLE<Arr> demain.
+Un vol de <Dep>MANDUEL<Dep> vers <Arr>CYSOING<Arr> m'intéresse.
+Le bus quitte <Dep>LA CABANASSE<Dep> et se dirige vers <Arr>CHANTILLY<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>MONT-SUR-MEURTHE<Dep> jusqu’à <Arr>LIMAY<Arr>.
+Je pars de <Dep>CHARTRES<Dep> pour aller à <Arr>MILLAU<Arr>.
+Mon vol part de <Dep>REGNY<Dep> et arrivera à <Arr>STENAY<Arr>.
+Prévoyez mon départ depuis <Dep>LOIREAUXENCE<Dep> jusqu'à <Arr>SERRES<Arr>.
+Un vol de <Dep>MARSEILLAN<Dep> vers <Arr>MOURIOUX-VIEILLEVILLE<Arr> m'intéresse.
+Je voudrais réserver un vol de <Dep>SAINT-ETIENNE<Dep> pour <Arr>LES AUXONS<Arr>.
+Prévoyez mon départ depuis <Dep>VERSAILLES<Dep> jusqu'à <Arr>SAINTE-CHRISTIE<Arr>.
+Mon itinéraire comprend un départ de <Dep>BEARD<Dep> pour <Arr>HOUILLES<Arr>.
+Je recherche un train de <Dep>PONT-DE-ROIDE-VERMONDANS<Dep> à <Arr>SAINT-CYR-SUR-LOIRE<Arr>.
+Je voudrais réserver un vol de <Dep>VILLEPERDUE<Dep> pour <Arr>LE PALLET<Arr>.
+J'ai besoin d'un vol qui part de <Dep>GUJAN-MESTRAS<Dep> et arrive à <Arr>SAINT-GERVAIS-LES-BAINS<Arr>.
+Je pars de <Dep>VIENNE<Dep> pour aller à <Arr>PESEUX<Arr>.
+Mon vol part de <Dep>VIROFLAY<Dep> et arrivera à <Arr>DEAUVILLE<Arr>.
+Le bus quitte <Dep>BOUFFEMONT<Dep> et se dirige vers <Arr>VENDIN-LE-VIEIL<Arr>.
+Mon itinéraire comprend un départ de <Dep>GESTEL<Dep> pour <Arr>MONISTROL-D'ALLIER<Arr>.
+Mon trajet commence à <Dep>MONTS<Dep> et se termine à <Arr>CHAMBORIGAUD<Arr>.
+Je dois aller de <Dep>DIVES-SUR-MER<Dep> vers <Arr>WINTZENHEIM<Arr> la semaine prochaine.
+Je dois aller de <Dep>VILLERS-SAINT-PAUL<Dep> vers <Arr>TEMPLEUVE-EN-PEVELE<Arr> la semaine prochaine.
+Trouve-moi un billet pour un départ depuis <Dep>BREUILLET<Dep> jusqu’à <Arr>EVIAN-LES-BAINS<Arr>.
+Le prochain bus va de <Dep>LILLE<Dep> à <Arr>SAINT-PIERRE-QUIBERON<Arr>.
+Réservez un train de <Dep>MULHOUSE<Dep> vers <Arr>NYER<Arr>.Je cherche un vol entre <Dep>GEISPOLSHEIM<Dep> et <Arr>MONTBELIARD<Arr>.
+Je recherche un train de <Dep>TINCQUES<Dep> à <Arr>LIZINES<Arr>.
+Réservez un train de <Dep>AIX-LES-BAINS<Dep> vers <Arr>COTEAUX-SUR-LOIRE<Arr>.Je dois aller de <Dep>ROUEN<Dep> vers <Arr>BIEVRES<Arr> la semaine prochaine.
+Je veux partir de <Dep>VANVES<Dep> pour arriver à <Arr>ORRY-LA-VILLE<Arr> demain.
+Le bus quitte <Dep>NEUVY-SUR-LOIRE<Dep> et se dirige vers <Arr>LA COURNEUVE<Arr>.
+Mon vol part de <Dep>CREUTZWALD<Dep> et arrivera à <Arr>ETAIS-LA-SAUVIN<Arr>.
+Réservez un train de <Dep>BOISSEAUX<Dep> vers <Arr>PONTORSON<Arr>.Je veux partir de <Dep>DRUSENHEIM<Dep> pour arriver à <Arr>WAVRIN<Arr> demain.
+Je dois aller de <Dep>AVESNES-SUR-HELPE<Dep> vers <Arr>AHUN<Arr> la semaine prochaine.
+Je veux partir de <Dep>ECOUFLANT<Dep> pour arriver à <Arr>GIROMAGNY<Arr> demain.
+Un vol de <Dep>ARCHES<Dep> vers <Arr>SAVENAY<Arr> m'intéresse.
+Je dois aller de <Dep>CHATILLON-SUR-INDRE<Dep> vers <Arr>MONT LOZERE ET GOULET<Arr> la semaine prochaine.
+Je veux partir de <Dep>BONDY<Dep> pour arriver à <Arr>LA FOREST-LANDERNEAU<Arr> demain.
+Mon vol part de <Dep>CHAMONIX-MONT-BLANC<Dep> et arrivera à <Arr>LIZY-SUR-OURCQ<Arr>.
+Le prochain bus va de <Dep>LA CHAIZE-LE-VICOMTE<Dep> à <Arr>NIEPPE<Arr>.
+Trouve un billet de train qui part de <Dep>AIRE-SUR-L'ADOUR<Dep> à destination de <Arr>SAINT-ROMAIN-DE-POPEY<Arr>.
+Réservez un train de <Dep>MATZENHEIM<Dep> vers <Arr>ROCAMADOUR<Arr>.J'ai besoin d'un vol qui part de <Dep>SENS<Dep> et arrive à <Arr>RUFFEY-LES-ECHIREY<Arr>.
+Réservez un train de <Dep>MARSEILLE<Dep> vers <Arr>MONTAIGUT-LE-BLANC<Arr>.Mon vol part de <Dep>LIVRY-GARGAN<Dep> et arrivera à <Arr>SAINT-VIT<Arr>.
+Je recherche un train de <Dep>EVRY-COURCOURONNES<Dep> à <Arr>SAINT-ETIENNE<Arr>.
+Un vol de <Dep>SIMANDRE-SUR-SURAN<Dep> vers <Arr>AGUILCOURT<Arr> m'intéresse.
+Je dois aller de <Dep>MARCILLY-SUR-TILLE<Dep> vers <Arr>MARLY<Arr> la semaine prochaine.
+Je veux partir de <Dep>JOUY<Dep> pour arriver à <Arr>NORT-SUR-ERDRE<Arr> demain.
+Je recherche un train de <Dep>MANTHES<Dep> à <Arr>SABLE-SUR-SARTHE<Arr>.
+Trouve un billet de train qui part de <Dep>BOURGES<Dep> à destination de <Arr>LA GUERCHE-SUR-L'AUBOIS<Arr>.
+Mon vol part de <Dep>VILLEFRANQUE<Dep> et arrivera à <Arr>PUYBRUN<Arr>.
+Quel est le prochain train de <Dep>EPOUVILLE<Dep> à <Arr>MONTATAIRE<Arr> ?
+Trouve-moi un billet pour un départ depuis <Dep>VIVONNE<Dep> jusqu’à <Arr>MARSAC-SUR-L'ISLE<Arr>.
+Mon trajet commence à <Dep>LE MEE-SUR-SEINE<Dep> et se termine à <Arr>VITRE<Arr>.
+Je cherche un vol entre <Dep>SAINT-BERON<Dep> et <Arr>SAVERNE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CARHAIX-PLOUGUER<Dep> et arrive à <Arr>LA TOUR-DE-SALVAGNY<Arr>.
+Réservez un train de <Dep>ARTIX<Dep> vers <Arr>CHEMILLY-SUR-YONNE<Arr>.Mon trajet commence à <Dep>BRIOUDE<Dep> et se termine à <Arr>SAINT-BLAISE-LA-ROCHE<Arr>.
+Un vol qui part de <Dep>VILLEMOMBLE<Dep> et arrive à <Arr>OGEU-LES-BAINS<Arr> serait parfait.
+Je dois aller de <Dep>VIRVILLE<Dep> vers <Arr>ANGERS<Arr> la semaine prochaine.
+Réservez un train de <Dep>JUVISY-SUR-ORGE<Dep> vers <Arr>SARREGUEMINES<Arr>.Il me faudrait un billet de <Dep>VILLERS-SAINT-PAUL<Dep> vers <Arr>CHAUFFAILLES<Arr>.
+Il me faudrait un billet de <Dep>VIRE NORMANDIE<Dep> vers <Arr>WAMBAIX<Arr>.
+Je recherche un train de <Dep>MOTHERN<Dep> à <Arr>SAINT-MARD<Arr>.
+Je pars de <Dep>REVIGNY-SUR-ORNAIN<Dep> pour aller à <Arr>ROSNY-SOUS-BOIS<Arr>.
+Trouve un billet de train qui part de <Dep>OSTRICOURT<Dep> à destination de <Arr>NEUVY-SUR-LOIRE<Arr>.
+Mon vol part de <Dep>DOMBLANS<Dep> et arrivera à <Arr>SAINT-VALERY-EN-CAUX<Arr>.
+Je veux partir de <Dep>SAINT-CLEMENT<Dep> pour arriver à <Arr>SAINT-MARTIN-D'ARROSSA<Arr> demain.
+Je voudrais réserver un vol de <Dep>PARIS<Dep> pour <Arr>GERTWILLER<Arr>.
+Je cherche un vol entre <Dep>PONTCHARRA<Dep> et <Arr>SAINT-ETIENNE-DU-ROUVRAY<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CLERAC<Dep> et arrive à <Arr>JOIGNY-SUR-MEUSE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>SAINT-LAURENT-EN-GRANDVAUX<Dep> et arrive à <Arr>FEYZIN<Arr>.
+Je dois aller de <Dep>COLOMBIERS<Dep> vers <Arr>VALLORCINE<Arr> la semaine prochaine.
+Mon itinéraire comprend un départ de <Dep>ANICHE<Dep> pour <Arr>PARIS<Arr>.
+Un vol de <Dep>ECOUCHE-LES-VALLEES<Dep> vers <Arr>TANUS<Arr> m'intéresse.
+Réservez un train de <Dep>GALLARGUES-LE-MONTUEUX<Dep> vers <Arr>DORLISHEIM<Arr>.J'ai besoin d'un vol qui part de <Dep>STRASBOURG<Dep> et arrive à <Arr>FONTPEDROUSE<Arr>.
+Trouve un billet de train qui part de <Dep>SAINT-SULPICE-ET-CAMEYRAC<Dep> à destination de <Arr>SAINT-SENOUX<Arr>.
+Mon vol part de <Dep>VIENNE<Dep> et arrivera à <Arr>LEFFRINCKOUCKE<Arr>.
+Mon vol part de <Dep>LES EGLISOTTES-ET-CHALAURES<Dep> et arrivera à <Arr>DIEULOUARD<Arr>.
+Mon vol part de <Dep>CHEVREMONT<Dep> et arrivera à <Arr>CHATELAUDREN-PLOUAGAT<Arr>.
+Quel est le prochain train de <Dep>BLANZY<Dep> à <Arr>BRETEUIL<Arr> ?
+Je recherche un train de <Dep>BRIGNAIS<Dep> à <Arr>SAINT-FLOUR<Arr>.
+Je voudrais réserver un vol de <Dep>YGOS-SAINT-SATURNIN<Dep> pour <Arr>CHANTONNAY<Arr>.
+Un vol de <Dep>PONTIVY<Dep> vers <Arr>PUILAURENS<Arr> m'intéresse.
+Je cherche un vol entre <Dep>LA HOUSSAYE-EN-BRIE<Dep> et <Arr>ROQUEFORT<Arr>.
+Je voudrais réserver un vol de <Dep>DECIZE<Dep> pour <Arr>VOUZIERS<Arr>.
+Le bus quitte <Dep>SAINT-GERMAIN-LES-BELLES<Dep> et se dirige vers <Arr>MAIZIERES-LES-METZ<Arr>.
+J'ai besoin d'un vol qui part de <Dep>MEZERIAT<Dep> et arrive à <Arr>PEROLS-SUR-VEZERE<Arr>.
+Je recherche un train de <Dep>AVOUDREY<Dep> à <Arr>CHAVENON<Arr>.
+Le prochain bus va de <Dep>SAINT-MEEN-LE-GRAND<Dep> à <Arr>VIMY<Arr>.
+Le bus quitte <Dep>ATTIGNY<Dep> et se dirige vers <Arr>IMPHY<Arr>.
+Quel est le prochain train de <Dep>ANVIN<Dep> à <Arr>MANOIS<Arr> ?
+Quel est le prochain train de <Dep>LANNEMEZAN<Dep> à <Arr>CAMIERS<Arr> ?
+Mon trajet commence à <Dep>LA PENNE-SUR-HUVEAUNE<Dep> et se termine à <Arr>AMIENS<Arr>.
+Le prochain bus va de <Dep>LAVELINE-DEVANT-BRUYERES<Dep> à <Arr>MERICOURT-L'ABBE<Arr>.
+Je veux partir de <Dep>SEVRAN<Dep> pour arriver à <Arr>BOE<Arr> demain.
+Un vol de <Dep>MONT-DE-MARSAN<Dep> vers <Arr>TERGNIER<Arr> m'intéresse.
+Je veux partir de <Dep>CLERES<Dep> pour arriver à <Arr>BOURGS SUR COLAGNE<Arr> demain.
+Mon itinéraire comprend un départ de <Dep>MOURMELON-LE-PETIT<Dep> pour <Arr>WILLER-SUR-THUR<Arr>.
+Mon vol part de <Dep>LONS-LE-SAUNIER<Dep> et arrivera à <Arr>MORLAIX<Arr>.
+Prévoyez mon départ depuis <Dep>MANDUEL<Dep> jusqu'à <Arr>AIMARGUES<Arr>.
+Le bus quitte <Dep>LONGROY<Dep> et se dirige vers <Arr>CANNES<Arr>.
+Je voudrais réserver un vol de <Dep>PARAY-LE-MONIAL<Dep> pour <Arr>SAINT-LAURENT-DE-LA-PREE<Arr>.
+Réservez un train de <Dep>BRANDERION<Dep> vers <Arr>PARIS<Arr>.Je pars de <Dep>EPINAL<Dep> pour aller à <Arr>MONTENDRE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>FELLETIN<Dep> jusqu’à <Arr>LE ROUGET-PERS<Arr>.
+Je pars de <Dep>SERQUIGNY<Dep> pour aller à <Arr>SAINT-MACLOU-DE-FOLLEVILLE<Arr>.
+Prévoyez mon départ depuis <Dep>MIRAMAS<Dep> jusqu'à <Arr>YVETOT<Arr>.
+Mon trajet commence à <Dep>MONTIGNY-SUR-LOING<Dep> et se termine à <Arr>BERNAY<Arr>.
+Un vol de <Dep>TRESSIN<Dep> vers <Arr>ISTRES<Arr> m'intéresse.
+Je veux partir de <Dep>MARSEILLE<Dep> pour arriver à <Arr>CHESSY<Arr> demain.
+Mon itinéraire comprend un départ de <Dep>MONTBRISON<Dep> pour <Arr>VALLAURIS<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CHALETTE-SUR-LOING<Dep> et arrive à <Arr>MONTENDRE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>LA VOULTE-SUR-RHONE<Dep> jusqu’à <Arr>FOS-SUR-MER<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>MUHLBACH-SUR-BRUCHE<Dep> jusqu’à <Arr>CROUY<Arr>.
+Un vol qui part de <Dep>POLLIAT<Dep> et arrive à <Arr>TROIS-RIVIERES<Arr> serait parfait.
+Je dois aller de <Dep>VAUXAILLON<Dep> vers <Arr>CANNES<Arr> la semaine prochaine.
+Le prochain bus va de <Dep>ANOR<Dep> à <Arr>MERE<Arr>.
+Mon itinéraire comprend un départ de <Dep>HOUDAN<Dep> pour <Arr>SAINT-FARGEAU-PONTHIERRY<Arr>.
+Mon itinéraire comprend un départ de <Dep>MERREY<Dep> pour <Arr>SAINT-NAZAIRE<Arr>.
+Je veux partir de <Dep>LA DOUZE<Dep> pour arriver à <Arr>HYMONT<Arr> demain.
+Un vol qui part de <Dep>SAINT-NAZAIRE<Dep> et arrive à <Arr>OYONNAX<Arr> serait parfait.
+Je pars de <Dep>BONNEVAL<Dep> pour aller à <Arr>CHALANDRAY<Arr>.
+Il me faudrait un billet de <Dep>CULOZ<Dep> vers <Arr>FRANCONVILLE<Arr>.
+Mon itinéraire comprend un départ de <Dep>SAINT-OUEN-L'AUMONE<Dep> pour <Arr>LUNERY<Arr>.
+Je veux partir de <Dep>PONTRIEUX<Dep> pour arriver à <Arr>LAIZY<Arr> demain.
+Trouve-moi un billet pour un départ depuis <Dep>SAINT-CLEMENT<Dep> jusqu’à <Arr>CREST<Arr>.
+Mon trajet commence à <Dep>BOESSE-LE-SEC<Dep> et se termine à <Arr>VOUZIERS<Arr>.
+Réservez un train de <Dep>BAYARD-SUR-MARNE<Dep> vers <Arr>PORT-SAINT-PERE<Arr>.Il me faudrait un billet de <Dep>JUVISY-SUR-ORGE<Dep> vers <Arr>TAMNAY-EN-BAZOIS<Arr>.
+Mon trajet commence à <Dep>KEDANGE-SUR-CANNER<Dep> et se termine à <Arr>TASSIN-LA-DEMI-LUNE<Arr>.
+Mon vol part de <Dep>BREITENBACH-HAUT-RHIN<Dep> et arrivera à <Arr>LOREUX<Arr>.
+Réservez un train de <Dep>CARANTILLY<Dep> vers <Arr>FONTAINEBLEAU<Arr>.Mon trajet commence à <Dep>SAINT-ETIENNE<Dep> et se termine à <Arr>ELBEUF<Arr>.
+Le bus quitte <Dep>MANTES-LA-JOLIE<Dep> et se dirige vers <Arr>PAGNY-SUR-MOSELLE<Arr>.
+Je dois aller de <Dep>HYMONT<Dep> vers <Arr>CHAMONIX-MONT-BLANC<Arr> la semaine prochaine.
+Le bus quitte <Dep>GENNES-VAL-DE-LOIRE<Dep> et se dirige vers <Arr>NOIRETABLE<Arr>.
+Un vol qui part de <Dep>LILLE<Dep> et arrive à <Arr>BAILLEUL-SUR-THERAIN<Arr> serait parfait.
+Trouve un billet de train qui part de <Dep>VENDIN-LE-VIEIL<Dep> à destination de <Arr>LAROQUE-TIMBAUT<Arr>.
+Mon itinéraire comprend un départ de <Dep>NOTRE-DAME-DE-BONDEVILLE<Dep> pour <Arr>CASTELSARRASIN<Arr>.
+Réservez un train de <Dep>SAINT-SEVER-DE-SAINTONGE<Dep> vers <Arr>TRELAZE<Arr>.Je dois aller de <Dep>COUFFOULENS<Dep> vers <Arr>GARDONNE<Arr> la semaine prochaine.
+Je pars de <Dep>URT<Dep> pour aller à <Arr>CONDE-SUR-VIRE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>NYER<Dep> et arrive à <Arr>SEES<Arr>.
+Je veux partir de <Dep>FOS-SUR-MER<Dep> pour arriver à <Arr>VOREY<Arr> demain.
+Je voudrais réserver un vol de <Dep>TONNERRE<Dep> pour <Arr>ETREPAGNY<Arr>.
+Il me faudrait un billet de <Dep>VIVONNE<Dep> vers <Arr>MAGALAS<Arr>.
+Je dois aller de <Dep>QUEDILLAC<Dep> vers <Arr>LUTTERBACH<Arr> la semaine prochaine.
+Un vol de <Dep>PESCHADOIRES<Dep> vers <Arr>CLION<Arr> m'intéresse.
+Mon trajet commence à <Dep>US<Dep> et se termine à <Arr>HOFFEN<Arr>.
+J'ai besoin d'un vol qui part de <Dep>VALDAHON<Dep> et arrive à <Arr>HIPSHEIM<Arr>.
+Trouve un billet de train qui part de <Dep>PESSAC<Dep> à destination de <Arr>BUEIL<Arr>.
+J'ai besoin d'un vol qui part de <Dep>NIMES<Dep> et arrive à <Arr>EAUBONNE<Arr>.
+Réservez un train de <Dep>LE PALLET<Dep> vers <Arr>CRECY-LA-CHAPELLE<Arr>.Je cherche un vol entre <Dep>MERIEL<Dep> et <Arr>GRANDPUITS-BAILLY-CARROIS<Arr>.
+Mon itinéraire comprend un départ de <Dep>CHATEL-CENSOIR<Dep> pour <Arr>PLOUIGNEAU<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>MOUANS-SARTOUX<Dep> jusqu’à <Arr>GROSLAY<Arr>.
+Je voudrais réserver un vol de <Dep>ENTRELACS<Dep> pour <Arr>LIVRON-SUR-DROME<Arr>.
+Je cherche un vol entre <Dep>JUSSEY<Dep> et <Arr>GENELARD<Arr>.
+Mon itinéraire comprend un départ de <Dep>LILLE<Dep> pour <Arr>BUGEAT<Arr>.
+Le bus quitte <Dep>LES ANCIZES-COMPS<Dep> et se dirige vers <Arr>SAINT-AMAND-LES-EAUX<Arr>.
+Je recherche un train de <Dep>COLMAR<Dep> à <Arr>AUDUN-LE-ROMAN<Arr>.
+Trouve un billet de train qui part de <Dep>AILLY-SUR-SOMME<Dep> à destination de <Arr>JONZAC<Arr>.
+Je dois aller de <Dep>MAUBEUGE<Dep> vers <Arr>LA VILLE-DIEU-DU-TEMPLE<Arr> la semaine prochaine.
+Mon itinéraire comprend un départ de <Dep>SAINT-MAMMES<Dep> pour <Arr>VERSAILLES<Arr>.
+Il me faudrait un billet de <Dep>LES ACHARDS<Dep> vers <Arr>POIX-TERRON<Arr>.
+Le prochain bus va de <Dep>AUBIGNE-RACAN<Dep> à <Arr>GARCHIZY<Arr>.
+Mon trajet commence à <Dep>GIEN<Dep> et se termine à <Arr>CAHORS<Arr>.
+Mon trajet commence à <Dep>QUESNOY-LE-MONTANT<Dep> et se termine à <Arr>GERMAINE<Arr>.
+Réservez un train de <Dep>DHUYS ET MORIN-EN-BRIE<Dep> vers <Arr>PARIS<Arr>.Trouve-moi un billet pour un départ depuis <Dep>BOURGS SUR COLAGNE<Dep> jusqu’à <Arr>MITRY-MORY<Arr>.
+Je recherche un train de <Dep>MENTON<Dep> à <Arr>BAULE<Arr>.
+Réservez un train de <Dep>MARQUETTE-LEZ-LILLE<Dep> vers <Arr>BOLOGNE<Arr>.Mon vol part de <Dep>ROLAMPONT<Dep> et arrivera à <Arr>LES HOUCHES<Arr>.
+Le bus quitte <Dep>TERMINIERS<Dep> et se dirige vers <Arr>LE DOUHET<Arr>.
+Mon itinéraire comprend un départ de <Dep>CHAMONIX-MONT-BLANC<Dep> pour <Arr>SAINT-RAMBERT-D'ALBON<Arr>.
+Trouve un billet de train qui part de <Dep>GLOS-SUR-RISLE<Dep> à destination de <Arr>COMMENTRY<Arr>.
+Je dois aller de <Dep>QUIMPER<Dep> vers <Arr>BAZARNES<Arr> la semaine prochaine.
+J'ai besoin d'un vol qui part de <Dep>COURZIEU<Dep> et arrive à <Arr>LOUVERNE<Arr>.
+Je veux partir de <Dep>AGDE<Dep> pour arriver à <Arr>BIDARRAY<Arr> demain.
+Mon vol part de <Dep>HOMBOURG-BUDANGE<Dep> et arrivera à <Arr>LA PORCHERIE<Arr>.
+Le bus quitte <Dep>SAINT-FARGEAU-PONTHIERRY<Dep> et se dirige vers <Arr>CHALETTE-SUR-LOING<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>AIGUILLON<Dep> jusqu’à <Arr>ARNOUVILLE<Arr>.
+Prévoyez mon départ depuis <Dep>FRONCLES<Dep> jusqu'à <Arr>CHESSY<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BAZIEGE<Dep> jusqu’à <Arr>BOURG-MADAME<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>GEVREY-CHAMBERTIN<Dep> jusqu’à <Arr>VILLEPINTE<Arr>.
+Je recherche un train de <Dep>CHINDRIEUX<Dep> à <Arr>ALBIGNY-SUR-SAONE<Arr>.
+Le prochain bus va de <Dep>DIEPPE<Dep> à <Arr>A-CHAMPAGNE<Arr>.
+Un vol qui part de <Dep>CHAMPAGNOLE<Dep> et arrive à <Arr>CHAUNY<Arr> serait parfait.
+Un vol de <Dep>PLOUIGNEAU<Dep> vers <Arr>LACQ<Arr> m'intéresse.
+Réservez un train de <Dep>RIEDSELTZ<Dep> vers <Arr>EPINAY-SUR-ORGE<Arr>.Je cherche un vol entre <Dep>ROCHY-CONDE<Dep> et <Arr>IMPHY<Arr>.
+Quel est le prochain train de <Dep>VELINES<Dep> à <Arr>CHAMOUSSET<Arr> ?
+Mon itinéraire comprend un départ de <Dep>BIDOS<Dep> pour <Arr>TREMBLAY-EN-FRANCE<Arr>.
+Un vol qui part de <Dep>VIVONNE<Dep> et arrive à <Arr>CROIX<Arr> serait parfait.
+Il me faudrait un billet de <Dep>FEURS<Dep> vers <Arr>LIMOUX<Arr>.
+Un vol qui part de <Dep>CASTELSARRASIN<Dep> et arrive à <Arr>VINDRY-SUR-TURDINE<Arr> serait parfait.
+Le prochain bus va de <Dep>FLAVY-LE-MARTEL<Dep> à <Arr>ANICHE<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CERONS<Dep> et arrive à <Arr>LE CAILAR<Arr>.
+Trouve un billet de train qui part de <Dep>DUPPIGHEIM<Dep> à destination de <Arr>SAINT-RAPHAEL<Arr>.
+Il me faudrait un billet de <Dep>CHARLEVILLE-MEZIERES<Dep> vers <Arr>BENESSE-MAREMNE<Arr>.
+Quel est le prochain train de <Dep>DARDILLY<Dep> à <Arr>STRASBOURG<Arr> ?
+Mon itinéraire comprend un départ de <Dep>NOUVION-SUR-MEUSE<Dep> pour <Arr>COTEAUX-SUR-LOIRE<Arr>.
+Il me faudrait un billet de <Dep>MONTATAIRE<Dep> vers <Arr>MONTIGNY-LE-BRETONNEUX<Arr>.
+Mon trajet commence à <Dep>MERICOURT-L'ABBE<Dep> et se termine à <Arr>NOMEXY<Arr>.
+Je veux partir de <Dep>PHALEMPIN<Dep> pour arriver à <Arr>THESEE<Arr> demain.
+Prévoyez mon départ depuis <Dep>SAVERNE<Dep> jusqu'à <Arr>HAUT-MAUCO<Arr>.
+Quel est le prochain train de <Dep>LAISSAC-SEVERAC L'EGLISE<Dep> à <Arr>LUC-LA-PRIMAUBE<Arr> ?
+Trouve-moi un billet pour un départ depuis <Dep>VAUVERT<Dep> jusqu’à <Arr>VINCA<Arr>.
+Réservez un train de <Dep>FLORANGE<Dep> vers <Arr>ROUBAIX<Arr>.Un vol de <Dep>SAINT-ANDRE-LE-GAZ<Dep> vers <Arr>AVIGNON<Arr> m'intéresse.
+Le bus quitte <Dep>PARAY-LE-MONIAL<Dep> et se dirige vers <Arr>BASSE-HAM<Arr>.
+Le bus quitte <Dep>RIXHEIM<Dep> et se dirige vers <Arr>ONVILLE<Arr>.
+Je recherche un train de <Dep>FONTAN<Dep> à <Arr>SAINT-REMY-EN-L'EAU<Arr>.
+Mon trajet commence à <Dep>BETHENIVILLE<Dep> et se termine à <Arr>SAINT-SYMPHORIEN-DE-MARMAGNE<Arr>.
+Je cherche un vol entre <Dep>NANTERRE<Dep> et <Arr>SAINT-OUEN-L'AUMONE<Arr>.
+Quel est le prochain train de <Dep>ROUXMESNIL-BOUTEILLES<Dep> à <Arr>ROUBAIX<Arr> ?
+Je dois aller de <Dep>MARSEILLE<Dep> vers <Arr>PARIS<Arr> la semaine prochaine.
+Quel est le prochain train de <Dep>LABEGE<Dep> à <Arr>EVEUX<Arr> ?
+Le bus quitte <Dep>HALSOU<Dep> et se dirige vers <Arr>BESSE-SUR-BRAYE<Arr>.
+Réservez un train de <Dep>CHESSY<Dep> vers <Arr>SAINT-BONNET-DE-ROCHEFORT<Arr>.Mon vol part de <Dep>VAULRY<Dep> et arrivera à <Arr>PLOEMEL<Arr>.
+Prévoyez mon départ depuis <Dep>JARNY<Dep> jusqu'à <Arr>MARSEILLE<Arr>.
+Un vol qui part de <Dep>WILLER-SUR-THUR<Dep> et arrive à <Arr>BOURBOURG<Arr> serait parfait.
+Mon vol part de <Dep>SAINT-MEEN-LE-GRAND<Dep> et arrivera à <Arr>ANCHE<Arr>.
+Mon vol part de <Dep>CHATILLON-SUR-SEINE<Dep> et arrivera à <Arr>POIGNY<Arr>.
+Je cherche un vol entre <Dep>ECOUCHE-LES-VALLEES<Dep> et <Arr>DIVES-SUR-MER<Arr>.
+Je veux partir de <Dep>MIGNALOUX-BEAUVOIR<Dep> pour arriver à <Arr>CREIL<Arr> demain.
+Le prochain bus va de <Dep>SAINT-HILAIRE-SUR-HELPE<Dep> à <Arr>AMBERIEU-EN-BUGEY<Arr>.
+Le prochain bus va de <Dep>FRESNAY-SUR-SARTHE<Dep> à <Arr>RIOM<Arr>.
+Mon trajet commence à <Dep>RODEZ<Dep> et se termine à <Arr>CARPENTRAS<Arr>.
+Il me faudrait un billet de <Dep>ESCALQUENS<Dep> vers <Arr>AIRE-SUR-LA-LYS<Arr>.
+Mon itinéraire comprend un départ de <Dep>PLESTAN<Dep> pour <Arr>SANTENAY<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CHAMALIERES-SUR-LOIRE<Dep> et arrive à <Arr>ROUEN<Arr>.
+Un vol qui part de <Dep>HAUTMONT<Dep> et arrive à <Arr>CHATEAUBRIANT<Arr> serait parfait.
+Mon vol part de <Dep>BEAUVOISIN<Dep> et arrivera à <Arr>CHATILLON<Arr>.
+Mon vol part de <Dep>LAIGNES<Dep> et arrivera à <Arr>POUXEUX<Arr>.
+Un vol qui part de <Dep>SAINT-RAPHAEL<Dep> et arrive à <Arr>SAINT-SAMSON-SUR-RANCE<Arr> serait parfait.
+Réservez un train de <Dep>POUSSAY<Dep> vers <Arr>PORT-SAINT-LOUIS-DU-RHONE<Arr>.Je veux partir de <Dep>INGRANDES<Dep> pour arriver à <Arr>CERNAY<Arr> demain.
+Je cherche un vol entre <Dep>MANDUEL<Dep> et <Arr>LA BATHIE<Arr>.
+Un vol de <Dep>VINAY<Dep> vers <Arr>GRANDVILLIERS<Arr> m'intéresse.
+J'ai besoin d'un vol qui part de <Dep>BRIGNAIS<Dep> et arrive à <Arr>SAINT-FELIU-D'AVALL<Arr>.
+Le bus quitte <Dep>SUCY-EN-BRIE<Dep> et se dirige vers <Arr>TRAPPES<Arr>.
+Trouve un billet de train qui part de <Dep>CHATILLON-SUR-INDRE<Dep> à destination de <Arr>BITCHE<Arr>.
+Il me faudrait un billet de <Dep>ETALANS<Dep> vers <Arr>TOULOUSE<Arr>.
+Je veux partir de <Dep>INGRE<Dep> pour arriver à <Arr>NEUFCHATEAU<Arr> demain.
+Quel est le prochain train de <Dep>REGNY<Dep> à <Arr>VEYNES<Arr> ?
+Réservez un train de <Dep>CHAPONOST<Dep> vers <Arr>MONTFORT-SUR-MEU<Arr>.Un vol de <Dep>FONTPEDROUSE<Dep> vers <Arr>AIX-EN-PROVENCE<Arr> m'intéresse.
+Je veux partir de <Dep>LOOS<Dep> pour arriver à <Arr>ESPIRA-DE-L'AGLY<Arr> demain.
+Mon itinéraire comprend un départ de <Dep>LUMES<Dep> pour <Arr>LOIVRE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>SCHOPPERTEN<Dep> jusqu’à <Arr>LOIRE-SUR-RHONE<Arr>.
+Le bus quitte <Dep>BRUMATH<Dep> et se dirige vers <Arr>VIAS<Arr>.
+Trouve un billet de train qui part de <Dep>SALAISE-SUR-SANNE<Dep> à destination de <Arr>LIBERCOURT<Arr>.
+Je dois aller de <Dep>GAILLAC<Dep> vers <Arr>LA FERTE-IMBAULT<Arr> la semaine prochaine.
+Je recherche un train de <Dep>WIZERNES<Dep> à <Arr>NAINTRE<Arr>.
+Il me faudrait un billet de <Dep>LOULAY<Dep> vers <Arr>EVIAN-LES-BAINS<Arr>.
+Il me faudrait un billet de <Dep>L'ISLE-SUR-LE-DOUBS<Dep> vers <Arr>AIMARGUES<Arr>.
+Il me faudrait un billet de <Dep>PARAY-LE-MONIAL<Dep> vers <Arr>AIXE-SUR-VIENNE<Arr>.
+Prévoyez mon départ depuis <Dep>SENAS<Dep> jusqu'à <Arr>MACON<Arr>.
+Je dois aller de <Dep>RIEDSELTZ<Dep> vers <Arr>COLOMBIERS<Arr> la semaine prochaine.
+Prévoyez mon départ depuis <Dep>LONGROY<Dep> jusqu'à <Arr>RUELLE-SUR-TOUVRE<Arr>.
+Mon trajet commence à <Dep>AIRE-SUR-L'ADOUR<Dep> et se termine à <Arr>MIRAMAS<Arr>.
+Trouve un billet de train qui part de <Dep>SENNECEY-LE-GRAND<Dep> à destination de <Arr>VAL-D'ARC<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>SAINT-EGREVE<Dep> jusqu’à <Arr>VIARMES<Arr>.
+Un vol qui part de <Dep>SAINTE-GAUBURGE-SAINTE-COLOMBE<Dep> et arrive à <Arr>ETAINHUS<Arr> serait parfait.
+Le prochain bus va de <Dep>MENNESSIS<Dep> à <Arr>LANDIVISIAU<Arr>.
+Je cherche un vol entre <Dep>TRAPPES<Dep> et <Arr>TREBES<Arr>.
+Je cherche un vol entre <Dep>MARTIGUES<Dep> et <Arr>VILLEREVERSURE<Arr>.
+Je recherche un train de <Dep>GOXWILLER<Dep> à <Arr>BORDEAUX<Arr>.
+Quel est le prochain train de <Dep>COMINES<Dep> à <Arr>MORCENX-LA-NOUVELLE<Arr> ?
+Je cherche un vol entre <Dep>NOUVION-SUR-MEUSE<Dep> et <Arr>CARPENTRAS<Arr>.
+Je pars de <Dep>ATTIGNY<Dep> pour aller à <Arr>NANGIS<Arr>.
+Réservez un train de <Dep>LARAGNE-MONTEGLIN<Dep> vers <Arr>LES HOUCHES<Arr>.Prévoyez mon départ depuis <Dep>VILLEHERVIERS<Dep> jusqu'à <Arr>MONTIVILLIERS<Arr>.
+Mon vol part de <Dep>LE VIGNON-EN-QUERCY<Dep> et arrivera à <Arr>PORTA<Arr>.
+Le bus quitte <Dep>CAULNES<Dep> et se dirige vers <Arr>VIAS<Arr>.
+Je voudrais réserver un vol de <Dep>HURIEL<Dep> pour <Arr>SAINT-JEAN-DE-MAURIENNE<Arr>.
+Je cherche un vol entre <Dep>SOMMESOUS<Dep> et <Arr>FUILLA<Arr>.
+Mon vol part de <Dep>LILLE<Dep> et arrivera à <Arr>TERGNIER<Arr>.
+Il me faudrait un billet de <Dep>RIXHEIM<Dep> vers <Arr>MAZINGARBE<Arr>.
+Mon vol part de <Dep>VALLOIRE-SUR-CISSE<Dep> et arrivera à <Arr>JALONS<Arr>.
+Mon vol part de <Dep>ECHIROLLES<Dep> et arrivera à <Arr>TRACY-SUR-LOIRE<Arr>.
+Je cherche un vol entre <Dep>GENSAC-LA-PALLUE<Dep> et <Arr>GRANDE-SYNTHE<Arr>.
+Le prochain bus va de <Dep>MEZIDON VALLEE D'AUGE<Dep> à <Arr>DIJON<Arr>.
+Prévoyez mon départ depuis <Dep>ABLAINCOURT-PRESSOIR<Dep> jusqu'à <Arr>THENISSEY<Arr>.
+Le prochain bus va de <Dep>HAGUENAU<Dep> à <Arr>BRUZ<Arr>.
+Mon vol part de <Dep>BOURG-EN-BRESSE<Dep> et arrivera à <Arr>DIENVILLE<Arr>.
+Je recherche un train de <Dep>LE PLESSIS-BELLEVILLE<Dep> à <Arr>LOUROUX-DE-BOUBLE<Arr>.
+Le bus quitte <Dep>LAMOTHE-MONTRAVEL<Dep> et se dirige vers <Arr>EPFIG<Arr>.
+Un vol de <Dep>MIGENNES<Dep> vers <Arr>TANUS<Arr> m'intéresse.
+Je pars de <Dep>EGLETONS<Dep> pour aller à <Arr>AVALLON<Arr>.
+Le bus quitte <Dep>AIXE-SUR-VIENNE<Dep> et se dirige vers <Arr>MONTMAGNY<Arr>.
+Je voudrais réserver un vol de <Dep>BROONS<Dep> pour <Arr>WASQUEHAL<Arr>.
+Le prochain bus va de <Dep>AUBIGNY-SUR-NERE<Dep> à <Arr>SAINCAIZE-MEAUCE<Arr>.
+Prévoyez mon départ depuis <Dep>ENTZHEIM<Dep> jusqu'à <Arr>CORBEIL-ESSONNES<Arr>.
+Mon trajet commence à <Dep>CERONS<Dep> et se termine à <Arr>SAINT-JACQUES-DE-LA-LANDE<Arr>.
+Il me faudrait un billet de <Dep>ORCHIES<Dep> vers <Arr>LORIOL-SUR-DROME<Arr>.
+Il me faudrait un billet de <Dep>JAULZY<Dep> vers <Arr>CLAMECY<Arr>.
+Je voudrais réserver un vol de <Dep>LA BRILLANNE<Dep> pour <Arr>ILLZACH<Arr>.
+Prévoyez mon départ depuis <Dep>VINAY<Dep> jusqu'à <Arr>LALINDE<Arr>.
+Quel est le prochain train de <Dep>MONTGERON<Dep> à <Arr>SOTTEVILLE-LES-ROUEN<Arr> ?
+Je recherche un train de <Dep>SAINT-SEBASTIEN-SUR-LOIRE<Dep> à <Arr>CHEZY-SUR-MARNE<Arr>.
+Il me faudrait un billet de <Dep>PLOUARET<Dep> vers <Arr>LA COURNEUVE<Arr>.
+Trouve un billet de train qui part de <Dep>VITRY-SUR-SEINE<Dep> à destination de <Arr>MANOIS<Arr>.
+Je cherche un vol entre <Dep>TULLINS<Dep> et <Arr>SAINT-BRIEUC<Arr>.
+J'ai besoin d'un vol qui part de <Dep>FONTENAY-LE-COMTE<Dep> et arrive à <Arr>CHATEAUDUN<Arr>.
+Mon itinéraire comprend un départ de <Dep>CHATENOIS<Dep> pour <Arr>NANCOIS-SUR-ORNAIN<Arr>.
+Je dois aller de <Dep>CRAIN<Dep> vers <Arr>MILLAS<Arr> la semaine prochaine.
+Un vol de <Dep>MERE<Dep> vers <Arr>LE PALLET<Arr> m'intéresse.
+Trouve un billet de train qui part de <Dep>BOVES<Dep> à destination de <Arr>BEDARIEUX<Arr>.
+Je cherche un vol entre <Dep>SAINT-CLOUD<Dep> et <Arr>CAUSSADE<Arr>.
+Je dois aller de <Dep>MERENS-LES-VALS<Dep> vers <Arr>MARCILLY-SUR-TILLE<Arr> la semaine prochaine.
+Je veux partir de <Dep>LATTES<Dep> pour arriver à <Arr>MONTIGNY-LE-BRETONNEUX<Arr> demain.
+Je pars de <Dep>PARIS<Dep> pour aller à <Arr>SECLIN<Arr>.
+Quel est le prochain train de <Dep>SAINT-ROMAIN-DE-POPEY<Dep> à <Arr>L'ISLE-SUR-LA-SORGUE<Arr> ?
+Je cherche un vol entre <Dep>CHELLES<Dep> et <Arr>ROUESSE-VASSE<Arr>.
+Je recherche un train de <Dep>SAULNES<Dep> à <Arr>DONCHERY<Arr>.
+Je pars de <Dep>SAINT-ANDRE-DE-L'EURE<Dep> pour aller à <Arr>SEES<Arr>.
+Un vol qui part de <Dep>COUFOULEUX<Dep> et arrive à <Arr>CASTELSARRASIN<Arr> serait parfait.
+Le bus quitte <Dep>HAGUENAU<Dep> et se dirige vers <Arr>ECULLY<Arr>.
+Réservez un train de <Dep>WIMILLE<Dep> vers <Arr>SAINT-JULIEN-EN-GENEVOIS<Arr>.Le prochain bus va de <Dep>MESSEIN<Dep> à <Arr>ARNOUVILLE<Arr>.
+Un vol qui part de <Dep>FORS<Dep> et arrive à <Arr>MEZY-MOULINS<Arr> serait parfait.
+Prévoyez mon départ depuis <Dep>GUILLON-TERRE-PLAINE<Dep> jusqu'à <Arr>HIRSON<Arr>.
+Trouve un billet de train qui part de <Dep>VILLAINES-SOUS-BOIS<Dep> à destination de <Arr>PLOUVARA<Arr>.
+J'ai besoin d'un vol qui part de <Dep>CASTELNAUDARY<Dep> et arrive à <Arr>MITRY-MORY<Arr>.
+Prévoyez mon départ depuis <Dep>RIS-ORANGIS<Dep> jusqu'à <Arr>ARZEMBOUY<Arr>.
+Je veux partir de <Dep>RILLIEUX-LA-PAPE<Dep> pour arriver à <Arr>COURCELLES-LE-COMTE<Arr> demain.
+Mon itinéraire comprend un départ de <Dep>LUDRES<Dep> pour <Arr>SUCY-EN-BRIE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>BOURBRIAC<Dep> jusqu’à <Arr>COLLONGES-ET-PREMIERES<Arr>.
+Il me faudrait un billet de <Dep>FONTANES<Dep> vers <Arr>GIVRY<Arr>.
+J'ai besoin d'un vol qui part de <Dep>VERREY-SOUS-SALMAISE<Dep> et arrive à <Arr>LA BONNEVILLE-SUR-ITON<Arr>.
+Quel est le prochain train de <Dep>PEYRILLES<Dep> à <Arr>ATHIS-MONS<Arr> ?
+Quel est le prochain train de <Dep>GISORS<Dep> à <Arr>CAULNES<Arr> ?
+Mon trajet commence à <Dep>VIVIERS-DU-LAC<Dep> et se termine à <Arr>SAINT-ROMAIN-EN-GAL<Arr>.
+Mon vol part de <Dep>DIVES-SUR-MER<Dep> et arrivera à <Arr>ROINVILLE<Arr>.
+Un vol de <Dep>SAINT-PIERRE-EN-AUGE<Dep> vers <Arr>RIVE-DE-GIER<Arr> m'intéresse.
+Le prochain bus va de <Dep>ROQUEREDONDE<Dep> à <Arr>BEDOUS<Arr>.
+Je voudrais réserver un vol de <Dep>LA CHAPELLE-LA-REINE<Dep> pour <Arr>LEVAL<Arr>.
+Prévoyez mon départ depuis <Dep>MONTIVILLIERS<Dep> jusqu'à <Arr>SAINT-MARTIN-D'ARROSSA<Arr>.
+Trouve un billet de train qui part de <Dep>SAINT-DENIS<Dep> à destination de <Arr>CORBENAY<Arr>.
+Je veux partir de <Dep>LA JARRIE<Dep> pour arriver à <Arr>SAONE<Arr> demain.
+Je pars de <Dep>FRENOUVILLE<Dep> pour aller à <Arr>CORBEIL-ESSONNES<Arr>.
+Le prochain bus va de <Dep>MARSEILLE<Dep> à <Arr>SAINT-GERMAIN-SUR-ILLE<Arr>.
+Mon itinéraire comprend un départ de <Dep>INGWILLER<Dep> pour <Arr>NEUILLE-PONT-PIERRE<Arr>.
+Un vol qui part de <Dep>MOIRANS<Dep> et arrive à <Arr>SERQUIGNY<Arr> serait parfait.
+Quel est le prochain train de <Dep>MILLAS<Dep> à <Arr>GARNAY<Arr> ?
+Je recherche un train de <Dep>LYON<Dep> à <Arr>CAUDROT<Arr>.
+Je dois aller de <Dep>BIARRITZ<Dep> vers <Arr>POIX-TERRON<Arr> la semaine prochaine.
+J'ai besoin d'un vol qui part de <Dep>CHAGNY<Dep> et arrive à <Arr>PONS<Arr>.
+Je voudrais réserver un vol de <Dep>CHATELAILLON-PLAGE<Dep> pour <Arr>LE MALESHERBOIS<Arr>.
+Je recherche un train de <Dep>SAINTES<Dep> à <Arr>GIVORS<Arr>.
+Un vol qui part de <Dep>SESSENHEIM<Dep> et arrive à <Arr>PEYRILLES<Arr> serait parfait.
+Réservez un train de <Dep>WITTRING<Dep> vers <Arr>VIEUX-THANN<Arr>.Trouve-moi un billet pour un départ depuis <Dep>TREMBLAY-EN-FRANCE<Dep> jusqu’à <Arr>CHAMONIX-MONT-BLANC<Arr>.
+Mon vol part de <Dep>PERIGUEUX<Dep> et arrivera à <Arr>SAINT-GERMAIN-SUR-AVRE<Arr>.
+Un vol qui part de <Dep>CAVAILLON<Dep> et arrive à <Arr>MASSERAC<Arr> serait parfait.
+Je cherche un vol entre <Dep>MONTLUCON<Dep> et <Arr>FONTENOY-SUR-MOSELLE<Arr>.
+Je cherche un vol entre <Dep>ORLY<Dep> et <Arr>ROUBAIX<Arr>.
+Je dois aller de <Dep>SAINT-SULPICE-ET-CAMEYRAC<Dep> vers <Arr>SAINT-LEGER-SUR-DHEUNE<Arr> la semaine prochaine.
+Trouve un billet de train qui part de <Dep>EGUZON-CHANTOME<Dep> à destination de <Arr>ALES<Arr>.
+Quel est le prochain train de <Dep>BELFORT<Dep> à <Arr>SAINT-SOLVE<Arr> ?
+Je voudrais réserver un vol de <Dep>SALLES-COURBATIES<Dep> pour <Arr>MONCRABEAU<Arr>.
+Je cherche un vol entre <Dep>MARSAC<Dep> et <Arr>CHAMPAGNE<Arr>.
+Réservez un train de <Dep>METZ<Dep> vers <Arr>TOURS<Arr>.Le bus quitte <Dep>FOURCHAMBAULT<Dep> et se dirige vers <Arr>DEGAGNAC<Arr>.
+Je pars de <Dep>WAVRIN<Dep> pour aller à <Arr>CESSIEU<Arr>.
+Quel est le prochain train de <Dep>VIERZON<Dep> à <Arr>MARVEJOLS<Arr> ?
+Je recherche un train de <Dep>MARLES-LES-MINES<Dep> à <Arr>FROMY<Arr>.
+Je dois aller de <Dep>LACELLE<Dep> vers <Arr>VIROFLAY<Arr> la semaine prochaine.
+Mon itinéraire comprend un départ de <Dep>SENS<Dep> pour <Arr>TREON<Arr>.
+Mon vol part de <Dep>MAZINGARBE<Dep> et arrivera à <Arr>BLODELSHEIM<Arr>.
+Un vol de <Dep>CHALONNES-SUR-LOIRE<Dep> vers <Arr>HEMING<Arr> m'intéresse.
+Trouve-moi un billet pour un départ depuis <Dep>AUBIGNY-AU-BAC<Dep> jusqu’à <Arr>FRANOIS<Arr>.
+Je cherche un vol entre <Dep>CAMPAGNAC<Dep> et <Arr>SISTERON<Arr>.
+Mon itinéraire comprend un départ de <Dep>OUDON<Dep> pour <Arr>FUILLA<Arr>.
+Trouve un billet de train qui part de <Dep>PEZOU<Dep> à destination de <Arr>ELOYES<Arr>.
+Prévoyez mon départ depuis <Dep>ROUFFACH<Dep> jusqu'à <Arr>VIREUX-MOLHAIN<Arr>.
+Le bus quitte <Dep>SAINT-SAUVEUR-MARVILLE<Dep> et se dirige vers <Arr>MIRIBEL<Arr>.
+Je pars de <Dep>REVEL<Dep> pour aller à <Arr>CORMERY<Arr>.
+Réservez un train de <Dep>VEAUCHE<Dep> vers <Arr>LYON<Arr>.Prévoyez mon départ depuis <Dep>LE PONT-DE-BEAUVOISIN<Dep> jusqu'à <Arr>CHOISY-LE-ROI<Arr>.
+Mon vol part de <Dep>BRIOLLAY<Dep> et arrivera à <Arr>GRENOBLE<Arr>.
+Quel est le prochain train de <Dep>BAUME-LES-DAMES<Dep> à <Arr>MOUTIERS<Arr> ?
+Il me faudrait un billet de <Dep>LOISY-SUR-MARNE<Dep> vers <Arr>EPINAY-SUR-SEINE<Arr>.
+Mon vol part de <Dep>GROISY<Dep> et arrivera à <Arr>DECIZE<Arr>.
+Réservez un train de <Dep>BOLLENE<Dep> vers <Arr>GOLFECH<Arr>.Mon vol part de <Dep>SAINTE-GENEVIEVE-DES-BOIS<Dep> et arrivera à <Arr>LA CHAPELLE-LA-REINE<Arr>.
+Je cherche un vol entre <Dep>LYON<Dep> et <Arr>ROUEN<Arr>.
+Je dois aller de <Dep>FRETIN<Dep> vers <Arr>ETAMPES<Arr> la semaine prochaine.
+Mon trajet commence à <Dep>ARCHES<Dep> et se termine à <Arr>NANTES<Arr>.
+Je voudrais réserver un vol de <Dep>MISEREY-SALINES<Dep> pour <Arr>LECHELLE<Arr>.
+Un vol qui part de <Dep>AISEREY<Dep> et arrive à <Arr>SAINT-MARD<Arr> serait parfait.
+Trouve-moi un billet pour un départ depuis <Dep>BREVAL<Dep> jusqu’à <Arr>SAINT-LEU-D'ESSERENT<Arr>.
+Mon itinéraire comprend un départ de <Dep>GENLIS<Dep> pour <Arr>MAGNEUX<Arr>.
+Mon trajet commence à <Dep>BOISNE-LA TUDE<Dep> et se termine à <Arr>BENGY-SUR-CRAON<Arr>.
+Mon vol part de <Dep>L'HERMITAGE<Dep> et arrivera à <Arr>MERREY<Arr>.
+Réservez un train de <Dep>ARQUES<Dep> vers <Arr>DRULINGEN<Arr>.Je recherche un train de <Dep>MARSAC-SUR-L'ISLE<Dep> à <Arr>BANTZENHEIM<Arr>.
+Trouve un billet de train qui part de <Dep>ROMANECHE-THORINS<Dep> à destination de <Arr>CONCARNEAU<Arr>.
+J'ai besoin d'un vol qui part de <Dep>BLANGY-SUR-BRESLE<Dep> et arrive à <Arr>DONZERE<Arr>.
+Je cherche un vol entre <Dep>VERVINS<Dep> et <Arr>PARIS<Arr>.
+Un vol de <Dep>JANVILLE-EN-BEAUCE<Dep> vers <Arr>VENAREY-LES-LAUMES<Arr> m'intéresse.
+Mon itinéraire comprend un départ de <Dep>HERBLAY-SUR-SEINE<Dep> pour <Arr>CHAMPIGNEULLES<Arr>.
+Je voudrais réserver un vol de <Dep>VALLOIRE-SUR-CISSE<Dep> pour <Arr>GIROMAGNY<Arr>.
+Un vol de <Dep>BENESTROFF<Dep> vers <Arr>MONNERVILLE<Arr> m'intéresse.
+Je recherche un train de <Dep>SAINT-JUNIEN<Dep> à <Arr>PLEYBER-CHRIST<Arr>.
+Mon vol part de <Dep>VAL-FOUZON<Dep> et arrivera à <Arr>CHAMPLAN<Arr>.
+Prévoyez mon départ depuis <Dep>GIVORS<Dep> jusqu'à <Arr>GENECH<Arr>.
+Je dois aller de <Dep>LUNEL-VIEL<Dep> vers <Arr>LA JONCHERE-SAINT-MAURICE<Arr> la semaine prochaine.
+Quel est le prochain train de <Dep>GARNAY<Dep> à <Arr>NANTES<Arr> ?
+Le prochain bus va de <Dep>JUZIERS<Dep> à <Arr>PORT-SAINTE-MARIE<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>PAVILLY<Dep> jusqu’à <Arr>BAILLEUL-SUR-THERAIN<Arr>.
+Le bus quitte <Dep>ROUNTZENHEIM-AUENHEIM<Dep> et se dirige vers <Arr>CLAMART<Arr>.
+Mon trajet commence à <Dep>SATHONAY-CAMP<Dep> et se termine à <Arr>CONLIE<Arr>.
+Je cherche un vol entre <Dep>NANTIAT<Dep> et <Arr>LA CELLE-SAINT-CLOUD<Arr>.
+Je dois aller de <Dep>WACQUEMOULIN<Dep> vers <Arr>PROUVY<Arr> la semaine prochaine.
+Le bus quitte <Dep>SAINT-MAMMES<Dep> et se dirige vers <Arr>MONTBIZOT<Arr>.
+J'ai besoin d'un vol qui part de <Dep>ALIXAN<Dep> et arrive à <Arr>GOUAIX<Arr>.
+Trouve un billet de train qui part de <Dep>FRANCONVILLE<Dep> à destination de <Arr>SAINT-MAURICE-DE-BEYNOST<Arr>.
+Mon trajet commence à <Dep>SCHILTIGHEIM<Dep> et se termine à <Arr>ECOLE-VALENTIN<Arr>.
+Un vol qui part de <Dep>BOBIGNY<Dep> et arrive à <Arr>COLTAINVILLE<Arr> serait parfait.

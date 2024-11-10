@@ -6,8 +6,8 @@ Le bus quitte <Dep>{depart}<Dep> et se dirige vers <Arr>{arrivee}<Arr>.
 Je voudrais réserver un vol de <Dep>{depart}<Dep> pour <Arr>{arrivee}<Arr>.
 Mon trajet commence à <Dep>{depart}<Dep> et se termine à <Arr>{arrivee}<Arr>.
 Un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> m'intéresse.
-Quel est le prochain train de <Dep>{depart}<Dep> à <Arr>Genève</Arr> ?
-Je pars de <Dep>{depart}<Dep> pour aller à <Arr>Saint-Pétersbourg</Arr>.
+Quel est le prochain train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je pars de <Dep>{depart}<Dep> pour aller à <Arr>{arrivee}<Arr>.
 Il me faudrait un billet de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
 Mon itinéraire comprend un départ de <Dep>{depart}<Dep> pour <Arr>{arrivee}<Arr>.
 J'ai besoin d'un vol qui part de <Dep>{depart}<Dep> et arrive à <Arr>{arrivee}<Arr>.
