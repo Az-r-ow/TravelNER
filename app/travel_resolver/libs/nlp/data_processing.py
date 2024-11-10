@@ -271,3 +271,25 @@ def from_examples_to_tf_dataset(
     )
 
     return dataset
+
+
+def encode_and_pad_sentence(sentence: str, vocab: dict, max_len: int) -> list[int]:
+    """
+    Given a sentence, a vocabulary, and a maximum length, encode the sentence and pad it to the maximum length.
+
+    Args:
+      sentence (str): The sentence to encode and pad.
+      vocab (dict): The vocabulary to use for encoding.
+      max_len (int): The maximum length to pad the sentence to.
+
+    Returns:
+      list[int]: The encoded and padded sentence.
+    """
+    encoded_sentence = [
+        vocab.index(word) if word in vocab else vocab.index("<UNK>")
+        for word in sentence
+    ]
+
+    return tf.keras.utils.pad_sequences(
+        [encoded_sentence], maxlen=max_len, padding="post", value=0
+    )[0]
