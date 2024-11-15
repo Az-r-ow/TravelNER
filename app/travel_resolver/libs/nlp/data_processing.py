@@ -171,7 +171,7 @@ def from_tagged_file_to_bio_file(
             if not sentence:
                 continue
             bio_format = convert_tagged_sentence_to_bio(sentence, tag_entities_pairs)
-            file.write(bio_format + "\n")
+            file.write(bio_format + "\n\n")
 
 
 def from_bio_file_to_examples(file_path: str) -> tuple:
@@ -187,10 +187,9 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
     Returns:
       tuple: A tuple containing the inputs and labels (inputs, labels).
     """
-    stop_sentences = [".", "?", "!"]
-
     with open(file_path, "r") as file:
         content = file.read()
+
     lines = content.split("\n")
 
     sentences = []
@@ -225,6 +224,12 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
     sentence_labels = []
     for line in lines:
         if (len(line.split(" "))) < 2:
+            if len(sentence_words) == 0:
+                continue
+            sentences.append(" ".join(sentence_words))
+            labels.append(sentence_labels)
+            sentence_words = []
+            sentence_labels = []
             continue
         word, label = line.split(" ")
         label = (
@@ -236,11 +241,6 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
         sentence_words.append(word)
         sentence_labels.append(label)
         vocab.add(word)
-        if word in stop_sentences:
-            sentences.append(" ".join(sentence_words))
-            labels.append(sentence_labels)
-            sentence_words = []
-            sentence_labels = []
 
     return (sentences, labels, vocab, unique_labels)
 
