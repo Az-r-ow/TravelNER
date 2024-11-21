@@ -42,9 +42,9 @@ def getDijkstraResult(depart, destination):
         (str): Time of the shortest travel found
     """
     graph = getCSVTravelGraph()
-    distances = graph.RunDijkstra(depart)
-    if(destination in distances): return str(distances[destination]) + " minutes"
-    return "Temps non trouvé"
+    path, cost = graph.RunDijkstraBetweenTwoNodes(depart, destination)
+    if(destination in cost): return [path, str(cost[destination]) + " minutes"]
+    return [[],"Temps non trouvé"]
 
 def getAStarResult(depart, destination):
     """
@@ -87,17 +87,20 @@ def handleCityChange(city):
         
 def handleStationChange(departureStation, destinationStation):
     if(departureStation and destinationStation):
-        timeDijkstra = getDijkstraResult(departureStation, destinationStation)
+        dijkstraPath, dijkstraCost = getDijkstraResult(departureStation, destinationStation)
+        dijkstraPathFormatted = "\n".join([f"{i + 1}. {elem}" for i, elem in enumerate(dijkstraPath)])
         AStarPath, AStarCost = getAStarResult(departureStation, destinationStation)
         AStarPathFormatted = "\n".join([f"{i + 1}. {elem}" for i, elem in enumerate(AStarPath)])
-                
+        print(dijkstraPathFormatted) 
         return (
-            gr.update(value=timeDijkstra),
+            gr.update(value=dijkstraCost),
+            gr.update(value=dijkstraPathFormatted, lines=len(dijkstraPath)),
             gr.update(value=AStarCost),
             gr.update(value=AStarPathFormatted, lines=len(AStarPath))
         )
     return (
         gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.update(value=""),
         gr.HTML("<p>Aucun prompt renseigné</p>"),
         gr.update(value="")
     )
@@ -120,9 +123,11 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
                     destinationStation= gr.Dropdown(label="Gare d'arrivée")
                 with gr.Tab("Dijkstra"):
                     timeDijkstra=gr.HTML("<p>Aucun prompt renseigné</p>")
+                    dijkstraPath=gr.Textbox(label="Chemin emprunté")
+                    
                 with gr.Tab("AStar"):
                     timeAStar=gr.HTML("<p>Aucun prompt renseigné</p>")
-                    path=gr.Textbox(label="Chemin emprunté")
+                    AstarPath=gr.Textbox(label="Chemin emprunté")
     audio.change(
         handle_audio, 
         inputs=[audio],
@@ -151,12 +156,12 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
     departureStation.change(
         handleStationChange,
         inputs=[departureStation, destinationStation],
-        outputs=[timeDijkstra, timeAStar, path]
+        outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath]
     )
     destinationStation.change(
         handleStationChange,
         inputs=[departureStation, destinationStation],
-        outputs=[timeDijkstra, timeAStar, path]
+        outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath]
     )
 interface.launch()
 
