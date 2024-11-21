@@ -4,6 +4,16 @@ BASE_PATH = "../data/sncf/"
 
 # Charger les informations des gares depuis le fichier "sncf_stations_databases"
 def charger_infos_gares(fichier_stations):
+    """
+    Load station information from the 'sncf_stations_databases' file.
+    
+    Args:
+        fichier_stations (str): Path to the 'sncf_stations_databases' file.
+
+    Returns:
+        Dict[str, Dict[str, str]]: A dictionary containing the station names as keys and
+        their corresponding details (commune, latitude, longitude) as values.
+    """
     infos_gares = {}
     with open(fichier_stations, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile, delimiter=';')
@@ -18,6 +28,16 @@ def charger_infos_gares(fichier_stations):
 
 # Fonction pour trouver une gare dans les infos_gares avec une correspondance partielle
 def trouver_gare_par_nom(nom_gare, infos_gares):
+    """
+    Find a station in the loaded station information using partial name matching.
+    
+    Args:
+        nom_gare (str): The name of the station to search for.
+        infos_gares (Dict[str, Dict[str, str]]): A dictionary of station information loaded from the database.
+
+    Returns:
+        Optional[Dict[str, str]]: The station information if a match is found, or None otherwise.
+    """
     for libelle in infos_gares:
         if nom_gare in libelle:
             return infos_gares[libelle]
@@ -25,6 +45,19 @@ def trouver_gare_par_nom(nom_gare, infos_gares):
 
 # Lire le fichier "timetables.csv" et générer le nouveau fichier avec les informations de gares
 def creer_nouveau_fichier(fichier_timetables, fichier_stations, fichier_sortie):
+    """
+    Generate a new CSV file containing station information by matching names from the timetables
+    with those in the station database.
+    
+    Args:
+        fichier_timetables (str): Path to the 'timetables.csv' file, which contains station trip data.
+        fichier_stations (str): Path to the 'sncf_stations_databases' file with station details.
+        fichier_sortie (str): Path to the output file where the matched station details will be written.
+
+    Returns:
+        None: The function writes the output directly to the specified file and prints any stations for which 
+        no information was found.
+    """
     # Charger les informations des gares
     infos_gares = charger_infos_gares(fichier_stations)
 

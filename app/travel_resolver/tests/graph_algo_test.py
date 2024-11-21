@@ -26,6 +26,14 @@ class TestGraphAlgo(unittest.TestCase):
         distances = self.graph.RunDijkstra('A')
         self.assertEqual(distances, expected_distances)
 
+    def test_RunDijkstraBetweenTwoNodes(self):
+        # Test du chemin le plus court avec Dijkstra depuis le noeud 'A' vers le noeud 'D'
+        expected_path = ['A', 'B', 'C', 'D']
+        expected_cost = {'A': 0, 'B': 1, 'C': 3, 'D': 4}
+        path, costs = self.graph.RunDijkstraBetweenTwoNodes('A','D')
+        self.assertEqual(path, expected_path)
+        self.assertEqual(costs, expected_cost)
+
     def test_RunAStar(self):
         # Test de l'algorithme A* depuis le noeud 'A' vers 'D'
         expected_path = ['A', 'B', 'C', 'D']

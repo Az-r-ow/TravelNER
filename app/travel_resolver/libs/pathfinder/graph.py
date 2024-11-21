@@ -43,6 +43,62 @@ class Graph():
 
         return distances
 
+    def RunDijkstraBetweenTwoNodes(self, start: str, end: str) -> Tuple[List[str], Dict[str, float]]:
+        """
+        Run Dijkstra's algorithm to get the shortest path from start to end node, including the total weight.
+        
+        Args:
+            start (str): Name of the start node.
+            end (str): Name of the end node.
+            
+        Returns:
+            (Tuple[List[str], Dict[str, float]]): A tuple where the first element is the path to the goal and
+            the second element is a dictionary with the cost to reach each node.
+        """
+        # Initialisation des distances avec l'infini
+        distances: Dict[str, float] = {node: float('inf') for node in self.graph}
+        distances[start] = 0  # Distance au point de départ est 0
+
+        # Prédecesseurs pour reconstruire le chemin
+        predecessors: Dict[str, str] = {node: None for node in self.graph}
+
+        # File de priorité pour traiter les noeuds
+        priority_queue: List[Tuple[float, str]] = [(0, start)]  # (distance, noeud)
+
+        while priority_queue:
+            current_distance, current_node = heapq.heappop(priority_queue)
+
+            # Si on arrive au noeud final, on peut arrêter plus tôt
+            if current_node == end:
+                break
+
+            # Si la distance actuelle est plus grande que celle déjà trouvée, on continue
+            if current_distance > distances[current_node]:
+                continue
+
+            # Vérifier les voisins du noeud courant
+            for neighbor, weight in self.graph[current_node].items():
+                distance = current_distance + weight
+
+                # Si une distance plus courte est trouvée
+                if distance < distances[neighbor]:
+                    distances[neighbor] = distance
+                    predecessors[neighbor] = current_node  # On enregistre le prédecesseur
+                    heapq.heappush(priority_queue, (distance, neighbor))
+
+        # Reconstruction du chemin de 'start' à 'end'
+        path = []
+        current_node = end
+        while current_node is not None:
+            path.insert(0, current_node)
+            current_node = predecessors[current_node]
+
+        # Si le chemin est vide ou n'atteint pas le noeud de fin, renvoyer None
+        if distances[end] == float('inf'):
+            return float('inf'), []
+
+        return  path,distances
+
     def RunAStar(self, start: str, goal: str, heuristic: Heuristic) -> Tuple[List[str], Dict[str, float]]:
         """
         Run A* algorithm to find the shortest path and the costs to each step.
