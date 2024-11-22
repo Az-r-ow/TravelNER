@@ -38,6 +38,7 @@ def get_tagged_content(sentence: str, tag: str) -> str | None:
 
 def process_sentence(
     sentence: str,
+    rm_stopwords: bool = False,
     stemming: bool = False,
     return_tokens: bool = False,
     labels_to_adapt: list[int | str] | None = None,
@@ -50,6 +51,7 @@ def process_sentence(
 
      Args:
        sentence (str): The sentence to process.
+       rm_stopwords (bool): Whether to remove stopwords.
        stemming (bool): Whether to stem the tokens.
        return_tokens (bool): Whether to return the tokens instead of the sentence.
        labels_to_adapt (list[int | str] | None): The labels to adapt.
@@ -68,7 +70,7 @@ def process_sentence(
 
     for token, label in zip(tokenized_sentence, labels_to_adapt):
         # Skipping stopwords
-        if token in stopwords:
+        if token in stopwords and rm_stopwords:
             continue
         token = token if not stemming else stemmer.stem(token)
         processed_sentence += token + " "
