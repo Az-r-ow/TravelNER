@@ -213,8 +213,10 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
 
     unique_labels = list(unique_labels)
 
-    # "O" has to be the first label
-    unique_labels = sorted(unique_labels, key=lambda x: (x != "O", x))
+    SORT_ORDER = {"O": 0, "LOC-DEP": 1, "LOC-ARR": 2}
+
+    # "O" (first) and "DEP" (if present has to be second)
+    unique_labels = sorted(unique_labels, key=lambda x: SORT_ORDER[x])
 
     # mapping labels to ids
     unique_labels = {label: i for i, label in enumerate(unique_labels)}
