@@ -13,3 +13,4 @@ hmmlearn # for hidden markov models
 ipykernel
 tabulate
 transformers
+sentencepiece
