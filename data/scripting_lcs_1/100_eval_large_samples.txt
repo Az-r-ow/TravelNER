@@ -1,94 +1,96 @@
-Je suis monté dans le bus à <Dep>MIGNALOUX-BEAUVOIR<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>FONTAINE-LE-PORT<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-J’ai quitté <Dep>GIVORS<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>TAIN-L'HERMITAGE<Arr> est toujours prévue pour cet après-midi. 
-Entre <Dep>WAVRIN<Dep> et <Arr>BELLENAVES<Arr>, le train traverse des paysages époustouflants. 
-Partir de <Dep>GEVREY-CHAMBERTIN<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>STRASBOURG<Arr> m’a donné le courage de reprendre la route. 
-Partir de <Dep>LA CABANASSE<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>LEPIN-LE-LAC<Arr> m’a donné le courage de reprendre la route. 
-Les premières étapes de mon voyage, de <Dep>AMIENS<Dep> à <Arr>SAINT-RAMBERT-D'ALBON<Arr>, ont été marquées par des retards imprévus. 
-En quittant <Dep>ROUSIES<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>BONDY<Arr>, je réalise à quel point ce voyage me change. 
-En quittant <Dep>VIAS<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>CAPVERN<Arr>, je réalise à quel point ce voyage me change. 
-Les premières étapes de mon voyage, de <Dep>NOUAN-LE-FUZELIER<Dep> à <Arr>ASNIERES-SUR-SEINE<Arr>, ont été marquées par des retards imprévus. 
-Après des mois de planification, mon trajet de <Dep>DELLE<Dep> à <Arr>SCHWEIGHOUSE-SUR-MODER<Arr> est enfin en cours.J’ai quitté <Dep>LIVRY-GARGAN<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>RULLY<Arr> est toujours prévue pour cet après-midi. 
-J’ai quitté <Dep>TOULON<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>LALINDE<Arr> est toujours prévue pour cet après-midi. 
-En quittant <Dep>ANGOULEME<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>MAURS<Arr>, je réalise à quel point ce voyage me change. 
-J’ai quitté <Dep>THEILLAY<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>VALERGUES<Arr> est toujours prévue pour cet après-midi. 
-Les premières étapes de mon voyage, de <Dep>LEPIN-LE-LAC<Dep> à <Arr>BOEN-SUR-LIGNON<Arr>, ont été marquées par des retards imprévus. 
-Le vol entre <Dep>HARFLEUR<Dep> et <Arr>AUBIET<Arr> a été annulé à la dernière minute.
-Je suis parti de <Dep>SAINT-HERVE<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>NOYANT-DE-TOURAINE<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-J’ai quitté <Dep>MITRY-MORY<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>SCHWEIGHOUSE-SUR-MODER<Arr> est toujours prévue pour cet après-midi. 
-J’ai quitté <Dep>VILLEPINTE<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>MAUBEUGE<Arr> est toujours prévue pour cet après-midi. 
-Je suis monté dans le bus à <Dep>PLOUHARNEL<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>TREMOLAT<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Lors de mon départ de <Dep>SAINT-JEAN-PLA-DE-CORTS<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>SAINT-DENIS<Arr>.
-Je suis monté dans le bus à <Dep>FONTENAY-LE-FLEURY<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>CHEILLY-LES-MARANGES<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Entre <Dep>MONTAUT<Dep> et <Arr>BAVAY<Arr>, le train traverse des paysages époustouflants. 
-En quittant <Dep>VITROLLES<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>MIRECOURT<Arr>, je réalise à quel point ce voyage me change. 
-Je suis parti de <Dep>REDING<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>VERNASSAL<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Entre <Dep>SAINT-SEBASTIEN-SUR-LOIRE<Dep> et <Arr>SAINT-GERMAIN-EN-LAYE<Arr>, le train traverse des paysages époustouflants. 
-Je suis monté dans le bus à <Dep>LA FOREST-LANDERNEAU<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>NEUILLE-PONT-PIERRE<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Je suis monté dans le bus à <Dep>SAINT-PRIEST<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>IMPHY<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Partir de <Dep>ECHIROLLES<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>TOURNAN-EN-BRIE<Arr> m’a donné le courage de reprendre la route. 
-Après des mois de planification, mon trajet de <Dep>GENNES-VAL-DE-LOIRE<Dep> à <Arr>SAINTE-COLOMBE<Arr> est enfin en cours.Je suis monté dans le bus à <Dep>DOUZILLAC<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>VILLEMOMBLE<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Entre <Dep>GUINGAMP<Dep> et <Arr>LE MEUX<Arr>, le train traverse des paysages époustouflants. 
-J’ai quitté <Dep>NANTES<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>RUELLE-SUR-TOUVRE<Arr> est toujours prévue pour cet après-midi. 
-Partir de <Dep>VERBERIE<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>SAULNES<Arr> m’a donné le courage de reprendre la route. 
-Je suis monté dans le bus à <Dep>MONT-NOTRE-DAME<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>LAGNIEU<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Lors de mon départ de <Dep>MOTTEVILLE<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>COARRAZE<Arr>.
-Les premières étapes de mon voyage, de <Dep>BESSAY-SUR-ALLIER<Dep> à <Arr>HAYANGE<Arr>, ont été marquées par des retards imprévus. 
-En quittant <Dep>BUSSIERE-GALANT<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>LES SABLES-D'OLONNE<Arr>, je réalise à quel point ce voyage me change. 
-Partir de <Dep>GUIPRY-MESSAC<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>BOURGS SUR COLAGNE<Arr> m’a donné le courage de reprendre la route. 
-Entre <Dep>PLOUARET<Dep> et <Arr>RUMILLY<Arr>, le train traverse des paysages époustouflants. 
-Je suis parti de <Dep>PITHIVIERS<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>BRIANCON<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Je suis parti de <Dep>VIAS<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>BLANZY<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Partir de <Dep>CHALINDREY<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>SAINT-JULIEN-PUY-LAVEZE<Arr> m’a donné le courage de reprendre la route. 
-Je suis monté dans le bus à <Dep>VARENNES-VAUZELLES<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>LIESLE<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Après des mois de planification, mon trajet de <Dep>CHATEAULIN<Dep> à <Arr>SAINT-VALERY-EN-CAUX<Arr> est enfin en cours.Je suis monté dans le bus à <Dep>LUCE<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>ALENCON<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Entre <Dep>BLANZY<Dep> et <Arr>PONT-DE-BUIS-LES-QUIMERCH<Arr>, le train traverse des paysages époustouflants. 
-J’ai quitté <Dep>VARILHES<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>SAINT-GERMAIN-EN-LAYE<Arr> est toujours prévue pour cet après-midi. 
-Après des mois de planification, mon trajet de <Dep>ANCY-DORNOT<Dep> à <Arr>ROCHE-LEZ-BEAUPRE<Arr> est enfin en cours.Le vol entre <Dep>CADAUJAC<Dep> et <Arr>VALLON-EN-SULLY<Arr> a été annulé à la dernière minute.
-Je suis parti de <Dep>EPERLECQUES<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>L'ISLE-SUR-LE-DOUBS<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Je suis parti de <Dep>SAINT-CERGUES<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>CHANTILLY<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Les premières étapes de mon voyage, de <Dep>ZOUFFTGEN<Dep> à <Arr>LIVERDUN<Arr>, ont été marquées par des retards imprévus. 
-J’ai quitté <Dep>ALENCON<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>LA GARDE<Arr> est toujours prévue pour cet après-midi. 
-Après des mois de planification, mon trajet de <Dep>VIVIEZ<Dep> à <Arr>SOMAIN<Arr> est enfin en cours.Entre <Dep>TONNERRE<Dep> et <Arr>MORRE<Arr>, le train traverse des paysages époustouflants. 
-Les premières étapes de mon voyage, de <Dep>UR<Dep> à <Arr>MONT-NOTRE-DAME<Arr>, ont été marquées par des retards imprévus. 
-Entre <Dep>GUILLON-TERRE-PLAINE<Dep> et <Arr>GRENAY<Arr>, le train traverse des paysages époustouflants. 
-Les premières étapes de mon voyage, de <Dep>LOISON-SOUS-LENS<Dep> à <Arr>AMIENS<Arr>, ont été marquées par des retards imprévus. 
-J’ai quitté <Dep>SEVRAN<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>LE VIGEN<Arr> est toujours prévue pour cet après-midi. 
-Les premières étapes de mon voyage, de <Dep>SAINT-ROME-DE-CERNON<Dep> à <Arr>ANCERVILLE<Arr>, ont été marquées par des retards imprévus. 
-En quittant <Dep>MARSAC-SUR-L'ISLE<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>NEUILLY-SUR-MARNE<Arr>, je réalise à quel point ce voyage me change. 
-Après des mois de planification, mon trajet de <Dep>VEUZAIN-SUR-LOIRE<Dep> à <Arr>GUIPRY-MESSAC<Arr> est enfin en cours.Je suis monté dans le bus à <Dep>CLELLES<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>SEURRE<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Les premières étapes de mon voyage, de <Dep>EPINAY-SUR-SEINE<Dep> à <Arr>EPFIG<Arr>, ont été marquées par des retards imprévus. 
-Partir de <Dep>SAINT-RAPHAEL<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>LAMOTHE-MONTRAVEL<Arr> m’a donné le courage de reprendre la route. 
-Entre <Dep>LA BASTIDE-PUYLAURENT<Dep> et <Arr>HAUT-MAUCO<Arr>, le train traverse des paysages époustouflants. 
-Le vol entre <Dep>AVRICOURT<Dep> et <Arr>LEVALLOIS-PERRET<Arr> a été annulé à la dernière minute.
-Entre <Dep>PALAISEAU<Dep> et <Arr>SAINT-GERMAIN-SUR-AVRE<Arr>, le train traverse des paysages époustouflants. 
-J’ai quitté <Dep>TACOIGNIERES<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>ROTHAU<Arr> est toujours prévue pour cet après-midi. 
-Le vol entre <Dep>LA MEILLERAIE-TILLAY<Dep> et <Arr>AUVERS-SUR-OISE<Arr> a été annulé à la dernière minute.
-Après des mois de planification, mon trajet de <Dep>LANGON<Dep> à <Arr>PARAY-LE-MONIAL<Arr> est enfin en cours.Partir de <Dep>BOUAYE<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>BRUMATH<Arr> m’a donné le courage de reprendre la route. 
-Le vol entre <Dep>BAGNAC-SUR-CELE<Dep> et <Arr>REAUMONT<Arr> a été annulé à la dernière minute.
-Lors de mon départ de <Dep>STRASBOURG<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>CARQUEFOU<Arr>.
-Les premières étapes de mon voyage, de <Dep>BLAISY-BAS<Dep> à <Arr>ENTRELACS<Arr>, ont été marquées par des retards imprévus. 
-Je suis monté dans le bus à <Dep>SAINT-THIBERY<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>EGUZON-CHANTOME<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Je suis parti de <Dep>MILLAU<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>HEMING<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Partir de <Dep>REVEL<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>HESDIGNEUL-LES-BOULOGNE<Arr> m’a donné le courage de reprendre la route. 
-Les premières étapes de mon voyage, de <Dep>AUVERS-SUR-OISE<Dep> à <Arr>SAINTE-COLOMBE-SUR-SEINE<Arr>, ont été marquées par des retards imprévus. 
-Entre <Dep>ALLAND'HUY-ET-SAUSSEUIL<Dep> et <Arr>FUVEAU<Arr>, le train traverse des paysages époustouflants. 
-Je suis parti de <Dep>NOMEXY<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>BALBIGNY<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Je suis monté dans le bus à <Dep>SAINT-VALERY-EN-CAUX<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>ANCERVILLE<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Je suis monté dans le bus à <Dep>SAINT-OUEN-L'AUMONE<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>BUSSAC-FORET<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Les premières étapes de mon voyage, de <Dep>VAL-DE-SCIE<Dep> à <Arr>TERGNIER<Arr>, ont été marquées par des retards imprévus. 
-Les premières étapes de mon voyage, de <Dep>TEMPLEUVE-EN-PEVELE<Dep> à <Arr>CASTELNAU-D'ESTRETEFONDS<Arr>, ont été marquées par des retards imprévus. 
-Je suis monté dans le bus à <Dep>SAINT-SAVINIEN<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>TERGNIER<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Lors de mon départ de <Dep>LABOISSIERE-EN-THELLE<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>PIERRELATTE<Arr>.
-Je suis monté dans le bus à <Dep>MESSEIN<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>MONTMAGNY<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
-Les premières étapes de mon voyage, de <Dep>CASSIS<Dep> à <Arr>GRANVILLE<Arr>, ont été marquées par des retards imprévus. 
-Le vol entre <Dep>BOURGES<Dep> et <Arr>THIONVILLE<Arr> a été annulé à la dernière minute.
-Partir de <Dep>FORBACH<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>THIERS<Arr> m’a donné le courage de reprendre la route. 
-Partir de <Dep>PARAY-LE-MONIAL<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>LE BOUSQUET-D'ORB<Arr> m’a donné le courage de reprendre la route. 
-Partir de <Dep>LA FERE<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>EICHHOFFEN<Arr> m’a donné le courage de reprendre la route. 
-Entre <Dep>CHARBONNIERES-LES-BAINS<Dep> et <Arr>MARCILLY-SUR-TILLE<Arr>, le train traverse des paysages époustouflants. 
-Je suis parti de <Dep>ARNOUVILLE<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>TREBES<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
-Entre <Dep>ANNECY<Dep> et <Arr>GRETZ-ARMAINVILLIERS<Arr>, le train traverse des paysages époustouflants. 
-Le vol entre <Dep>LA FERTE-IMBAULT<Dep> et <Arr>MERU<Arr> a été annulé à la dernière minute.
-J’ai quitté <Dep>SAINT-FARGEAU-PONTHIERRY<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>FOECY<Arr> est toujours prévue pour cet après-midi. 
-Entre <Dep>LOPERHET<Dep> et <Arr>LA TOUR-DE-SALVAGNY<Arr>, le train traverse des paysages époustouflants. 
-Je suis parti de <Dep>NOGENT-L'ARTAUD<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>PAYS DE BELVES<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+En quittant <Dep>Illzach<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Montcornet<Arr>, je réalise à quel point ce voyage me change. 
+Le vol entre <Dep>Collioure<Dep> et <Arr>Treon<Arr> a été annulé à la dernière minute.
+En quittant <Dep>Oullins<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Sees<Arr>, je réalise à quel point ce voyage me change. 
+Les premières étapes de mon voyage, de <Dep>Le Raincy<Dep> à <Arr>Leucate<Arr>, ont été marquées par des retards imprévus. 
+Partir de <Dep>Rivarennes<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Fuveau<Arr> m’a donné le courage de reprendre la route. 
+En quittant <Dep>Port-Vendres<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>La Possonniere<Arr>, je réalise à quel point ce voyage me change. 
+Entre <Dep>Gretz-Armainvilliers<Dep> et <Arr>Rieux<Arr>, le train traverse des paysages époustouflants. 
+Les premières étapes de mon voyage, de <Dep>Noiretable<Dep> à <Arr>Wavrin<Arr>, ont été marquées par des retards imprévus. 
+Je suis parti de <Dep>Colmar<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Sezanne<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Après des mois de planification, mon trajet de <Dep>Courcelles-Le-Comte<Dep> à <Arr>Fontainebleau<Arr> est enfin en cours.J’ai quitté <Dep>Vic-Le-Comte<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>Ciry-Le-Noble<Arr> est toujours prévue pour cet après-midi. 
+En quittant <Dep>Schiltigheim<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Mundolsheim<Arr>, je réalise à quel point ce voyage me change. 
+Lors de mon départ de <Dep>Chartrettes<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Saint-Saturnin-Les-Avignon<Arr>.
+Je suis monté dans le bus à <Dep>Ancy-Dornot<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Saint-Quentin-Fallavier<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+Partir de <Dep>Peyrehorade<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Combs-La-Ville<Arr> m’a donné le courage de reprendre la route. 
+Je suis parti de <Dep>Chenonceaux<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Saint-Jean-De-Maurienne<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Le vol entre <Dep>Lutterbach<Dep> et <Arr>Viroflay<Arr> a été annulé à la dernière minute.
+Lors de mon départ de <Dep>Puteaux<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Neau<Arr>.
+Le vol entre <Dep>Cherbourg-En-Cotentin<Dep> et <Arr>Saverne<Arr> a été annulé à la dernière minute.
+Les premières étapes de mon voyage, de <Dep>Nomexy<Dep> à <Arr>Buthiers<Arr>, ont été marquées par des retards imprévus. 
+En quittant <Dep>Cesson<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Chamonix-Mont-Blanc<Arr>, je réalise à quel point ce voyage me change. 
+Le vol entre <Dep>La Chapelle-Sur-Erdre<Dep> et <Arr>Felletin<Arr> a été annulé à la dernière minute.
+J’ai quitté <Dep>Culmont<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>Aimargues<Arr> est toujours prévue pour cet après-midi. 
+Le vol entre <Dep>Istres<Dep> et <Arr>Esvres<Arr> a été annulé à la dernière minute.
+En quittant <Dep>Vandieres<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Reding<Arr>, je réalise à quel point ce voyage me change. 
+Les premières étapes de mon voyage, de <Dep>Polienas<Dep> à <Arr>Clermont-Les-Fermes<Arr>, ont été marquées par des retards imprévus. 
+J’ai quitté <Dep>Chateau-Renault<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>Bonson<Arr> est toujours prévue pour cet après-midi. 
+Le vol entre <Dep>Cuinchy<Dep> et <Arr>Noizay<Arr> a été annulé à la dernière minute.
+Après des mois de planification, mon trajet de <Dep>Le Bourget<Dep> à <Arr>Chepy<Arr> est enfin en cours.Le vol entre <Dep>Mutzig<Dep> et <Arr>Tarascon<Arr> a été annulé à la dernière minute.
+Lors de mon départ de <Dep>Escalquens<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Sainte-Genevieve-Des-Bois<Arr>.
+En quittant <Dep>Chatillon-Sur-Seine<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Brumath<Arr>, je réalise à quel point ce voyage me change. 
+Partir de <Dep>Cousance<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Andresy<Arr> m’a donné le courage de reprendre la route. 
+Partir de <Dep>Le Lardin-Saint-Lazare<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Villetaneuse<Arr> m’a donné le courage de reprendre la route. 
+Entre <Dep>Marle<Dep> et <Arr>Blangy-Sur-Bresle<Arr>, le train traverse des paysages époustouflants. 
+Lors de mon départ de <Dep>Lingolsheim<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Chaumont<Arr>.
+Le vol entre <Dep>Saint-Sulpice-Et-Cameyrac<Dep> et <Arr>Cagnes-Sur-Mer<Arr> a été annulé à la dernière minute.
+Je suis parti de <Dep>Orchies<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Lamanon<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+J’ai quitté <Dep>Menars<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>Saint-Emilion<Arr> est toujours prévue pour cet après-midi. 
+Après des mois de planification, mon trajet de <Dep>Verdun<Dep> à <Arr>Creil<Arr> est enfin en cours.Entre <Dep>La Bathie<Dep> et <Arr>Nangis<Arr>, le train traverse des paysages époustouflants. 
+Entre <Dep>Epinal<Dep> et <Arr>Jaux<Arr>, le train traverse des paysages époustouflants. 
+Entre <Dep>Brazey-En-Plaine<Dep> et <Arr>Dommartin<Arr>, le train traverse des paysages époustouflants. 
+Les premières étapes de mon voyage, de <Dep>Berthecourt<Dep> à <Arr>Saint Bonnet-Laval<Arr>, ont été marquées par des retards imprévus. 
+En quittant <Dep>Cambo-Les-Bains<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Ingwiller<Arr>, je réalise à quel point ce voyage me change. 
+Entre <Dep>Cusset<Dep> et <Arr>Vernaison<Arr>, le train traverse des paysages époustouflants. 
+En quittant <Dep>Monistrol-D'Allier<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Lisle-Sur-Tarn<Arr>, je réalise à quel point ce voyage me change. 
+En quittant <Dep>Saint-Gratien<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Anould<Arr>, je réalise à quel point ce voyage me change. 
+Après des mois de planification, mon trajet de <Dep>Poligny<Dep> à <Arr>Ranspach<Arr> est enfin en cours.Je suis parti de <Dep>Saint-Usage<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Podensac<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Je suis parti de <Dep>Verneuil-L'Etang<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Bressuire<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Entre <Dep>Grisolles<Dep> et <Arr>Versailles<Arr>, le train traverse des paysages époustouflants. 
+En quittant <Dep>Durtol<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Champagney<Arr>, je réalise à quel point ce voyage me change. 
+Je suis monté dans le bus à <Dep>Serqueux<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Fronville<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+Lors de mon départ de <Dep>Saint-Etienne<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Fresnay-Sur-Sarthe<Arr>.
+Partir de <Dep>Villetaneuse<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Longueville<Arr> m’a donné le courage de reprendre la route. 
+J’ai quitté <Dep>Molsheim<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>Bas-En-Basset<Arr> est toujours prévue pour cet après-midi. 
+Les premières étapes de mon voyage, de <Dep>Tarare<Dep> à <Arr>L'Etang-La-Ville<Arr>, ont été marquées par des retards imprévus. 
+Les premières étapes de mon voyage, de <Dep>Saint-Cyr-Sur-Mer<Dep> à <Arr>Calais<Arr>, ont été marquées par des retards imprévus. 
+Lors de mon départ de <Dep>Anor<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Champigny<Arr>.
+Le vol entre <Dep>Capvern<Dep> et <Arr>Conchil-Le-Temple<Arr> a été annulé à la dernière minute.
+J’ai quitté <Dep>Chenevieres<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>Metzeral<Arr> est toujours prévue pour cet après-midi. 
+Je suis monté dans le bus à <Dep>Argenteuil<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Sommesous<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+Après des mois de planification, mon trajet de <Dep>Lezoux<Dep> à <Arr>Ingrandes-Le Fresne Sur Loire<Arr> est enfin en cours.Lors de mon départ de <Dep>Schiltigheim<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Livry-Sur-Seine<Arr>.
+Le vol entre <Dep>Charmes<Dep> et <Arr>Joinville<Arr> a été annulé à la dernière minute.
+Entre <Dep>Voivres-Les-Le-Mans<Dep> et <Arr>Lussac-Les-Chateaux<Arr>, le train traverse des paysages époustouflants. 
+Partir de <Dep>Gergy<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Migneres<Arr> m’a donné le courage de reprendre la route. 
+Je suis parti de <Dep>Wissous<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Metzervisse<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Je suis parti de <Dep>Saint-Denis-Catus<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Henin-Beaumont<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Entre <Dep>Plestan<Dep> et <Arr>Parent<Arr>, le train traverse des paysages époustouflants. 
+Le vol entre <Dep>Quiberon<Dep> et <Arr>Salzuit<Arr> a été annulé à la dernière minute.
+En quittant <Dep>Beynost<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Chasseneuil-Du-Poitou<Arr>, je réalise à quel point ce voyage me change. 
+Entre <Dep>La Chapelle-Saint-Mesmin<Dep> et <Arr>Beaulieu-Sur-Mer<Arr>, le train traverse des paysages époustouflants. 
+Partir de <Dep>L'Aigle<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Houdan<Arr> m’a donné le courage de reprendre la route. 
+Les premières étapes de mon voyage, de <Dep>Epinay-Sur-Seine<Dep> à <Arr>Miramas<Arr>, ont été marquées par des retards imprévus. 
+Je suis monté dans le bus à <Dep>Orgerus<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Montfort-Le-Gesnois<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+En quittant <Dep>Gaillac<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>La Ferte-Imbault<Arr>, je réalise à quel point ce voyage me change. 
+Le vol entre <Dep>Saint-Thibery<Dep> et <Arr>La Perche<Arr> a été annulé à la dernière minute.
+Partir de <Dep>Wambrechies<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Bar-Sur-Aube<Arr> m’a donné le courage de reprendre la route. 
+Les premières étapes de mon voyage, de <Dep>Tagolsheim<Dep> à <Arr>Coursan<Arr>, ont été marquées par des retards imprévus. 
+Je suis parti de <Dep>Labarthe-Inard<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Mezy-Moulins<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Je suis monté dans le bus à <Dep>Languenan<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Ayron<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+Partir de <Dep>Tenay<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Uzerche<Arr> m’a donné le courage de reprendre la route. 
+Je suis parti de <Dep>Beuvry<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Paris<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+J’ai quitté <Dep>Beautiran<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>La Chapelle-La-Reine<Arr> est toujours prévue pour cet après-midi. 
+Le vol entre <Dep>Marbache<Dep> et <Arr>Roinville<Arr> a été annulé à la dernière minute.
+Partir de <Dep>Bourg-En-Bresse<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>Gondrecourt-Le-Chateau<Arr> m’a donné le courage de reprendre la route. 
+Lors de mon départ de <Dep>Valenton<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Blanquefort<Arr>.
+Le vol entre <Dep>Lamothe-Montravel<Dep> et <Arr>Bedous<Arr> a été annulé à la dernière minute.
+Je suis monté dans le bus à <Dep>La Penne-Sur-Huveaune<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Thoiry<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+Je suis parti de <Dep>Vendeuvre<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Chabons<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+En quittant <Dep>Colombes<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Langres<Arr>, je réalise à quel point ce voyage me change. 
+Les premières étapes de mon voyage, de <Dep>Chaumont-En-Vexin<Dep> à <Arr>Vallauris<Arr>, ont été marquées par des retards imprévus. 
+Entre <Dep>Sallaumines<Dep> et <Arr>Valenciennes<Arr>, le train traverse des paysages époustouflants. 
+Je suis parti de <Dep>Ris-Orangis<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>Sorgues<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Le vol entre <Dep>Lavaur<Dep> et <Arr>Lamotte-Beuvron<Arr> a été annulé à la dernière minute.
+Les premières étapes de mon voyage, de <Dep>Chamonix-Mont-Blanc<Dep> à <Arr>Saint-Etienne<Arr>, ont été marquées par des retards imprévus. 
+Lors de mon départ de <Dep>Quemeneven<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>Lisieux<Arr>.
+Je suis monté dans le bus à <Dep>Bois-Colombes<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>Aubepierre-Ozouer-Le-Repos<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+En quittant <Dep>Bainville-Sur-Madon<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>Civrieux-D'Azergues<Arr>, je réalise à quel point ce voyage me change. 

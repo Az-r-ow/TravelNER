@@ -93,8 +93,10 @@ def generate_data(cities: List, file_out: str, nb_samples: int):
             if combination not in user_comb:
                 user_comb.add(combination)
                 line = random.choice(template_line)
-                new_line = line.replace("{depart}", departure_city)
-                new_line = new_line.replace("{arrivee}", arrival_city)
+                # .title() is used to capitalize the first letter of each word
+                # in the string, the purpose if it is to have a unified format
+                new_line = line.replace("{depart}", departure_city.title())
+                new_line = new_line.replace("{arrivee}", arrival_city.title())
                 try:
                     n_chars_written = f_sortie.write(new_line)
                     if n_chars_written != len(new_line):

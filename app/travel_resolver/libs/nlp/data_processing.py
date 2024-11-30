@@ -297,3 +297,41 @@ def encode_and_pad_sentence(sentence: str, vocab: dict, max_len: int) -> list[in
     return tf.keras.utils.pad_sequences(
         [encoded_sentence], maxlen=max_len, padding="post", value=0
     )[0]
+
+
+def process_sentences_and_labels(
+    sentences,
+    labels,
+    rm_stopwords: bool = False,
+    stemming: bool = True,
+    return_tokens: bool = False,
+):
+    """
+    Process the sentences and labels using the process_sentence function from the data_processing module.
+
+    Args:
+    sentences (list): List of sentences to process.
+    labels (list): List of labels to process.
+    rm_stopwords (bool): Whether to remove stopwords from the sentences.
+    stemming (bool): Whether to apply stemming to the sentences.
+    return_tokens (bool): Whether to return the tokens of the sentences.
+
+    Returns:
+    processed_sentences (list): List of processed sentences.
+    processed_labels (list): List of processed labels.
+    """
+    processed_sentences = []
+    processed_labels = []
+
+    for sentence, label in zip(sentences, labels):
+        sentence, label = process_sentence(
+            sentence,
+            labels_to_adapt=label,
+            rm_stopwords=rm_stopwords,
+            stemming=stemming,
+            return_tokens=return_tokens,
+        )
+        processed_sentences.append(sentence)
+        processed_labels.append(label)
+
+    return processed_sentences, processed_labels
