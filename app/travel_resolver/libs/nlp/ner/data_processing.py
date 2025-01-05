@@ -338,3 +338,44 @@ def process_sentences_and_labels(
         processed_labels.append(label)
 
     return processed_sentences, processed_labels
+
+
+def encode_and_pad_sentence(sentence: str, vocab: list[str], max_length: int = 100):
+    """
+    Encode a sentence into a list of integers
+
+    Parameters:
+    sentence (str): The sentence to encode
+    vocab (list): The vocabulary
+
+    Returns:
+    list: The list of integers
+    """
+    encoded_sentence = [
+        vocab.index(word) if word in vocab else vocab.index("<UNK>")
+        for word in sentence
+    ]
+
+    return tf.keras.utils.pad_sequences(
+        [encoded_sentence], maxlen=max_length, padding="post", value=0
+    )[0]
+
+
+def encode_and_pad_sentence_pos(
+    sentence_pos: str, pos_tags: list[str], max_length: int = 100
+):
+    """
+    Encode a sentence into a list of integers
+
+    Parameters:
+    sentence (str): The sentence to encode
+    pos_tags (list): The vocabulary
+
+    Returns:
+    list: The list of integers
+    """
+    encoded_sentence = [pos_tags.index(pos) for pos in sentence_pos]
+
+    return tf.keras.utils.pad_sequences(
+        [encoded_sentence], maxlen=max_length, padding="post", value=0
+    )[0]
