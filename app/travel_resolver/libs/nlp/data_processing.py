@@ -42,6 +42,7 @@ def process_sentence(
     stemming: bool = False,
     return_tokens: bool = False,
     labels_to_adapt: list[int | str] | None = None,
+    stopwords_to_keep: list[str] = [],
 ) -> str:
     """
     Given a sentence, apply some processing techniques to the sentence and return the processed sentence
@@ -70,7 +71,7 @@ def process_sentence(
 
     for token, label in zip(tokenized_sentence, labels_to_adapt):
         # Skipping stopwords
-        if token in stopwords and rm_stopwords:
+        if token in stopwords and rm_stopwords and token not in stopwords_to_keep:
             continue
         token = token if not stemming else stemmer.stem(token)
         processed_sentence += token + " "
@@ -305,6 +306,7 @@ def process_sentences_and_labels(
     rm_stopwords: bool = False,
     stemming: bool = True,
     return_tokens: bool = False,
+    stopwords_to_keep: list[str] = [],
 ):
     """
     Process the sentences and labels using the process_sentence function from the data_processing module.
@@ -330,6 +332,7 @@ def process_sentences_and_labels(
             rm_stopwords=rm_stopwords,
             stemming=stemming,
             return_tokens=return_tokens,
+            stopwords_to_keep=stopwords_to_keep,
         )
         processed_sentences.append(sentence)
         processed_labels.append(label)
