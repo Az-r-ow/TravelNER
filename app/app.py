@@ -2,14 +2,18 @@ import gradio as gr
 from transformers import pipeline
 import numpy as np
 import pandas as pd
+from travel_resolver.libs.nlp.ner.models import BiLSTM_NER, LSTM_NER, CamemBERT_NER
 import torch
-
+from travel_resolver.libs.nlp.ner.data_processing import process_sentence
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
+import os
 
 transcriber = pipeline(
-    "automatic-speech-recognition", model="openai/whisper-base.en", device="cpu"
+    "automatic-speech-recognition", model="openai/whisper-base", device="cpu"
 )
+
+models = {"LSTM": None, "BiLSTM": None, "CamemBERT": CamemBERT_NER()}
 
 
 def transcribe(audio):
@@ -34,7 +38,7 @@ def getCSVTravelGraph():
     Returns:
         (Graph): Graph
     """
-    graphData = CSVTravelGraph("./data/sncf/timetables.csv")
+    graphData = CSVTravelGraph("../data/sncf/timetables.csv")
     return Graph(graphData.data)
 
 
@@ -77,34 +81,61 @@ def getStationsByCityName(city: str):
     return stations
 
 
+def getDepartureAndArrivalFromText(text: str, model: str):
+    entities = models[model].get_entities(text)
+    tokenized_sentence = process_sentence(text, return_tokens=True)
+
+    dep_idx = entities.index(1)
+    arr_idx = entities.index(2)
+
+    return tokenized_sentence[dep_idx].upper(), tokenized_sentence[arr_idx].upper()
+
+
 def handle_audio(audio):
+
     promptAudio = transcribe(audio)
+
+    # todo : replace with the model selected by the user
+    dep, arr = getDepartureAndArrivalFromText(promptAudio, "CamemBERT")
+
     return (
         gr.update(visible=True),
         gr.update(visible=False),
         gr.update(value=promptAudio),
-        gr.update(value="PARIS"),
-        gr.update(value="MONTPELLIER"),
+        gr.update(value=dep),
+        gr.update(value=arr),
     )
 
 
 def handle_file(file):
+    loading_screen.update(visible=True)
+    dep = None
+    arr = None
     if file is not None:
         with open(file.name, "r") as f:
             file_content = f.read()
+            row = file_content.split("\n")
+            if len(row) > 1:
+                return
+            else:
+                dep, arr = getDepartureAndArrivalFromText(file_content, "CamemBERT")
     else:
         file_content = "Aucun fichier uploadé."
+
+    loading_screen.update(visible=False)
     return (
         gr.update(visible=True),
         gr.update(visible=False),
         gr.update(value=file_content),
-        gr.update(value="PARIS"),
-        gr.update(value="MONTPELLIER"),
+        gr.update(value=dep),
+        gr.update(value=arr),
     )
 
 
 def handle_back():
-    return gr.update(visible=False), gr.update(visible=True)
+    audio.clear()
+    file.clear()
+    return (gr.update(visible=False), gr.update(visible=True))
 
 
 def handleCityChange(city):
@@ -124,7 +155,6 @@ def handleStationChange(departureStation, destinationStation):
         AStarPathFormatted = "\n".join(
             [f"{i + 1}. {elem}" for i, elem in enumerate(AStarPath)]
         )
-        print(dijkstraPathFormatted)
         return (
             gr.update(value=dijkstraCost),
             gr.update(value=dijkstraPathFormatted, lines=len(dijkstraPath)),
@@ -139,7 +169,9 @@ def handleStationChange(departureStation, destinationStation):
     )
 
 
-with gr.Blocks(css="#back-button {width: fit-content}") as interface:
+with gr.Blocks(css="#back-button {width: fit-content}") as demo:
+    with gr.Row(visible=False) as loading_screen:
+        gr.Text("Chargement ...", elem_id="loading")
     with gr.Column() as promptChooser:
         with gr.Row():
             audio = gr.Audio(label="Fichier audio")
@@ -174,6 +206,7 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
             departureCity,
             destinationCity,
         ],  # On rend la section "content" visible
+        show_progress="full",
     )
     file.upload(
         handle_file,
@@ -185,6 +218,7 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
             departureCity,
             destinationCity,
         ],  # On rend la section "content" visible
+        show_progress="full",
     )
     backButton.click(handle_back, inputs=[], outputs=[content, promptChooser])
     departureCity.change(
@@ -203,4 +237,6 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
         inputs=[departureStation, destinationStation],
         outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
     )
-interface.launch()
+
+if __name__ == "__main__":
+    demo.launch()
