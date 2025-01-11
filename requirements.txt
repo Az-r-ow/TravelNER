@@ -14,7 +14,7 @@ ipykernel
 tabulate
 transformers
 sentencepiece
-stanza
+stanza==1.10.1
 pydot
 gradio
 torchaudio
