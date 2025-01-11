@@ -11,6 +11,8 @@ from .data_processing import (
 )
 from .metrics import masked_loss, masked_accuracy, entity_accuracy
 import stanza
+from .models_definitions.bilstm.architecture import BiLSTM
+from .models_definitions.lstm_with_pos.architecture import LSTM
 
 nlp = stanza.Pipeline("fr", processors="tokenize,pos")
 
@@ -37,18 +39,14 @@ class NERModel(ABC):
 
 class LSTM_NER(NERModel):
     def __init__(self):
-        self.model_path = os.path.join(
-            self.file_path, "models", "lstm_with_pos", "model.keras"
+        self.model_weights_path = os.path.join(
+            self.file_path,
+            "models_definitions",
+            "lstm_with_pos",
+            "lstm_with_pos.weights.h5",
         )
-        self.model = tf.keras.models.load_model(
-            self.model_path,
-            custom_objects={
-                "masked_loss": masked_loss,
-                "masked_accuracy": masked_accuracy,
-                "entity_accuracy": entity_accuracy,
-                "log_softmax_v2": tf.nn.log_softmax,
-            },
-        )
+        self.model = LSTM(self.vocab, 3, self.pos_tags)
+        self.model.load_from_weights(self.model_weights_path)
 
     def encode_sentence(self, sentence: str):
         processed_sentence = process_sentence(
@@ -75,18 +73,11 @@ class LSTM_NER(NERModel):
 
 class BiLSTM_NER(NERModel):
     def __init__(self):
-        self.model_path = os.path.join(
-            self.file_path, "models", "bilstm", "model.keras"
+        self.model_weights_path = os.path.join(
+            self.file_path, "models_definitions", "bilstm", "bilstm.weights.h5"
         )
-        self.model = tf.keras.models.load_model(
-            self.model_path,
-            custom_objects={
-                "masked_loss": masked_loss,
-                "masked_accuracy": masked_accuracy,
-                "entity_accuracy": entity_accuracy,
-                "log_softmax_v2": tf.nn.log_softmax,
-            },
-        )
+        self.model = BiLSTM(self.vocab, 3)
+        self.model.load_from_weights(self.model_weights_path)
 
     def encode_sentence(self, sentence: str):
         processed_sentence = process_sentence(
@@ -167,8 +158,6 @@ class CamemBERT_NER(NERModel):
                     if current_word is not None:
                         sentence_labels.append(word_label)
 
-                    print(i)
-                    print(token_idx)
                     # Reset for the new word
                     current_word = word_idx
                     word_label = predictions[i][token_idx]

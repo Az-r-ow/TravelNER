@@ -3,17 +3,107 @@ from transformers import pipeline
 import numpy as np
 import pandas as pd
 from travel_resolver.libs.nlp.ner.models import BiLSTM_NER, LSTM_NER, CamemBERT_NER
-import torch
+
+# import torch
 from travel_resolver.libs.nlp.ner.data_processing import process_sentence
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
-import os
+import time
 
 transcriber = pipeline(
     "automatic-speech-recognition", model="openai/whisper-base", device="cpu"
 )
 
-models = {"LSTM": None, "BiLSTM": None, "CamemBERT": CamemBERT_NER()}
+models = {"LSTM": LSTM_NER(), "BiLSTM": BiLSTM_NER(), "CamemBERT": CamemBERT_NER()}
+
+entities_label_mapping = {1: "LOC-DEP", 2: "LOC-ARR"}
+
+with gr.Blocks(css="#back-button {width: fit-content}") as demo:
+    with gr.Column() as promptChooser:
+        with gr.Row():
+            audio = gr.Audio(label="Fichier audio")
+            file = gr.File(
+                label="Fichier texte", file_types=["text"], file_count="single"
+            )
+
+        model = gr.Dropdown(
+            label="Modèle NER", choices=models.keys(), value="CamemBERT"
+        )
+
+    @gr.render(inputs=[audio, file, model], triggers=[model.change])
+    def handle_model_change(audio, file, model):
+        if audio:
+            render_tabs([transcribe(audio)], model, gr.Progress())
+        elif file:
+            with open(file.name, "r") as f:
+                sentences = f.read().split("\n")
+                render_tabs(sentences, model, gr.Progress())
+
+    @gr.render(inputs=[audio, model], triggers=[audio.change])
+    def handle_audio(audio, model, progress=gr.Progress()):
+        progress(0, "Analyzing audio...")
+        promptAudio = transcribe(audio)
+
+        time.sleep(1)
+
+        render_tabs([promptAudio], model, progress)
+
+    @gr.render(
+        inputs=[file, model],
+        triggers=[file.upload],
+    )
+    def handle_file(file, model, progress=gr.Progress()):
+        progress(0, desc="Analyzing file...")
+        time.sleep(1)
+        if file is not None:
+            with open(file.name, "r") as f:
+                progress(0.33, desc="Reading file...")
+                file_content = f.read()
+                rows = file_content.split("\n")
+                sentences = [row for row in rows if row]
+                render_tabs(sentences, model, progress)
+
+
+def handle_back():
+    audio.clear()
+    file.clear()
+    return (gr.update(visible=False), gr.update(visible=True))
+
+
+def handleCityChange(city):
+    stations = getStationsByCityName(city)
+    return gr.update(choices=stations, value=stations[0], interactive=True)
+
+
+def handleCityChange(city):
+    stations = getStationsByCityName(city)
+    return gr.update(choices=stations, value=stations[0], interactive=True)
+
+
+def formatPath(path):
+    return "\n".join([f"{i + 1}. {elem}" for i, elem in enumerate(path)])
+
+
+def handleStationChange(departureStation, destinationStation):
+    if departureStation and destinationStation:
+        dijkstraPath, dijkstraCost = getDijkstraResult(
+            departureStation, destinationStation
+        )
+        dijkstraPathFormatted = formatPath(dijkstraPath)
+        AStarPath, AStarCost = getAStarResult(departureStation, destinationStation)
+        AStarPathFormatted = formatPath(AStarPath)
+        return (
+            gr.update(value=dijkstraCost),
+            gr.update(value=dijkstraPathFormatted, lines=len(dijkstraPath)),
+            gr.update(value=AStarCost),
+            gr.update(value=AStarPathFormatted, lines=len(AStarPath)),
+        )
+    return (
+        gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.update(value=""),
+        gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.update(value=""),
+    )
 
 
 def transcribe(audio):
@@ -81,162 +171,151 @@ def getStationsByCityName(city: str):
     return stations
 
 
+def getEntitiesPositions(text, entity):
+    start_idx = text.find(entity)
+    end_idx = start_idx + len(entity)
+
+    return start_idx, end_idx
+
+
 def getDepartureAndArrivalFromText(text: str, model: str):
     entities = models[model].get_entities(text)
+    if not isinstance(entities, list):
+        entities = entities.tolist()
     tokenized_sentence = process_sentence(text, return_tokens=True)
 
-    dep_idx = entities.index(1)
-    arr_idx = entities.index(2)
-
-    return tokenized_sentence[dep_idx].upper(), tokenized_sentence[arr_idx].upper()
-
-
-def handle_audio(audio):
-
-    promptAudio = transcribe(audio)
-
-    # todo : replace with the model selected by the user
-    dep, arr = getDepartureAndArrivalFromText(promptAudio, "CamemBERT")
-
-    return (
-        gr.update(visible=True),
-        gr.update(visible=False),
-        gr.update(value=promptAudio),
-        gr.update(value=dep),
-        gr.update(value=arr),
-    )
-
-
-def handle_file(file):
-    loading_screen.update(visible=True)
     dep = None
     arr = None
-    if file is not None:
-        with open(file.name, "r") as f:
-            file_content = f.read()
-            row = file_content.split("\n")
-            if len(row) > 1:
-                return
-            else:
-                dep, arr = getDepartureAndArrivalFromText(file_content, "CamemBERT")
-    else:
-        file_content = "Aucun fichier uploadé."
 
-    loading_screen.update(visible=False)
-    return (
-        gr.update(visible=True),
-        gr.update(visible=False),
-        gr.update(value=file_content),
-        gr.update(value=dep),
-        gr.update(value=arr),
-    )
+    if 1 in entities:
+        dep_idx = entities.index(1)
+        dep = tokenized_sentence[dep_idx]
+        start, end = getEntitiesPositions(text, dep)
+        dep = {
+            "entity": entities_label_mapping[1],
+            "word": dep,
+            "start": start,
+            "end": end,
+        }
 
+    if 2 in entities:
+        arr_idx = entities.index(2)
+        arr = tokenized_sentence[arr_idx]
+        start, end = getEntitiesPositions(text, arr)
+        arr = {
+            "entity": entities_label_mapping[2],
+            "word": arr,
+            "start": start,
+            "end": end,
+        }
 
-def handle_back():
-    audio.clear()
-    file.clear()
-    return (gr.update(visible=False), gr.update(visible=True))
-
-
-def handleCityChange(city):
-    stations = getStationsByCityName(city)
-    return gr.update(choices=stations, value=stations[0], interactive=True)
+    return dep, arr
 
 
-def handleStationChange(departureStation, destinationStation):
-    if departureStation and destinationStation:
-        dijkstraPath, dijkstraCost = getDijkstraResult(
-            departureStation, destinationStation
-        )
-        dijkstraPathFormatted = "\n".join(
-            [f"{i + 1}. {elem}" for i, elem in enumerate(dijkstraPath)]
-        )
-        AStarPath, AStarCost = getAStarResult(departureStation, destinationStation)
-        AStarPathFormatted = "\n".join(
-            [f"{i + 1}. {elem}" for i, elem in enumerate(AStarPath)]
-        )
-        return (
-            gr.update(value=dijkstraCost),
-            gr.update(value=dijkstraPathFormatted, lines=len(dijkstraPath)),
-            gr.update(value=AStarCost),
-            gr.update(value=AStarPathFormatted, lines=len(AStarPath)),
-        )
-    return (
-        gr.HTML("<p>Aucun prompt renseigné</p>"),
-        gr.update(value=""),
-        gr.HTML("<p>Aucun prompt renseigné</p>"),
-        gr.update(value=""),
-    )
+def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
+    idx = 0
+    with gr.Tabs() as tabs:
+        for sentence in progress_bar.tqdm(sentences, desc="Processing sentences..."):
+            with gr.Tab(f"Sentence {idx}"):
+                dep, arr = getDepartureAndArrivalFromText(sentence, model)
+                entities = []
+                for entity in [dep, arr]:
+                    if entity:
+                        entities.append(entity)
 
+                # Format the classified entities
+                departureCityValue = dep["word"].upper() if dep else ""
+                arrivalCityValue = arr["word"].upper() if arr else ""
 
-with gr.Blocks(css="#back-button {width: fit-content}") as demo:
-    with gr.Row(visible=False) as loading_screen:
-        gr.Text("Chargement ...", elem_id="loading")
-    with gr.Column() as promptChooser:
-        with gr.Row():
-            audio = gr.Audio(label="Fichier audio")
-            file = gr.File(
-                label="Fichier texte", file_types=["text"], file_count="single"
-            )
-    with gr.Column(visible=False) as content:
-        backButton = gr.Button("← Back", elem_id="back-button")
-        with gr.Row():
-            with gr.Column(scale=1, min_width=300) as parameters:
-                prompt = gr.Textbox(label="Prompt")
-                departureCity = gr.Textbox(label="Ville de départ")
-                destinationCity = gr.Textbox(label="Ville de de destination")
-            with gr.Column(scale=2, min_width=300) as result:
+                # Get the available stations
+                departureStations = getStationsByCityName(departureCityValue)
+                departureStationValue = (
+                    departureStations[0] if departureStations else ""
+                )
+                arrivalStations = getStationsByCityName(arrivalCityValue)
+                arrivalStationValue = arrivalStations[0] if arrivalStations else ""
+
+                dijkstraPathValues = []
+                AStarPathValues = []
+                timeDijkstraValue = "<p>Aucun prompt renseigné</p>"
+                timeAStarValue = "<p>Aucun prompt renseigné</p>"
+
+                # Get the paths and time for the two algorithms
+                if departureStationValue and arrivalStationValue:
+                    dijkstraPathValues, timeDijkstraValue = getDijkstraResult(
+                        departureStationValue, arrivalStationValue
+                    )
+                    AStarPathValues, timeAStarValue = getAStarResult(
+                        departureStationValue, arrivalStationValue
+                    )
+
+                dijkstraPathFormatted = formatPath(dijkstraPathValues)
+                AStarPathFormatted = formatPath(AStarPathValues)
+
                 with gr.Row():
-                    departureStation = gr.Dropdown(label="Gare de départ")
-                    destinationStation = gr.Dropdown(label="Gare d'arrivée")
-                with gr.Tab("Dijkstra"):
-                    timeDijkstra = gr.HTML("<p>Aucun prompt renseigné</p>")
-                    dijkstraPath = gr.Textbox(label="Chemin emprunté")
+                    with gr.Column(scale=1, min_width=300):
+                        gr.HighlightedText(
+                            value={"text": sentence, "entities": entities}
+                        )
+                        departureCity = gr.Textbox(
+                            label="Ville de départ",
+                            value=departureCityValue,
+                        )
+                        arrivalCity = gr.Textbox(
+                            label="Ville d'arrivée",
+                            value=arrivalCityValue,
+                        )
+                    with gr.Column(scale=2, min_width=300):
+                        with gr.Row():
+                            departureStation = gr.Dropdown(
+                                label="Gare de départ",
+                                choices=departureStations,
+                                value=departureStationValue,
+                            )
+                            arrivalStation = gr.Dropdown(
+                                label="Gare d'arrivée",
+                                choices=arrivalStations,
+                                value=arrivalStationValue,
+                            )
+                        with gr.Tab("Dijkstra"):
+                            timeDijkstra = gr.HTML(value=timeDijkstraValue)
+                            dijkstraPath = gr.Textbox(
+                                label="Chemin emprunté",
+                                value=dijkstraPathFormatted,
+                                lines=len(dijkstraPathValues),
+                            )
 
-                with gr.Tab("AStar"):
-                    timeAStar = gr.HTML("<p>Aucun prompt renseigné</p>")
-                    AstarPath = gr.Textbox(label="Chemin emprunté")
-    audio.change(
-        handle_audio,
-        inputs=[audio],
-        outputs=[
-            content,
-            promptChooser,
-            prompt,
-            departureCity,
-            destinationCity,
-        ],  # On rend la section "content" visible
-        show_progress="full",
-    )
-    file.upload(
-        handle_file,
-        inputs=[file],
-        outputs=[
-            content,
-            promptChooser,
-            prompt,
-            departureCity,
-            destinationCity,
-        ],  # On rend la section "content" visible
-        show_progress="full",
-    )
-    backButton.click(handle_back, inputs=[], outputs=[content, promptChooser])
-    departureCity.change(
-        handleCityChange, inputs=[departureCity], outputs=[departureStation]
-    )
-    destinationCity.change(
-        handleCityChange, inputs=[destinationCity], outputs=[destinationStation]
-    )
-    departureStation.change(
-        handleStationChange,
-        inputs=[departureStation, destinationStation],
-        outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
-    )
-    destinationStation.change(
-        handleStationChange,
-        inputs=[departureStation, destinationStation],
-        outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
-    )
+                        with gr.Tab("AStar"):
+                            timeAStar = gr.HTML(value=timeAStarValue)
+                            AstarPath = gr.Textbox(
+                                label="Chemin emprunté",
+                                value=AStarPathFormatted,
+                                lines=len(AStarPathValues),
+                            )
+
+                        departureCity.change(
+                            handleCityChange,
+                            inputs=[departureCity],
+                            outputs=[departureStation],
+                        )
+                        arrivalCity.change(
+                            handleCityChange,
+                            inputs=[arrivalCity],
+                            outputs=[arrivalStation],
+                        )
+                        departureStation.change(
+                            handleStationChange,
+                            inputs=[departureStation, arrivalStation],
+                            outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
+                        )
+                        arrivalStation.change(
+                            handleStationChange,
+                            inputs=[departureStation, arrivalStation],
+                            outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
+                        )
+
+                    idx += 1
+
 
 if __name__ == "__main__":
     demo.launch()

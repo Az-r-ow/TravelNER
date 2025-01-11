@@ -167,15 +167,5 @@ cython_debug/
 # Remove test ouptuts
 output.*
 
-# Remove vscode settings
-.vscode
-
-# Remove macos ds store
 # Macos generated files 
-.DS_Store
-
-# Remove vscode settings
-.vscode
-
-# Remove macos ds store
 .DS_Store
