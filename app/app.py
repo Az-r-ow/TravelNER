@@ -3,8 +3,7 @@ from transformers import pipeline
 import numpy as np
 import pandas as pd
 from travel_resolver.libs.nlp.ner.models import BiLSTM_NER, LSTM_NER, CamemBERT_NER
-
-# import torch
+from .global_vars import entities_label_mapping, PROGRESS, HTML_COMPONENTS
 from travel_resolver.libs.nlp.ner.data_processing import process_sentence
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
@@ -16,9 +15,7 @@ transcriber = pipeline(
 
 models = {"LSTM": LSTM_NER(), "BiLSTM": BiLSTM_NER(), "CamemBERT": CamemBERT_NER()}
 
-entities_label_mapping = {1: "LOC-DEP", 2: "LOC-ARR"}
-
-with gr.Blocks(css="#back-button {width: fit-content}") as demo:
+with gr.Blocks() as demo:
     with gr.Column() as promptChooser:
         with gr.Row():
             audio = gr.Audio(label="Fichier audio")
@@ -41,7 +38,9 @@ with gr.Blocks(css="#back-button {width: fit-content}") as demo:
 
     @gr.render(inputs=[audio, model], triggers=[audio.change])
     def handle_audio(audio, model, progress=gr.Progress()):
-        progress(0, "Analyzing audio...")
+        progress(
+            0,
+        )
         promptAudio = transcribe(audio)
 
         time.sleep(1)
@@ -53,21 +52,15 @@ with gr.Blocks(css="#back-button {width: fit-content}") as demo:
         triggers=[file.upload],
     )
     def handle_file(file, model, progress=gr.Progress()):
-        progress(0, desc="Analyzing file...")
+        progress(0, desc=PROGRESS.ANALYZING_FILE.value)
         time.sleep(1)
         if file is not None:
             with open(file.name, "r") as f:
-                progress(0.33, desc="Reading file...")
+                progress(0.33, desc=PROGRESS.READING_FILE.value)
                 file_content = f.read()
                 rows = file_content.split("\n")
                 sentences = [row for row in rows if row]
                 render_tabs(sentences, model, progress)
-
-
-def handle_back():
-    audio.clear()
-    file.clear()
-    return (gr.update(visible=False), gr.update(visible=True))
 
 
 def handleCityChange(city):
@@ -99,9 +92,9 @@ def handleStationChange(departureStation, destinationStation):
             gr.update(value=AStarPathFormatted, lines=len(AStarPath)),
         )
     return (
-        gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.HTML(HTML_COMPONENTS.NO_PROMPT.value),
         gr.update(value=""),
-        gr.HTML("<p>Aucun prompt renseigné</p>"),
+        gr.HTML(HTML_COMPONENTS.NO_PROMPT.value),
         gr.update(value=""),
     )
 
@@ -215,7 +208,9 @@ def getDepartureAndArrivalFromText(text: str, model: str):
 def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
     idx = 0
     with gr.Tabs() as tabs:
-        for sentence in progress_bar.tqdm(sentences, desc="Processing sentences..."):
+        for sentence in progress_bar.tqdm(
+            sentences, desc=PROGRESS.PROCESSING_SENTENCES.value
+        ):
             with gr.Tab(f"Sentence {idx}"):
                 dep, arr = getDepartureAndArrivalFromText(sentence, model)
                 entities = []
@@ -237,8 +232,8 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
 
                 dijkstraPathValues = []
                 AStarPathValues = []
-                timeDijkstraValue = "<p>Aucun prompt renseigné</p>"
-                timeAStarValue = "<p>Aucun prompt renseigné</p>"
+                timeDijkstraValue = HTML_COMPONENTS.NO_PROMPT.value
+                timeAStarValue = HTML_COMPONENTS.NO_PROMPT.value
 
                 # Get the paths and time for the two algorithms
                 if departureStationValue and arrivalStationValue:
