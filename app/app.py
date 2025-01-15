@@ -3,7 +3,7 @@ from transformers import pipeline
 import numpy as np
 import pandas as pd
 from travel_resolver.libs.nlp.ner.models import BiLSTM_NER, LSTM_NER, CamemBERT_NER
-from .global_vars import entities_label_mapping, PROGRESS, HTML_COMPONENTS
+from helpers.global_vars import entities_label_mapping, PROGRESS, HTML_COMPONENTS
 from travel_resolver.libs.nlp.ner.data_processing import process_sentence
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
@@ -15,52 +15,66 @@ transcriber = pipeline(
 
 models = {"LSTM": LSTM_NER(), "BiLSTM": BiLSTM_NER(), "CamemBERT": CamemBERT_NER()}
 
+
+def handle_model_change(audio, file, model):
+    if audio:
+        render_tabs([transcribe(audio)], model, gr.Progress())
+    elif file:
+        with open(file.name, "r") as f:
+            sentences = f.read().split("\n")
+            return render_tabs(sentences, model, gr.Progress())
+
+
+def handle_audio(audio, model, progress=gr.Progress()):
+    progress(
+        0,
+    )
+    promptAudio = transcribe(audio)
+
+    time.sleep(1)
+
+    return render_tabs([promptAudio], model, progress)
+
+
+def handle_file(file, model, progress=gr.Progress()):
+    print("file upload")
+    progress(0, desc=PROGRESS.ANALYZING_FILE.value)
+    time.sleep(1)
+    if file is not None:
+        with open(file.name, "r") as f:
+            progress(0.33, desc=PROGRESS.READING_FILE.value)
+            file_content = f.read()
+            rows = file_content.split("\n")
+            sentences = [row for row in rows if row]
+            return render_tabs(sentences, model, progress)
+
+
+tabs_components = []
+
 with gr.Blocks() as demo:
-    with gr.Column() as promptChooser:
+    with gr.Column():
         with gr.Row():
-            audio = gr.Audio(label="Fichier audio")
+            audio = gr.Audio(label="Fichier audio", interactive=True)
             file = gr.File(
-                label="Fichier texte", file_types=["text"], file_count="single"
+                label="Fichier texte",
+                file_types=["text"],
+                file_count="single",
+                interactive=True,
             )
 
         model = gr.Dropdown(
-            label="Modèle NER", choices=models.keys(), value="CamemBERT"
+            label="Modèle NER",
+            choices=models.keys(),
+            value="CamemBERT",
+            interactive=True,
         )
 
-    @gr.render(inputs=[audio, file, model], triggers=[model.change])
-    def handle_model_change(audio, file, model):
-        if audio:
-            render_tabs([transcribe(audio)], model, gr.Progress())
-        elif file:
-            with open(file.name, "r") as f:
-                sentences = f.read().split("\n")
-                render_tabs(sentences, model, gr.Progress())
+        with gr.Column() as tabs:
+            pass
 
-    @gr.render(inputs=[audio, model], triggers=[audio.change])
-    def handle_audio(audio, model, progress=gr.Progress()):
-        progress(
-            0,
-        )
-        promptAudio = transcribe(audio)
-
-        time.sleep(1)
-
-        render_tabs([promptAudio], model, progress)
-
-    @gr.render(
-        inputs=[file, model],
-        triggers=[file.upload],
-    )
-    def handle_file(file, model, progress=gr.Progress()):
-        progress(0, desc=PROGRESS.ANALYZING_FILE.value)
-        time.sleep(1)
-        if file is not None:
-            with open(file.name, "r") as f:
-                progress(0.33, desc=PROGRESS.READING_FILE.value)
-                file_content = f.read()
-                rows = file_content.split("\n")
-                sentences = [row for row in rows if row]
-                render_tabs(sentences, model, progress)
+    audio.upload(handle_audio, inputs=[audio, model], outputs=[tabs])
+    file.upload(handle_file, inputs=[file, model], outputs=[tabs])
+    model.change(handle_model_change, inputs=[audio, file, model], outputs=[tabs])
 
 
 def handleCityChange(city):
@@ -207,10 +221,8 @@ def getDepartureAndArrivalFromText(text: str, model: str):
 
 def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
     idx = 0
-    with gr.Tabs() as tabs:
-        for sentence in progress_bar.tqdm(
-            sentences, desc=PROGRESS.PROCESSING_SENTENCES.value
-        ):
+    with gr.Column() as tabs:
+        for sentence in progress_bar.tqdm(sentences, desc=PROGRESS.PROCESSING.value):
             with gr.Tab(f"Sentence {idx}"):
                 dep, arr = getDepartureAndArrivalFromText(sentence, model)
                 entities = []
@@ -310,6 +322,7 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
                         )
 
                     idx += 1
+    return tabs
 
 
 if __name__ == "__main__":
