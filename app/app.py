@@ -8,6 +8,7 @@ from travel_resolver.libs.nlp.ner.data_processing import process_sentence
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
 import time
+import plotly.graph_objects as go
 
 transcriber = pipeline(
     "automatic-speech-recognition", model="openai/whisper-base", device="cpu"
@@ -16,20 +17,13 @@ transcriber = pipeline(
 models = {"LSTM": LSTM_NER(), "BiLSTM": BiLSTM_NER(), "CamemBERT": CamemBERT_NER()}
 
 
-def handle_model_change(audio, file, model):
-    if audio:
-        render_tabs([transcribe(audio)], model, gr.Progress())
-    elif file:
-        with open(file.name, "r") as f:
-            sentences = f.read().split("\n")
-            return render_tabs(sentences, model, gr.Progress())
-
-
 def handle_audio(audio, model, progress=gr.Progress()):
     progress(
         0,
     )
     promptAudio = transcribe(audio)
+
+    print(f"prompt : {promptAudio}")
 
     time.sleep(1)
 
@@ -69,26 +63,54 @@ with gr.Blocks() as demo:
             interactive=True,
         )
 
-        with gr.Column() as tabs:
-            pass
-
-    audio.upload(handle_audio, inputs=[audio, model], outputs=[tabs])
-    file.upload(handle_file, inputs=[file, model], outputs=[tabs])
-    model.change(handle_model_change, inputs=[audio, file, model], outputs=[tabs])
-
-
-def handleCityChange(city):
-    stations = getStationsByCityName(city)
-    return gr.update(choices=stations, value=stations[0], interactive=True)
+    @gr.render(
+        inputs=[audio, file, model], triggers=[audio.change, file.upload, model.change]
+    )
+    def handle_changes(audio, file, model):
+        if audio:
+            return handle_audio(audio, model)
+        elif file:
+            return handle_file(file, model)
 
 
 def handleCityChange(city):
     stations = getStationsByCityName(city)
-    return gr.update(choices=stations, value=stations[0], interactive=True)
+    return gr.update(
+        choices=[station["Nom de le gare"] for station in stations],
+        value=stations[0]["Nom de la gare"],
+        interactive=True,
+    )
 
 
 def formatPath(path):
     return "\n".join([f"{i + 1}. {elem}" for i, elem in enumerate(path)])
+
+
+def plotMap(stationsInformation: dict):
+    stationNames = stationsInformation["stations"] if len(stationsInformation) else []
+    stationsLat = stationsInformation["lat"] if len(stationsInformation) else []
+    stationsLon = stationsInformation["lon"] if len(stationsInformation) else []
+
+    plt = go.Figure(
+        go.Scattermapbox(
+            lat=stationsLat,
+            lon=stationsLon,
+            mode="markers+lines",
+            marker=go.scattermapbox.Marker(size=14),
+            text=stationNames,
+        )
+    )
+
+    plt.update_layout(
+        mapbox_style="open-street-map",
+        mapbox=dict(
+            center=go.layout.mapbox.Center(lat=stationsLat[0], lon=stationsLon[0]),
+            pitch=0,
+            zoom=3,
+        ),
+    )
+
+    return plt
 
 
 def handleStationChange(departureStation, destinationStation):
@@ -98,18 +120,21 @@ def handleStationChange(departureStation, destinationStation):
         )
         dijkstraPathFormatted = formatPath(dijkstraPath)
         AStarPath, AStarCost = getAStarResult(departureStation, destinationStation)
+        AStarStationsInformation = getStationsInformation(AStarPath)
         AStarPathFormatted = formatPath(AStarPath)
         return (
             gr.update(value=dijkstraCost),
             gr.update(value=dijkstraPathFormatted, lines=len(dijkstraPath)),
             gr.update(value=AStarCost),
             gr.update(value=AStarPathFormatted, lines=len(AStarPath)),
+            plotMap(AStarStationsInformation),
         )
     return (
         gr.HTML(HTML_COMPONENTS.NO_PROMPT.value),
         gr.update(value=""),
         gr.HTML(HTML_COMPONENTS.NO_PROMPT.value),
         gr.update(value=""),
+        gr.update(value=plotMap(AStarStationsInformation)),
     )
 
 
@@ -174,8 +199,24 @@ def getAStarResult(depart, destination):
 
 def getStationsByCityName(city: str):
     data = pd.read_csv("../data/sncf/gares_info.csv", sep=",")
-    stations = tuple(data[data["Commune"] == city]["Nom de la gare"])
-    return stations
+    stations = data[data["Commune"] == city]
+    return dict(
+        stations=stations["Nom de la gare"].to_list(),
+        lat=stations["Latitude"].to_list(),
+        lon=stations["Longitude"].to_list(),
+    )
+
+
+def getStationsInformation(stations: list[str]):
+    data = pd.read_csv("../data/sncf/gares_info.csv", sep=",")
+    data = data[data["Nom de la gare"].isin(stations)]
+    print(stations)
+    print(data)
+    return dict(
+        stations=data["Nom de la gare"].to_list(),
+        lat=data["Latitude"].to_list(),
+        lon=data["Longitude"].to_list(),
+    )
 
 
 def getEntitiesPositions(text, entity):
@@ -225,6 +266,7 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
         for sentence in progress_bar.tqdm(sentences, desc=PROGRESS.PROCESSING.value):
             with gr.Tab(f"Sentence {idx}"):
                 dep, arr = getDepartureAndArrivalFromText(sentence, model)
+                print(f"dep: {dep}, arr: {arr}")
                 entities = []
                 for entity in [dep, arr]:
                     if entity:
@@ -237,10 +279,16 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
                 # Get the available stations
                 departureStations = getStationsByCityName(departureCityValue)
                 departureStationValue = (
-                    departureStations[0] if departureStations else ""
+                    departureStations["stations"][0]
+                    if len(departureStations["stations"])
+                    else ""
                 )
                 arrivalStations = getStationsByCityName(arrivalCityValue)
-                arrivalStationValue = arrivalStations[0] if arrivalStations else ""
+                arrivalStationValue = (
+                    arrivalStations["stations"][0]
+                    if len(arrivalStations["stations"])
+                    else ""
+                )
 
                 dijkstraPathValues = []
                 AStarPathValues = []
@@ -255,6 +303,7 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
                     AStarPathValues, timeAStarValue = getAStarResult(
                         departureStationValue, arrivalStationValue
                     )
+                    AStarStationsInformation = getStationsInformation(AStarPathValues)
 
                 dijkstraPathFormatted = formatPath(dijkstraPathValues)
                 AStarPathFormatted = formatPath(AStarPathValues)
@@ -276,14 +325,19 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
                         with gr.Row():
                             departureStation = gr.Dropdown(
                                 label="Gare de départ",
-                                choices=departureStations,
+                                choices=departureStations["stations"],
                                 value=departureStationValue,
                             )
                             arrivalStation = gr.Dropdown(
                                 label="Gare d'arrivée",
-                                choices=arrivalStations,
+                                choices=arrivalStations["stations"],
                                 value=arrivalStationValue,
                             )
+
+                        plt = plotMap(AStarStationsInformation)
+
+                        map = gr.Plot(plt)
+
                         with gr.Tab("Dijkstra"):
                             timeDijkstra = gr.HTML(value=timeDijkstraValue)
                             dijkstraPath = gr.Textbox(
@@ -313,16 +367,27 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
                         departureStation.change(
                             handleStationChange,
                             inputs=[departureStation, arrivalStation],
-                            outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
+                            outputs=[
+                                timeDijkstra,
+                                dijkstraPath,
+                                timeAStar,
+                                AstarPath,
+                                map,
+                            ],
                         )
                         arrivalStation.change(
                             handleStationChange,
                             inputs=[departureStation, arrivalStation],
-                            outputs=[timeDijkstra, dijkstraPath, timeAStar, AstarPath],
+                            outputs=[
+                                timeDijkstra,
+                                dijkstraPath,
+                                timeAStar,
+                                AstarPath,
+                                map,
+                            ],
                         )
 
                     idx += 1
-    return tabs
 
 
 if __name__ == "__main__":
