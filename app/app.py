@@ -86,10 +86,10 @@ def formatPath(path):
     return "\n".join([f"{i + 1}. {elem}" for i, elem in enumerate(path)])
 
 
-def plotMap(stationsInformation: dict):
-    stationNames = stationsInformation["stations"] if len(stationsInformation) else []
-    stationsLat = stationsInformation["lat"] if len(stationsInformation) else []
-    stationsLon = stationsInformation["lon"] if len(stationsInformation) else []
+def plotMap(stationsInformation: dict = None):
+    stationNames = stationsInformation["stations"] if stationsInformation else []
+    stationsLat = stationsInformation["lat"] if stationsInformation else []
+    stationsLon = stationsInformation["lon"] if stationsInformation else []
 
     plt = go.Figure(
         go.Scattermapbox(
@@ -101,10 +101,17 @@ def plotMap(stationsInformation: dict):
         )
     )
 
+    # France's default coordinates
+    defaultLat = 46.227638
+    defaultLon = 2.213749
+
+    centerLat = stationsLat[0] if stationsLat else defaultLat
+    centerLon = stationsLon[0] if stationsLon else defaultLon
+
     plt.update_layout(
         mapbox_style="open-street-map",
         mapbox=dict(
-            center=go.layout.mapbox.Center(lat=stationsLat[0], lon=stationsLon[0]),
+            center=go.layout.mapbox.Center(lat=centerLat, lon=centerLon),
             pitch=0,
             zoom=3,
         ),
@@ -134,7 +141,7 @@ def handleStationChange(departureStation, destinationStation):
         gr.update(value=""),
         gr.HTML(HTML_COMPONENTS.NO_PROMPT.value),
         gr.update(value=""),
-        gr.update(value=plotMap(AStarStationsInformation)),
+        gr.update(visible=None),
     )
 
 
@@ -210,8 +217,6 @@ def getStationsByCityName(city: str):
 def getStationsInformation(stations: list[str]):
     data = pd.read_csv("../data/sncf/gares_info.csv", sep=",")
     data = data[data["Nom de la gare"].isin(stations)]
-    print(stations)
-    print(data)
     return dict(
         stations=data["Nom de la gare"].to_list(),
         lat=data["Latitude"].to_list(),
@@ -292,6 +297,7 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
 
                 dijkstraPathValues = []
                 AStarPathValues = []
+                AStarStationsInformation = None
                 timeDijkstraValue = HTML_COMPONENTS.NO_PROMPT.value
                 timeAStarValue = HTML_COMPONENTS.NO_PROMPT.value
 
@@ -327,16 +333,18 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
                                 label="Gare de départ",
                                 choices=departureStations["stations"],
                                 value=departureStationValue,
+                                allow_custom_value=True,
                             )
                             arrivalStation = gr.Dropdown(
                                 label="Gare d'arrivée",
                                 choices=arrivalStations["stations"],
                                 value=arrivalStationValue,
+                                allow_custom_value=True,
                             )
 
                         plt = plotMap(AStarStationsInformation)
 
-                        map = gr.Plot(plt)
+                        map = gr.Plot(plt, min_width=300)
 
                         with gr.Tab("Dijkstra"):
                             timeDijkstra = gr.HTML(value=timeDijkstraValue)
