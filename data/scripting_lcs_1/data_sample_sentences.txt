@@ -32,7 +32,6 @@ Je souhaite faire un voyage en train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr
 J'aimerais aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> pour une conférence.
 Je voudrais trouver un vol de <Arr>{arrivee}<Arr> à <Dep>{depart}<Dep> au meilleur prix.
 Je dois voyager de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> pour un travail.
-Je souhaite faire un voyage en train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> avec un arrêt à <Dep>{depart}<Dep>.
 J'aimerais trouver un billet de train pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
 Je voudrais prendre un vol direct de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> sans escale.
 Je dois trouver un moyen de transport pour aller de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> en utilisant les transports en commun.

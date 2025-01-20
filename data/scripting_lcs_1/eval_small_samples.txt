@@ -1,0 +1,20 @@
+Je veux partir de <Dep>{depart}<Dep> pour arriver à <Arr>{arrivee}<Arr> demain.
+Mon vol part de <Dep>{depart}<Dep> et arrivera à <Arr>{arrivee}<Arr>.
+Je recherche un train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Trouve-moi un billet pour un départ depuis <Dep>{depart}<Dep> jusqu’à <Arr>{arrivee}<Arr>.
+Le bus quitte <Dep>{depart}<Dep> et se dirige vers <Arr>{arrivee}<Arr>.
+Je voudrais réserver un vol de <Dep>{depart}<Dep> pour <Arr>{arrivee}<Arr>.
+Mon trajet commence à <Dep>{depart}<Dep> et se termine à <Arr>{arrivee}<Arr>.
+Un vol de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> m'intéresse.
+Quel est le prochain train de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> ?
+Je pars de <Dep>{depart}<Dep> pour aller à <Arr>{arrivee}<Arr>.
+Il me faudrait un billet de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.
+Mon itinéraire comprend un départ de <Dep>{depart}<Dep> pour <Arr>{arrivee}<Arr>.
+J'ai besoin d'un vol qui part de <Dep>{depart}<Dep> et arrive à <Arr>{arrivee}<Arr>.
+Prévoyez mon départ depuis <Dep>{depart}<Dep> jusqu'à <Arr>{arrivee}<Arr>.
+Je cherche un vol entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr>.
+Trouve un billet de train qui part de <Dep>{depart}<Dep> à destination de <Arr>{arrivee}<Arr>.
+Je dois aller de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr> la semaine prochaine.
+Le prochain bus va de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>.
+Un vol qui part de <Dep>{depart}<Dep> et arrive à <Arr>{arrivee}<Arr> serait parfait.
+Réservez un train de <Dep>{depart}<Dep> vers <Arr>{arrivee}<Arr>.

@@ -1,0 +1,10 @@
+J’ai quitté <Dep>{depart}<Dep> bien plus tard que prévu à cause d’un contretemps. Heureusement, mon arrivée à <Arr>{arrivee}<Arr> est toujours prévue pour cet après-midi. 
+Entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr>, le train traverse des paysages époustouflants. 
+Partir de <Dep>{depart}<Dep> n’a pas été une décision facile. Cette ville m’avait tant charmé ! Mais la promesse de ce qui m’attend à <Arr>{arrivee}<Arr> m’a donné le courage de reprendre la route. 
+Je suis monté dans le bus à <Dep>{depart}<Dep>, prêt pour un long trajet. Quelques heures plus tard, lorsque j’ai vu les premières lumières de <Arr>{arrivee}<Arr> scintiller à l’horizon, j’ai ressenti un mélange d’excitation et de soulagement.
+En quittant <Dep>{depart}<Dep>, je n’avais qu’une vague idée de ce qui m’attendait. Maintenant que je suis presque à <Arr>{arrivee}<Arr>, je réalise à quel point ce voyage me change. 
+Le vol entre <Dep>{depart}<Dep> et <Arr>{arrivee}<Arr> a été annulé à la dernière minute.
+Lors de mon départ de <Dep>{depart}<Dep>, j’ai croisé un voyageur qui, lui aussi, se rendait à <Arr>{arrivee}<Arr>.
+Les premières étapes de mon voyage, de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr>, ont été marquées par des retards imprévus. 
+Je suis parti de <Dep>{depart}<Dep> en pleine nuit pour éviter la circulation. Le lever de soleil sur la route vers <Arr>{arrivee}<Arr> était un spectacle à couper le souffle, et je n’ai pu m’empêcher de m’arrêter pour le contempler.
+Après des mois de planification, mon trajet de <Dep>{depart}<Dep> à <Arr>{arrivee}<Arr> est enfin en cours.

@@ -1,0 +1,996 @@
+Je souhaite faire un voyage en train de <Dep>AGDE<Dep> à <Arr>MATZENHEIM<Arr> avec un arrêt à <Dep>AGDE<Dep>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>CHATEAU-L'EVEQUE<Dep> à <Arr>FROMY<Arr>.
+Je voudrais savoir comment aller de <Dep>ROINVILLE<Dep> à <Arr>SALLES-COURBATIES<Arr> en utilisant les transports publics.
+J'aimerais faire un voyage de <Dep>BOVES<Dep> à <Arr>CORBEIL-ESSONNES<Arr> en utilisant un service de taxi.
+J'aimerais savoir comment aller de <Dep>L'ETANG-LA-VILLE<Dep> à <Arr>MONT-DORE<Arr> en voiture.
+Je voudrais prendre un vol direct de <Dep>SAINT-SOLVE<Dep> vers <Arr>ORCHIES<Arr> sans escale.
+Quels sont les meilleurs itinéraires pour aller à <Arr>MONTOIR-DE-BRETAGNE<Arr> depuis <Dep>GUILLERVAL<Dep> ?J'ai besoin de directions pour aller de <Dep>BANTZENHEIM<Dep> à <Arr>SORCY-SAINT-MARTIN<Arr>.
+Pouvez-vous me donner des informations sur un vol de <Dep>PARIS<Dep> à <Arr>PINON<Arr> ?
+Je cherche un vol direct de <Dep>VIEUX-THANN<Dep> vers <Arr>BARENTIN<Arr>.
+Comment puis-je me rendre à <Arr>AUBIGNE-RACAN<Arr> depuis <Dep>TANUS<Dep> ?
+Je cherche un moyen de me déplacer de <Dep>VERN-SUR-SEICHE<Dep> vers <Arr>AVRECHY<Arr>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>CHAINGY<Arr> en partant de <Dep>MENNESSIS<Dep> ?
+Je veux partir de <Dep>DURTOL<Dep> et arriver à <Arr>BRIANCON<Arr>.
+Je voudrais trouver un vol de <Dep>LES TROIS-DOMAINES<Dep> vers <Arr>TERRES-DE-HAUTE-CHARENTE<Arr> avec une compagnie aérienne de dirigeables.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>JARRIE<Dep> à <Arr>MONTBELIARD<Arr> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>PLOUHARNEL<Dep> vers <Arr>ANOR<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je voudrais trouver un vol de <Dep>CHALON-SUR-SAONE<Dep> vers <Arr>POLLIAT<Arr> avec une compagnie aérienne spécifique.
+Je voudrais savoir comment aller de <Dep>HETTANGE-GRANDE<Dep> à <Arr>ROUBAIX<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>ATTIGNY<Dep> vers <Arr>BALBIGNY<Arr> avec une compagnie aérienne privée.
+Quel est le meilleur moyen de se rendre à <Arr>CARRY-LE-ROUET<Arr> depuis <Dep>SAUBUSSE<Dep> ?
+Quelle est la distance entre <Dep>KNIGSMACKER<Dep> et <Arr>BRION-SUR-OURCE<Arr> ?
+Je souhaite faire un road trip de <Dep>CHECY<Dep> à <Arr>ALENCON<Arr>.
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>MAREUIL-SUR-OURCQ<Dep> à <Arr>MEZIN<Arr>.
+Je voudrais trouver un vol de <Dep>MEZIDON VALLEE D'AUGE<Dep> vers <Arr>RUMINGHEM<Arr> avec une compagnie aérienne internationale.
+Je voudrais prendre un bateau de <Dep>SAINT-PIERRE-QUIBERON<Dep> vers <Arr>ANGOULINS<Arr>.
+Je dois aller à <Arr>LE BOUSQUET-D'ORB<Arr> depuis <Dep>LA SOUTERRAINE<Dep>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>LONGUEVILLE-SUR-SCIE<Dep> à <Arr>BERNAY<Arr>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>MOULINS-SUR-YEVRE<Arr> en partant de <Dep>RACQUINGHEM<Dep> ?
+Veuillez me fournir un itinéraire pour me rendre de <Dep>MERENVIELLE<Dep> à <Arr>LOOS<Arr> en utilisant les transports en commun.
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>MONTATAIRE<Arr> en partant de <Dep>AUDUN-LE-ROMAN<Dep>.
+Je cherche un moyen de me déplacer de <Dep>MESVES-SUR-LOIRE<Dep> vers <Arr>BEAUVOISIN<Arr>.
+Je voudrais trouver un vol de <Dep>TOURNES<Dep> vers <Arr>HIRSON<Arr> avec une compagnie aérienne charter.
+Je pars de <Dep>HUNDLING<Dep> vers <Arr>LA ROCHE-SUR-FORON<Arr>.
+J'aimerais visiter <Arr>POMMEVIC<Arr> après avoir passé quelques jours à <Dep>CORBIE<Dep>.
+Veuillez me donner un itinéraire pour aller de <Dep>CAGNES-SUR-MER<Dep> à <Arr>BRASSAC-LES-MINES<Arr>.
+Je dois me rendre à <Arr>CAZERES<Arr> en partant de <Dep>JOUE-LES-TOURS<Dep>.
+Je dois trouver un moyen de transport pour aller de <Dep>BARR<Dep> à <Arr>ILLIERS-COMBRAY<Arr> en utilisant un service de transport en commun.
+J'ai besoin de directions pour aller de <Dep>PONT-SAINT-VINCENT<Dep> à <Arr>VITRY-SUR-SEINE<Arr>.
+Pouvez-vous me fournir un itinéraire de <Dep>AIX-LES-BAINS<Dep> à <Arr>FROUARD<Arr> ?
+J'ai besoin d'un itinéraire qui me permette d'aller de <Dep>OBERMODERN-ZUTZENDORF<Dep> à <Arr>MARTIGNY-LES-BAINS<Arr>.
+J'ai besoin de directions pour aller à <Arr>RIVES<Arr> depuis <Dep>PORT-SAINTE-MARIE<Dep>.
+Je voudrais savoir comment aller de <Dep>LOISON-SOUS-LENS<Dep> à <Arr>FONTANES<Arr> en utilisant les transports publics.
+Je voudrais trouver un vol de <Dep>CLERMONT-FERRAND<Dep> vers <Arr>CHERBOURG-EN-COTENTIN<Arr> avec une compagnie aérienne de sous-marins.
+Est-il possible de voyager de <Dep>SAINT-CYR-SUR-LOIRE<Dep> à <Arr>NEUVY-SUR-LOIRE<Arr> en voiture ?
+Je voudrais trouver un vol de <Dep>LILLE<Dep> vers <Arr>FLORANGE<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je cherche un billet d'avion pour aller de <Dep>GRESY-SUR-ISERE<Dep> vers <Arr>LUNEL<Arr>.
+Veuillez me donner un itinéraire pour me rendre à <Arr>SAINTE-COLOMBE<Arr> en partant de <Dep>SAINT-AMAND-LES-EAUX<Dep> en voiture.
+Je dois trouver un moyen de transport pour aller de <Dep>SAINT-BRICE-COURCELLES<Dep> à <Arr>HAGUENAU<Arr> en utilisant les transports en commun.
+Je voudrais prendre un vol direct de <Dep>SAINT-GILLES<Dep> vers <Arr>SAINT-DIZIER<Arr> sans escale.
+Je voudrais trouver un vol de <Dep>MULHOUSE<Dep> vers <Arr>PONTIVY<Arr> avec une compagnie aérienne régionale.
+Je voudrais trouver un vol de <Dep>LOIRE-AUTHION<Dep> vers <Arr>TILLIERES-SUR-AVRE<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je voudrais voyager de <Dep>SERMAISE<Dep> à <Arr>DIEMERINGEN<Arr>.
+Je cherche un itinéraire pour me rendre de <Dep>SAINT-JUERY<Dep> à <Arr>PORT-DE-BOUC<Arr> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>RULX<Dep> vers <Arr>YZEURE<Arr> avec une compagnie aérienne internationale.
+Je voudrais trouver un vol de <Arr>LUTZELBOURG<Arr> à <Dep>VITRY-LE-FRANCOIS<Dep> au meilleur prix.
+Quel est le meilleur moyen de se rendre à <Arr>MULHOUSE<Arr> depuis <Dep>RIVARENNES<Dep> ?
+Je cherche le meilleur itinéraire pour aller de <Dep>LES SABLES-D'OLONNE<Dep> à <Arr>VALMY<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>PORT-DE-BOUC<Dep> à <Arr>ETAMPES<Arr> en utilisant les transports en commun.
+Pouvez-vous me donner des informations sur un vol de <Dep>ASPRES-SUR-BUECH<Dep> à <Arr>FOS-SUR-MER<Arr> ?
+Comment rejoindre <Arr>LAMURE-SUR-AZERGUES<Arr> depuis <Dep>BLONVILLE-SUR-MER<Dep> en train ?
+Je voudrais trouver un vol de <Dep>MONTREUIL-SUR-ILLE<Dep> vers <Arr>MASSERAC<Arr> avec une compagnie aérienne à bas prix.
+Quel est l'itinéraire le plus direct pour aller de <Dep>MOIRANS<Dep> à <Arr>VILLENEUVE-SAINT-GEORGES<Arr> en utilisant les transports en commun ?
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>GUIMILIAU<Dep> vers <Arr>SAINT-VICTURNIEN<Arr>.
+Je dois me rendre à <Arr>CASTILLON-LA-BATAILLE<Arr> en partant de <Dep>TARASCON-SUR-ARIEGE<Dep>.
+Je souhaite faire un voyage en train de <Dep>LINGOLSHEIM<Dep> à <Arr>HAUTMONT<Arr> avec un arrêt à <Dep>LINGOLSHEIM<Dep>.
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>SAINTE-COLOMBE-SUR-SEINE<Dep> à <Arr>DOMENE<Arr>.
+Je voudrais trouver un vol de <Dep>CLISSON<Dep> vers <Arr>FRESNOY-LE-GRAND<Arr> avec une compagnie aérienne low-cost.
+Quel est le trajet le plus rapide pour aller de <Dep>MORHANGE<Dep> à <Arr>TARASCON<Arr> ?
+Je dois trouver un moyen de transport pour aller de <Dep>ROUEN<Dep> à <Arr>PLUNERET<Arr> en utilisant un service de transport privé.
+Quel est le trajet le plus rapide entre <Dep>GRANDE-SYNTHE<Dep> et <Arr>MONT LOZERE ET GOULET<Arr> ?
+Je veux voyager de <Dep>CHATEAU-CHINON (CAMPAGNE)<Dep> à <Arr>PLOUVARA<Arr> en passant par <Arr>PLOUVARA<Arr>.
+Comment puis-je me rendre de <Dep>BUZY<Dep> jusqu'à <Arr>SAINT-MARTIN-D'ARROSSA<Arr> ?
+Je voudrais trouver un vol de <Arr>MARQUETTE-LEZ-LILLE<Arr> à <Dep>ROUBAIX<Dep> au meilleur prix.
+Je voudrais trouver un vol de <Dep>LE BLANC-MESNIL<Dep> vers <Arr>CEYZERIAT<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je veux partir de <Dep>CONCARNEAU<Dep> et arriver à <Arr>AULNAY-SOUS-BOIS<Arr>.
+Quel est le trajet le plus rapide entre <Dep>SERRES<Dep> et <Arr>BOIGNEVILLE<Arr> ?
+Je recherche un itinéraire pour me rendre de <Dep>CASTELSARRASIN<Dep> vers <Arr>SAINT-JACQUES-DE-LA-LANDE<Arr>.
+Je voudrais trouver un vol de <Dep>LONGPRE-LES-CORPS-SAINTS<Dep> vers <Arr>ONNAING<Arr> avec une compagnie aérienne haut de gamme.
+Je voudrais trouver un vol de <Dep>LES HOUCHES<Dep> vers <Arr>SAINT-GRATIEN<Arr> avec une compagnie aérienne de sous-marins.
+Je dois prendre un vol de <Dep>MANDUEL<Dep> vers <Arr>GRIGNY<Arr> le mois prochain.
+Je souhaite prendre un taxi de <Dep>COLLIOURE<Dep> pour aller à <Arr>VENDEUVRE-SUR-BARSE<Arr>.
+Je voudrais trouver un vol de <Dep>GONFARON<Dep> vers <Arr>LUC-LA-PRIMAUBE<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je souhaiterais me rendre à <Arr>LE CREUSOT<Arr>, partant de <Dep>NANTES<Dep>.
+Je voudrais trouver un vol de <Arr>HONNECHY<Arr> à <Dep>CHARTRETTES<Dep> au meilleur prix.
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>VIENNE<Arr> en partant de <Dep>TOURS<Dep> ?
+Je voudrais trouver un vol de <Dep>MARCILLY-SUR-TILLE<Dep> vers <Arr>HERICY<Arr> avec une compagnie aérienne de fusées.
+Je voudrais trouver un vol de <Dep>LAMANON<Dep> vers <Arr>LAVAL<Arr> avec une compagnie aérienne militaire.
+Quels sont les meilleurs itinéraires pour aller à <Arr>XERTIGNY<Arr> depuis <Dep>ANNECY<Dep> ?
+Je voudrais trouver un vol de <Dep>AMIENS<Dep> vers <Arr>CALAIS<Arr> avec une compagnie aérienne de fret.
+Je dois trouver un moyen de transport pour aller de <Dep>LA PENNE-SUR-HUVEAUNE<Dep> à <Arr>SAINTE-LEOCADIE<Arr> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>VERNON<Dep> vers <Arr>SERQUIGNY<Arr> avec une compagnie aérienne internationale.
+Je cherche un itinéraire pour me rendre de <Dep>LUX<Dep> à <Arr>FOUDAY<Arr> en utilisant les transports en commun.
+J'aimerais faire un voyage de <Dep>DOUAI<Dep> à <Arr>LANDRY<Arr> en utilisant un service de taxi.
+Je voudrais trouver un vol de <Dep>BELLENAVES<Dep> vers <Arr>ERSTEIN<Arr> avec une compagnie aérienne à bas prix.
+Montre-moi la route pour aller de <Dep>PINON<Dep> à <Arr>MAUBOURGUET<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>WISCHES<Dep> à <Arr>PARIS<Arr> en utilisant un service de transport public.
+Je souhaite faire un voyage en train de <Dep>VAUXAILLON<Dep> à <Arr>SAINT-ERME-OUTRE-ET-RAMECOURT<Arr> le week-end prochain.
+Je voudrais trouver un vol de <Dep>MARSEILLE<Dep> vers <Arr>GIEN<Arr> avec une compagnie aérienne low-cost.
+Je voudrais trouver un vol de <Dep>WASQUEHAL<Dep> vers <Arr>CORBENAY<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Comment puis-je aller de <Dep>DUNKERQUE<Dep> vers <Arr>YFFINIAC<Arr> en transports en commun ?
+Je voudrais trouver un vol de <Dep>LAVILLETERTRE<Dep> vers <Arr>BROONS<Arr> avec une compagnie aérienne de fret.
+Je veux voyager de <Dep>KOGENHEIM<Dep> à <Arr>CERCY-LA-TOUR<Arr> en passant par <Arr>CERCY-LA-TOUR<Arr>.
+Donnez-moi un itinéraire pour aller de <Dep>LIANCOURT-SAINT-PIERRE<Dep> jusqu'à <Arr>VAULRY<Arr>.
+Je souhaite aller de <Dep>NAJAC<Dep> jusqu'à <Arr>MONT LOZERE ET GOULET<Arr>.
+Je voudrais trouver un vol de <Dep>MAUBEUGE<Dep> vers <Arr>LIMEYRAT<Arr> avec une compagnie aérienne de trains à vapeur.
+Je cherche un moyen de me déplacer de <Dep>BERTHELMING<Dep> vers <Arr>FIRMINY<Arr>.
+Y a-t-il un moyen de se rendre de <Dep>EPINAY-SUR-SEINE<Dep> vers <Arr>CAVIGNAC<Arr> ?
+Veuillez me fournir un itinéraire pour me rendre de <Dep>MARSEILLE<Dep> à <Arr>ARC-ET-SENANS<Arr> en voiture.
+Comment puis-je me rendre de <Dep>GAN<Dep> jusqu'à <Arr>MARNES-LA-COQUETTE<Arr> ?
+Je voudrais trouver un vol de <Dep>VANDIERES<Dep> vers <Arr>BONS-EN-CHABLAIS<Arr> avec une compagnie aérienne de trains à lévitation magnétique.
+Comment puis-je me rendre à <Arr>ERSTEIN<Arr> depuis <Dep>CHARMES<Dep> ?
+Je dois trouver un moyen de transport pour aller de <Dep>AYTRE<Dep> à <Arr>LONGUEIL-SAINTE-MARIE<Arr>.
+J'aimerais faire un voyage de <Dep>MARBACHE<Dep> à <Arr>LE DORAT<Arr> en utilisant un service de taxi.
+Je voudrais trouver un vol de <Dep>CHABANAIS<Dep> vers <Arr>SERQUEUX<Arr> avec une compagnie aérienne cargo.
+Comment puis-je me rendre à <Arr>DRUYE<Arr> depuis <Dep>VERSAILLES<Dep> ?
+Y a-t-il un train direct de <Arr>CANNES<Arr> vers <Dep>GRIGNY<Dep> ?
+Je dois me rendre à <Arr>MILLAU<Arr> depuis <Dep>PATAY<Dep> rapidement.
+Je voudrais trouver un vol de <Dep>AMPLEPUIS<Dep> vers <Arr>TOURNAN-EN-BRIE<Arr> avec une compagnie aérienne d'affaires.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>GORGES<Dep> vers <Arr>ERSTEIN<Arr>.
+Comment puis-je me rendre de <Dep>DEAUVILLE<Dep> jusqu'à <Arr>PROVINS<Arr> ?
+Je pars de <Dep>LUSSE<Dep> et je souhaite arriver à <Arr>ALBIGNY-SUR-SAONE<Arr>.
+Comment aller de <Dep>ANOR<Dep> à <Arr>SAINT-ANDRE-DE-L'EURE<Arr> ?
+J'ai besoin de directions pour me rendre à <Arr>RUFFEC<Arr> en partant de <Dep>CHAULNES<Dep>.
+Quel est l'itinéraire le plus court pour aller de <Dep>BRASSAC-LES-MINES<Dep> à <Arr>ROSCOFF<Arr> en voiture ?
+Je voudrais trouver un vol de <Dep>BOISSET<Dep> vers <Arr>MARSEILLE<Arr> avec une compagnie aérienne de drones.
+Montre-moi la route pour aller de <Dep>TOUL<Dep> à <Arr>ITEUIL<Arr>.
+Je recherche un itinéraire pour me rendre de <Dep>FRONVILLE<Dep> vers <Arr>BRION<Arr>.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>CHAMPAGNE-SUR-SEINE<Dep> à <Arr>DOMPIERRE-SUR-MER<Arr>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>MOLSHEIM<Dep> à <Arr>BREIL-SUR-ROYA<Arr>.
+Je voudrais trouver un vol de <Dep>METZ<Dep> vers <Arr>SAINT-PREST<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>SEPT-SAULX<Dep> à <Arr>ORRY-LA-VILLE<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>SAINT-AMAND-LES-EAUX<Dep> à <Arr>RULLY<Arr>.
+Je cherche un moyen de transport pour aller de <Arr>VOUZIERS<Arr> à <Dep>AUBRIVES<Dep> le plus rapidement possible.
+Je souhaiterais savoir comment aller de <Dep>FONTENAY-LE-COMTE<Dep> à <Arr>SARRANCE<Arr>.
+Je voudrais trouver un vol de <Dep>PUGET-VILLE<Dep> vers <Arr>AIRE-SUR-L'ADOUR<Arr> avec une compagnie aérienne de trains à voie normale.
+Je me rends à <Arr>BIARRITZ<Arr> et je pars de <Dep>TOULOUSE<Dep>.
+Je voudrais trouver un vol de <Arr>BEILLE<Arr> à <Dep>VERBERIE<Dep> au meilleur prix.
+Je voudrais trouver un vol de <Dep>MAISONS-ALFORT<Dep> vers <Arr>CHAMPAGNE<Arr> avec une compagnie aérienne d'affaires.
+Je voudrais trouver un vol de <Dep>DEVILLE<Dep> vers <Arr>ESPERAZA<Arr> avec une compagnie aérienne de sous-marins.
+Je souhaite me rendre à <Arr>GILLY-SUR-LOIRE<Arr> en partant de <Dep>BASSE-HAM<Dep>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>PONTRIEUX<Dep> à <Arr>CHABRIS<Arr>.
+Y a-t-il un train direct de <Arr>COMBS-LA-VILLE<Arr> vers <Dep>BELFORT<Dep> ?
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>LA CELLE-SAINT-AVANT<Dep> vers <Arr>SAINT-DENIS<Arr>.
+J'aimerais trouver un billet de train pour aller de <Dep>THESEE<Dep> à <Arr>SAINT-VALERY-EN-CAUX<Arr>.
+Je voudrais aller de <Dep>MAIZIERES-LES-METZ<Dep> à <Arr>HENIN-BEAUMONT<Arr> pour les vacances.
+Je voudrais trouver un vol de <Dep>DEAUVILLE<Dep> vers <Arr>VIAS<Arr> avec une compagnie aérienne privée.
+Je voudrais trouver un vol de <Dep>MARSEILLE-EN-BEAUVAISIS<Dep> vers <Arr>GIVORS<Arr> avec une compagnie aérienne de trains à voie normale.
+Y a-t-il un train direct de <Arr>CLERMONT-FERRAND<Arr> vers <Dep>LILLE<Dep> ?
+Je voudrais trouver un vol de <Dep>AIRE-SUR-LA-LYS<Dep> vers <Arr>APACH<Arr> avec une compagnie aérienne de trains à voie étroite.
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>SAINT-RAPHAEL<Dep> à <Arr>FERQUES<Arr>.
+Je pars de <Dep>VANVES<Dep> et je souhaite arriver à <Arr>GIROMAGNY<Arr>.
+Je souhaite faire un voyage de <Dep>SCHWEIGHOUSE-SUR-MODER<Dep> à <Arr>MATZENHEIM<Arr> pour un mariage.
+Comment puis-je aller de <Dep>ANTIBES<Dep> vers <Arr>TREMBLAY-EN-FRANCE<Arr> en transports en commun ?
+J'aimerais aller de <Dep>MAULE<Dep> à <Arr>CARPENTRAS<Arr> pour une conférence.
+Je voudrais réserver un hôtel à <Arr>CAMBLAIN-CHATELAIN<Arr> après avoir visité <Dep>CARMAUX<Dep>.
+J'aimerais faire un voyage de <Dep>AUMALE<Dep> à <Arr>TAMNAY-EN-BAZOIS<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>CHEMILLY-SUR-YONNE<Dep> à <Arr>SAVERDUN<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>CULOZ<Dep> à <Arr>CHERBOURG-EN-COTENTIN<Arr> en prenant le métro.
+Je voudrais trouver un vol de <Dep>GILLY-SUR-LOIRE<Dep> vers <Arr>OIRY<Arr> avec une compagnie aérienne de tourisme.
+Quelle est la meilleure route pour aller à <Arr>LAMOTTE-BEUVRON<Arr> en partant de <Dep>CREPY<Dep> ?
+Je veux voyager de <Dep>CLERMONT-LES-FERMES<Dep> à <Arr>CHILLY-MAZARIN<Arr> en passant par <Arr>CHILLY-MAZARIN<Arr>.
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>COLOMBES<Dep> à <Arr>AMBERIEU-EN-BUGEY<Arr>.
+Je voudrais savoir comment aller de <Dep>HAYANGE<Dep> à <Arr>VALENCE<Arr> en utilisant les transports publics.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>SAULON-LA-CHAPELLE<Arr> en partant de <Dep>ARLES<Dep> ?
+Quel est le meilleur moyen de se rendre à <Arr>CLERMONT-LES-FERMES<Arr> en partant de <Dep>NOIRETABLE<Dep> ?
+Je voudrais trouver un vol de <Dep>LA JARRIE<Dep> vers <Arr>BREUILLET<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je cherche des options de transport pour aller de <Dep>EBBLINGHEM<Dep> jusqu'à <Arr>PARIS<Arr>.
+Je voudrais aller de <Dep>VILLERS-BRETONNEUX<Dep> à <Arr>LAVEISSIERE<Arr> pour les vacances.
+J'aimerais visiter <Arr>HESDIN<Arr> après avoir passé quelques jours à <Dep>PARIS<Dep>.
+Je voudrais trouver un vol de <Dep>MONTBARD<Dep> vers <Arr>SAINT-MACAIRE<Arr> avec une compagnie aérienne d'hélicoptères.
+Je souhaite faire un road trip de <Dep>PONT-L'EVEQUE<Dep> à <Arr>REMILLY<Arr>.
+Un itinéraire allant de <Dep>SAINT-SEVER-DE-SAINTONGE<Dep> à <Arr>QUEMENEVEN<Arr> me serait très utile.
+Je dois trouver un moyen de transport pour aller de <Dep>MIGENNES<Dep> à <Arr>CRECY-LA-CHAPELLE<Arr> en utilisant un service de transport public.
+Je cherche le chemin de <Dep>TEMPLEUVE-EN-PEVELE<Dep> à <Arr>ODEREN<Arr>.
+Quel est l'itinéraire le plus court pour aller de <Dep>ANICHE<Dep> à <Arr>CAUREL<Arr> en voiture ?
+Je dois trouver un moyen de transport pour aller de <Dep>FRESNOY-LE-GRAND<Dep> à <Arr>LA CABANASSE<Arr> en utilisant un service de location de voitures.
+Comment puis-je aller de <Dep>PAGNY-SUR-MEUSE<Dep> vers <Arr>SCHWEIGHOUSE-SUR-MODER<Arr> en transports en commun ?
+Je voudrais trouver un vol de <Dep>BOISNE-LA TUDE<Dep> vers <Arr>VALLOIRE-SUR-CISSE<Arr> avec une compagnie aérienne régionale.
+J'aimerais faire un voyage de <Dep>DOMPIERRE-SUR-HELPE<Dep> à <Arr>CHARS<Arr> en prenant le métro.
+Je voudrais trouver un vol de <Dep>ROUEN<Dep> vers <Arr>COURCELLES-LE-COMTE<Arr> avec une compagnie aérienne de bateaux.
+Je cherche le meilleur itinéraire pour aller de <Dep>GOURDON<Dep> à <Arr>BUZET-SUR-TARN<Arr>.
+Je souhaiterais savoir comment aller de <Dep>FOSSES<Dep> à <Arr>PLOEMEL<Arr>.
+Je voudrais trouver un vol de <Dep>JONZAC<Dep> vers <Arr>ROUEN<Arr> avec une compagnie aérienne charter.
+J'aimerais aller de <Dep>SILLERY<Dep> à <Arr>LES EYZIES<Arr> pour une conférence.
+Je dois trouver un moyen de transport pour aller de <Dep>PESSAC<Dep> à <Arr>THENON<Arr> en utilisant un service de transport en commun.
+Je voudrais réserver un hôtel à <Arr>RETOURNAC<Arr> après avoir visité <Dep>REMILLY<Dep>.
+Je souhaite faire un voyage en train de <Arr>GONCELIN<Arr> à <Dep>SAINT-HILAIRE-AU-TEMPLE<Dep>.
+Je voudrais réserver un hôtel à <Arr>GOURDAN-POLIGNAN<Arr> après avoir visité <Dep>VINDRY-SUR-TURDINE<Dep>.
+Donnez-moi un itinéraire pour aller de <Dep>SAINT-MEDARD-D'EYRANS<Dep> jusqu'à <Arr>LE BLANC-MESNIL<Arr>.
+Je voudrais trouver un vol de <Dep>LUCE<Dep> vers <Arr>VALENCAY<Arr> avec une compagnie aérienne virtuelle.
+Quel est le trajet le plus rapide pour aller de <Dep>PERONNE<Dep> à <Arr>CHAMPAGNE<Arr> ?
+Y a-t-il des vols directs de <Dep>MENDE<Dep> à <Arr>BENESTROFF<Arr> ?
+Je voudrais me déplacer de <Dep>CHOISY-LE-ROI<Dep> à <Arr>VILLENEUVE-LA-GUYARD<Arr>.
+Je veux voyager de <Dep>PONT-REMY<Dep> à <Arr>BIFFONTAINE<Arr> en passant par <Arr>BIFFONTAINE<Arr>.
+Je voudrais trouver un vol de <Dep>MONTAUBAN-DE-BRETAGNE<Dep> vers <Arr>VILLENEUVE-LOUBET<Arr> avec une compagnie aérienne de téléportation.
+Je recherche un itinéraire pour aller à <Arr>LE VERDON-SUR-MER<Arr> depuis <Dep>RODEZ<Dep>.
+Je souhaite prendre un taxi de <Dep>PONT-DE-BUIS-LES-QUIMERCH<Dep> pour aller à <Arr>PEYRILLES<Arr>.
+J'aimerais trouver un billet de train pour aller de <Dep>LA BAULE-ESCOUBLAC<Dep> à <Arr>SALZUIT<Arr>.
+Est-il possible de prendre un bus de <Dep>PAVILLY<Dep> pour <Arr>CANNES<Arr> ?
+Je voudrais trouver un vol de <Dep>NARBONNE<Dep> vers <Arr>AIX-EN-PROVENCE<Arr> avec une compagnie aérienne haut de gamme.
+Je voudrais trouver un vol de <Dep>BOURG-SAINT-MAURICE<Dep> vers <Arr>ANOULD<Arr> avec une compagnie aérienne de tourisme.
+Je voudrais trouver un vol de <Dep>BOBIGNY<Dep> vers <Arr>COLOMBES<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Comment puis-je aller de <Dep>CHAMOUSSET<Dep> vers <Arr>NICE<Arr> en transports en commun ?
+Je voudrais trouver un vol de <Dep>VENDIN-LE-VIEIL<Dep> vers <Arr>BERNAY<Arr> avec une compagnie aérienne d'hélicoptères.
+Montre-moi la route pour aller de <Dep>DIE<Dep> à <Arr>BAZOCHES-ET-SAINT-THIBAUT<Arr>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>CHOCQUES<Arr> depuis <Dep>ASNIERES-SUR-SEINE<Dep> ?Comment me rendre de <Dep>CLERMONT-FERRAND<Dep> à <Arr>MARSEILLE<Arr> en utilisant les transports publics ?
+Je voudrais trouver un vol de <Dep>BLAISY-BAS<Dep> vers <Arr>DUAULT<Arr> avec une compagnie aérienne de téléportation.
+Je souhaite faire un voyage en train de <Dep>DOMBASLE-SUR-MEURTHE<Dep> à <Arr>MAIZIERES-LES-METZ<Arr> le week-end prochain.
+Comment puis-je me rendre de <Dep>AUBERGENVILLE<Dep> jusqu'à <Arr>TEMPLEMARS<Arr> ?
+Je voudrais aller de <Dep>AVRIGNY<Dep> à <Arr>BOIS-LE-ROI<Arr> pour les vacances.
+Je voudrais trouver un vol de <Dep>SAINT-AMAND-LONGPRE<Dep> vers <Arr>CHAVENON<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je voudrais trouver un vol de <Dep>RACQUINGHEM<Dep> vers <Arr>BASSE-HAM<Arr> avec une escale.
+Je voudrais trouver un vol de <Dep>LIGUGE<Dep> vers <Arr>REZE<Arr> avec une compagnie aérienne de drones.
+Je recherche un itinéraire pour aller à <Arr>BERRE-L'ETANG<Arr> depuis <Dep>PARIS<Dep>.
+Quel est l'itinéraire le plus direct pour aller de <Dep>BERRE-L'ETANG<Dep> à <Arr>MONTREUIL-SOUS-PEROUSE<Arr> en utilisant les transports en commun ?
+Je voudrais trouver un vol de <Dep>EVRY-COURCOURONNES<Dep> vers <Arr>SAINT-VINCENT<Arr> avec une compagnie aérienne spécifique.
+Je voudrais réserver un hôtel à <Arr>LANEUVEVILLE-DEVANT-NANCY<Arr> après avoir visité <Dep>MONTBRE<Dep>.
+J'aimerais visiter <Arr>BERGUES<Arr> après avoir passé quelques jours à <Dep>SCHWEIGHOUSE-SUR-MODER<Dep>.
+Je voudrais trouver un vol de <Dep>SAULON-LA-CHAPELLE<Dep> vers <Arr>LE VAL D'HAZEY<Arr> avec une compagnie aérienne de trains à voie normale.
+J'ai besoin de directions pour aller de <Dep>WILLER-SUR-THUR<Dep> à <Arr>SAINTE-GENEVIEVE-DES-BOIS<Arr>.
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>VITRY-LA-VILLE<Arr> en partant de <Dep>COMBOURG<Dep> ?
+Je souhaite faire un voyage en train de <Arr>PLANES<Arr> à <Dep>SAINTES<Dep>.
+J'ai besoin de directions pour aller à <Arr>ERMONT<Arr> depuis <Dep>HOMBOURG-BUDANGE<Dep> en utilisant les transports en commun.
+J'aimerais savoir comment aller de <Dep>MULHOUSE<Dep> à <Arr>LES SABLES-D'OLONNE<Arr> en voiture.
+Je dois prendre un vol de <Dep>VIC-SUR-CERE<Dep> vers <Arr>MONTFERRAND-LE-CHATEAU<Arr> le mois prochain.
+Je dois trouver un moyen de transport pour aller de <Dep>MORCENX-LA-NOUVELLE<Dep> à <Arr>ROSIERES-EN-SANTERRE<Arr> en utilisant un service de transport public.
+J'aimerais trouver un billet de train pour aller de <Dep>ALENCON<Dep> à <Arr>HERNY<Arr>.
+Je voudrais trouver un vol de <Dep>CREPY-EN-VALOIS<Dep> vers <Arr>SAINT-ANTOINE-DU-ROCHER<Arr> avec une compagnie aérienne de drones.
+Je dois trouver un moyen de transport pour aller de <Dep>NUITS<Dep> à <Arr>MONTBARTIER<Arr> en utilisant un service de transport public.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>MAXILLY-SUR-SAONE<Dep> à <Arr>PARENT<Arr>.
+Comment me rendre de <Dep>CULOZ<Dep> à <Arr>MAISONS-ALFORT<Arr> en utilisant les transports publics ?
+Je voudrais aller de <Dep>ARGENTON-SUR-CREUSE<Dep> à <Arr>VAIRES-SUR-MARNE<Arr> pour les vacances.
+J'aimerais visiter <Dep>PESEUX<Dep> et ensuite me rendre à <Arr>MONTBARREY<Arr>.
+Je veux voyager de <Dep>PRADES<Dep> vers <Arr>WALHEIM<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>CHAMBLY<Dep> à <Arr>MIGENNES<Arr> en voiture.
+Combien de temps dure le trajet en train de <Dep>CHOISY-LE-ROI<Dep> à <Arr>ROUILLE<Arr> ?
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>GUILLON-TERRE-PLAINE<Arr> en partant de <Dep>BITSCHWILLER-LES-THANN<Dep> ?
+Veuillez me fournir un itinéraire pour me rendre de <Dep>SAINTE-PAZANNE<Dep> à <Arr>LUNEVILLE<Arr> en voiture.
+J'aimerais visiter <Arr>MELUN<Arr> après avoir passé quelques jours à <Dep>CHATEAUROUX<Dep>.
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>ITXASSOU<Arr> en partant de <Dep>AUBIGNE-RACAN<Dep>.
+J'aimerais faire un voyage de <Dep>VAAS<Dep> à <Arr>VANNES<Arr> en voiture.
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>MONTIGNY-SUR-LOING<Arr> en partant de <Dep>NUITS-SAINT-GEORGES<Dep> ?
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>COLLONGES-ET-PREMIERES<Dep> à <Arr>MULHOUSE<Arr>.
+Je voudrais trouver un vol de <Dep>LISIEUX<Dep> vers <Arr>SAINT-LAURENT-EN-GRANDVAUX<Arr> avec une compagnie aérienne de voitures volantes.
+Je dois trouver un moyen de transport pour aller de <Dep>LA FERTE-BERNARD<Dep> à <Arr>SERDINYA<Arr> en utilisant un service de location de voitures.
+Je voudrais trouver un vol de <Dep>MONT-DE-MARSAN<Dep> vers <Arr>PREIGNAC<Arr> avec une compagnie aérienne virtuelle.
+Je souhaite aller de <Dep>CHARBONNIERES-LES-BAINS<Dep> jusqu'à <Arr>MITRY-MORY<Arr>.
+J'aimerais visiter <Dep>SAINT-BRIEUC<Dep> et ensuite me rendre à <Arr>VITRY-LA-VILLE<Arr>.
+J'ai besoin d'un itinéraire qui me permette d'aller de <Dep>CIVRAY<Dep> à <Arr>BESSINES-SUR-GARTEMPE<Arr>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>MARMANDE<Dep> à <Arr>SIMANDRE-SUR-SURAN<Arr>.
+J'aimerais savoir comment aller de <Dep>CERGY<Dep> à <Arr>BROONS<Arr> en voiture.
+Je cherche un itinéraire pour aller de <Dep>MARSEILLE<Dep> à <Arr>VERDUN<Arr> en utilisant les transports en commun.
+Quel est le trajet le plus court pour aller de <Dep>MIGNALOUX-BEAUVOIR<Dep> à <Arr>HIRSON<Arr> ?
+Je voudrais trouver un vol de <Dep>VANDIERES<Dep> vers <Arr>BORDEAUX<Arr> au meilleur prix possible.
+Je souhaite faire un voyage en train de <Arr>PARIS<Arr> à <Dep>VIVONNE<Dep>.
+J'aimerais aller de <Dep>BRUNOY<Dep> à <Arr>BRY-SUR-MARNE<Arr> pour une conférence.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>FROMY<Dep> à <Arr>JOUY-EN-JOSAS<Arr> en utilisant les transports en commun.
+Pouvez-vous me fournir un itinéraire de <Dep>LOZANNE<Dep> à <Arr>VANNES<Arr> ?
+Je voudrais trouver un vol de <Dep>BARJAC<Dep> vers <Arr>DIENVILLE<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je cherche un moyen de transport pour aller de <Arr>GRESY-SUR-AIX<Arr> à <Dep>EGLETONS<Dep> le plus rapidement possible.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>BAUVIN<Dep> à <Arr>CORBENAY<Arr>.
+Je cherche un itinéraire pour me rendre de <Dep>DONZERE<Dep> à <Arr>SAINT-AUBIN-DES-LANDES<Arr> en utilisant les transports en commun.
+Est-il possible de voyager de <Dep>ORRY-LA-VILLE<Dep> à <Arr>CHAMONIX-MONT-BLANC<Arr> en voiture ?
+Je voudrais trouver un vol de <Dep>SAINTE-GENEVIEVE-DES-BOIS<Dep> vers <Arr>WIMILLE<Arr> avec une compagnie aérienne de fret.
+Je voudrais trouver un vol de <Dep>BOURG-SAINT-MAURICE<Dep> vers <Arr>LA BONNEVILLE-SUR-ITON<Arr> avec une compagnie aérienne d'affaires.
+Je voudrais trouver un vol de <Dep>DARDILLY<Dep> vers <Arr>CARMAUX<Arr> avec une compagnie aérienne spécifique.
+J'ai besoin de directions pour aller à <Arr>BENFELD<Arr> depuis <Dep>LAGNIEU<Dep> en utilisant les transports en commun.
+Comment puis-je aller de <Dep>MOUGINS<Dep> à <Arr>LA CIOTAT<Arr> en voiture ?
+J'aimerais aller de <Dep>BEARD<Dep> jusqu'à <Arr>EVRY-COURCOURONNES<Arr>.
+Quel est l'itinéraire le plus direct pour aller de <Dep>ORTHEZ<Dep> à <Arr>BRESSUIRE<Arr> en utilisant les transports en commun ?
+Je voudrais trouver un vol de <Dep>MARBACHE<Dep> vers <Arr>ORANGE<Arr> avec une compagnie aérienne militaire.
+Je voudrais organiser un voyage de <Dep>NOYAL-SUR-VILAINE<Dep> à <Arr>REMILLY<Arr>.
+Je voudrais trouver un vol de <Dep>LANGUIDIC<Dep> vers <Arr>POUGNY<Arr> avec une compagnie aérienne d'hélicoptères.
+Je cherche le chemin de <Dep>ROUILLE<Dep> à <Arr>MALAUSE<Arr>.
+Je voudrais trouver un vol de <Dep>FOS-SUR-MER<Dep> vers <Arr>PARIS<Arr> avec une compagnie aérienne spécifique.
+Je voudrais trouver un vol de <Dep>SAINT-MARTORY<Dep> vers <Arr>AMBARES-ET-LAGRAVE<Arr> avec une compagnie aérienne de trains à vapeur.
+Quel est le trajet le plus rapide pour aller de <Dep>NOUES DE SIENNE<Dep> à <Arr>JEANDELIZE<Arr> ?
+Je voudrais me déplacer de <Dep>SAINT-REMY-DE-SILLE<Dep> à <Arr>AVENAY-VAL-D'OR<Arr>.
+Je voudrais trouver un vol de <Dep>ALBERT<Dep> vers <Arr>INGRANDES<Arr> avec une compagnie aérienne d'affaires.
+Je voudrais trouver un vol de <Dep>OBERMODERN-ZUTZENDORF<Dep> vers <Arr>TREON<Arr> avec une compagnie aérienne cargo.
+Je dois me rendre à <Arr>VALLORCINE<Arr> en partant de <Dep>PARTHENAY<Dep>.
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>COLLONGES-AU-MONT-D'OR<Dep> à <Arr>BANASSAC-CANILHAC<Arr>.
+Je voudrais voyager de <Dep>SAINT-LEGER-SUR-DHEUNE<Dep> à <Arr>BOLOZON<Arr>.
+J'ai besoin de directions pour me rendre à <Arr>CHAMONIX-MONT-BLANC<Arr> en partant de <Dep>SAINT-LEONARD-DE-NOBLAT<Dep>.
+Comment puis-je aller de <Dep>REICHSHOFFEN<Dep> vers <Arr>SARRE-UNION<Arr> en transports en commun ?
+Quel est le meilleur moyen de se rendre à <Arr>LE BOULOU<Arr> depuis <Dep>ORLEANS<Dep> ?
+J'aimerais visiter <Dep>CAUDIES-DE-FENOUILLEDES<Dep> et ensuite me rendre à <Arr>AVION<Arr>.
+Quelle est la distance entre <Dep>VILLEFRANCHE-DE-ROUERGUE<Dep> et <Arr>TOURNUS<Arr> ?
+Pouvez-vous me trouver un itinéraire pour un voyage de <Dep>PLANES<Dep> à <Arr>DORMANS<Arr> ?
+Quel est le trajet le plus court pour aller de <Dep>FOLLIGNY<Dep> à <Arr>LANDAUL<Arr> ?
+Je veux partir de <Dep>CHATILLON<Dep> et arriver à <Arr>CHAMPAGNE<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>WITTRING<Arr> depuis <Dep>PIERREVILLE<Dep> ?
+Je cherche un moyen de me déplacer de <Dep>ROUNTZENHEIM-AUENHEIM<Dep> vers <Arr>LES CABANNES<Arr>.
+Je voudrais trouver un vol de <Dep>FOUQUEREUIL<Dep> vers <Arr>LE DOUHET<Arr> avec une compagnie aérienne régionale.
+Je voudrais prendre un bateau de <Dep>EVREUX<Dep> vers <Arr>AUBERGENVILLE<Arr>.
+Je voudrais prendre un vol direct de <Dep>DAMELEVIERES<Dep> vers <Arr>ESLETTES<Arr> sans escale.
+Je voudrais savoir comment aller de <Dep>BIARS-SUR-CERE<Dep> à <Arr>LA GRANDE-PAROISSE<Arr> en utilisant les transports publics.
+Quel est le trajet le plus rapide pour aller de <Dep>BOURG-EN-BRESSE<Dep> à <Arr>PONT-L'EVEQUE<Arr> ?
+Veuillez me donner un itinéraire pour me rendre à <Arr>GORGES<Arr> en partant de <Dep>DELUZ<Dep> en voiture.
+Je souhaite faire un voyage en train de <Arr>CALAIS<Arr> à <Dep>THANN<Dep>.
+J'aimerais visiter <Arr>JUVISY-SUR-ORGE<Arr> après avoir passé quelques jours à <Dep>LE CLERJUS<Dep>.
+Je souhaite aller de <Dep>SIORAC-EN-PERIGORD<Dep> jusqu'à <Arr>LIZINES<Arr>.
+Je voudrais trouver un vol de <Dep>TURCKHEIM<Dep> vers <Arr>MARSEILLE<Arr> avec une compagnie aérienne de tourisme.
+Je voudrais trouver un vol de <Dep>REMY<Dep> vers <Arr>BITSCHWILLER-LES-THANN<Arr> avec une compagnie aérienne haut de gamme.
+Quel est le trajet le plus court pour aller de <Dep>THENON<Dep> à <Arr>MONTDIDIER<Arr> ?
+Je voudrais trouver un vol de <Dep>VIMY<Dep> vers <Arr>EXIDEUIL-SUR-VIENNE<Arr> avec une compagnie aérienne de bateaux.
+Je voudrais trouver un vol de <Dep>BACOUEL<Dep> vers <Arr>LA BAULE-ESCOUBLAC<Arr> avec une compagnie aérienne de voitures volantes.
+Pouvez-vous me donner des informations sur un vol de <Dep>SAINT-ROMAIN-LE-PUY<Dep> à <Arr>MARMAGNE<Arr> ?
+Je dois aller à <Arr>HYERES<Arr> depuis <Dep>SAINCAIZE-MEAUCE<Dep>.
+Je me rends à <Arr>OBERMODERN-ZUTZENDORF<Arr> et je pars de <Dep>AUBIGNY-EN-ARTOIS<Dep>.
+Je souhaite me rendre à <Arr>BUGEAT<Arr> en partant de <Dep>SAINT-ANDRE-LE-GAZ<Dep>.
+Je voudrais trouver un vol de <Dep>LA CHAIZE-LE-VICOMTE<Dep> vers <Arr>LONGJUMEAU<Arr> avec une compagnie aérienne d'hélicoptères.
+Est-ce loin d'aller de <Dep>BOUFFEMONT<Dep> à <Arr>SAINT-CLOUD<Arr> ?
+Je voudrais trouver un vol de <Dep>NEUILLE-PONT-PIERRE<Dep> vers <Arr>LE MANS<Arr> avec une compagnie aérienne de ballons à air chaud.
+J'aimerais aller de <Dep>ESBLY<Dep> jusqu'à <Arr>WILLER-SUR-THUR<Arr>.
+Quel est le trajet le plus rapide pour aller de <Dep>LOOS<Dep> à <Arr>LES ORMES<Arr> ?
+Je voudrais trouver un vol de <Dep>MEROUX-MOVAL<Dep> vers <Arr>SAINT-MALO<Arr> avec une compagnie aérienne spécifique.
+Je voudrais trouver un vol de <Dep>RIVE-DE-GIER<Dep> vers <Arr>BRASSAC-LES-MINES<Arr> avec une compagnie aérienne haut de gamme.
+Je dois prendre un vol de <Dep>CERGY<Dep> vers <Arr>ROZIERES-SUR-MOUZON<Arr> le mois prochain.
+Je voudrais réserver un hôtel à <Arr>PURE<Arr> après avoir visité <Dep>LABEGE<Dep>.
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>ROUBAIX<Arr> en partant de <Dep>HEILLES<Dep>.
+Je voudrais trouver un vol de <Dep>SARREBOURG<Dep> vers <Arr>VILLEFRANCHE-SUR-MER<Arr> avec une compagnie aérienne de drones.
+Je voudrais trouver un vol de <Dep>TARASCON<Dep> vers <Arr>SAINT-USAGE<Arr> avec une compagnie aérienne de bateaux.
+Comment puis-je me rendre à <Arr>ISTRES<Arr> depuis <Dep>GARCHIZY<Dep> ?
+Je voudrais trouver un vol de <Arr>LORIENT<Arr> à <Dep>LA HAIE-FOUASSIERE<Dep> au meilleur prix.
+Un itinéraire allant de <Dep>MARTIGUES<Dep> à <Arr>DENAIN<Arr> me serait très utile.
+Je pars de <Dep>TOURNAN-EN-BRIE<Dep> et je souhaite arriver à <Arr>ISSY-LES-MOULINEAUX<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>LACAPELLE-VIESCAMP<Dep> à <Arr>BELFORT<Arr> en utilisant les transports en commun.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>VILLENEUVE-D'ASCQ<Dep> à <Arr>EPINAY-SUR-SEINE<Arr> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>BASSE-HAM<Dep> vers <Arr>PAVILLY<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je pars de <Dep>CUINCHY<Dep> et je souhaite arriver à <Arr>HEMING<Arr>.
+Je souhaiterais savoir comment aller de <Dep>RENNES<Dep> à <Arr>MISEREY-SALINES<Arr>.
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>VAULRY<Dep> à <Arr>BREST<Arr>.
+Je veux aller de <Arr>SAINT-SEBASTIEN<Arr> à <Dep>CYSOING<Dep>.
+Veuillez me donner un itinéraire pour aller de <Dep>VIGNEUX-SUR-SEINE<Dep> à <Arr>ARQUES<Arr>.
+Je voudrais trouver un vol de <Arr>SAINT-ROMAIN-DE-POPEY<Arr> à <Dep>DIE<Dep> au meilleur prix.
+Je souhaite faire un road trip de <Dep>LIMOGES<Dep> à <Arr>HAGUENAU<Arr>.
+Je recherche un itinéraire pour aller à <Arr>LA CABANASSE<Arr> depuis <Dep>LILLE<Dep>.
+Pouvez-vous me fournir un itinéraire de <Dep>METZ<Dep> à <Arr>MOUZON<Arr> ?
+Je voudrais trouver un vol de <Dep>SAINTE-COLOMBE-SUR-SEINE<Dep> vers <Arr>SAINT-ROMAIN-EN-GAL<Arr> au meilleur prix possible.
+Je cherche un moyen de transport pour aller de <Arr>ERSTEIN<Arr> à <Dep>LA FERTE-SOUS-JOUARRE<Dep> le plus rapidement possible.
+Je voudrais trouver un vol de <Dep>SALINDRES<Dep> vers <Arr>BEAUVOISIN<Arr> avec une compagnie aérienne de trains à lévitation magnétique.
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>SAINT-HILAIRE-DE-VILLEFRANCHE<Dep> à <Arr>ODEREN<Arr>.
+Pouvez-vous me donner des informations sur un vol de <Dep>ETAIN<Dep> à <Arr>ROYE<Arr> ?
+Je voudrais trouver un vol de <Dep>GAILLAC<Dep> vers <Arr>REZE<Arr> avec une compagnie aérienne de voitures volantes.
+Je souhaite faire un voyage en train de <Dep>BAS-EN-BASSET<Dep> à <Arr>BOURNEZEAU<Arr> le week-end prochain.
+Y a-t-il des vols directs de <Dep>BOISNE-LA TUDE<Dep> à <Arr>POISSY<Arr> ?
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>ABBEVILLE<Dep> à <Arr>GAILLAC<Arr>.
+Un itinéraire de <Dep>PONT-DU-CASSE<Dep> à <Arr>ALLASSAC<Arr> me serait utile.
+Je voudrais trouver un vol de <Dep>INGWILLER<Dep> vers <Arr>LE GRAND-QUEVILLY<Arr> avec une compagnie aérienne de trains à vapeur.
+Pouvez-vous me donner des informations sur un vol de <Dep>WALHEIM<Dep> à <Arr>LANDRY<Arr> ?
+Y a-t-il des vols directs de <Dep>NOIRETABLE<Dep> à <Arr>BELLENAVES<Arr> ?
+Je voudrais savoir comment aller de <Dep>BERGUES<Dep> à <Arr>ELNE<Arr> en utilisant les transports publics.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>SCHILTIGHEIM<Dep> à <Arr>LIBERCOURT<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>LA CRAU<Dep> à <Arr>VAL-DE-VESLE<Arr> en utilisant un service de transport en commun.
+J'aimerais savoir comment aller de <Dep>STRASBOURG<Dep> à <Arr>CHATILLON-SUR-SEINE<Arr> en voiture.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>BELLIGNAT<Arr> en partant de <Dep>SCHILTIGHEIM<Dep> ?
+Donne-moi un itinéraire de <Dep>MASSY<Dep> jusqu'à <Arr>LISIEUX<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>ANDELOT-EN-MONTAGNE<Dep> à <Arr>CAZERES<Arr> en utilisant un service de transport privé.
+Je souhaiterais me rendre à <Arr>VAAS<Arr>, partant de <Dep>LOOS<Dep>.
+J'ai besoin de directions pour aller de <Dep>SEPT-SAULX<Dep> à <Arr>DRUSENHEIM<Arr>.
+J'aimerais faire un voyage de <Dep>SAINT-JULIEN-SUR-DHEUNE<Dep> à <Arr>SERQUEUX<Arr> en utilisant un service de transport en commun.
+Je voudrais trouver un vol de <Dep>PARSAC-RIMONDEIX<Dep> vers <Arr>COGNAC<Arr> avec une compagnie aérienne gouvernementale.
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>ABANCOURT<Arr> en partant de <Dep>BLANQUEFORT<Dep> ?
+Je cherche un moyen de transport pour aller de <Arr>CHEVRY<Arr> à <Dep>ELOYES<Dep> le plus rapidement possible.
+Quel est le trajet le plus court pour aller de <Dep>BEUZEVILLE<Dep> à <Arr>JOINVILLE<Arr> ?
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>MARLE<Dep> à <Arr>SAINT-LAURENT-DU-VAR<Arr>.
+Je veux voyager de <Dep>DOMENE<Dep> à <Arr>ARENGOSSE<Arr> en passant par <Arr>ARENGOSSE<Arr>.
+J'ai besoin de directions pour aller de <Dep>BRETIGNY<Dep> à <Arr>SAINT-LAURENT-EN-GRANDVAUX<Arr>.
+J'aimerais faire un voyage de <Dep>ALENCON<Dep> à <Arr>PAGNY-SUR-MOSELLE<Arr> en utilisant un service de taxi.
+J'ai besoin de directions pour aller à <Arr>MARLE<Arr> depuis <Dep>MONTOIRE-SUR-LE-LOIR<Dep>.
+Je veux voyager de <Dep>MOREUIL<Dep> à <Arr>EPERNON<Arr> en passant par <Arr>EPERNON<Arr>.
+Je pars de <Dep>LIMOGES<Dep> vers <Arr>CHAMPAGNOLE<Arr>.
+Je voudrais trouver un vol de <Dep>USTARITZ<Dep> vers <Arr>ROCAMADOUR<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je pars de <Dep>PUTEAUX<Dep> vers <Arr>WASQUEHAL<Arr>.
+J'ai besoin d'un itinéraire pour aller de <Dep>SAINT-DENIS-DE-L'HOTEL<Dep> vers <Arr>MAURS<Arr>.
+J'aimerais aller de <Dep>SAINT-AMAND-LES-EAUX<Dep> à <Arr>SAINT-BRIEUC<Arr> pour une conférence.
+Je dois trouver un moyen de transport pour aller de <Dep>CHINON<Dep> à <Arr>RANSPACH<Arr> en utilisant un service de transport privé.
+J'aimerais trouver un billet de train pour aller de <Dep>OISSEL<Dep> à <Arr>BONS-EN-CHABLAIS<Arr>.
+Quel est le trajet le plus rapide depuis <Dep>LA JARRIE<Dep> jusqu'à <Arr>SAINT-PIERRE-DU-VAUVRAY<Arr> ?
+Je souhaite faire un voyage de <Dep>VOIRON<Dep> à <Arr>CASTELSARRASIN<Arr> pour un mariage.
+Je cherche des options de transport pour aller de <Dep>SALLAUMINES<Dep> jusqu'à <Arr>LA GRANDE-PAROISSE<Arr>.
+Je voudrais trouver un vol de <Dep>CARNOULES<Dep> vers <Arr>GAZERAN<Arr> avec une compagnie aérienne virtuelle.
+Je cherche un moyen de me déplacer de <Dep>PERSAN<Dep> vers <Arr>FLIN<Arr>.
+Je voudrais trouver un vol de <Dep>CASTELSARRASIN<Dep> vers <Arr>LYON<Arr> avec une compagnie aérienne de sous-marins.
+Je souhaite faire un voyage en train de <Arr>CRECHES-SUR-SAONE<Arr> à <Dep>GUJAN-MESTRAS<Dep>.
+J'aimerais faire un voyage de <Dep>PARIS<Dep> à <Arr>ROMANS-SUR-ISERE<Arr> en utilisant un service de taxi.
+Donne-moi un itinéraire de <Dep>MIREBEAU-SUR-BEZE<Dep> jusqu'à <Arr>BARAQUEVILLE<Arr>.
+Quel est le trajet le plus court pour aller de <Dep>EMERAINVILLE<Dep> à <Arr>SAINT-ETIENNE-DE-MONTLUC<Arr> ?
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>PARIS<Arr> en partant de <Dep>BELLEVILLE<Dep> ?
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>BASSENS<Arr> en partant de <Dep>BAR-SUR-AUBE<Dep> ?
+Je voudrais trouver un vol de <Dep>AVIGNON<Dep> vers <Arr>TROIS-PUITS<Arr> avec une compagnie aérienne de sous-marins.
+Je cherche un billet d'avion pour aller de <Dep>VILLEFRANCHE-DE-LAURAGAIS<Dep> vers <Arr>MEZY-MOULINS<Arr>.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>SIMIANE-COLLONGUE<Dep> à <Arr>BENESTROFF<Arr>.
+Je voudrais réserver un hôtel à <Arr>ORLEANS<Arr> après avoir visité <Dep>LONGAGES<Dep>.
+Je souhaite faire un voyage en train de <Dep>L'ISLE-SUR-LA-SORGUE<Dep> à <Arr>TRITH-SAINT-LEGER<Arr> le week-end prochain.
+J'ai besoin de directions pour aller à <Arr>SAINT-FLORENT-SUR-CHER<Arr> depuis <Dep>NANTERRE<Dep> en utilisant les transports en commun.
+Je pars de <Dep>VESOUL<Dep> vers <Arr>BAILLEUL<Arr>.
+Je voudrais trouver un vol de <Dep>MONTRY<Dep> vers <Arr>MARSEILLE<Arr> avec une compagnie aérienne privée.
+J'aimerais visiter <Arr>CONCARNEAU<Arr> après avoir passé quelques jours à <Dep>VILLEFRANQUE<Dep>.
+Je cherche un moyen de transport pour aller de <Arr>SAINT-EGREVE<Arr> à <Dep>MONTSOULT<Dep> le plus rapidement possible.
+Est-il possible de prendre un bus de <Dep>SOMAIN<Dep> pour <Arr>US<Arr> ?
+Comment puis-je me rendre à <Arr>LILLE<Arr> depuis <Dep>JOUE-LES-TOURS<Dep> ?
+Je voudrais trouver un vol de <Dep>VERNET<Dep> vers <Arr>BERTRICHAMPS<Arr> avec une compagnie aérienne de trains à voie normale.
+Je veux voyager de <Dep>L'ETANG-LA-VILLE<Dep> à <Arr>NEUILLE-PONT-PIERRE<Arr> en passant par <Arr>NEUILLE-PONT-PIERRE<Arr>.
+J'ai besoin de directions pour me rendre à <Arr>LILLE<Arr> en partant de <Dep>TASSIN-LA-DEMI-LUNE<Dep>.
+Je voudrais trouver un vol de <Dep>MONTMEDY<Dep> vers <Arr>MAGALAS<Arr> avec une compagnie aérienne de drones.
+Combien de temps dure le trajet en train de <Dep>LA CABANASSE<Dep> à <Arr>FRONCLES<Arr> ?
+Je dois aller à <Arr>MARMAGNE<Arr> depuis <Dep>ALLEYRAS<Dep>.
+Je cherche un billet d'avion pour aller de <Dep>FLORANGE<Dep> vers <Arr>FRESNAY-SUR-SARTHE<Arr>.
+Comment puis-je me rendre à <Arr>SAINT-EMILION<Arr> depuis <Dep>MARTRES-TOLOSANE<Dep> ?
+Je voudrais trouver un vol de <Dep>ANDREZIEUX-BOUTHEON<Dep> vers <Arr>SAINT-MELOIR-DES-ONDES<Arr> avec une compagnie aérienne d'hélicoptères.
+Je voudrais voyager de <Dep>SAINTE-CHRISTIE<Dep> à <Arr>SAINT-NAZAIRE<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>LA CHAPELLE-SUR-ERDRE<Arr> en partant de <Dep>PRUNIERS-EN-SOLOGNE<Dep> ?
+Je voudrais trouver un vol de <Dep>BOURGS SUR COLAGNE<Dep> vers <Arr>MARCILLY-D'AZERGUES<Arr> avec une compagnie aérienne de drones.
+Je voudrais trouver un vol de <Dep>CHAMPAGNE-SUR-OISE<Dep> vers <Arr>SAINT-OUEN-DU-BREUIL<Arr> avec une compagnie aérienne virtuelle.
+Je souhaite faire un voyage en train de <Dep>EVREUX<Dep> à <Arr>GARDONNE<Arr> avec un arrêt à <Dep>EVREUX<Dep>.
+Je dois trouver un moyen de transport pour aller de <Dep>BERGUES<Dep> à <Arr>GUERIGNY<Arr> en utilisant un service de location de voitures.
+Un itinéraire allant de <Dep>THIVIERS<Dep> à <Arr>HESDIN<Arr> me serait très utile.
+Je voudrais trouver un vol de <Dep>COURBEVOIE<Dep> vers <Arr>MELUN<Arr> avec une compagnie aérienne de trains à voie normale.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>VILLEFRANCHE-DE-ROUERGUE<Arr> en partant de <Dep>EVETTE-SALBERT<Dep> ?
+J'ai besoin de directions pour aller à <Arr>COMMUNE NOUVELLE D'ARROU<Arr> depuis <Dep>CHANTENAY-SAINT-IMBERT<Dep>.
+Je cherche un itinéraire pour aller de <Dep>BRUNOY<Dep> à <Arr>GONDRECOURT-LE-CHATEAU<Arr> en utilisant les transports en commun.
+Je dois voyager de <Dep>CHALON-SUR-SAONE<Dep> à <Arr>MONTIERCHAUME<Arr> pour un travail.
+Je voudrais me déplacer de <Dep>MONTCORNET<Dep> à <Arr>KESKASTEL<Arr>.
+Je veux voyager de <Dep>MORANNES SUR SARTHE-DAUMERAY<Dep> vers <Arr>GIROMAGNY<Arr>.
+Quel est le trajet le plus rapide depuis <Dep>SOLFERINO<Dep> jusqu'à <Arr>CHAVILLE<Arr> ?
+Montre-moi la route pour aller de <Dep>CHAMARANDE<Dep> à <Arr>SENS<Arr>.
+Je voudrais trouver un vol de <Dep>LA POSSONNIERE<Dep> vers <Arr>TRITH-SAINT-LEGER<Arr> avec une compagnie aérienne d'affaires.
+Je voudrais réserver un hôtel à <Arr>CHAMPTOCE-SUR-LOIRE<Arr> après avoir visité <Dep>LE PONT-DE-BEAUVOISIN<Dep>.
+Pouvez-vous me fournir un itinéraire de <Dep>RINXENT<Dep> à <Arr>VALENCIENNES<Arr> ?
+Pouvez-vous me trouver un itinéraire pour un voyage de <Dep>VIEUX-MANOIR<Dep> à <Arr>RAEDERSHEIM<Arr> ?
+Je veux partir de <Dep>GEISPOLSHEIM<Dep> et arriver à <Arr>DETTWILLER<Arr>.
+Je dois aller à <Arr>PARIS<Arr> depuis <Dep>SAINT-NAZAIRE<Dep>.
+Quels sont les meilleurs itinéraires pour aller à <Arr>NICE<Arr> depuis <Dep>ALENCON<Dep> ?
+Quel est le trajet le plus court pour aller de <Dep>ESCALQUENS<Dep> à <Arr>MONTVAL-SUR-LOIR<Arr> ?
+Je cherche un moyen de transport pour aller de <Arr>LANDIVISIAU<Arr> à <Dep>MORCENX-LA-NOUVELLE<Dep> le plus rapidement possible.
+Je cherche des options de transport pour aller de <Dep>CESTAS<Dep> jusqu'à <Arr>VENDOME<Arr>.
+Y a-t-il des vols directs de <Dep>GUETHARY<Dep> à <Arr>ABBEVILLE<Arr> ?
+Je voudrais trouver un vol de <Dep>SAINT BONNET-LAVAL<Dep> vers <Arr>THONON-LES-BAINS<Arr> avec une compagnie aérienne internationale.
+Je voudrais trouver un vol de <Dep>FREVIN-CAPELLE<Dep> vers <Arr>LE RAINCY<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je voudrais trouver un vol de <Dep>ROCAMADOUR<Dep> vers <Arr>SAINT-GERMAIN-SUR-MEUSE<Arr> avec une compagnie aérienne militaire.
+Quel est le trajet le plus court pour aller de <Dep>CHESSY<Dep> à <Arr>CHABRIS<Arr> ?
+Je cherche un vol direct de <Dep>PARIS<Dep> vers <Arr>SERQUIGNY<Arr>.
+Je voudrais trouver un hôtel près de la gare de <Arr>BELFORT<Arr> après avoir voyagé depuis <Dep>ERMONT<Dep>.
+Je cherche un itinéraire pour me rendre de <Dep>CHOISY-LE-ROI<Dep> à <Arr>LE BUISSON-DE-CADOUIN<Arr> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>PARIS<Dep> vers <Arr>NOISY-LE-GRAND<Arr> avec une compagnie aérienne gouvernementale.
+Veuillez me donner un itinéraire pour me rendre à <Arr>CHATILLON-SUR-SEINE<Arr> en partant de <Dep>LA FERTE-BERNARD<Dep> en voiture.
+Je voudrais trouver un vol de <Dep>CHAMELET<Dep> vers <Arr>PEYRILLES<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je voudrais trouver un vol de <Arr>MONTLUCON<Arr> à <Dep>JAUX<Dep> au meilleur prix.
+Donne-moi un itinéraire de <Dep>ISSY-LES-MOULINEAUX<Dep> jusqu'à <Arr>LABOUHEYRE<Arr>.
+Je voudrais trouver un vol de <Dep>CHAMONIX-MONT-BLANC<Dep> vers <Arr>MARTIGNE-FERCHAUD<Arr> avec une compagnie aérienne de fusées.
+Pouvez-vous me donner des informations sur un vol de <Dep>COLOMBIER-SAUGNIEU<Dep> à <Arr>CESSIEU<Arr> ?
+Je cherche un moyen de me déplacer de <Dep>NOISY-LE-ROI<Dep> vers <Arr>BOLLENE<Arr>.
+Je voudrais savoir comment aller de <Dep>CIRY-LE-NOBLE<Dep> à <Arr>CHATEAU-THIERRY<Arr> en utilisant les transports publics.
+Comment rejoindre <Arr>MONTREUX-VIEUX<Arr> depuis <Dep>SAINT-GILLES<Dep> en train ?
+Je recherche un itinéraire pour me rendre de <Dep>SAINT-MAUR-DES-FOSSES<Dep> vers <Arr>MOLSHEIM<Arr>.
+Je souhaite faire un voyage en train de <Dep>BEARD<Dep> à <Arr>MAISSE<Arr> avec un arrêt à <Dep>BEARD<Dep>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>MAILLE<Dep> à <Arr>FREVIN-CAPELLE<Arr> en voiture.
+Comment rejoindre <Arr>RILLIEUX-LA-PAPE<Arr> depuis <Dep>MONTEREAU-FAULT-YONNE<Dep> en train ?
+Je voudrais trouver un vol de <Dep>BOURG-BRUCHE<Dep> vers <Arr>GRIGNY<Arr> avec une escale.
+Je voudrais prendre un bateau de <Dep>MERICOURT-L'ABBE<Dep> vers <Arr>BREITENBACH-HAUT-RHIN<Arr>.
+Comment aller de <Dep>VILLENEUVE-LE-ROI<Dep> à <Arr>VELARS-SUR-OUCHE<Arr> ?
+Quel est le meilleur moyen de se rendre à <Arr>VALLORCINE<Arr> en partant de <Dep>ALIXAN<Dep> ?
+Je voudrais prendre un vol direct de <Dep>MARSEILLAN<Dep> vers <Arr>OUDON<Arr> sans escale.
+J'aimerais visiter <Arr>MILLAS<Arr> après avoir passé quelques jours à <Dep>SAINTE-EANNE<Dep>.
+Je souhaiterais savoir comment aller de <Dep>BUZET-SUR-TARN<Dep> à <Arr>GUIMILIAU<Arr>.
+Je voudrais trouver un vol de <Dep>COLMAR<Dep> vers <Arr>MONTBAZON<Arr> avec une compagnie aérienne de téléportation.
+Je voudrais trouver un vol de <Dep>MONTIGNY-SUR-LOING<Dep> vers <Arr>MARQUETTE-LEZ-LILLE<Arr> avec une compagnie aérienne spécifique.
+Quels sont les meilleurs itinéraires pour aller à <Arr>URMATT<Arr> depuis <Dep>LILLE<Dep> ?Je voudrais trouver un vol de <Dep>SAINT-GEORGES-SUR-EURE<Dep> vers <Arr>LES ANCIZES-COMPS<Arr> avec une compagnie aérienne de téléportation.
+J'ai besoin d'un itinéraire pour aller de <Dep>SAINT-CLAIR-DU-RHONE<Dep> vers <Arr>VOIVRES-LES-LE-MANS<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>COLOMBES<Dep> à <Arr>LE THOU<Arr> en utilisant un service de covoiturage.
+Je dois trouver un moyen de transport pour aller de <Dep>THIONVILLE<Dep> à <Arr>CHATEAUDUN<Arr> en utilisant un service de location de voitures.
+Je souhaite prendre un taxi de <Dep>BAUVIN<Dep> pour aller à <Arr>AUTUN<Arr>.
+Je voudrais trouver un vol de <Dep>PARIS<Dep> vers <Arr>COURCY<Arr> avec une compagnie aérienne à bas prix.
+Je voudrais savoir comment aller de <Dep>PORT-SAINTE-MARIE<Dep> à <Arr>SAINT-CYR-SUR-LOIRE<Arr> en voiture.
+J'aimerais faire un voyage de <Dep>ETANG-SUR-ARROUX<Dep> à <Arr>BRENS<Arr> en utilisant un service de taxi.
+Je dois aller à <Arr>POISSY<Arr> depuis <Dep>ETRICHE<Dep>.
+Je voudrais trouver un vol de <Dep>TRELAZE<Dep> vers <Arr>LACAPELLE-VIESCAMP<Arr> avec une compagnie aérienne de fusées.
+Je souhaite faire un voyage de <Dep>VILLENEUVE-SUR-AISNE<Dep> à <Arr>MEZY-MOULINS<Arr> pour un mariage.
+Je souhaite faire un voyage en train de <Arr>VAL DE VIRVEE<Arr> à <Dep>SAINT-JORY<Dep>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>VILLETTE-SUR-AUBE<Dep> à <Arr>MIRIBEL<Arr> en utilisant les transports en commun.
+Je dois trouver un moyen de transport pour aller de <Dep>EBERSVILLER<Dep> à <Arr>SCHILTIGHEIM<Arr> en utilisant un service de transport public.
+Comment puis-je aller de <Dep>ASNIERES-SUR-SEINE<Dep> vers <Arr>RETIERS<Arr> en transports en commun ?
+Un itinéraire de <Dep>STRAZEELE<Dep> à <Arr>SAINT-SULPICE-LA-POINTE<Arr> me serait utile.
+Je voudrais voyager de <Dep>VAL-DE-REUIL<Dep> à <Arr>BAINVILLE-SUR-MADON<Arr>.
+Y a-t-il un moyen de se rendre de <Dep>MARCILLY-SUR-TILLE<Dep> vers <Arr>MIRAMAS<Arr> ?
+Je voudrais trouver un vol de <Dep>SAINT-CHELY-D'APCHER<Dep> vers <Arr>SAINTE-PAZANNE<Arr> avec une compagnie aérienne de bateaux.
+Je voudrais trouver un vol de <Dep>GRIGNY<Dep> vers <Arr>BANTZENHEIM<Arr> avec une compagnie aérienne de fret.
+Je voudrais trouver un vol de <Dep>LAVAUR<Dep> vers <Arr>SAINT-AIGULIN<Arr> avec une compagnie aérienne spécifique.
+Comment puis-je me rendre de <Dep>VAUX<Dep> jusqu'à <Arr>LUS-LA-CROIX-HAUTE<Arr> ?
+Je voudrais trouver un vol de <Dep>PALAISEAU<Dep> vers <Arr>ASNIERES-SUR-SEINE<Arr> avec une compagnie aérienne à bas prix.
+J'ai besoin d'un itinéraire pour aller de <Dep>AMILLY<Dep> vers <Arr>BORAN-SUR-OISE<Arr>.
+Je voudrais trouver un vol de <Dep>CHAMONIX-MONT-BLANC<Dep> vers <Arr>MONTAUBAN<Arr> avec une compagnie aérienne cargo.
+Veuillez me donner un itinéraire pour aller de <Dep>VIVY<Dep> à <Arr>BAR-LE-DUC<Arr>.
+Donnez-moi un itinéraire pour aller de <Dep>BREIL-SUR-ROYA<Dep> jusqu'à <Arr>SAINT-NABORD<Arr>.
+Je voudrais trouver un vol de <Dep>SEVRAN<Dep> vers <Arr>GUICHEN<Arr> avec une compagnie aérienne de drones.
+Quel est le trajet le plus court pour aller de <Dep>ALTKIRCH<Dep> à <Arr>AMIFONTAINE<Arr> ?
+Donnez-moi un itinéraire pour aller de <Dep>RONCQ<Dep> jusqu'à <Arr>VERNAISON<Arr>.
+Je voudrais trouver un vol de <Dep>FONTENAY-LE-COMTE<Dep> vers <Arr>COLOMBES<Arr> avec une compagnie aérienne de fret.
+Je voudrais trouver un vol de <Dep>CANNES<Dep> vers <Arr>LUDON-MEDOC<Arr> avec une compagnie aérienne haut de gamme.
+Je dois trouver un moyen de transport pour aller de <Dep>ANTONY<Dep> à <Arr>HIPSHEIM<Arr> en utilisant un service de transport privé.
+Quel est l'itinéraire le plus court pour aller de <Dep>MESVRES<Dep> à <Arr>FLEURY-LES-AUBRAIS<Arr> en voiture ?
+Je cherche le meilleur itinéraire pour aller de <Dep>SAINT-USAGE<Dep> à <Arr>CLOYES-LES-TROIS-RIVIERES<Arr>.
+J'ai besoin de directions pour aller de <Dep>ISBERGUES<Dep> à <Arr>MAREIL-SUR-MAULDRE<Arr>.
+Comment puis-je aller de <Dep>BRENY<Dep> à <Arr>VIERZON<Arr> en voiture ?
+Quel est le trajet le plus rapide depuis <Dep>ETRECHY<Dep> jusqu'à <Arr>YTRAC<Arr> ?
+Je dois prendre un vol de <Dep>FREJUS<Dep> vers <Arr>CHAMALIERES-SUR-LOIRE<Arr> le mois prochain.
+Quels sont les meilleurs itinéraires pour aller à <Arr>NANTOUILLET<Arr> depuis <Dep>HOULGATE<Dep> ?J'ai besoin de directions pour aller à <Arr>NANCY<Arr> depuis <Dep>LA TOUR-DU-PIN<Dep>.
+Je souhaite prendre un taxi de <Dep>BANTZENHEIM<Dep> pour aller à <Arr>PARIS<Arr>.
+Pouvez-vous me trouver un itinéraire pour un voyage de <Dep>LA HOUSSIERE<Dep> à <Arr>VERNOU-LA-CELLE-SUR-SEINE<Arr> ?
+Je souhaite faire un road trip de <Dep>CHARTRES<Dep> à <Arr>MOLSHEIM<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>BRESSUIRE<Dep> à <Arr>ETAMPES<Arr> en voiture.
+Je voudrais réserver un hôtel à <Arr>LA BASSEE<Arr> après avoir visité <Dep>MAUVES-SUR-LOIRE<Dep>.
+Comment puis-je aller de <Dep>QUILLAN<Dep> à <Arr>SOLFERINO<Arr> en voiture ?
+Veuillez me fournir un itinéraire pour me rendre de <Dep>POUSSAY<Dep> à <Arr>FONTENAY-LE-COMTE<Arr> en voiture.
+Je cherche un itinéraire pour me rendre de <Dep>LARDY<Dep> à <Arr>LISIEUX<Arr> en voiture.
+J'ai besoin de directions pour aller de <Dep>PLERGUER<Dep> à <Arr>VENDEUVRE-SUR-BARSE<Arr>.
+Donnez-moi un itinéraire pour aller de <Dep>PONTARLIER<Dep> jusqu'à <Arr>LA ROCHE-SUR-FORON<Arr>.
+Je cherche un itinéraire pour me rendre de <Dep>GUEMENE-PENFAO<Dep> à <Arr>FLEURY-LES-AUBRAIS<Arr> en utilisant les transports en commun.
+Je souhaite faire un voyage de <Dep>LA CROIX-EN-TOURAINE<Dep> à <Arr>COMMUNE NOUVELLE D'ARROU<Arr> pour un mariage.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>AMIENS<Dep> vers <Arr>HARFLEUR<Arr>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>SAINT-RAPHAEL<Arr> en partant de <Dep>CAVAILLON<Dep> ?
+Je dois aller à <Arr>GIVORS<Arr> depuis <Dep>PUTEAUX<Dep>.
+Je dois trouver un moyen de transport pour aller de <Dep>CONTREXEVILLE<Dep> à <Arr>EPERNAY<Arr> en utilisant un service de transport en commun.
+Y a-t-il des vols directs de <Dep>BREAUTE<Dep> à <Arr>ARQUES<Arr> ?
+Je dois trouver un moyen de transport pour aller de <Dep>PARIS<Dep> à <Arr>YFFINIAC<Arr> en utilisant un service de transport public.
+Je dois trouver un moyen de transport pour aller de <Dep>LA TOUR-DE-SALVAGNY<Dep> à <Arr>VIRVILLE<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>CHATEAUNEUF-DE-GADAGNE<Arr> depuis <Dep>ORCHAMPS<Dep> ?
+Je voudrais trouver un vol de <Dep>PLAINTEL<Dep> vers <Arr>MONTLOUIS-SUR-LOIRE<Arr> avec une compagnie aérienne de fusées.
+Quel est l'itinéraire le plus direct pour aller de <Dep>MUILLE-VILLETTE<Dep> à <Arr>MARSEILLE<Arr> en utilisant les transports en commun ?
+Je cherche un billet d'avion pour aller de <Dep>REHON<Dep> vers <Arr>AVIGNON<Arr>.
+Je cherche le meilleur itinéraire pour aller de <Dep>SCHILTIGHEIM<Dep> à <Arr>SAINT-BRIEUC<Arr>.
+Je dois me déplacer de <Dep>AUDRIEU<Dep> jusqu'à <Arr>BOBIGNY<Arr> pour un rendez-vous.
+Je voudrais me déplacer de <Dep>PARIS<Dep> à <Arr>NIORT<Arr>.
+Je voudrais trouver un vol de <Dep>SELTZ<Dep> vers <Arr>WASQUEHAL<Arr> avec une compagnie aérienne charter.
+Je dois trouver un moyen de transport pour aller de <Dep>SAINT-PIERRE-LE-VIGER<Dep> à <Arr>BRIENON-SUR-ARMANCON<Arr> en utilisant un service de location de voitures.
+J'aimerais trouver un billet de train pour aller de <Dep>SAINT-GILDAS-DES-BOIS<Dep> à <Arr>VARILHES<Arr>.
+Y a-t-il un moyen de se rendre de <Dep>VIVOIN<Dep> vers <Arr>CERBERE<Arr> ?
+Je dois trouver un moyen de transport pour aller de <Dep>COLOMBES<Dep> à <Arr>FECAMP<Arr> en utilisant un service de transport en commun.
+Je veux voyager de <Dep>AUBIN-SAINT-VAAST<Dep> à <Arr>LONGPRE-LES-CORPS-SAINTS<Arr> en passant par <Arr>LONGPRE-LES-CORPS-SAINTS<Arr>.
+Comment me rendre de <Dep>COUDEKERQUE-BRANCHE<Dep> à <Arr>MANTES-LA-JOLIE<Arr> en utilisant les transports publics ?
+Je souhaite faire un voyage de <Dep>HOMECOURT<Dep> à <Arr>FOUDAY<Arr> pour un mariage.
+Je voudrais trouver un vol de <Dep>LES ABRETS EN DAUPHINE<Dep> vers <Arr>LUBERSAC<Arr> avec une compagnie aérienne haut de gamme.
+Est-ce loin d'aller de <Dep>MERY-SUR-OISE<Dep> à <Arr>ALES<Arr> ?
+Je dois trouver un moyen de transport pour aller de <Dep>HYMONT<Dep> à <Arr>BIACHE-SAINT-VAAST<Arr> en utilisant un service de transport public.
+Je voudrais trouver un vol de <Dep>L'ARGENTIERE-LA-BESSEE<Dep> vers <Arr>NANTERRE<Arr> avec une compagnie aérienne charter.
+Je dois trouver un moyen de transport pour aller de <Dep>BAILLEUL<Dep> à <Arr>LANGRES<Arr> en utilisant un service de location de voitures.
+Je voudrais trouver un vol de <Dep>GAZERAN<Dep> vers <Arr>DANNEMARIE-SUR-CRETE<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je voudrais trouver un vol de <Dep>BOLOGNE<Dep> vers <Arr>PARIS<Arr> avec une compagnie aérienne de trains à vapeur.
+Je voudrais trouver un vol de <Dep>ISSOUDUN<Dep> vers <Arr>CHOISY-LE-ROI<Arr> avec une compagnie aérienne privée.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>SAUMUR<Dep> vers <Arr>SAINT-PIERRE-QUIBERON<Arr>.
+Un itinéraire de <Dep>MARSAC<Dep> à <Arr>SALAISE-SUR-SANNE<Arr> me serait utile.
+Comment puis-je me rendre de <Dep>QUESNOY-SUR-DEULE<Dep> jusqu'à <Arr>LISIEUX<Arr> ?
+Je voudrais savoir comment aller de <Dep>SULLY-SUR-LOIRE<Dep> à <Arr>TILLENAY<Arr> en voiture.
+Quel est le meilleur moyen de se rendre à <Arr>SAINT-RAPHAEL<Arr> en partant de <Dep>MONTIGNY-EN-OSTREVENT<Dep> ?
+Je souhaite me rendre à <Arr>LAON<Arr> en partant de <Dep>MARCHEPRIME<Dep>.
+Je voudrais trouver un vol de <Dep>LA COURNEUVE<Dep> vers <Arr>EPINAL<Arr> avec une compagnie aérienne haut de gamme.
+Je souhaiterais savoir comment aller de <Dep>RODEZ<Dep> à <Arr>LONGCHAMP-SUR-AUJON<Arr>.
+Pouvez-vous me fournir un itinéraire de <Dep>EPINAY-SUR-SEINE<Dep> à <Arr>PONT-DU-CHATEAU<Arr> ?
+J'ai besoin de directions pour aller à <Arr>ANCY-DORNOT<Arr> depuis <Dep>MERY-SUR-OISE<Dep>.
+Y a-t-il des vols directs de <Dep>WALBOURG<Dep> à <Arr>NEXON<Arr> ?
+Je dois trouver un moyen de transport pour aller de <Dep>NOTRE-DAME-DE-BONDEVILLE<Dep> à <Arr>BURY<Arr> en utilisant un service de transport privé.
+Je voudrais voyager de <Dep>RENESCURE<Dep> à <Arr>AUBIAT<Arr>.
+Je voudrais trouver un vol de <Dep>BOURG-EN-BRESSE<Dep> vers <Arr>MIGENNES<Arr> avec une escale.
+Un itinéraire allant de <Dep>MUTZIG<Dep> à <Arr>SAINT-GERMAIN-LES-BELLES<Arr> me serait très utile.
+Je cherche des options de transport pour aller de <Dep>VOUTRE<Dep> jusqu'à <Arr>VERGIGNY<Arr>.
+Veuillez me donner un itinéraire pour me rendre à <Arr>SARRALBE<Arr> depuis <Dep>SOISSONS<Dep>.
+Je voudrais aller de <Dep>SEVRAN<Dep> à <Arr>MONTDIDIER<Arr> pour les vacances.
+Combien de temps dure le trajet en train de <Dep>LES HOUCHES<Dep> à <Arr>AUBIGNY-AU-BAC<Arr> ?
+Veuillez m'indiquer l'itinéraire pour aller de <Dep>LAVEISSIERE<Dep> à <Arr>CAMBLAIN-CHATELAIN<Arr>.
+Je voudrais trouver un vol de <Dep>GIMONT<Dep> vers <Arr>LESQUIN<Arr> avec une compagnie aérienne de dirigeables.
+Un itinéraire de <Dep>VILLENEUVE-SAINT-GEORGES<Dep> à <Arr>CHATEAU-L'EVEQUE<Arr> me serait utile.
+Je voudrais trouver un vol de <Dep>BERRE-L'ETANG<Dep> vers <Arr>TASSIN-LA-DEMI-LUNE<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je cherche le chemin de <Dep>BEAUGENCY<Dep> à <Arr>PARIS<Arr>.
+Je souhaite faire un voyage en train de <Dep>VANNES<Dep> à <Arr>LUS-LA-CROIX-HAUTE<Arr> avec un arrêt à <Dep>VANNES<Dep>.
+Je voudrais trouver un vol de <Dep>EPIRY<Dep> vers <Arr>MERIEL<Arr> avec une compagnie aérienne de trains à lévitation magnétique.
+Je voudrais aller de <Dep>LAVELINE-DEVANT-BRUYERES<Dep> à <Arr>ROANNE<Arr> pour les vacances.
+Je voudrais trouver un vol de <Arr>JARNY<Arr> à <Dep>ARPAJON<Dep> au meilleur prix.
+Je veux partir de <Dep>SAINT-CYPRIEN<Dep> et arriver à <Arr>ATHIS-MONS<Arr>.
+Je souhaite aller de <Dep>BEAUCAIRE<Dep> jusqu'à <Arr>NURIEUX-VOLOGNAT<Arr>.
+Je dois aller à <Arr>CELON<Arr> depuis <Dep>MONISTROL-D'ALLIER<Dep>.
+Je voudrais aller de <Dep>SAINT-OUEN-L'AUMONE<Dep> à <Arr>PLOURIVO<Arr> pour les vacances.
+Je souhaite me rendre à <Arr>AUVERS-SUR-OISE<Arr> en partant de <Dep>PARAY-LE-MONIAL<Dep>.
+Je voudrais aller de <Dep>CLERMONT<Dep> à <Arr>CHATENOIS<Arr> pour les vacances.
+Est-il possible de prendre un bus de <Dep>WALLERS<Dep> pour <Arr>SAINT-CLOUD<Arr> ?
+Je voudrais trouver un vol de <Dep>LA COURNEUVE<Dep> vers <Arr>ESBLY<Arr> avec une compagnie aérienne haut de gamme.
+Veuillez me donner un itinéraire pour me rendre à <Arr>LEFFRINCKOUCKE<Arr> depuis <Dep>SELESTAT<Dep>.
+Montre-moi la route pour aller de <Dep>SERVAS<Dep> à <Arr>NEUILLY-CRIMOLOIS<Arr>.
+Je voudrais trouver un vol de <Dep>VILLENEUVE-SAINT-GEORGES<Dep> vers <Arr>ANNEMASSE<Arr> avec une escale.
+Comment aller de <Dep>BOURNEZEAU<Dep> à <Arr>SURY-LE-COMTAL<Arr> ?
+Quelle est la meilleure route pour aller à <Arr>ISSOIRE<Arr> en partant de <Dep>CHISSAY-EN-TOURAINE<Dep> ?
+Je voudrais trouver un vol de <Dep>MONTS<Dep> vers <Arr>LANGOGNE<Arr> avec une compagnie aérienne de fret.
+Veuillez me donner un itinéraire pour aller de <Dep>VIELMUR-SUR-AGOUT<Dep> à <Arr>BLAGNY<Arr>.
+Je souhaite faire un voyage en train de <Dep>MONTVAL-SUR-LOIR<Dep> à <Arr>BUZANCAIS<Arr> avec un arrêt à <Dep>MONTVAL-SUR-LOIR<Dep>.
+Je voudrais savoir comment aller de <Dep>FAVERNEY<Dep> à <Arr>CORCY<Arr> en utilisant les transports publics.
+J'aimerais faire un voyage de <Dep>ROMORANTIN-LANTHENAY<Dep> à <Arr>WEYERSHEIM<Arr> en prenant le métro.
+Je voudrais organiser un voyage de <Dep>MEZIDON VALLEE D'AUGE<Dep> à <Arr>FERE-CHAMPENOISE<Arr>.
+Je souhaite faire un road trip de <Dep>ROMANS-SUR-ISERE<Dep> à <Arr>GUINGAMP<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>VILLEPINTE<Dep> à <Arr>SAINT-VICTURNIEN<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>MAREIL-MARLY<Dep> à <Arr>LIART<Arr> en utilisant les transports en commun.
+Je veux partir de <Dep>MONTMORILLON<Dep> et arriver à <Arr>CHAUMONT<Arr>.
+J'ai besoin de directions pour aller à <Arr>ARNAGE<Arr> depuis <Dep>BREAUTE<Dep> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>ETALANS<Dep> vers <Arr>MONESTIER-DE-CLERMONT<Arr> avec une compagnie aérienne de trains à lévitation magnétique.
+J'ai besoin de directions pour me rendre à <Arr>ROSNY-SOUS-BOIS<Arr> en partant de <Dep>RIVE-DE-GIER<Dep>.
+Je voudrais trouver un vol de <Dep>DESCARTES<Dep> vers <Arr>CONCHIL-LE-TEMPLE<Arr> avec une compagnie aérienne de fusées.
+Je voudrais trouver un vol de <Dep>FREPILLON<Dep> vers <Arr>VILLEFORT<Arr> avec une compagnie aérienne de bateaux.
+Je cherche un vol direct de <Dep>AUBIN<Dep> vers <Arr>ROPPENHEIM<Arr>.
+Veuillez me donner un itinéraire pour me rendre à <Arr>SAINT-QUENTIN<Arr> en partant de <Dep>VOIRON<Dep> en voiture.
+Je voudrais trouver un vol de <Dep>RUFFEY-LES-ECHIREY<Dep> vers <Arr>SAINT-GENOUPH<Arr> avec une compagnie aérienne haut de gamme.
+Je cherche un itinéraire pour aller de <Dep>MONTLUCON<Dep> vers <Arr>GAILLAC<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>CHEPY<Dep> à <Arr>PEYREHORADE<Arr> en utilisant les transports en commun.
+Je cherche un itinéraire pour me rendre de <Dep>DOMMARY-BARONCOURT<Dep> à <Arr>TERRES-DE-HAUTE-CHARENTE<Arr> en voiture.
+Veuillez me donner un itinéraire pour me rendre à <Arr>MONTEUX<Arr> en partant de <Dep>SESSENHEIM<Dep> en voiture.
+Je cherche un itinéraire pour aller de <Dep>GARCHIZY<Dep> vers <Arr>LAMBALLE-ARMOR<Arr>.
+Pouvez-vous me fournir un itinéraire de <Dep>HOULGATE<Dep> à <Arr>LABEGE<Arr> ?
+Quel est le trajet le plus court pour aller de <Dep>LAPEYROUSE<Dep> à <Arr>DIEPPE<Arr> ?
+Je recherche un itinéraire pour aller à <Arr>VIC-LA-GARDIOLE<Arr> depuis <Dep>RILLIEUX-LA-PAPE<Dep>.
+Un itinéraire de <Dep>PONT-SAINT-VINCENT<Dep> à <Arr>MEZY-MOULINS<Arr> me serait utile.
+J'aimerais trouver un billet de train pour aller de <Dep>LURE<Dep> à <Arr>COLOMBIERS<Arr>.
+Je voudrais trouver un vol de <Dep>AUBIGNY<Dep> vers <Arr>JONZAC<Arr> avec une compagnie aérienne de fret.
+Je dois aller à <Arr>JAULZY<Arr> depuis <Dep>MASSERET<Dep>.
+Je voudrais trouver un vol de <Dep>BOUCHEMAINE<Dep> vers <Arr>SAINT-SEBASTIEN<Arr> au meilleur prix possible.
+Je cherche un itinéraire pour me rendre de <Dep>MONTBARREY<Dep> à <Arr>MIGENNES<Arr> en utilisant les transports en commun.
+Je cherche un itinéraire pour me rendre de <Dep>CHECY<Dep> à <Arr>LUSIGNAN<Arr> en utilisant les transports en commun.
+Je voudrais trouver un hôtel près de la gare de <Arr>SAINT-JEAN-PIED-DE-PORT<Arr> après avoir voyagé depuis <Dep>ROCHY-CONDE<Dep>.
+Je voudrais trouver un vol de <Dep>ESTERNAY<Dep> vers <Arr>VIRY-NOUREUIL<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je cherche un moyen de transport pour aller de <Arr>SAINT-LEONARD<Arr> à <Dep>CORBENAY<Dep> le plus rapidement possible.
+Quel est l'itinéraire le plus direct pour aller de <Dep>JEANDELIZE<Dep> à <Arr>GARNAY<Arr> en utilisant les transports en commun ?
+Je souhaite faire un voyage de <Dep>LONGEVILLES-MONT-D'OR<Dep> à <Arr>PARIS<Arr> pour un mariage.
+Je cherche un itinéraire pour aller de <Dep>BENESTROFF<Dep> à <Arr>SAINT-CYR-L'ECOLE<Arr> en utilisant les transports en commun.
+Un itinéraire de <Dep>ESCLANEDES<Dep> à <Arr>NEXON<Arr> me serait utile.
+Je pars de <Dep>CHATEAULIN<Dep> et je souhaite arriver à <Arr>SAINT-BRICE-COURCELLES<Arr>.
+Comment puis-je me rendre de <Dep>MONTAUBAN-DE-BRETAGNE<Dep> jusqu'à <Arr>SERDINYA<Arr> ?
+Je cherche le chemin de <Dep>L'AIGLE<Dep> à <Arr>BEZANNES<Arr>.
+Comment puis-je me rendre à <Arr>WISCHES<Arr> depuis <Dep>LA VERPILLIERE<Dep> ?
+Pouvez-vous me donner des informations sur un vol de <Dep>RAON-L'ETAPE<Dep> à <Arr>BEAULIEU-SUR-MER<Arr> ?
+Je souhaite faire un voyage en train de <Dep>TENDU<Dep> à <Arr>PAIMPOL<Arr> avec un arrêt à <Dep>TENDU<Dep>.
+Quel est le meilleur moyen de se rendre à <Arr>GRESY-SUR-ISERE<Arr> en partant de <Dep>CHASSE-SUR-RHONE<Dep> ?
+Je dois trouver un moyen de transport pour aller de <Dep>ANGERS<Dep> à <Arr>CHATEAUNEUF-SUR-LOIRE<Arr> en utilisant un service de transport public.
+Je voudrais trouver un vol de <Dep>MAGLAND<Dep> vers <Arr>BERSAC-SUR-RIVALIER<Arr> avec une compagnie aérienne de trains à voie normale.
+Je voudrais voyager de <Dep>SAINT-JUERY<Dep> à <Arr>MARTIGUES<Arr>.
+Je voudrais trouver un vol de <Dep>SAONE<Dep> vers <Arr>ARDRES<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je voudrais organiser un voyage de <Dep>SAINT-GERVAIS-EN-BELIN<Dep> à <Arr>CHAMBOURG-SUR-INDRE<Arr>.
+Je dois prendre un vol de <Dep>SAINT-USAGE<Dep> vers <Arr>BEAUMONT-LE-ROGER<Arr> le mois prochain.
+J'aimerais aller de <Dep>AVRANCHES<Dep> jusqu'à <Arr>LA CHAPELLE-SUR-ERDRE<Arr>.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>TEILLE<Dep> vers <Arr>BOLBEC<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>SAINT-GERMAIN-SUR-MEUSE<Dep> à <Arr>JUF<Arr>.
+Je souhaite faire un voyage en train de <Arr>BILLY-MONTIGNY<Arr> à <Dep>VIVIEZ<Dep>.
+J'aimerais aller de <Dep>HESDIGNEUL-LES-BOULOGNE<Dep> à <Arr>SOUILLAC<Arr> pour une conférence.
+Je dois trouver un moyen de transport pour aller de <Dep>PARIS<Dep> à <Arr>SAINT-MICHEL-SUR-MEURTHE<Arr> en utilisant un service de location de voitures.
+Est-ce loin d'aller de <Dep>LANDEVANT<Dep> à <Arr>ETAPLES<Arr> ?
+Quel est l'itinéraire le plus court pour aller de <Dep>LAGNIEU<Dep> à <Arr>TAVERNY<Arr> en voiture ?
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>ARTIX<Arr> en partant de <Dep>MONTABARD<Dep> ?
+Je cherche un itinéraire pour aller de <Dep>SEVRAN<Dep> à <Arr>CORCY<Arr> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>LA BRILLANNE<Dep> vers <Arr>JONCHERY-SUR-VESLE<Arr> avec une compagnie aérienne de fret.
+Je cherche un billet d'avion pour aller de <Dep>TEMPLEUVE-EN-PEVELE<Dep> vers <Arr>CONNANTRE<Arr>.
+Je cherche un itinéraire pour me rendre de <Dep>ESTERNAY<Dep> à <Arr>TREBES<Arr> en voiture.
+Comment puis-je aller de <Dep>MANDUEL<Dep> à <Arr>CHAINGY<Arr> en voiture ?
+Je voudrais trouver un vol de <Dep>MILLAU<Dep> vers <Arr>SAINT-OMER<Arr> avec une compagnie aérienne gouvernementale.
+Quel est l'itinéraire le plus court pour aller de <Dep>LANDAUL<Dep> à <Arr>CLERES<Arr> en voiture ?
+Je voudrais trouver un vol de <Dep>VALMONT<Dep> vers <Arr>CONNANTRE<Arr> avec une compagnie aérienne cargo.
+Quel est le trajet le plus rapide depuis <Dep>SARTROUVILLE<Dep> jusqu'à <Arr>CHATELAUDREN-PLOUAGAT<Arr> ?
+Je voudrais trouver un vol de <Dep>SAINT-REMY-DE-SILLE<Dep> vers <Arr>LEVALLOIS-PERRET<Arr> avec une compagnie aérienne de téléportation.
+Je voudrais me déplacer de <Dep>VARETZ<Dep> à <Arr>EICHHOFFEN<Arr>.
+Je voudrais trouver un vol de <Dep>BEAUVOISIN<Dep> vers <Arr>ROPPENHEIM<Arr> avec une compagnie aérienne de dirigeables.
+Je souhaite faire un voyage en train de <Dep>FERE-CHAMPENOISE<Dep> à <Arr>PERIGUEUX<Arr> avec un arrêt à <Dep>FERE-CHAMPENOISE<Dep>.
+Quel est le meilleur moyen de se rendre à <Arr>CHECY<Arr> depuis <Dep>RUNGIS<Dep> ?
+Je voudrais savoir comment aller de <Dep>ZETTING<Dep> à <Arr>GUJAN-MESTRAS<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>CERCY-LA-TOUR<Dep> vers <Arr>COLMAR<Arr> avec une compagnie aérienne de ballons à air chaud.
+Y a-t-il un train direct de <Arr>DARDILLY<Arr> vers <Dep>FREISTROFF<Dep> ?
+Je voudrais trouver un hôtel près de la gare de <Arr>VILLERS-SUR-MER<Arr> après avoir voyagé depuis <Dep>ARPAJON<Dep>.
+Un itinéraire allant de <Dep>PORTES-LES-VALENCE<Dep> à <Arr>CHEPY<Arr> me serait très utile.
+J'ai besoin de directions pour aller à <Arr>LAMOTHE-LANDERRON<Arr> depuis <Dep>SAINT-NAZAIRE<Dep> en utilisant les transports en commun.
+Quel est l'itinéraire le plus direct pour aller de <Dep>COLOMBES<Dep> à <Arr>FEUQUIERES<Arr> en voiture ?
+Pouvez-vous me fournir un itinéraire de <Dep>CHAMPAGNE<Dep> à <Arr>BAZEILLES<Arr> ?
+J'aimerais savoir comment aller de <Dep>ROMANS-SUR-ISERE<Dep> à <Arr>CONCARNEAU<Arr> en voiture.
+Quelle est la distance entre <Dep>PLOURIVO<Dep> et <Arr>AUBIGNE-RACAN<Arr> ?
+Quels sont les meilleurs itinéraires pour aller à <Arr>BUEIL<Arr> depuis <Dep>TARASCON<Dep> ?Je voudrais trouver un vol de <Dep>BOIS-COLOMBES<Dep> vers <Arr>QUINCIEUX<Arr> avec une compagnie aérienne de trains à voie normale.
+Quel est l'itinéraire le plus court pour aller de <Dep>MONTLUCON<Dep> à <Arr>GRAMAT<Arr> en voiture ?
+J'aimerais faire un voyage de <Dep>BOEN-SUR-LIGNON<Dep> à <Arr>LESPARRE-MEDOC<Arr> en utilisant un service de taxi.
+Je voudrais trouver un vol de <Dep>BETTON<Dep> vers <Arr>L'ESCARENE<Arr> avec une compagnie aérienne de trains à voie normale.
+Je cherche le chemin de <Dep>SILLE-LE-GUILLAUME<Dep> à <Arr>TOULOUSE<Arr>.
+Je voudrais trouver un vol de <Dep>NOISY-LE-SEC<Dep> vers <Arr>BRUZ<Arr> avec une compagnie aérienne de ballons à air chaud.
+Je voudrais trouver un vol de <Dep>CULOZ<Dep> vers <Arr>THIAVILLE-SUR-MEURTHE<Arr> avec une escale.
+J'aimerais aller de <Dep>MARTIGUES<Dep> jusqu'à <Arr>VILLEMAURY<Arr>.
+Je souhaite prendre un taxi de <Dep>XEUILLEY<Dep> pour aller à <Arr>LAPEYROUSE<Arr>.
+Je voudrais trouver un vol de <Dep>DUAULT<Dep> vers <Arr>COUSSEY<Arr> avec une compagnie aérienne de bateaux.
+J'ai besoin d'un itinéraire pour aller de <Dep>PIHEN-LES-GUINES<Dep> vers <Arr>SEVREMOINE<Arr>.
+Comment puis-je aller de <Dep>VEAUCHE<Dep> à <Arr>MARMAGNE<Arr> en voiture ?
+Je souhaite me rendre à <Arr>LA GRAND-COMBE<Arr> en partant de <Dep>FONTAINES<Dep>.
+J'aimerais savoir comment aller de <Dep>OERMINGEN<Dep> à <Arr>NESLE<Arr> en voiture.
+Quelle est la distance entre <Dep>MARSEILLE<Dep> et <Arr>ELNE<Arr> ?
+Montre-moi la route pour aller de <Dep>TOURNUS<Dep> à <Arr>PREMERY<Arr>.
+Quel est le trajet le plus rapide entre <Dep>DOMBASLE-SUR-MEURTHE<Dep> et <Arr>GIERES<Arr> ?
+Je voudrais savoir comment aller de <Dep>PRIN-DEYRANCON<Dep> à <Arr>CHAMPAGNE-SUR-SEINE<Arr> en utilisant les transports publics.
+Je dois prendre un vol de <Dep>BRUMATH<Dep> vers <Arr>SUCY-EN-BRIE<Arr> le mois prochain.
+Je voudrais trouver un vol de <Dep>COULOMMIERS<Dep> vers <Arr>DREUX<Arr> avec une compagnie aérienne de dirigeables.
+J'ai besoin de directions pour aller de <Dep>NYER<Dep> à <Arr>VILLENEUVE-D'ASCQ<Arr>.
+Combien de temps dure le trajet en train de <Dep>SAINT-MACAIRE<Dep> à <Arr>MAINTENON<Arr> ?
+J'aimerais aller de <Dep>REIMS<Dep> à <Arr>DRANCY<Arr> pour une conférence.
+Y a-t-il un train direct de <Arr>ASSAT<Arr> vers <Dep>SAINT-ANDRE-DE-CORCY<Dep> ?
+Un itinéraire de <Dep>DORMANS<Dep> à <Arr>LOCHES<Arr> me serait utile.
+Je souhaiterais me rendre à <Arr>MANTES-LA-JOLIE<Arr>, partant de <Dep>SURGERES<Dep>.
+Je dois trouver un moyen de transport pour aller de <Dep>CANNES<Dep> à <Arr>BENESTROFF<Arr> en utilisant un service de transport privé.
+Je pars de <Dep>ROTHAU<Dep> vers <Arr>BAILLARGUES<Arr>.
+J'aimerais visiter <Arr>UGINE<Arr> après avoir passé quelques jours à <Dep>COLLONGES-AU-MONT-D'OR<Dep>.
+Je voudrais trouver un vol de <Dep>CORBENAY<Dep> vers <Arr>MONTROND-LES-BAINS<Arr> avec une compagnie aérienne virtuelle.
+J'ai besoin de directions pour me rendre à <Arr>LOUROUX-DE-BOUBLE<Arr> en partant de <Dep>CHAMOUSSET<Dep>.
+Je voudrais trouver un vol de <Dep>LE PONT-DE-CLAIX<Dep> vers <Arr>MONTREUIL-SUR-ILLE<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Quels sont les meilleurs itinéraires pour aller à <Arr>ALLENC<Arr> depuis <Dep>SAONE<Dep> ?
+Je voudrais prendre un bateau de <Dep>MOIRANS<Dep> vers <Arr>ARBOIS<Arr>.
+Je voudrais trouver un vol de <Dep>LUBERSAC<Dep> vers <Arr>PAU<Arr> avec une compagnie aérienne gouvernementale.
+Quel est l'itinéraire le plus direct pour aller de <Dep>JOUY-EN-JOSAS<Dep> à <Arr>VIC-LE-COMTE<Arr> en utilisant les transports en commun ?
+Veuillez me fournir un itinéraire pour me rendre de <Dep>BREITENBACH-HAUT-RHIN<Dep> à <Arr>AGUILCOURT<Arr> en utilisant les transports en commun.
+Quel est l'itinéraire le plus direct pour aller de <Dep>BACOUEL-SUR-SELLE<Dep> à <Arr>VIMY<Arr> en utilisant les transports en commun ?
+J'ai besoin d'un itinéraire pour aller de <Dep>BAIGTS-DE-BEARN<Dep> vers <Arr>BEUVRY<Arr>.
+Comment aller de <Dep>GRENAY<Dep> à <Arr>BONDY<Arr> ?
+Je dois me déplacer de <Dep>CORBEILLES<Dep> jusqu'à <Arr>LUX<Arr> pour un rendez-vous.
+Je voudrais trouver un vol de <Dep>BORDS<Dep> vers <Arr>BOURGES<Arr> avec une escale.
+Je pars de <Dep>SAINT-MANVIEU-NORREY<Dep> et je souhaite arriver à <Arr>CHAMPAGNOLE<Arr>.
+Je dois trouver un moyen de transport pour aller de <Dep>LAIZY<Dep> à <Arr>SAINT-HILAIRE-DE-CHALEONS<Arr> en utilisant un service de transport privé.
+Je voudrais organiser un voyage de <Dep>DOMPIERRE-SUR-MER<Dep> à <Arr>BENING-LES-SAINT-AVOLD<Arr>.
+Veuillez me donner un itinéraire pour aller de <Dep>BEYNES<Dep> à <Arr>LAVELINE-DEVANT-BRUYERES<Arr>.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>LOUVERNE<Dep> à <Arr>SOISY-SOUS-MONTMORENCY<Arr>.
+Donne-moi un itinéraire de <Dep>LE ROUGET-PERS<Dep> jusqu'à <Arr>VILLEPINTE<Arr>.
+Je voudrais trouver un vol de <Dep>CIRY-SALSOGNE<Dep> vers <Arr>COLMAR<Arr> avec une compagnie aérienne de trains à vapeur.
+Quel est l'itinéraire le plus direct pour aller de <Dep>GRISOLLES<Dep> à <Arr>VERNEUIL-SUR-SEINE<Arr> en utilisant les transports en commun ?
+Je dois voyager de <Dep>STAINS<Dep> à <Arr>ABBARETZ<Arr> pour un travail.
+Je souhaite faire un voyage en train de <Dep>SAINT-CERGUES<Dep> à <Arr>SAINT-OUEN-L'AUMONE<Arr> le week-end prochain.
+Je voudrais savoir comment aller de <Dep>CHOISY-LE-ROI<Dep> à <Arr>PARIS<Arr> en voiture.
+Je cherche un itinéraire pour me rendre de <Dep>GIERES<Dep> à <Arr>FOS-SUR-MER<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>JARDRES<Dep> vers <Arr>MORIERES-LES-AVIGNON<Arr> avec une compagnie aérienne à bas prix.
+Je dois trouver un moyen de transport pour aller de <Dep>ENNEZAT<Dep> à <Arr>NEXON<Arr> en utilisant un service de location de voitures.
+Montre-moi la route pour aller de <Dep>ROUNTZENHEIM-AUENHEIM<Dep> à <Arr>PICQUIGNY<Arr>.
+Je voudrais trouver un vol de <Dep>TILLIERES-SUR-AVRE<Dep> vers <Arr>MAZAMET<Arr> avec une compagnie aérienne virtuelle.
+Je voudrais trouver un vol de <Dep>YVETOT<Dep> vers <Arr>VICQ-SUR-BREUILH<Arr> avec une compagnie aérienne de trains à vapeur.
+Je voudrais trouver un vol de <Dep>NANTES<Dep> vers <Arr>LE LARDIN-SAINT-LAZARE<Arr> avec une compagnie aérienne d'hélicoptères.
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>MONESTIER-DE-CLERMONT<Dep> à <Arr>VILLEFRANCHE-SUR-SAONE<Arr>.
+J'ai besoin de directions pour aller à <Arr>HAM-EN-ARTOIS<Arr> depuis <Dep>VENDOME<Dep> en utilisant les transports en commun.
+Je voudrais organiser un voyage de <Dep>SAINT-PIERRE-QUIBERON<Dep> à <Arr>FRETEVAL<Arr>.
+Je souhaite prendre un taxi de <Dep>LAUTERBOURG<Dep> pour aller à <Arr>LA TRINITE<Arr>.
+Je dois me rendre à <Arr>BEZANNES<Arr> depuis <Dep>EAUBONNE<Dep> rapidement.
+Je cherche un moyen de me déplacer de <Dep>BANASSAC-CANILHAC<Dep> vers <Arr>MOIRANS<Arr>.
+Y a-t-il un train direct de <Arr>CHANTONNAY<Arr> vers <Dep>NOYEN-SUR-SARTHE<Dep> ?
+J'aimerais faire un voyage de <Dep>BITCHE<Dep> à <Arr>BLAISY-BAS<Arr> en voiture.
+Je me rends à <Arr>NAINTRE<Arr> et je pars de <Dep>PARIS<Dep>.
+Je voudrais trouver un vol de <Dep>LOON-PLAGE<Dep> vers <Arr>CANTARON<Arr> avec une compagnie aérienne régionale.
+Quel est l'itinéraire le plus direct pour aller de <Dep>DIVES-SUR-MER<Dep> à <Arr>BARR<Arr> en utilisant les transports en commun ?
+Je voudrais trouver un vol de <Dep>BRIOUZE<Dep> vers <Arr>MAGLAND<Arr> avec une compagnie aérienne de téléportation.
+Je voudrais trouver un vol de <Dep>LUC-LA-PRIMAUBE<Dep> vers <Arr>FONTENAY-SUR-LOING<Arr> avec une escale.
+Un itinéraire de <Dep>PORT-VENDRES<Dep> à <Arr>EPOUVILLE<Arr> me serait utile.
+J'ai besoin de directions pour aller à <Arr>ITEUIL<Arr> depuis <Dep>SAINT-HILAIRE-DE-CHALEONS<Dep> en utilisant les transports en commun.
+J'aimerais aller de <Dep>JANZE<Dep> jusqu'à <Arr>EPINAY-SUR-ORGE<Arr>.
+Je voudrais trouver un vol de <Dep>MARTIGUES<Dep> vers <Arr>LA FERTE-SOUS-JOUARRE<Arr> avec une compagnie aérienne de dirigeables.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>BRIOUDE<Dep> à <Arr>PARIS<Arr> en utilisant les transports en commun.
+Quel est le trajet le plus court pour aller de <Dep>VILLARS-LES-DOMBES<Dep> à <Arr>BOURGANEUF<Arr> ?
+Je voudrais savoir comment aller de <Dep>BRAINE<Dep> à <Arr>GRENAY<Arr> en utilisant les transports publics.
+Est-il possible de prendre un bus de <Dep>CHOISY-LE-ROI<Dep> pour <Arr>LA CHAIZE-LE-VICOMTE<Arr> ?
+Je cherche un vol direct de <Dep>GRIGNY<Dep> vers <Arr>SARRALBE<Arr>.
+Je voudrais trouver un vol de <Dep>HARFLEUR<Dep> vers <Arr>PORNICHET<Arr> avec une compagnie aérienne haut de gamme.
+Je cherche un itinéraire pour aller de <Dep>HYMONT<Dep> à <Arr>GIVORS<Arr> en utilisant les transports en commun.
+Je veux aller de <Arr>PLAINE-D'ARGENSON<Arr> à <Dep>BARTENHEIM<Dep>.
+Je voudrais trouver un vol de <Arr>MARIGNANE<Arr> à <Dep>FLERS-EN-ESCREBIEUX<Dep> au meilleur prix.
+Je voudrais trouver un vol de <Dep>BOUCAU<Dep> vers <Arr>ISBERGUES<Arr> avec une compagnie aérienne d'affaires.
+Je voudrais trouver un vol de <Dep>VERRUYES<Dep> vers <Arr>LA TOUR-DU-PIN<Arr> avec une compagnie aérienne privée.
+Je recherche un itinéraire pour me rendre de <Dep>L'ESCARENE<Dep> vers <Arr>SAINT-SEURIN-SUR-L'ISLE<Arr>.
+Quel est le trajet le plus court pour aller de <Dep>EOLE-EN-BEAUCE<Dep> à <Arr>BANTZENHEIM<Arr> ?
+J'ai besoin de directions pour aller de <Dep>MULHOUSE<Dep> à <Arr>PESSAC<Arr>.
+Je souhaiterais me rendre à <Arr>CAMPAGNAC<Arr>, partant de <Dep>NAINTRE<Dep>.
+Je recherche un itinéraire pour me rendre de <Dep>CHATEAUNEUF-SUR-ISERE<Dep> vers <Arr>BOURG-EN-BRESSE<Arr>.
+Je dois me rendre à <Arr>BOLLWILLER<Arr> depuis <Dep>NERONDES<Dep> rapidement.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>ROUBAIX<Arr> en partant de <Dep>VILLENEUVE-LA-GUYARD<Dep> ?
+Je voudrais trouver un vol de <Dep>GIVORS<Dep> vers <Arr>BRUZ<Arr> avec une compagnie aérienne haut de gamme.
+Je voudrais savoir comment aller de <Dep>PARIS<Dep> à <Arr>SELLES-SUR-CHER<Arr> en voiture.
+Veuillez me donner un itinéraire pour me rendre à <Arr>SAULNES<Arr> depuis <Dep>SAINT-JEAN-DE-SAUVES<Dep>.
+Je voudrais trouver un vol de <Dep>REUILLY<Dep> vers <Arr>THIAVILLE-SUR-MEURTHE<Arr> avec une compagnie aérienne internationale.
+Veuillez me donner un itinéraire pour aller de <Dep>SAINT-CLAUDE<Dep> à <Arr>AGONAC<Arr>.
+Comment puis-je aller de <Dep>MORBIER<Dep> à <Arr>RACQUINGHEM<Arr> en voiture ?
+J'aimerais trouver un billet de train pour aller de <Dep>AMBAZAC<Dep> à <Arr>FERE-CHAMPENOISE<Arr>.
+Je voudrais organiser un voyage de <Dep>RULX<Dep> à <Arr>BELLEVILLE<Arr>.
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>FRONTIGNAN<Arr> en partant de <Dep>LA MEILLERAIE-TILLAY<Dep>.
+Je pars de <Dep>SAINT-GERMAIN-DES-FOSSES<Dep> et je souhaite arriver à <Arr>MER<Arr>.
+Je cherche un moyen de me déplacer de <Dep>BAVAY<Dep> vers <Arr>TERRASSON-LAVILLEDIEU<Arr>.
+Je voudrais trouver un vol de <Dep>LAYRAC<Dep> vers <Arr>LE HAVRE<Arr> avec une compagnie aérienne de tourisme.
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>ETAPLES<Dep> vers <Arr>AUBIN<Arr>.
+Je voudrais trouver un vol de <Dep>FRANOIS<Dep> vers <Arr>SALLAUMINES<Arr> avec une compagnie aérienne internationale.
+Je cherche le meilleur itinéraire pour aller de <Dep>LILLE<Dep> à <Arr>ROCAMADOUR<Arr>.
+Quel est le trajet le plus court pour aller de <Dep>CAUDROT<Dep> à <Arr>BRUYERES<Arr> ?
+Je voudrais trouver un vol de <Dep>PARIS<Dep> vers <Arr>TAILLEBOURG<Arr> avec une compagnie aérienne de sous-marins.
+Quelle est la meilleure route pour aller à <Arr>NICE<Arr> en partant de <Dep>PONT-AUDEMER<Dep> ?
+Quel est le meilleur moyen de se rendre à <Arr>CHASSE-SUR-RHONE<Arr> en partant de <Dep>CHATEAU-THIERRY<Dep> ?
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>COUTRAS<Dep> à <Arr>ITXASSOU<Arr>.
+Je voudrais trouver un vol de <Dep>PHALEMPIN<Dep> vers <Arr>BOVES<Arr> avec une compagnie aérienne cargo.
+Je voudrais trouver un vol de <Dep>PARSAC-RIMONDEIX<Dep> vers <Arr>LA NORVILLE<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je voudrais trouver un vol de <Dep>LUTTERBACH<Dep> vers <Arr>QUINCIEUX<Arr> avec une compagnie aérienne de drones.
+Je dois prendre un vol de <Dep>RENESCURE<Dep> vers <Arr>ISBERGUES<Arr> le mois prochain.
+J'ai besoin de directions pour aller de <Dep>PREIGNAC<Dep> à <Arr>BORDEAUX<Arr>.
+Je souhaite faire un voyage en train de <Dep>NEUVIC<Dep> à <Arr>LONGUEVILLE<Arr> avec un arrêt à <Dep>NEUVIC<Dep>.
+J'ai besoin de directions pour aller à <Arr>CHEVREMONT<Arr> depuis <Dep>FRETEVAL<Dep> en utilisant les transports en commun.
+Je souhaite faire un voyage en train de <Dep>ORLEANS<Dep> à <Arr>STAINS<Arr> avec un arrêt à <Dep>ORLEANS<Dep>.
+Je me rends à <Arr>MAREIL-SUR-MAULDRE<Arr> et je pars de <Dep>BOURGOIN-JALLIEU<Dep>.
+Quel est le trajet le plus rapide depuis <Dep>VOREPPE<Dep> jusqu'à <Arr>VIERZON<Arr> ?
+Je voudrais trouver un vol de <Dep>RAISMES<Dep> vers <Arr>BANTZENHEIM<Arr> avec une compagnie aérienne privée.
+J'aimerais savoir comment aller de <Dep>SAINT-JUST-EN-CHAUSSEE<Dep> à <Arr>HONNECHY<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>CHAMPIGNY-SUR-MARNE<Dep> vers <Arr>METZ<Arr> avec une compagnie aérienne de téléportation.
+Donne-moi un itinéraire de <Dep>LIGUGE<Dep> jusqu'à <Arr>ORCHIES<Arr>.
+Quel est l'itinéraire le plus direct pour aller de <Dep>ARTIX<Dep> à <Arr>LE COUDRAY-MONTCEAUX<Arr> en utilisant les transports en commun ?
+J'ai besoin de directions pour aller de <Dep>LUZY<Dep> à <Arr>CHAMPAGNOLE<Arr>.
+Je voudrais savoir comment aller de <Dep>NOISY-LE-SEC<Dep> à <Arr>CHAMONIX-MONT-BLANC<Arr> en utilisant les transports publics.
+J'aimerais visiter <Arr>SAUMUR<Arr> après avoir passé quelques jours à <Dep>CHENONCEAUX<Dep>.
+Y a-t-il un moyen de se rendre de <Dep>PLOUGONVER<Dep> vers <Arr>PAGNY-SUR-MEUSE<Arr> ?
+J'aimerais aller de <Dep>VILLENEUVE-LOUBET<Dep> à <Arr>CHAMELET<Arr> pour une conférence.
+Je cherche des options de transport pour aller de <Dep>ROCAMADOUR<Dep> jusqu'à <Arr>MAUBEUGE<Arr>.
+Comment puis-je aller de <Dep>VILLERS-SAINT-SEPULCRE<Dep> vers <Arr>TRAPPES<Arr> en transports en commun ?
+Je cherche un itinéraire pour me rendre de <Dep>LA HOUSSAYE-EN-BRIE<Dep> à <Arr>SAINT-MASMES<Arr> en utilisant les transports en commun.
+Je souhaite faire un voyage en train de <Arr>TENDE<Arr> à <Dep>MONTIGNY-LE-BRETONNEUX<Dep>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>SAINT-POURCAIN-SUR-SIOULE<Arr> en partant de <Dep>CAVAILLON<Dep> ?
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>BRENY<Arr> en partant de <Dep>MARIGNAC<Dep> ?
+Je voudrais trouver un vol de <Dep>SAINT-ETIENNE-DU-ROUVRAY<Dep> vers <Arr>BOUFFEMONT<Arr> avec une compagnie aérienne de drones.
+J'aimerais savoir comment aller de <Dep>SAINT-LEONARD<Dep> à <Arr>DRULINGEN<Arr> en voiture.
+Je voudrais aller de <Dep>REUILLY<Dep> à <Arr>TROGUES<Arr> pour les vacances.
+J'aimerais faire un voyage de <Dep>ANCENIS-SAINT-GEREON<Dep> à <Arr>NEUVES-MAISONS<Arr> en voiture.
+Je cherche un itinéraire pour aller de <Dep>GRESY-SUR-AIX<Dep> vers <Arr>ROUBAIX<Arr>.
+J'ai besoin de directions pour aller de <Dep>LA MEYZE<Dep> à <Arr>HAGUENAU<Arr>.
+Je recherche un itinéraire pour aller à <Arr>AVESNELLES<Arr> depuis <Dep>RIXHEIM<Dep>.
+Je cherche un itinéraire pour aller de <Dep>MONTBRISON<Dep> à <Arr>CAPVERN<Arr> en utilisant les transports en commun.
+Comment me rendre de <Dep>DOMFRONT-EN-CHAMPAGNE<Dep> à <Arr>LE VAL D'HAZEY<Arr> en utilisant les transports publics ?
+Je voudrais prendre un vol direct de <Dep>NEUSSARGUES EN PINATELLE<Dep> vers <Arr>CHATEAUBRIANT<Arr> sans escale.
+Je dois me rendre à <Arr>MAUZAC-ET-GRAND-CASTANG<Arr> en partant de <Dep>PRE-EN-PAIL-SAINT-SAMSON<Dep>.
+Donne-moi un itinéraire de <Dep>AMBES<Dep> jusqu'à <Arr>LONS-LE-SAUNIER<Arr>.
+Je voudrais trouver un vol de <Dep>LE THEIL-DE-BRETAGNE<Dep> vers <Arr>LES PAVILLONS-SOUS-BOIS<Arr> avec une compagnie aérienne à bas prix.
+Je souhaiterais savoir comment aller de <Dep>MONTARGIS<Dep> à <Arr>DUNKERQUE<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>HENIN-BEAUMONT<Arr> en partant de <Dep>ABLAINCOURT-PRESSOIR<Dep> ?
+Je dois trouver un moyen de transport pour aller de <Dep>FONTANES<Dep> à <Arr>HAYANGE<Arr> en utilisant un service de covoiturage.
+Je voudrais trouver un vol de <Dep>BAINVILLE-SUR-MADON<Dep> vers <Arr>COMINES<Arr> avec une compagnie aérienne de téléportation.
+Je cherche le chemin de <Dep>MULHOUSE<Dep> à <Arr>AMBES<Arr>.
+Je voudrais trouver un vol de <Dep>AUTREY<Dep> vers <Arr>LOUHOSSOA<Arr> avec une compagnie aérienne de sous-marins.
+J'aimerais visiter <Arr>AULNAY-SOUS-BOIS<Arr> après avoir passé quelques jours à <Dep>CHECY<Dep>.
+Je cherche un moyen de me déplacer de <Dep>DOUAI<Dep> vers <Arr>SERVAS<Arr>.
+Je voudrais trouver un vol de <Dep>SCHERWILLER<Dep> vers <Arr>FONTENAY-LE-COMTE<Arr> avec une compagnie aérienne de trains à crémaillère.
+Je dois trouver un moyen de transport pour aller de <Dep>DOMMARY-BARONCOURT<Dep> à <Arr>BLANZY<Arr> en utilisant un service de transport public.
+Pouvez-vous me donner des informations sur un vol de <Dep>CORBEHEM<Dep> à <Arr>NOTRE-DAME-DE-BONDEVILLE<Arr> ?
+Je souhaite faire un voyage de <Dep>HOUILLES<Dep> à <Arr>SATHONAY-CAMP<Arr> pour un mariage.
+J'ai besoin de directions pour aller à <Arr>CLERMONT-FERRAND<Arr> depuis <Dep>ARLES<Dep>.
+Je voudrais trouver un vol de <Dep>PARTHENAY<Dep> vers <Arr>LE LARDIN-SAINT-LAZARE<Arr> avec une compagnie aérienne gouvernementale.
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>OSSEJA<Arr> en partant de <Dep>LUC<Dep> ?
+Pouvez-vous me trouver un itinéraire pour un voyage de <Dep>BOUZONVILLE<Dep> à <Arr>VIAM<Arr> ?
+Je cherche un moyen de me déplacer de <Dep>MAISSE<Dep> vers <Arr>FONTAINEBLEAU<Arr>.
+Je cherche un moyen de transport pour aller de <Arr>NEUVIC<Arr> à <Dep>DONTRIEN<Dep> le plus rapidement possible.
+Je dois trouver un moyen de transport pour aller de <Dep>RIXHEIM<Dep> à <Arr>BREIL-SUR-ROYA<Arr> en utilisant un service de transport privé.
+Je voudrais trouver un vol de <Arr>LOUDUN<Arr> à <Dep>MORVILLARS<Dep> au meilleur prix.
+Je voudrais trouver un vol de <Dep>MAREIL-SUR-MAULDRE<Dep> vers <Arr>AMPLEPUIS<Arr> avec une compagnie aérienne de fusées.
+Je dois trouver un moyen de transport pour aller de <Dep>HARFLEUR<Dep> à <Arr>LA SEYNE-SUR-MER<Arr> en utilisant un service de location de voitures.
+J'aimerais visiter <Arr>CYSOING<Arr> après avoir passé quelques jours à <Dep>MEZIN<Dep>.
+Comment puis-je aller de <Dep>MARSEILLAN<Dep> vers <Arr>CONLIE<Arr> en transports en commun ?
+Je voudrais trouver un vol de <Dep>MONTDIDIER<Dep> vers <Arr>ARS-SUR-MOSELLE<Arr> avec une compagnie aérienne privée.
+Je veux aller à <Arr>HAGUENAU<Arr> depuis <Dep>MASSERET<Dep>
+Je voudrais trouver un vol de <Dep>LE PERRAY-EN-YVELINES<Dep> vers <Arr>VARETZ<Arr> au meilleur prix possible.
+Je souhaiterais trouver un itinéraire pour aller de <Dep>LANDIVISIAU<Dep> à <Arr>CARBONNE<Arr>.
+Quel est l'itinéraire le plus rapide pour se rendre à <Arr>SAALES<Arr> en partant de <Dep>LANGRES<Dep> ?
+Je voudrais trouver un vol de <Dep>LABOISSIERE-EN-THELLE<Dep> vers <Arr>MUTZIG<Arr> avec une compagnie aérienne cargo.
+Je souhaite faire un road trip de <Dep>TEILLE<Dep> à <Arr>VINCA<Arr>.
+Je voudrais prendre un vol direct de <Dep>VINDRAC-ALAYRAC<Dep> vers <Arr>BLAISY-BAS<Arr> sans escale.
+Je voudrais trouver un vol de <Dep>COLOMIERS<Dep> vers <Arr>VEYNES<Arr> avec une compagnie aérienne de voitures volantes.
+Je voudrais trouver un vol de <Dep>ORRY-LA-VILLE<Dep> vers <Arr>LE ROUGET-PERS<Arr> avec une compagnie aérienne virtuelle.
+Un itinéraire de <Dep>AGUILCOURT<Dep> à <Arr>PUTEAUX<Arr> me serait utile.
+Je pars de <Dep>VINAY<Dep> vers <Arr>LA VOULTE-SUR-RHONE<Arr>.
+Je voudrais trouver un vol de <Dep>LALUQUE<Dep> vers <Arr>LONGWY<Arr> avec une compagnie aérienne d'hélicoptères.
+Je voudrais trouver un vol de <Dep>SAINT-LAURENT-DE-LA-PREE<Dep> vers <Arr>AVRICOURT<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Quel est le trajet le plus rapide pour aller de <Dep>LE BREUIL-SUR-COUZE<Dep> à <Arr>MORCENX-LA-NOUVELLE<Arr> ?
+Veuillez me donner un itinéraire qui me permette de me rendre à <Arr>CRAMPAGNA<Arr> en partant de <Dep>LE MOLAY-LITTRY<Dep>.
+Quel est l'itinéraire le plus direct pour se rendre à <Arr>MONTBARREY<Arr> en partant de <Dep>BRIARE<Dep> ?
+Je voudrais trouver un vol de <Dep>BONNEMAIN<Dep> vers <Arr>LA CHAPELLE-DE-GUINCHAY<Arr> avec une compagnie aérienne de sous-marins.
+Quel est le trajet le plus court pour aller de <Dep>CHAINGY<Dep> à <Arr>LEVAL<Arr> ?
+Quel est le trajet le plus rapide depuis <Dep>MARSEILLE<Dep> jusqu'à <Arr>PONTOISE<Arr> ?
+Je voudrais trouver un vol de <Dep>BEUVRY<Dep> vers <Arr>WISSOUS<Arr> avec une compagnie aérienne de trains à voie normale.
+J'aimerais savoir comment aller de <Dep>L'ISLE-SUR-LA-SORGUE<Dep> à <Arr>REIMS<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>SENAS<Dep> vers <Arr>BUZANCAIS<Arr> avec une compagnie aérienne de trains à voie étroite.
+Je voudrais trouver un vol de <Dep>LAMONZIE-SAINT-MARTIN<Dep> vers <Arr>BOISLEUX-AU-MONT<Arr> avec une compagnie aérienne de dirigeables.
+Je voudrais trouver un vol de <Dep>L'AIGLE<Dep> vers <Arr>OBERMODERN-ZUTZENDORF<Arr> avec une compagnie aérienne de fusées.
+Je voudrais trouver un vol de <Dep>LA PERCHE<Dep> vers <Arr>CHATELAILLON-PLAGE<Arr> avec une compagnie aérienne privée.
+Je dois trouver un moyen de transport pour aller de <Dep>MARSEILLE<Dep> à <Arr>BEAUTIRAN<Arr> en utilisant un service de covoiturage.
+Je pars de <Dep>CHATELAILLON-PLAGE<Dep> et je souhaite arriver à <Arr>POUGUES-LES-EAUX<Arr>.
+Pouvez-vous me trouver un itinéraire pour un voyage de <Dep>BRIGNAIS<Dep> à <Arr>LORMONT<Arr> ?
+Veuillez me donner un itinéraire pour me rendre à <Arr>LOUVROIL<Arr> depuis <Dep>VALENCIENNES<Dep>.
+Je voudrais trouver un vol de <Dep>FOUDAY<Dep> vers <Arr>HERNY<Arr> avec une compagnie aérienne de trains à vapeur.
+J'aimerais faire un voyage de <Dep>GAGNY<Dep> à <Arr>SAINT-ERME-OUTRE-ET-RAMECOURT<Arr> en prenant le métro.
+Je voudrais trouver un vol de <Dep>LOUVRES<Dep> vers <Arr>BEUZEVILLE<Arr> avec une compagnie aérienne militaire.
+Je souhaite me rendre à <Arr>RUNGIS<Arr> en partant de <Dep>METZ<Dep>.
+Quel est le trajet le plus rapide pour aller de <Dep>BISCHWILLER<Dep> à <Arr>SAINT-MARTORY<Arr> ?
+Je voudrais trouver un vol de <Dep>VALENCIENNES<Dep> vers <Arr>LE PUY-EN-VELAY<Arr> avec une compagnie aérienne de tourisme.
+Je dois me déplacer de <Dep>ANGOULINS<Dep> jusqu'à <Arr>JOUE-LES-TOURS<Arr> pour un rendez-vous.
+Je voudrais trouver un vol de <Arr>LANGEAIS<Arr> à <Dep>JOUE-LES-TOURS<Dep> au meilleur prix.
+Je voudrais trouver un vol de <Dep>LUXEUIL-LES-BAINS<Dep> vers <Arr>CRECY-LA-CHAPELLE<Arr> avec une compagnie aérienne charter.
+J'aimerais faire un voyage de <Dep>DONTRIEN<Dep> à <Arr>LESCAR<Arr> en prenant le métro.
+Je pars de <Dep>AIX-EN-PROVENCE<Dep> et je souhaite arriver à <Arr>VIEUX-MANOIR<Arr>.
+Je voudrais aller de <Dep>LA BRIGUE<Dep> à <Arr>FIGEAC<Arr> pour les vacances.
+Je dois trouver un moyen de transport pour aller de <Dep>LE VIGNON-EN-QUERCY<Dep> à <Arr>NARBONNE<Arr> en utilisant un service de location de voitures.
+Je souhaite faire un voyage de <Dep>SAINTE-PAZANNE<Dep> à <Arr>BOGNY-SUR-MEUSE<Arr> pour un mariage.
+Veuillez me donner un itinéraire pour aller de <Dep>POLIGNY<Dep> à <Arr>SAINT-GERMAIN-SUR-MORIN<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>BROONS<Arr> en partant de <Dep>BACOUEL-SUR-SELLE<Dep> ?
+Veuillez me fournir un itinéraire pour me rendre de <Dep>EPINAL<Dep> à <Arr>ROTHAU<Arr>.
+Je souhaite faire un voyage de <Dep>FRANXAULT<Dep> à <Arr>VANNES<Arr> pour un mariage.
+Je voudrais trouver un vol de <Dep>BUSSAC-FORET<Dep> vers <Arr>MASSERAC<Arr> avec une compagnie aérienne gouvernementale.
+Veuillez me donner un itinéraire pour me rendre à <Arr>VIC-SUR-CERE<Arr> en partant de <Dep>METZ<Dep> en voiture.
+Y a-t-il un train direct de <Arr>GIEN<Arr> vers <Dep>ALTKIRCH<Dep> ?
+Comment puis-je aller de <Dep>JARDRES<Dep> à <Arr>AUDUN-LE-ROMAN<Arr> en voiture ?
+Je voudrais trouver un vol de <Dep>ECOUFLANT<Dep> vers <Arr>BENFELD<Arr> avec une compagnie aérienne de trains à voie normale.
+Je dois trouver un moyen de transport pour aller de <Dep>SQUIFFIEC<Dep> à <Arr>CESTAS<Arr> en utilisant un service de transport privé.
+Comment puis-je aller de <Dep>MONSEMPRON-LIBOS<Dep> à <Arr>LE CHATEAU-D'ALMENECHES<Arr> en voiture ?
+Comment puis-je aller de <Dep>SAINT-DENIS<Dep> à <Arr>VILLIERS-SAINT-FREDERIC<Arr> en voiture ?
+Je me rends à <Arr>GRENOBLE<Arr> et je pars de <Dep>BENGY-SUR-CRAON<Dep>.
+J'aimerais faire un voyage de <Dep>PARIS<Dep> à <Arr>ERMONT<Arr> en utilisant un service de transport en commun.
+J'aimerais faire un voyage de <Dep>ALIXAN<Dep> à <Arr>LES PAVILLONS-SOUS-BOIS<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>BEAUVOISIN<Dep> vers <Arr>PONT-DE-BUIS-LES-QUIMERCH<Arr> avec une compagnie aérienne à bas prix.
+Je pars de <Dep>SABLONS SUR HUISNE<Dep> et je souhaite arriver à <Arr>SARREGUEMINES<Arr>.
+Je voudrais trouver un vol de <Arr>CONCHIL-LE-TEMPLE<Arr> à <Dep>LE ROUGET-PERS<Dep> au meilleur prix.
+Je dois trouver un moyen de transport pour aller de <Dep>BUZANCAIS<Dep> à <Arr>MIGNALOUX-BEAUVOIR<Arr> en utilisant un service de transport public.
+Je voudrais trouver un vol de <Dep>VILLENEUVE-LA-COMTESSE<Dep> vers <Arr>GARGENVILLE<Arr> avec une compagnie aérienne privée.
+Je cherche un vol direct de <Dep>MEURSAULT<Dep> vers <Arr>SAINT-LO<Arr>.
+Je voudrais trouver un vol de <Dep>VERGEZE<Dep> vers <Arr>ARCHES<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>COLOMBIER-FONTAINE<Dep> à <Arr>INGRANDES-LE FRESNE SUR LOIRE<Arr> en voiture.
+J'aimerais faire un voyage de <Dep>LEZIGNAN-LA-CEBE<Dep> à <Arr>LOURES-BAROUSSE<Arr> en prenant le métro.
+Je voudrais trouver un vol de <Dep>DOUAI<Dep> vers <Arr>CRETEIL<Arr> avec une compagnie aérienne d'hélicoptères.
+J'ai besoin d'un itinéraire pour me déplacer de <Dep>BONNEMAIN<Dep> à <Arr>EINVAUX<Arr>.
+Est-ce loin d'aller de <Dep>LONGPONT<Dep> à <Arr>BELLEVILLE-EN-BEAUJOLAIS<Arr> ?
+Je cherche un moyen de transport pour aller de <Arr>FAREBERSVILLER<Arr> à <Dep>SAINT-VICTOR-SUR-RHINS<Dep> le plus rapidement possible.
+Je voudrais trouver un vol de <Dep>DONTRIEN<Dep> vers <Arr>ROYE<Arr> avec une compagnie aérienne de fret.
+J'aimerais visiter <Dep>MAUBOURGUET<Dep> et ensuite me rendre à <Arr>MARTIGUES<Arr>.
+Je veux voyager de <Dep>ANOULD<Dep> à <Arr>MONTREUIL-JUIGNE<Arr> en passant par <Arr>MONTREUIL-JUIGNE<Arr>.
+Combien de temps dure le trajet en train de <Dep>CHIVRES-EN-LAONNOIS<Dep> à <Arr>US<Arr> ?
+Quel est le trajet le plus rapide entre <Dep>LA ROCHE-EN-BRENIL<Dep> et <Arr>LA COURNEUVE<Arr> ?
+J'ai besoin d'un itinéraire qui me permette de me rendre de <Dep>GENNEVILLIERS<Dep> vers <Arr>SALOME<Arr>.
+J'ai besoin de directions pour aller de <Dep>PASSY<Dep> à <Arr>VILLERS-COTTERETS<Arr>.
+Je voudrais prendre un vol direct de <Dep>MARTIGUES<Dep> vers <Arr>AIGUES-VIVES<Arr> sans escale.
+Je cherche un itinéraire pour me rendre de <Dep>ILLZACH<Dep> à <Arr>MONTAIGNAC-SUR-DOUSTRE<Arr> en utilisant les transports en commun.
+Quel est l'itinéraire le plus direct pour aller de <Dep>BRIARE<Dep> à <Arr>LIEUSAINT<Arr> en voiture ?
+Je veux aller à <Arr>MARMAGNE<Arr> depuis <Dep>QUESNOY-SUR-DEULE<Dep>
+J'aimerais visiter <Dep>AMBOISE<Dep> et ensuite me rendre à <Arr>BOHAIN-EN-VERMANDOIS<Arr>.
+Je cherche un itinéraire pour aller de <Dep>ISSY-LES-MOULINEAUX<Dep> vers <Arr>RIVESALTES<Arr>.
+Quel est l'itinéraire le plus court pour aller de <Dep>MIRECOURT<Dep> à <Arr>TOURVILLE-LA-RIVIERE<Arr> en voiture ?
+Montre-moi la route pour aller de <Dep>LES MUREAUX<Dep> à <Arr>HESDIN<Arr>.
+Je voudrais trouver un vol de <Dep>VILLEFORT<Dep> vers <Arr>SALECHAN<Arr> avec une escale.
+Je voudrais trouver un vol de <Dep>LAYRAC<Dep> vers <Arr>BERGUES<Arr> avec une compagnie aérienne de trains à grande vitesse.
+Je souhaite prendre un taxi de <Dep>GENSAC-LA-PALLUE<Dep> pour aller à <Arr>LAVOUTE-SUR-LOIRE<Arr>.
+Je voudrais trouver un vol de <Dep>GUETHARY<Dep> vers <Arr>NAUCELLE<Arr> avec une compagnie aérienne privée.
+Je souhaite aller de <Dep>LONGCHAMP-SUR-AUJON<Dep> jusqu'à <Arr>REDING<Arr>.
+Donnez-moi un itinéraire pour aller de <Dep>GIVET<Dep> jusqu'à <Arr>SAINT-JULIEN-SUR-DHEUNE<Arr>.
+Comment puis-je me rendre à <Arr>BITSCHWILLER-LES-THANN<Arr> depuis <Dep>SAINT-PRIEST-TAURION<Dep> ?
+Comment aller de <Dep>MAREIL-MARLY<Dep> à <Arr>THANN<Arr> ?
+Veuillez me donner un itinéraire qui me permette de me rendre de <Dep>SAINT-PIERRE-D'ALBIGNY<Dep> à <Arr>CHASSE-SUR-RHONE<Arr>.
+J'aimerais faire un voyage de <Dep>LAYRAC<Dep> à <Arr>CHADENET<Arr> en prenant le métro.
+J'aimerais trouver un billet de train pour aller de <Dep>JUVISY-SUR-ORGE<Dep> à <Arr>VENDEUVRE-SUR-BARSE<Arr>.
+Veuillez me fournir un itinéraire pour me rendre de <Dep>SAINT-SEBASTIEN-SUR-LOIRE<Dep> à <Arr>BEAUCAIRE<Arr> en utilisant les transports en commun.
+J'ai besoin de directions pour aller à <Arr>QUESTEMBERT<Arr> depuis <Dep>AGONAC<Dep> en utilisant les transports en commun.
+Je voudrais trouver un vol de <Dep>MEROUX-MOVAL<Dep> vers <Arr>VERNEUIL-SUR-SERRE<Arr> avec une compagnie aérienne régionale.
+J'ai besoin d'un itinéraire qui me permette d'aller de <Dep>LE DOUHET<Dep> à <Arr>ALLAND'HUY-ET-SAUSSEUIL<Arr>.
+Veuillez me donner un itinéraire pour aller de <Dep>MASSY<Dep> à <Arr>CAMIERS<Arr>.
+Quel est le meilleur moyen de se rendre à <Arr>MANDUEL<Arr> en partant de <Dep>BANASSAC-CANILHAC<Dep> ?
+Je cherche le chemin de <Dep>LE CROISIC<Dep> à <Arr>COUFOULEUX<Arr>.
+Je pars de <Dep>VERNEUIL D'AVRE ET D'ITON<Dep> vers <Arr>PLAISIR<Arr>.
+Je voudrais trouver un vol de <Dep>MARSAC-SUR-L'ISLE<Dep> vers <Arr>CHAMPAGNE<Arr> avec une compagnie aérienne de trains à crémaillère.
+Pouvez-vous me fournir un itinéraire de <Dep>MANOIS<Dep> à <Arr>SAINT-HERVE<Arr> ?
+Quel est le trajet le plus rapide pour aller de <Dep>VANVES<Dep> à <Arr>GAURIAGUET<Arr> ?
+Je veux partir de <Dep>MARMAGNE<Dep> et arriver à <Arr>MONNAIE<Arr>.
+Je cherche des options de transport pour aller de <Dep>MERREY<Dep> jusqu'à <Arr>PARIS<Arr>.
+Je voudrais trouver un vol de <Dep>CHALON-SUR-SAONE<Dep> vers <Arr>BERTRICHAMPS<Arr> avec une compagnie aérienne privée.
+Quel est le meilleur moyen de se rendre à <Arr>BLAGNY<Arr> en partant de <Dep>GARANCIERES<Dep> ?
+Je veux voyager de <Dep>MARCILLY-SUR-TILLE<Dep> à <Arr>BAILLEUL-SUR-THERAIN<Arr> en passant par <Arr>BAILLEUL-SUR-THERAIN<Arr>.
+Je cherche un itinéraire pour aller de <Dep>BRESSUIRE<Dep> vers <Arr>ETRICHE<Arr>.
+Comment rejoindre <Arr>VERSAILLES<Arr> depuis <Dep>GAURIAGUET<Dep> en train ?
+Je souhaite faire un voyage en train de <Dep>LE PONT-CHRETIEN-CHABENET<Dep> à <Arr>VILLEDOMER<Arr> le week-end prochain.
+Je dois trouver un moyen de transport pour aller de <Dep>LOOS<Dep> à <Arr>MAUBEUGE<Arr>.
+J'aimerais aller de <Dep>LA ROCHE-MAURICE<Dep> à <Arr>HIRSON<Arr> pour une conférence.
+Je dois trouver un moyen de transport pour aller de <Dep>GUEMENE-PENFAO<Dep> à <Arr>GONCELIN<Arr> en utilisant un service de location de voitures.
+Quels sont les meilleurs itinéraires pour aller à <Arr>GLOS-SUR-RISLE<Arr> depuis <Dep>MILLAS<Dep> ?
+Je cherche un vol direct de <Dep>PORT-BRILLET<Dep> vers <Arr>BAUDEMONT<Arr>.
+Comment aller de <Dep>RIOM<Dep> à <Arr>PONTRIEUX<Arr> ?
+Je recherche un itinéraire pour aller à <Arr>L'ISLE-SUR-LE-DOUBS<Arr> depuis <Dep>ELOYES<Dep>.
+Je souhaite faire un voyage en train de <Dep>LIMOUX<Dep> à <Arr>ETANG-SUR-ARROUX<Arr> avec un arrêt à <Dep>LIMOUX<Dep>.
+Je voudrais trouver un vol de <Dep>GERTWILLER<Dep> vers <Arr>FUILLA<Arr> avec une compagnie aérienne de bateaux.
+Je dois trouver un moyen de transport pour aller de <Dep>GRAGNAGUE<Dep> à <Arr>SULLY-SUR-LOIRE<Arr> en utilisant un service de covoiturage.
+J'aimerais faire un voyage de <Dep>BRION<Dep> à <Arr>LAVOUTE-SUR-LOIRE<Arr> en voiture.
+J'ai besoin de directions pour aller à <Arr>DIEMERINGEN<Arr> depuis <Dep>FONTANES<Dep> en utilisant les transports en commun.
+Pouvez-vous me donner des informations sur un vol de <Dep>MAGLAND<Dep> à <Arr>MARGAUX-CANTENAC<Arr> ?
+Quelle est la meilleure route pour aller à <Arr>FRANOIS<Arr> en partant de <Dep>BEDARIEUX<Dep> ?
+Je cherche le meilleur itinéraire pour aller de <Dep>SAINT-HILAIRE-DE-CHALEONS<Dep> à <Arr>MESVRES<Arr>.
+Je souhaiterais savoir comment aller de <Dep>CAHORS<Dep> à <Arr>BRESSUIRE<Arr>.
+J'aimerais faire un voyage de <Dep>PARIS<Dep> à <Arr>BLODELSHEIM<Arr> en voiture.
+Je voudrais trouver un vol de <Dep>TRILPORT<Dep> vers <Arr>BANASSAC-CANILHAC<Arr> avec une compagnie aérienne de sous-marins.
+Je dois trouver un moyen de transport pour aller de <Dep>GILLY-SUR-LOIRE<Dep> à <Arr>BEZANNES<Arr> en utilisant un service de covoiturage.
+J'ai besoin de directions pour aller de <Dep>MONTDIDIER<Dep> à <Arr>HAGONDANGE<Arr>.
+J'aimerais visiter <Arr>BUSSIERE-GALANT<Arr> après avoir passé quelques jours à <Dep>ALBI<Dep>.
+Je dois me rendre à <Arr>USTARITZ<Arr> depuis <Dep>SERQUEUX<Dep> rapidement.
+Je dois me déplacer de <Dep>SAINT-CLOUD<Dep> jusqu'à <Arr>SAINT-PIERRE-DU-VAUVRAY<Arr> pour un rendez-vous.

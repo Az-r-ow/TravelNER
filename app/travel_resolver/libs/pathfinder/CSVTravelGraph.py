@@ -2,19 +2,18 @@ import pandas as pd
 from typing import Dict
 
 class CSVTravelGraph():
-    def __init__(self, csv_file: str, mode: str):
+    def __init__(self, csv_file: str):
         """
         Read csv and create the graph in function of the given mode
         """
         self.csv = pd.read_csv(csv_file, sep="\t")
-        self.mode = mode
-        if(mode =="Dijkstra"): self.data = self.generateDijkstra()
+        self.data = self.generateGraph()
         
-    def generateDijkstra(self):
+    def generateGraph(self):
         """
-        Create a Dijkstra graph by browsing the data retrieved in the csv
+        Create a graph by browsing the data retrieved in the csv
         Returns:
-            (Dict[str, Dict[str, float]]): The Dijkstra Graph
+            (Dict[str, Dict[str, float]]): The graph
         """
         graph: Dict[str, Dict[str, float]] = {}
         
