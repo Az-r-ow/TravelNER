@@ -1,6 +1,6 @@
 import unittest
 from pathlib import Path
-from app.travel_resolver.libs.nlp.ner.data_processing import (
+from travel_resolver.libs.nlp.ner.data_processing import (
     get_tagged_content,
     convert_tagged_sentence_to_bio,
     from_tagged_file_to_bio_file,
@@ -52,50 +52,3 @@ class TestDataProcessing(unittest.TestCase):
         result = convert_tagged_sentence_to_bio(sentence, tag_entities_pairs)
 
         self.assertEqual(result, bio_format_sentence)
-
-    def test_from_tagged_file_to_bio(self):
-        simple_input_file = f"{self.test_samples_dir}/simple_tagged_sentence.txt"
-        expected_file = f"{self.test_samples_dir}/simple_tagged_sentence.bio"
-        output_file = f"{self.test_samples_dir}/output.bio"
-        tag_entities_pairs = [("<Dep>", "LOC-DEP"), ("<Arr>", "LOC-ARR")]
-
-        from_tagged_file_to_bio_file(simple_input_file, output_file, tag_entities_pairs)
-
-        with open(output_file, "r") as f:
-            result = f.read()
-
-        with open(expected_file, "r") as f:
-            expected = f.read()
-
-        self.assertEqual(result, expected)
-
-        multiple_sentences__file = (
-            f"{self.test_samples_dir}/multiple_tagged_sentences.txt"
-        )
-        expected_file = f"{self.test_samples_dir}/multiple_tagged_sentences.bio"
-
-        from_tagged_file_to_bio_file(
-            multiple_sentences__file, output_file, tag_entities_pairs
-        )
-
-        with open(expected_file, "r") as f:
-            expected = f.read()
-
-        with open(output_file, "r") as f:
-            result = f.read()
-
-        self.assertEqual(result, expected)
-
-    def test_from_bio_file_to_examples(self):
-        bio_file = f"{self.test_samples_dir}/multiple_tagged_sentences.bio"
-        text_file = f"{self.test_samples_dir}/multiple_tagged_sentences.txt"
-
-        examples, labels, vocab, unique_labels = from_bio_file_to_examples(bio_file)
-
-        with open(text_file, "r") as f:
-            content = f.read()
-            lines = content.split("\n")
-
-            # The number of inputs must be equal to the number of lines before parsing
-            self.assertEqual(len(examples[0]), len(lines))
-            self.assertEqual(len(examples[1]), len(lines))

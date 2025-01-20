@@ -11,6 +11,7 @@ MAILLY-LE-CAMP B-LOC-DEP
 à O
 TURCKHEIM B-LOC-ARR
 ? O
+
 J'aimerais O
 aller O
 de O
@@ -20,6 +21,7 @@ jusqu O
 à O
 VINAY B-LOC-ARR
 . O
+
 Je O
 souhaiterais O
 trouver O
@@ -32,6 +34,7 @@ MIGNALOUX-BEAUVOIR B-LOC-DEP
 à O
 BAZOCHES-ET-SAINT-THIBAUT B-LOC-ARR
 . O
+
 Donne-moi O
 un O
 itinéraire O
@@ -42,6 +45,7 @@ jusqu O
 à O
 LACQ B-LOC-ARR
 . O
+
 J'aimerais O
 faire O
 un O
@@ -59,6 +63,7 @@ transport O
 en O
 commun O
 . O
+
 J'ai O
 besoin O
 de O
@@ -76,6 +81,7 @@ transports O
 en O
 commun O
 . O
+
 Je O
 voudrais O
 trouver O
@@ -102,6 +108,7 @@ CASTELNAU-D'ESTRETEFONDS B-LOC-DEP
 à O
 CIRY-SALSOGNE B-LOC-ARR
 ? O
+
 Quels O
 sont O
 les O
@@ -114,6 +121,7 @@ ESCLANEDES B-LOC-ARR
 depuis O
 EOLE-EN-BEAUCE B-LOC-DEP
 ? O
+
 Veuillez O
 me O
 fournir O
@@ -133,6 +141,7 @@ transports O
 en O
 commun O
 . O
+
 J'ai O
 besoin O
 d'un O
@@ -148,6 +157,7 @@ SAINT-BRIEUC B-LOC-DEP
 vers O
 COLLONGES B-LOC-ARR
 . O
+
 Comment O
 puis-je O
 aller O
@@ -160,6 +170,7 @@ transports O
 en O
 commun O
 ? O
+
 Je O
 souhaiterais O
 me O
@@ -174,6 +185,7 @@ partant O
 de O
 JUZIERS B-LOC-DEP
 . O
+
 J'ai O
 besoin O
 d'un O
@@ -189,6 +201,7 @@ AZAY-LE-RIDEAU B-LOC-DEP
 vers O
 SALON-DE-PROVENCE B-LOC-ARR
 . O
+
 Quels O
 sont O
 les O
@@ -201,6 +214,7 @@ BUCHERES B-LOC-ARR
 depuis O
 SAINT-PIERRE-D'AURILLAC B-LOC-DEP
 ? O
+
 J'aimerais O
 faire O
 un O
@@ -214,6 +228,7 @@ prenant O
 le O
 métro O
 . O
+
 Quelle O
 est O
 la O
@@ -237,6 +252,7 @@ jusqu O
 à O
 FRANXAULT B-LOC-ARR
 . O
+
 Je O
 voudrais O
 trouver O
@@ -251,6 +267,7 @@ meilleur O
 prix O
 possible O
 . O
+
 Quel O
 est O
 le O
@@ -265,6 +282,7 @@ SAINT-LO B-LOC-DEP
 à O
 PARIS B-LOC-ARR
 ? O
+
 Je O
 souhaite O
 prendre O
