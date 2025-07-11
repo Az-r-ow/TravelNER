@@ -1,6 +1,6 @@
 # Travel Order Resolver
 
-**Group Members :** [Antoine AZAR](https://github.com/Az-r-ow), [Paul DUQUESNOY](https://github.com/DuquesnoyPaul), [Lucas CHAPUIS](https://github.com/lucas066001), [Matthias GOUPIL](https://github.com/matthias-goupil), [Cao Thanh Uy NGUYEN](https://github.com/uy-nguyen00)
+**Contributors :** [Antoine AZAR](https://github.com/Az-r-ow), [Paul DUQUESNOY](https://github.com/DuquesnoyPaul), [Lucas CHAPUIS](https://github.com/lucas066001), [Matthias GOUPIL](https://github.com/matthias-goupil), [Cao Thanh Uy NGUYEN](https://github.com/uy-nguyen00)
 
 **Subjects :** NLP, NER, Shortest-path, Audio2Text
 
