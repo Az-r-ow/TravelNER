@@ -1,0 +1,3 @@
+- [x] Try training distilcamember instead of the base one
+- [x] Write slides about them
+- [ ] Add a dockerfile to run the app without hassle

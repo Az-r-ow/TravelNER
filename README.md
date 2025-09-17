@@ -1,3 +1,13 @@
+---
+title: TravelNER
+emoji: 🚆
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app/app.py
+pinned: true
+---
+
 # Travel Order Resolver
 
 **Contributors :** [Antoine AZAR](https://github.com/Az-r-ow), [Paul DUQUESNOY](https://github.com/DuquesnoyPaul), [Lucas CHAPUIS](https://github.com/lucas066001), [Matthias GOUPIL](https://github.com/matthias-goupil), [Cao Thanh Uy NGUYEN](https://github.com/uy-nguyen00)
