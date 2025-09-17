@@ -4,9 +4,12 @@ from tqdm import tqdm
 
 # Will download the necessary resources for nltk
 # Should skip if resources found
-nltk.download("punkt_tab")
-
-stopwords = nltk.corpus.stopwords.words("french")
+try:
+    stopwords = nltk.corpus.stopwords.words("french")
+except LookupError:
+    nltk.download("punkt_tab")
+    nltk.download("stopwords")
+    stopwords = nltk.corpus.stopwords.words("french")
 
 
 def get_tagged_content(sentence: str, tag: str) -> str | None:
@@ -251,7 +254,7 @@ def from_bio_file_to_examples(file_path: str) -> tuple:
 
 
 def from_examples_to_tf_dataset(
-    inputs: tuple[list[list[int]], list[list[int]]]
+    inputs: tuple[list[list[int]], list[list[int]]],
 ) -> tf.data.Dataset:
     """
     Given a tuple of inputs and labels, convert the tuple to a TensorFlow dataset.
