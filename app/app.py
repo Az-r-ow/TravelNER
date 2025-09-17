@@ -31,31 +31,50 @@ def handle_audio(audio, model, progress=gr.Progress()):
     return render_tabs([promptAudio], model, progress)
 
 
-def handle_file(file, model, progress=gr.Progress()):
-    print("file upload")
+def handle_text(text, model, progress=gr.Progress()):
     progress(0, desc=PROGRESS.ANALYZING_FILE.value)
     time.sleep(1)
-    if file is not None:
-        with open(file.name, "r") as f:
-            progress(0.33, desc=PROGRESS.READING_FILE.value)
-            file_content = f.read()
-            rows = file_content.split("\n")
-            sentences = [row for row in rows if row]
-            return render_tabs(sentences, model, progress)
+    if text and text.strip():
+        progress(0.33, desc=PROGRESS.READING_FILE.value)
+        sentences = [
+            sentence.strip() for sentence in text.split("\n") if sentence.strip()
+        ]
+        return render_tabs(sentences, model, progress)
 
 
 tabs_components = []
 
 with gr.Blocks() as demo:
+    # Add disclaimer
+    gr.HTML(
+        """
+        <div style="background-color: #f0f8ff; padding: 15px; border-radius: 5px; margin-bottom: 20px; border-left: 4px solid #007acc;">
+            <p style="margin: 0; font-size: 14px; color: #333;">
+                <strong>Disclaimer:</strong> This app is meant to showcase NER for French text and will only work for French text and cities in France since the database is from SNCF.
+            </p>
+        </div>
+        """
+    )
+
     with gr.Column():
         with gr.Row():
             audio = gr.Audio(label="Fichier audio", interactive=True)
-            file = gr.File(
-                label="Fichier texte",
-                file_types=["text"],
-                file_count="single",
-                interactive=True,
-            )
+            with gr.Column():
+                # Example sentence button
+                example_sentence = "Je souhaite aller de Paris à Lyon demain matin."
+                example_btn = gr.Button(
+                    'Exemple : "' + example_sentence + '"',
+                    variant="secondary",
+                )
+
+                text_input = gr.Textbox(
+                    label="Texte français",
+                    placeholder="Enter text : (ex: Je souhaite aller de Paris à Lyon demain matin.)",
+                    lines=3,
+                    interactive=True,
+                )
+
+                submit_btn = gr.Button("Analyser le texte", variant="primary")
 
         model = gr.Dropdown(
             label="Modèle NER",
@@ -64,14 +83,35 @@ with gr.Blocks() as demo:
             interactive=True,
         )
 
-    @gr.render(
-        inputs=[audio, file, model], triggers=[audio.change, file.upload, model.change]
+        # Output container and state
+        text_state = gr.State("")
+        model_state = gr.State("CamemBERT")
+        audio_state = gr.State(None)
+
+    # Handle example button click
+    example_btn.click(lambda: example_sentence, outputs=[text_input])
+
+    # Handle submit button click - update state
+    submit_btn.click(
+        lambda text, model: (text, model),
+        inputs=[text_input, model],
+        outputs=[text_state, model_state],
     )
-    def handle_changes(audio, file, model):
-        if audio:
-            return handle_audio(audio, model)
-        elif file:
-            return handle_file(file, model)
+
+    # Handle audio input - update state
+    audio.change(
+        lambda audio, model: (audio, model),
+        inputs=[audio, model],
+        outputs=[audio_state, model_state],
+    )
+
+    # Render output based on state changes
+    @gr.render(inputs=[text_state, model_state, audio_state])
+    def render_output(text_input_value, model_value, audio_value):
+        if audio_value is not None:
+            return handle_audio(audio_value, model_value)
+        elif text_input_value and text_input_value.strip():
+            return handle_text(text_input_value, model_value)
 
 
 def handleCityChange(city):
@@ -244,25 +284,29 @@ def getDepartureAndArrivalFromText(text: str, model: str):
 
     if 1 in entities:
         dep_idx = entities.index(1)
-        dep = tokenized_sentence[dep_idx]
-        start, end = getEntitiesPositions(text, dep)
-        dep = {
-            "entity": entities_label_mapping[1],
-            "word": dep,
-            "start": start,
-            "end": end,
-        }
+        # Add bounds checking to prevent IndexError
+        if dep_idx < len(tokenized_sentence):
+            dep = tokenized_sentence[dep_idx]
+            start, end = getEntitiesPositions(text, dep)
+            dep = {
+                "entity": entities_label_mapping[1],
+                "word": dep,
+                "start": start,
+                "end": end,
+            }
 
     if 2 in entities:
         arr_idx = entities.index(2)
-        arr = tokenized_sentence[arr_idx]
-        start, end = getEntitiesPositions(text, arr)
-        arr = {
-            "entity": entities_label_mapping[2],
-            "word": arr,
-            "start": start,
-            "end": end,
-        }
+        # Add bounds checking to prevent IndexError
+        if arr_idx < len(tokenized_sentence):
+            arr = tokenized_sentence[arr_idx]
+            start, end = getEntitiesPositions(text, arr)
+            arr = {
+                "entity": entities_label_mapping[2],
+                "word": arr,
+                "start": start,
+                "end": end,
+            }
 
     return dep, arr
 
