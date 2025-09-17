@@ -1,6 +1,7 @@
 import csv
+import os
 
-BASE_PATH = "./data/sncf/"
+BASE_PATH = os.path.join(".", "data", "sncf")
 
 
 # Charger les informations des gares depuis le fichier "sncf_stations_databases"
@@ -104,8 +105,8 @@ def creer_nouveau_fichier(fichier_timetables, fichier_stations, fichier_sortie):
 
 
 # Exemple d'utilisation
-fichier_timetables = BASE_PATH + "timetables.csv"
-fichier_stations = BASE_PATH + "sncf_stations_database.csv"
-fichier_sortie = BASE_PATH + "gares_info.csv"
+fichier_timetables = os.path.join(BASE_PATH, "timetables.csv")
+fichier_stations = os.path.join(BASE_PATH, "sncf_stations_database.csv")
+fichier_sortie = os.path.join(BASE_PATH, "gares_info.csv")
 
 creer_nouveau_fichier(fichier_timetables, fichier_stations, fichier_sortie)
