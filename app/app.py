@@ -9,6 +9,7 @@ from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
 import time
 import plotly.graph_objects as go
+import os
 
 transcriber = pipeline(
     "automatic-speech-recognition", model="openai/whisper-base", device="cpu"
@@ -167,7 +168,8 @@ def getCSVTravelGraph():
     Returns:
         (Graph): Graph
     """
-    graphData = CSVTravelGraph("../data/sncf/timetables.csv")
+    timetables_file = os.path.join(".", "data", "sncf", "timetables.csv")
+    graphData = CSVTravelGraph(timetables_file)
     return Graph(graphData.data)
 
 
@@ -205,7 +207,7 @@ def getAStarResult(depart, destination):
 
 
 def getStationsByCityName(city: str):
-    data = pd.read_csv("../data/sncf/gares_info.csv", sep=",")
+    data = pd.read_csv(os.path.join(".", "data", "sncf", "gares_info.csv"), sep=",")
     stations = data[data["Commune"] == city]
     return dict(
         stations=stations["Nom de la gare"].to_list(),
@@ -215,7 +217,7 @@ def getStationsByCityName(city: str):
 
 
 def getStationsInformation(stations: list[str]):
-    data = pd.read_csv("../data/sncf/gares_info.csv", sep=",")
+    data = pd.read_csv(os.path.join(".", "data", "sncf", "gares_info.csv"), sep=",")
     data = data[data["Nom de la gare"].isin(stations)]
     return dict(
         stations=data["Nom de la gare"].to_list(),
