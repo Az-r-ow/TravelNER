@@ -5,6 +5,7 @@ import pandas as pd
 
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
+from helpers.utils import get_data_path
 import os
 
 transcriber = pipeline("automatic-speech-recognition", model="openai/whisper-base.en")
@@ -32,7 +33,7 @@ def getCSVTravelGraph():
     Returns:
         (Graph): Graph
     """
-    timetables_file = os.path.join(".", "data", "sncf", "timetables.csv")
+    timetables_file = get_data_path("sncf", "timetables.csv")
     graphData = CSVTravelGraph(timetables_file)
     return Graph(graphData.data)
 
@@ -71,7 +72,7 @@ def getAStarResult(depart, destination):
 
 
 def getStationsByCityName(city: str):
-    data = pd.read_csv(os.path.join(".", "data", "sncf", "gares_info.csv"), sep=",")
+    data = pd.read_csv(get_data_path("sncf", "gares_info.csv"), sep=",")
     stations = tuple(data[data["Commune"] == city]["Nom de la gare"])
     return stations
 

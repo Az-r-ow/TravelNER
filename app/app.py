@@ -7,6 +7,7 @@ from helpers.global_vars import entities_label_mapping, PROGRESS, HTML_COMPONENT
 from travel_resolver.libs.nlp.ner.data_processing import process_sentence
 from travel_resolver.libs.pathfinder.CSVTravelGraph import CSVTravelGraph
 from travel_resolver.libs.pathfinder.graph import Graph
+from helpers.utils import get_data_path
 import time
 import plotly.graph_objects as go
 import os
@@ -208,7 +209,7 @@ def getCSVTravelGraph():
     Returns:
         (Graph): Graph
     """
-    timetables_file = os.path.join(".", "data", "sncf", "timetables.csv")
+    timetables_file = get_data_path("sncf", "timetables.csv")
     graphData = CSVTravelGraph(timetables_file)
     return Graph(graphData.data)
 
@@ -247,7 +248,7 @@ def getAStarResult(depart, destination):
 
 
 def getStationsByCityName(city: str):
-    data = pd.read_csv(os.path.join(".", "data", "sncf", "gares_info.csv"), sep=",")
+    data = pd.read_csv(get_data_path("sncf", "gares_info.csv"), sep=",")
     stations = data[data["Commune"] == city]
     return dict(
         stations=stations["Nom de la gare"].to_list(),
@@ -257,7 +258,7 @@ def getStationsByCityName(city: str):
 
 
 def getStationsInformation(stations: list[str]):
-    data = pd.read_csv(os.path.join(".", "data", "sncf", "gares_info.csv"), sep=",")
+    data = pd.read_csv(get_data_path("sncf", "gares_info.csv"), sep=",")
     data = data[data["Nom de la gare"].isin(stations)]
     return dict(
         stations=data["Nom de la gare"].to_list(),
