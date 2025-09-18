@@ -51,7 +51,7 @@ with gr.Blocks() as demo:
         """
         <div style="background-color: #f0f8ff; padding: 15px; border-radius: 5px; margin-bottom: 20px; border-left: 4px solid #007acc;">
             <p style="margin: 0; font-size: 14px; color: #333;">
-                <strong>Disclaimer:</strong> This app is meant to showcase NER for French text and will only work for French text and cities in France since the database is from SNCF.
+                <strong>Disclaimer:</strong> This simple app is meant to showcase NER for French text and will only work for French text and cities in France since the database is from SNCF. If you're interested in checking out the work behind it, <a href="https://github.com/Az-r-ow/TravelNER" target="_blank">click here</a>.
             </p>
         </div>
         """
