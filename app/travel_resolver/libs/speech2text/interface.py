@@ -8,7 +8,7 @@ from travel_resolver.libs.pathfinder.graph import Graph
 from helpers.utils import get_data_path
 import os
 
-transcriber = pipeline("automatic-speech-recognition", model="openai/whisper-base.en")
+transcriber = pipeline("automatic-speech-recognition", model="openai/whisper-base")
 
 
 def transcribe(audio):
@@ -78,14 +78,35 @@ def getStationsByCityName(city: str):
 
 
 def handle_audio(audio):
-    promptAudio = transcribe(audio)
-    return (
-        gr.update(visible=True),
-        gr.update(visible=False),
-        gr.update(value=promptAudio),
-        gr.update(value="PARIS"),
-        gr.update(value="MONTPELLIER"),
-    )
+    if audio is None:
+        return (
+            gr.update(),
+            gr.update(),
+            gr.update(),
+            gr.update(),
+            gr.update(),
+            gr.update(),
+        )
+
+    try:
+        promptAudio = transcribe(audio)
+        return (
+            gr.update(visible=True),
+            gr.update(visible=False),
+            gr.update(value=promptAudio),
+            gr.update(value="PARIS"),
+            gr.update(value="MONTPELLIER"),
+            gr.update(value=None),  # Clear audio input
+        )
+    except Exception as e:
+        return (
+            gr.update(visible=True),
+            gr.update(visible=False),
+            gr.update(value="Erreur lors de la transcription"),
+            gr.update(value="PARIS"),
+            gr.update(value="MONTPELLIER"),
+            gr.update(value=None),
+        )
 
 
 def handle_file(file):
@@ -100,11 +121,19 @@ def handle_file(file):
         gr.update(value=file_content),
         gr.update(value="PARIS"),
         gr.update(value="MONTPELLIER"),
+        gr.update(value=None),  # Clear audio input
     )
 
 
 def handle_back():
     return gr.update(visible=False), gr.update(visible=True)
+
+
+def handle_text_change(text):
+    """
+    When text is manually changed, clear the audio input
+    """
+    return gr.update(value=None)  # Clear audio input
 
 
 def handleCityChange(city):
@@ -164,6 +193,19 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
                 with gr.Tab("AStar"):
                     timeAStar = gr.HTML("<p>Aucun prompt renseigné</p>")
                     AstarPath = gr.Textbox(label="Chemin emprunté")
+    # Handle audio upload/change
+    audio.upload(
+        handle_audio,
+        inputs=[audio],
+        outputs=[
+            content,
+            promptChooser,
+            prompt,
+            departureCity,
+            destinationCity,
+            audio,  # Clear audio after processing
+        ],
+    )
     audio.change(
         handle_audio,
         inputs=[audio],
@@ -173,7 +215,8 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
             prompt,
             departureCity,
             destinationCity,
-        ],  # On rend la section "content" visible
+            audio,  # Clear audio after processing
+        ],
     )
     file.upload(
         handle_file,
@@ -184,7 +227,13 @@ with gr.Blocks(css="#back-button {width: fit-content}") as interface:
             prompt,
             departureCity,
             destinationCity,
+            audio,  # Clear audio when file is uploaded
         ],  # On rend la section "content" visible
+    )
+    prompt.change(
+        handle_text_change,
+        inputs=[prompt],
+        outputs=[audio],  # Clear audio when text is manually changed
     )
     backButton.click(handle_back, inputs=[], outputs=[content, promptChooser])
     departureCity.change(

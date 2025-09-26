@@ -316,9 +316,8 @@ def render_tabs(sentences: list[str], model: str, progress_bar: gr.Progress):
     idx = 0
     with gr.Column() as tabs:
         for sentence in progress_bar.tqdm(sentences, desc=PROGRESS.PROCESSING.value):
-            with gr.Tab(f"Sentence {idx}"):
+            with gr.Tab(f"Phrase {idx}"):
                 dep, arr = getDepartureAndArrivalFromText(sentence, model)
-                print(f"dep: {dep}, arr: {arr}")
                 entities = []
                 for entity in [dep, arr]:
                     if entity:
